@@ -1,0 +1,1093 @@
+
+[
+    {
+      "question": "From what language does the word 'astronomy' originate?",
+      "choices": [
+        "Latin",
+        "Greek",
+        "Egyptian",
+        "Babylonian"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the term 'astronomy' etymologically mean?",
+      "choices": [
+        "Study of the cosmos",
+        "Law of the stars",
+        "Observation of celestial objects",
+        "Calculation of planetary orbits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a belief system, not a scientific field, associated with celestial objects?",
+      "choices": [
+        "Astronomy",
+        "Astrophysics",
+        "Astrometry",
+        "Astrology"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is astrology?",
+      "choices": [
+        "The study of stars",
+        "The belief system that claims human affairs are correlated with the positions of celestial objects",
+        "The scientific study of celestial objects",
+        "The making of calendars."
+      ],
+      "answer": 1
+    },
+{
+      "question": "Which of the following is a synonym of 'astronomy' according to the article?",
+      "choices": [
+        "Astrology",
+        "Cosmology",
+        "Astrophysics",
+        "Astrometry"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to Frank Shu's textbook 'The Physical Universe', what term describes the qualitative study of the subject?",
+      "choices": [
+        "Astrophysics",
+        "Astronomy",
+        "Cosmology",
+        "Astrometry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which field is considered purely astronomy rather than also astrophysics, according to the article?",
+      "choices": [
+        "Cosmology",
+        "Stellar dynamics",
+        "Astrometry",
+        "Galactic formation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What kind of degree do many professional astronomers have?",
+      "choices": [
+        "Astronomy",
+        "Astrophysics",
+        "Physics",
+        "Astrology"
+      ],
+      "answer": 2
+    },
+{
+      "question": "In early historic times, what primarily consisted of astronomy?",
+      "choices": [
+        "Developing complex theoretical models",
+        "Observing and predicting the motions of visible objects",
+        "Inventing advanced astronomical instruments",
+        "Studying the chemical composition of stars"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What purpose did early astronomical observatories serve in addition to ceremonial uses?",
+      "choices": [
+        "Determining the chemical composition of stars",
+        "Determining the seasons for planting crops",
+        "Measuring the distances to other galaxies",
+        "Predicting solar flares"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What could early astronomical observatories be employed to determine?",
+      "choices": [
+        "Planetary composition",
+        "Stellar distance",
+        "Seasons",
+        "Gravitational waves"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What factor was important in knowing when to plant crops and in understanding the length of the year?",
+      "choices": [
+        "Length of day",
+        "The season",
+        "The alignment of planets",
+        "The position of the North Star"
+      ],
+      "answer": 1
+    },
+{
+      "question": "What characterized most early astronomy in developing civilizations?",
+      "choices": [
+        "Discovering exoplanets",
+        "Mapping the positions of stars and planets (astrometry)",
+        "Developing the theory of relativity",
+        "Creating space telescopes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is worldwide the place of the earliest known astronomer and poet by name?",
+      "choices": [
+        "Aristarchus of Samos",
+        "Ptolemy",
+        "Enheduanna",
+        "Hipparchus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the Babylonians discover about lunar eclipses?",
+      "choices": [
+        "They are unpredictable",
+        "They recur in a repeating cycle known as a saros",
+        "They only occur during solar eclipses",
+        "They are caused by dark matter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who proposed a heliocentric model of the Solar System in ancient Greece?",
+      "choices": [
+        "Ptolemy",
+        "Hipparchus",
+        "Aristarchus of Samos",
+        "Euclid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Hipparchus create?",
+      "choices": [
+        "The heliocentric model",
+        "A reflecting telescope",
+        "A comprehensive catalog of 1020 stars",
+        "The laws of planetary motion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the geocentric model of the Universe state?",
+      "choices": [
+        "The Sun is at the center",
+        "The Earth is at the center",
+        "All planets revolve around the Sun",
+        "The universe is expanding"
+      ],
+      "answer": 1
+    },
+{
+      "question": "During what period did the first astronomical observatories emerge in the Muslim world?",
+      "choices": [
+        "Early 9th century",
+        "Late 12th century",
+        "Mid-15th century",
+        "Early 18th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who described the Andromeda Galaxy in his Book of Fixed Stars?",
+      "choices": [
+        "Al-Battani",
+        "Abd al-Rahman al-Sufi",
+        "Al-Biruni",
+        "Al-Birjandi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was the SN 1006 supernova observed?",
+      "choices": [
+        "964",
+        "1006",
+        "1583",
+        "1609"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who observed that, contrary to Ptolemy, the Sun's apogee was mobile, not fixed?",
+      "choices": [
+        "Al-Battani",
+        "Thebit",
+        "Al-Biruni",
+        "Al-Birjandi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who developed the theory of impetus?",
+      "choices": [
+        "Nicole Oresme",
+        "Jean Buridan",
+        "Richard of Wallingford",
+        "Georg von Peuerbach"
+      ],
+      "answer": 1
+    },
+{
+      "question": "Who proposed a heliocentric model of the Solar System during the Renaissance?",
+      "choices": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Nicolaus Copernicus"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who explained the motions of the planets with his invention of celestial dynamics and his law of gravitation?",
+      "choices": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Nicolas Louis de Lacaille"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who catalogued over 3000 stars?",
+      "choices": [
+        "John Flamsteed",
+        "Nicolas Louis de Lacaille",
+        "William Herschel",
+        "Joseph von Fraunhofer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who discovered the planet Uranus?",
+      "choices": [
+        "John Flamsteed",
+        "Nicolas Louis de Lacaille",
+        "William Herschel",
+        "Joseph von Fraunhofer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who discovered about 600 bands in the spectrum of the Sun?",
+      "choices": [
+        "John Flamsteed",
+        "Nicolas Louis de Lacaille",
+        "William Herschel",
+        "Joseph von Fraunhofer"
+      ],
+      "answer": 3
+    },
+{
+      "question": "What discovery in the 20th century proved the existence of galaxies beyond the Milky Way?",
+      "choices": [
+        "Discovery of pulsars",
+        "The observed recession of galaxies",
+        "The discovery of cosmic microwave background radiation",
+        "The invention of space telescopes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who identified Cepheid variables in spiral nebulae to prove that Andromeda and Triangulum were galaxies outside our own?",
+      "choices": [
+        "Isaac Newton",
+        "Edwin Hubble",
+        "Albert Einstein",
+        "Stephen Hawking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was discovered that provided evidence for the Big Bang theory?",
+      "choices": [
+        "Pulsars",
+        "Quasars",
+        "Cosmic microwave background radiation",
+        "Neutron stars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What discovery was revealed in February 2016 by the LIGO project?",
+      "choices": [
+        "Black holes",
+        "Neutron stars",
+        "Gravitational waves",
+        "Dark matter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did LIGO make its first detection of gravitational waves?",
+      "choices": [
+        "September 14, 2015",
+        "December 26, 2015",
+        "February 11, 2016",
+        "January 1, 2017"
+      ],
+      "answer": 0
+    },
+{
+      "question": "What is the main source of information about celestial bodies and objects?",
+      "choices": [
+        "Neutrinos",
+        "Gravitational waves",
+        "Visible light",
+        "Cosmic rays"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How is observational astronomy categorized?",
+      "choices": [
+        "By the type of telescope used",
+        "By the corresponding region of the electromagnetic spectrum",
+        "By the distance of the observed objects",
+        "By the size of the observed objects"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why can some parts of the electromagnetic spectrum only be observed from high altitudes or outside the Earth's atmosphere?",
+      "choices": [
+        "Due to the lack of suitable telescopes on Earth",
+        "Due to the strong magnetic fields of the Earth",
+        "Due to atmospheric absorption",
+        "Due to the rotation of the Earth"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What subfield is given below? 'Radio astronomy uses radiation with wavelengths greater than approximately one millimeter, outside the visible range.'",
+      "choices": [
+        "Optical astronomy",
+        "Radio astronomy",
+        "Infrared astronomy",
+        "Ultraviolet astronomy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which parts of the electromagnetic spectrum are unobservable on earth?",
+      "choices": [
+        "Radio",
+        "Infrared",
+        "Optical",
+        "Ultraviolet"
+      ],
+      "answer": 3
+    },
+{
+      "question": "What is one key difference between radio astronomy and other forms of observational astronomy?",
+      "choices": [
+        "Radio waves are only emitted by black holes",
+        "Radio waves can be treated as waves rather than discrete photons",
+        "Radio telescopes are always located in space",
+        "Radio astronomy is only used to study the Sun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is synchrotron radiation produced by?",
+      "choices": [
+        "Thermal emission from stars",
+        "Electrons orbiting magnetic fields",
+        "Nuclear fusion in the Sun",
+        "The expansion of the Universe"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is produced when electrons orbit magnetic fields?",
+      "choices": [
+        "Thermal emission",
+        "Synchrotron radiation",
+        "Ultraviolet radiation",
+        "Gravitational waves"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What spectral line is observable at radio wavelengths?",
+      "choices": [
+        "Hydrogen at 21 cm",
+        "Helium at 50 cm",
+        "Oxygen at 10 cm",
+        "Carbon at 30 cm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which objects are observable at radio wavelengths?",
+      "choices": [
+        "Nebulae",
+        "Circumstellar disks",
+        "Young stars embedded in molecular clouds",
+        "Supernovae"
+      ],
+      "answer": 3
+    },
+{
+      "question": "What type of radiation does infrared astronomy focus on?",
+      "choices": [
+        "Radio waves",
+        "Visible light",
+        "Infrared radiation",
+        "Ultraviolet radiation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of objects are suitable to study in Infrared spectrum?",
+      "choices": [
+        "Hot blue stars",
+        "Objects that are too cold to radiate visible light",
+        "Objects hidden by interstellar dust",
+        "Radio galaxies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of objects are suitable to study in Infrared spectrum, option 2?",
+      "choices": [
+        "Hot blue stars",
+        "Cold planets",
+        "Stars that emit X-rays",
+        "Radio galaxies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do infrared observatories need to be located in high, dry places or in space?",
+      "choices": [
+        "To avoid interference from radio waves",
+        "To minimize atmospheric absorption and emission",
+        "To be closer to X-ray sources",
+        "To avoid the effects of gravity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The study of which allows scientists to detect water in comets?",
+      "choices": [
+        "Molecules that emit strongly in the ultraviolet",
+        "Molecules that emit strongly in the infrared",
+        "Molecules that emit strongly in the radio",
+        "Molecules that emit strongly in X-rays"
+      ],
+      "answer": 1
+    },
+{
+      "question": "What is the oldest form of astronomy?",
+      "choices": [
+        "Radio astronomy",
+        "Infrared astronomy",
+        "Optical astronomy",
+        "Ultraviolet astronomy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was originally used to create images of observations in astronomy?",
+      "choices": [
+        "Digital detectors",
+        "Photographic equipment",
+        "Hand-drawn images",
+        "Radio telescopes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of equipment was used to make images in the late 19th and most of the 20th century?",
+      "choices": [
+        "Digital detectors",
+        "Photographic equipment",
+        "Hand-drawn images",
+        "Radio telescopes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do modern images use in optical astronomy?",
+      "choices": [
+        "Digital detectors",
+        "Photographic equipment",
+        "Hand-drawn images",
+        "Radio telescopes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Besides visible light, what other radiation can optical astronomy equipment be used to observe?",
+      "choices": [
+        "X-ray radiation",
+        "Gamma-ray radiation",
+        "Near-ultraviolet and near-infrared radiation",
+        "Radio waves"
+      ],
+      "answer": 2
+    },
+{
+      "question": "Which wavelengths are used in ultraviolet astronomy?",
+      "choices": [
+        "10 to 320 nm",
+        "400 to 700 nm",
+        "1 mm and greater",
+        "X-ray wavelengths"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where must observations be performed to study ultraviolet wavelengths?",
+      "choices": [
+        "From underground observatories",
+        "From the Earth's surface",
+        "From the upper atmosphere or space",
+        "From the ocean floor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is ultraviolet astronomy best suited for studying?",
+      "choices": [
+        "Thermal radiation from cold planets",
+        "Thermal radiation from hot blue stars",
+        "Synchrotron emission from galaxies",
+        "The expansion of the Universe"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following objects can be targets of ultraviolet surveys?",
+      "choices": [
+        "Hot blue stars",
+        "Cold, dense molecular clouds",
+        "Objects that emit strong radio waves",
+        "The oldest stars in the universe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What needs to be done to ultraviolet measurements because ultraviolet light is easily absorbed by interstellar dust?",
+      "choices": [
+        "An adjustment",
+        "A boost",
+        "A conversion",
+        "Nothing"
+      ],
+      "answer": 0
+    },
+{
+      "question": "What produces X-ray radiation?",
+      "choices": [
+        "Thermal emission from cold objects",
+        "Synchrotron emission, thermal emission from thin gases above 10 million kelvins, and thermal emission from thick gases above 10 million kelvins",
+        "Fusion reactions in stars",
+        "The decay of radioactive elements"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where must all X-ray observations be performed?",
+      "choices": [
+        "From underground observatories",
+        "From high-altitude balloons, rockets, or satellites",
+        "From the Earth's surface",
+        "From the ocean floor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which objects are notable X-ray sources?",
+      "choices": [
+        "Comets and asteroids",
+        "Planets and moons",
+        "X-ray binaries, pulsars, supernova remnants, elliptical galaxies, clusters of galaxies, and active galactic nuclei",
+        "Red giant stars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the temperature of thin gases that produce thermal emission?",
+      "choices": [
+        "Above 100 kelvins",
+        "Above 1000 kelvins",
+        "Above 1 million kelvins",
+        "Above 10 million kelvins"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What causes Synchrotron radiation?",
+      "choices": [
+        "Thermal emission",
+        "Electrons orbiting magnetic field lines",
+        "Nuclear reactions",
+        "Cosmic expansion"
+      ],
+      "answer": 1
+    },
+{
+      "question": "What part of the electromagnetic spectrum does gamma-ray astronomy observe?",
+      "choices": [
+        "Longest wavelengths",
+        "Shortest wavelengths",
+        "Visible light",
+        "Infrared radiation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How are gamma rays observed?",
+      "choices": [
+        "By radio telescopes",
+        "By infrared telescopes",
+        "By satellites or atmospheric Cherenkov telescopes",
+        "By optical telescopes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What do Cherenkov telescopes detect?",
+      "choices": [
+        "Gamma rays directly",
+        "Neutrinos",
+        "Flashes of visible light produced by gamma rays interacting with the atmosphere",
+        "Radio waves from distant galaxies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the non-transient source % of gamma ray?",
+      "choices": [
+        "10%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What objects are steady gamma-ray emitters?",
+      "choices": [
+        "Gamma ray bursts",
+        "Planets",
+        "Pulsars, neutron stars, and black hole candidates",
+        "Hot blue stars"
+      ],
+      "answer": 2
+    },
+{
+      "question": "What type of particle is detected in neutrino astronomy?",
+      "choices": [
+        "Photons",
+        "Neutrinos",
+        "Electrons",
+        "Protons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do the vast majority of neutrinos streaming through the Earth originate?",
+      "choices": [
+        "Supernova explosions",
+        "The Sun",
+        "Distant galaxies",
+        "Black holes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of particles consist of Cosmic rays?",
+      "choices": [
+        "Electrons",
+        "Protons",
+        "Atomic Nuclei",
+        "Neutrinos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does multi-messenger astronomy involve?",
+      "choices": [
+        "Using multiple telescopes on Earth",
+        "Combining observations made using electromagnetic radiation, neutrinos or gravitational waves, and other complementary information",
+        "Studying messages from extraterrestrial civilizations",
+        "Using multiple types of software to analyze data"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of event can the future neutrino detectors be sensitive to?",
+      "choices": [
+        "Gamma-ray bursts",
+        "Binary star systems",
+        "Particles produced when cosmic rays hit the Earth's atmosphere",
+        "Quasars"
+      ],
+      "answer": 2
+    },
+{
+      "question": "What is celestial navigation used for?",
+      "choices": [
+        "Determining the chemical composition of stars",
+        "Measuring the distances to other galaxies",
+        "Guiding navigation using celestial objects",
+        "Studying the origin of the universe"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does tracking near-Earth objects allow?",
+      "choices": [
+        "Predictions of their composition",
+        "Predictions of their age",
+        "Predictions of potential collisions with Earth",
+        "Predictions of their orbits around other stars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What do stellar parallax measurements provide?",
+      "choices": [
+        "A way to measure the temperature of stars",
+        "A way to measure the chemical composition of stars",
+        "A way to measure the mass of stars",
+        "A fundamental baseline in the cosmic distance ladder to measure the scale of the Universe"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How can absolute baseline measurements of nearby stars provide properties of distant stars?",
+      "choices": [
+        "Nearby stars and distant stars are the same distance from earth.",
+        "Nearby stars and distant stars are made of the same materials.",
+        "Nearby stars and distant stars can be compared",
+        "Nearby stars and distant stars orbit each other."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the 1990s, what was used to detect large extrasolar planets orbiting nearby stars?",
+      "choices": [
+        "Radio telescopes",
+        "The measurement of stellar wobble",
+        "Gamma-ray observatories",
+        "Infrared telescopes"
+      ],
+      "answer": 1
+    },
+{
+      "question": "What are the two main types of tools used by theoretical astronomers?",
+      "choices": [
+        "Telescopes and spectroscopes",
+        "Analytical models and computational numerical simulations",
+        "Radio telescopes and X-ray observatories",
+        "Mathematical equations and physical experiments"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of theoretical models in astronomy?",
+      "choices": [
+        "To directly observe celestial objects",
+        "To predict observational consequences based on existing observations and known physics",
+        "To build new telescopes",
+        "To design space missions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can a large amount of observational data inconsistent with a model lead to?",
+      "choices": [
+        "Always ignoring the data",
+        "Always changing the data",
+        "Modifying the model slightly",
+        "Abandoning the model largely or completely"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which phenomenon is not modeled by theoretical astronomers?",
+      "choices": [
+        "Stellar dynamics and evolution",
+        "Galaxy formation",
+        "The origin of cosmic rays",
+        "The stock market"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does the current standard model of cosmology require the universe to contain?",
+      "choices": [
+        "Mostly hydrogen and helium",
+        "Mostly visible matter",
+        "Large amounts of dark matter and dark energy",
+        "Equal amounts of matter and antimatter"
+      ],
+      "answer": 2
+    },
+{
+      "question": "What branch of astronomy employs the principles of physics and chemistry to ascertain the nature of astronomical objects?",
+      "choices": [
+        "Astrometry",
+        "Astrophysics",
+        "Cosmology",
+        "Galactic astronomy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is NOT an object studied in astrophysics?",
+      "choices": [
+        "The Sun",
+        "Other stars",
+        "Galaxies",
+        "Stock prices"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which field of physics is typically not applied by astrophysicists?",
+      "choices": [
+        "Mechanics",
+        "Electromagnetism",
+        "Economics",
+        "Thermodynamics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does astrophysics include the attempts to determine the properties of?",
+      "choices": [
+        "Only the visible objects in the Solar System",
+        "The stock market",
+        "Dark matter, dark energy, and black holes",
+        "The weather on Earth"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which topics are also studied by theoretical astrophysicists?",
+      "choices": [
+        "Only the Solar System",
+        "Only the visible galaxies",
+        "The formation and evolution of only Earth",
+        "Solar System formation and evolution, stellar dynamics and evolution, galaxy formation and evolution"
+      ],
+      "answer": 3
+    },
+{
+      "question": "What is astrochemistry the study of?",
+      "choices": [
+        "The abundance and reactions of molecules in the Universe, and their interaction with radiation",
+        "The study of black holes",
+        "The study of the formation of galaxies",
+        "The study of planetary orbits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What disciplines does astrochemistry overlap?",
+      "choices": [
+        "Physics and biology",
+        "Astronomy and chemistry",
+        "Geology and biology",
+        "Mathematics and physics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The study of interstellar atoms and molecules and their interaction with radiation is sometimes called what?",
+      "choices": [
+        "Cosmochemistry",
+        "Planetary science",
+        "Molecular astrophysics",
+        "Exobiology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is the formation, atomic and chemical composition, evolution and fate of molecular gas clouds of special interest?",
+      "choices": [
+        "They form planets",
+        "They form black holes",
+        "They are sources of gamma rays",
+        "It is from these clouds that solar systems form"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What field does not benefit from studying molecules?",
+      "choices": [
+        "Formation of the Solar System",
+        "Climate and oceans",
+        "Stock prices",
+        "Abiogenesis"
+      ],
+      "answer": 2
+    },
+{
+      "question": "What is the main question considered by astrobiology?",
+      "choices": [
+        "How to build better telescopes",
+        "Whether extraterrestrial life exists",
+        "How to travel to other galaxies",
+        "How to terraform Mars"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following fields is NOT utilized by astrobiology?",
+      "choices": [
+        "Molecular biology",
+        "Biophysics",
+        "Economics",
+        "Astronomy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does astrobiology primarily concern itself with?",
+      "choices": [
+        "Speculation about alien civilizations",
+        "Hypotheses that fit firmly into existing scientific theories",
+        "Building spacecraft to travel to other planets",
+        "Developing new mathematical equations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is not studied by the interdisciplinary field of astrobiology?",
+      "choices": [
+        "Abiogenesis on Earth",
+        "Origins of organic compounds in space",
+        "Planetary habitability",
+        "Building a portfolio of stocks"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an inseparable part of the discipline of astrobiology?",
+      "choices": [
+        "The speculation about the existence of advanced alien civilizations",
+        "The origin and early evolution of life",
+        "The design of new telescopes",
+        "The calculation of planetary orbits"
+      ],
+      "answer": 1
+    },
+{
+      "question": "What is cosmology?",
+      "choices": [
+        "The study of planets",
+        "The study of stars",
+        "The study of the Universe as a whole",
+        "The study of chemical reactions in space"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the accepted theory of cosmology?",
+      "choices": [
+        "The Steady State theory",
+        "The Big Bang theory",
+        "The Ptolemaic model",
+        "The String theory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When did the Universe go through a Dark Age?",
+      "choices": [
+        "Before the Big Bang",
+        "When the first stars formed",
+        "When the first neutral atoms formed",
+        "During cosmic inflation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What element was not included in nucleosynthesis?",
+      "choices": [
+        "Elemental abundance",
+        "Nucleocosmochronology",
+        "Stellar evolution",
+        "Neutron stars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What percentage of the mass of the Universe do dark matter and dark energy make up?",
+      "choices": [
+        "4%",
+        "25%",
+        "50%",
+        "96%"
+      ],
+      "answer": 3
+    },
+{
+      "question": "What is extragalactic astronomy concerned with?",
+      "choices": [
+        "The study of objects within our galaxy",
+        "The study of objects outside our galaxy",
+        "The study of the Sun",
+        "The study of planets in our solar system"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the common types of galaxy classifications?",
+      "choices": [
+        "Spiral, circular, and irregular",
+        "Elliptical, spherical, and irregular",
+        "Spiral, elliptical, and irregular",
+        "Elliptical, spiral, and regular"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is considered an Active galaxy?",
+      "choices": [
+        "Emit radio portion",
+        "Black holes emitting radiation",
+        "Superclusters",
+        "Active star formations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What galaxy is composed of older stars and contain little or no interstellar dust?",
+      "choices": [
+        "Elliptical galaxy",
+        "Spiral galaxy",
+        "Irregular galaxy",
+        "Active galaxy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are Quasars believed to be?",
+      "choices": [
+        "The most consistently luminous objects in the known universe",
+        "Clusters of galaxies",
+        "Planets outside of our galaxy",
+        "Stars about to explode"
+      ],
+      "answer": 0
+    },
+{
+      "question": "What type of galaxy is the Milky Way?",
+      "choices": [
+        "Elliptical",
+        "Spiral",
+        "Irregular",
+        "Globular"
+      ],
+      "answer": 1
+    }
+]

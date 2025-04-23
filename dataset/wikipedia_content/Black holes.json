@@ -1,0 +1,992 @@
+[
+  {
+    "question": "Who first proposed the idea of objects with gravitational fields so strong that light cannot escape in the 18th century?",
+    "choices": [
+      "Albert Einstein and Karl Schwarzschild",
+      "John Michell and Pierre-Simon Laplace",
+      "Isaac Newton and Gottfried Leibniz",
+      "Stephen Hawking and Roger Penrose"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "John Michell calculated that a star with the same density but how many times the radius of the sun would not let any emitted light escape?",
+    "choices": [
+      "100 times",
+      "500 times",
+      "1000 times",
+      "1500 times"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why did enthusiasm for 'dark stars' dampen in the early nineteenth century?",
+    "choices": [
+      "Because astronomers lost interest in astronomy",
+      "Because the wavelike nature of light became apparent, making it unclear how gravity would affect it",
+      "Because telescopes became less powerful",
+      "Because the idea was mathematically disproven"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what year did Laplace mention that a star could be invisible if it were sufficiently large while speculating on the origin of the Solar System?",
+    "choices": [
+      "1784",
+      "1796",
+      "1800",
+      "1812"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who asked Laplace for a mathematical analysis of his 'dark star' theory?",
+    "choices": [
+      "Isaac Newton",
+      "Franz Xaver von Zach",
+      "John Michell",
+      "Albert Einstein"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what year did Albert Einstein develop his theory of general relativity?",
+    "choices": [
+      "1905",
+      "1915",
+      "1925",
+      "1935"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Schwarzschild radius?",
+    "choices": [
+      "The radius of a neutron star",
+      "The radius at which the escape velocity equals the speed of light around a black hole",
+      "The radius of the event horizon of a black hole when charge and angular momentum are non zero",
+      "The distance from a black hole where spacetime is not curved"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what year did Oppenheimer and others predicted that neutron stars above another limit, the Tolman–Oppenheimer–Volkoff limit, would collapse further for the reasons presented by Chandrasekhar?",
+    "choices": [
+      "1924",
+      "1931",
+      "1939",
+      "1945"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Einstein attempt to prove in his publication 'On a Stationary System with Spherical Symmetry Consisting of Many Gravitating Masses'?",
+    "choices": [
+      "The existence of black holes",
+      "That black holes were impossible",
+      "The stability of neutron stars",
+      "The existence of Hawking radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who coined the term 'frozen stars'?",
+    "choices": [
+      "Arthur Eddington",
+      "Subrahmanyan Chandrasekhar",
+      "Robert Oppenheimer and Hartland Snyder",
+      "David Finkelstein"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year did David Finkelstein identify the Schwarzschild surface as an event horizon?",
+    "choices": [
+      "1948",
+      "1958",
+      "1968",
+      "1978"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What discovery in 1967 spurred further interest in compact objects that might be formed by gravitational collapse?",
+    "choices": [
+      "The discovery of black holes",
+      "The discovery of quasars",
+      "The discovery of pulsars",
+      "The discovery of gravitational waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 'no-hair theorem'?",
+    "choices": [
+      "Black holes have no surface",
+      "A stationary black hole solution is completely described by mass, angular momentum, and electric charge",
+      "Black holes cannot have any singularities",
+      "Black holes are constantly emitting particles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who showed that quantum field theory implies that black holes should radiate like a black body, predicting Hawking radiation?",
+    "choices": [
+      "Roger Penrose",
+      "Stephen Hawking",
+      "Roy Kerr",
+      "Ezra Newman"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who received half of the 2020 Nobel Prize in Physics for his work on singularities?",
+    "choices": [
+      "Stephen Hawking",
+      "Roger Penrose",
+      "Roy Kerr",
+      "Ezra Newman"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What event did the LIGO Scientific Collaboration and the Virgo collaboration announce in 2016?",
+    "choices": [
+      "The first direct image of a black hole",
+      "The first direct detection of gravitational waves",
+      "The discovery of Hawking radiation",
+      "The discovery of a new type of black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what year was the first direct image of a black hole and its vicinity published?",
+    "choices": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is Gaia BH1?",
+    "choices": [
+      "A cluster of black holes",
+      "A black hole at the center of the Milky Way",
+      "A black hole with a Sun-like star orbiting it",
+      "A type of Hawking radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how many black holes are thought to exist in the Milky Way?",
+    "choices": [
+      "Hundreds",
+      "Thousands",
+      "Millions",
+      "Billions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How are most of the black holes in the Milky Way likely to be detectable?",
+    "choices": [
+      "Through their Hawking radiation",
+      "Through gravitational lensing",
+      "Through X-ray emissions",
+      "Through observing their interaction with accretion disks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is believed to have compared black holes to the Black Hole of Calcutta?",
+    "choices": [
+      "John Wheeler",
+      "Marcia Bartusiak",
+      "Robert H. Dicke",
+      "Ann Ewing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what publication was the term 'black holes' first used in print?",
+    "choices": [
+      "Life and Science News magazines",
+      "Nature",
+      "Scientific American",
+      "The Astrophysical Journal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who adopted the term 'black hole' for its brevity and 'advertising value'?",
+    "choices": [
+      "Robert H. Dicke",
+      "Ann Ewing",
+      "John Wheeler",
+      "Marcia Bartusiak"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What year did a student reportedly suggest the phrase 'black hole' at a lecture?",
+    "choices": [
+      "1957",
+      "1963",
+      "1967",
+      "1972"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what field was Ann Ewing a journalist when she used the term 'Black Holes' in Space?",
+    "choices": [
+      "Politics",
+      "Science",
+      "Sports",
+      "Business"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Schwarzschild radius?",
+    "choices": [
+      "The radius of the photon sphere",
+      "The radius at which the escape velocity equals the speed of light",
+      "The radius of the ergosphere",
+      "The radius of the ISCO"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the three independent physical properties a black hole has once it achieves a stable condition, according to the 'no-hair theorem'?",
+    "choices": [
+      "Mass, temperature, and entropy",
+      "Mass, electric charge, and angular momentum",
+      "Size, density, and rotation",
+      "Color, shape, and texture"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the information about an object that falls into a black hole?",
+    "choices": [
+      "It is amplified and emitted back out",
+      "It is completely destroyed",
+      "It is evenly distributed along the horizon and lost to outside observers",
+      "It is stored in a separate universe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 'membrane paradigm'?",
+    "choices": [
+      "A theory about the shape of the event horizon",
+      "A model describing the behavior of the horizon as a conductive stretchy membrane",
+      "A method for measuring the mass of a black hole",
+      "A description of Hawking radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the 'black hole information loss paradox'?",
+    "choices": [
+      "The mystery of how black holes can form",
+      "The paradox of losing information about the initial conditions of matter that falls into a black hole",
+      "The puzzle of why black holes appear black",
+      "The contradiction between general relativity and quantum mechanics regarding black holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are Schwarzschild black holes?",
+    "choices": [
+      "Rotating charged black holes",
+      "Non-rotating, uncharged black holes",
+      "Black holes with extremely high mass",
+      "Hypothetical black holes that have no mass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What metric describes a non-rotating charged black hole?",
+    "choices": [
+      "Schwarzschild metric",
+      "Kerr metric",
+      "Reissner–Nordström metric",
+      "Kerr–Newman metric"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the most general stationary black hole solution known?",
+    "choices": [
+      "Schwarzschild metric",
+      "Kerr metric",
+      "Reissner–Nordström metric",
+      "Kerr–Newman metric"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the cosmic censorship hypothesis?",
+    "choices": [
+      "A hypothesis that prevents us from seeing black holes",
+      "A hypothesis that there can be no observation in the universe",
+      "A hypothesis that rules out the formation of naked singularities",
+      "A hypothesis that prevents us from measuring the radiation coming from black holes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What feature is expected to be universal in compact astrophysical objects?",
+    "choices": [
+      "Rotation",
+      "Electric Charge",
+      "Extremely High Density",
+      "Extremely Low Temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the defining feature of a black hole?",
+    "choices": [
+      "Its extremely high density",
+      "Its emission of Hawking radiation",
+      "The appearance of an event horizon",
+      "Its ability to warp spacetime"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to clocks near a black hole as observed from a distant observer?",
+    "choices": [
+      "They appear to tick faster",
+      "They appear to tick more slowly due to gravitational time dilation",
+      "They stop completely",
+      "They tick at the same rate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is gravitational redshift?",
+    "choices": [
+      "The increase in the speed of light near a black hole",
+      "The increase in the frequency of light near a black hole",
+      "The slowing down of time near a black hole",
+      "The decrease in the frequency (reddening) of light emitted by an object as it approaches a black hole"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the topology of the event horizon of a black hole at equilibrium?",
+    "choices": [
+      "Cubic",
+      "Spherical",
+      "Oblate",
+      "Irregular"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is it impossible to determine the location of the event horizon from local observations?",
+    "choices": [
+      "Due to the limitations of our telescopes",
+      "Due to Einstein's equivalence principle",
+      "Because the event horizon is constantly changing",
+      "Because the event horizon is too far away"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What lies at the center of a black hole, according to general relativity?",
+    "choices": [
+      "A neutron star",
+      "A quark star",
+      "A gravitational singularity",
+      "A wormhole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is spaghettification?",
+    "choices": [
+      "The process of Hawking radiation emission",
+      "The tearing apart of an object by tidal forces as it approaches a black hole",
+      "The formation of an accretion disk",
+      "The merging of two black holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What shape does the singularity take in a rotating black hole?",
+    "choices": [
+      "A single point",
+      "A sphere",
+      "A ring",
+      "A line"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is expected to happen to the singular effects of black holes in a proper quantum treatment?",
+    "choices": [
+      "They will be amplified",
+      "They will disappear",
+      "They will remain the same",
+      "They will create a new universe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What commonly happens with the appearance of singularities in general relativity?",
+    "choices": [
+      "It is seen as a normal occurence",
+      "It is perceived as signalling the breakdown of the theory",
+      "It is ignored",
+      "It is evidence of a new force"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the photon sphere?",
+    "choices": [
+      "A region where matter forms",
+      "A region where particles that move at extremely fast speeds exist",
+      "A spherical boundary where photons can orbit a black hole",
+      "A zone within a black hole where light cannot escape"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to photons that cross the photon sphere on an inbound trajectory?",
+    "choices": [
+      "They explode",
+      "They bounce back",
+      "They are captured by the black hole",
+      "They orbit the black hole indefinitely"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What determines the radius of the photon sphere for a Kerr black hole?",
+    "choices": [
+      "Its temperature",
+      "The type of particles that it is emitting",
+      "The spin parameter and details of the photon orbit",
+      "Its location with respect to the solar system"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many times the Schwarzschild radius is the radius of the photon sphere of a non-rotating black hole?",
+    "choices": [
+      "0.5",
+      "1",
+      "1.5",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are the orbits of a photon sphere unstable?",
+    "choices": [
+      "Because any small perturbation would cause an instability that would grow over time, either setting the photon on an outward trajectory or on an inward spiral",
+      "Because the temperature of the particles is too high",
+      "Because the speed of the particles is too low",
+      "Because there are no gravitational forces in the region"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the ergosphere of a rotating black hole?",
+    "choices": [
+      "A region where particles are destroyed",
+      "A region where time stops",
+      "A region of spacetime in which it is impossible to stand still",
+      "A region where space has no curvature"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is frame-dragging?",
+    "choices": [
+      "The process of a black hole emitting radiation",
+      "The effect where rotating mass tends to drag the spacetime around it",
+      "The slowing of time near a black hole",
+      "The process of matter falling into a black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Blandford–Znajek process considered a likely mechanism for?",
+    "choices": [
+      "The formation of an event horizon",
+      "The enormous luminosity and relativistic jets of quasars",
+      "The formation of a singularity",
+      "The emission of Hawking radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What process allows objects to emerge from the ergosphere with more energy than they entered with?",
+    "choices": [
+      "Hawking process",
+      "Penrose process",
+      "Schwarzschild process",
+      "Kerr process"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At what location does the ergosurface coincide with the event horizon?",
+    "choices": [
+      "At the core",
+      "At the poles",
+      "At the equator",
+      "At the singularity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the innermost stable circular orbit (ISCO)?",
+    "choices": [
+      "The closest distance a test particle can stably orbit a black hole",
+      "The farthest distance a test particle can stably orbit a black hole",
+      "A region where the event horizon forms",
+      "A region where matter is torn apart"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How does the location of the ISCO change with increasing black hole spin?",
+    "choices": [
+      "It increases",
+      "It decreases for particles orbiting in the same direction as the spin",
+      "It remains constant",
+      "It becomes unstable"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the equation for the Schwarzschild black hole?",
+    "choices": [
+      "rISCO = 3rs = (6GM) / c^2",
+      "rISCO = 5rs = (3GM) / c^2",
+      "rISCO = 2rs = (2GM) / c^2",
+      "rISCO = 1rs = (3GM) / c^2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In Newtonian gravity, can test particles stably orbit at arbitrary distances from a central object?",
+    "choices": [
+      "Yes",
+      "No",
+      "Only at a fixed distance",
+      "Only when the particles are spinning"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What happens to inward perturbations to a circular orbit at ISCO?",
+    "choices": [
+      "It results in spiraling into the black hole",
+      "It causes the particles to explode",
+      "It results in escaping the black hole",
+      "It causes the particles to merge"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What happens in the plunging region around a black hole?",
+    "choices": [
+      "Matter forms circular orbits",
+      "Matter stops completely",
+      "Matter can escape the black hole",
+      "Matter rapidly plunges toward the black hole"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary difference between the plunging region and the ISCO?",
+    "choices": [
+      "Size",
+      "Temperature",
+      "Mass",
+      "Whether circular orbits are possible"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "At what speed will matter plunge towards the black hole?",
+    "choices": [
+      "Higher than the speed of light",
+      "Slower than the speed of sound",
+      "Close to the speed of light",
+      "Close to the speed of sound"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to test particles in the plunging region?",
+    "choices": [
+      "They merge with other objects",
+      "They stop at the event horizon",
+      "They are torn apart by the gravitational field",
+      "They maintain a stable orbit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Conventional black holes are formed by gravitational collapse of heavy objects such as stars, but they can also in theory be formed by other processes. Which other processes?",
+    "choices": [
+      "By colliding with antimatter",
+      "By reversing the expansion of the universe",
+      "By the formation of wormholes",
+      "By other processes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What causes gravitational collapse?",
+    "choices": [
+      "High temperature",
+      "Insufficient internal pressure to resist gravity",
+      "External radiation",
+      "Collision with another star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the collapsing object when its internal pressure is insufficient to resist its gravity?",
+    "choices": [
+      "It explodes",
+      "It evaporates",
+      "It condenses into a denser state",
+      "It becomes a white dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Tolman–Oppenheimer–Volkoff limit?",
+    "choices": [
+      "The minimum mass of a black hole",
+      "The maximum mass a neutron star can have before collapsing",
+      "The maximum temperature of a black hole",
+      "The radius of the event horizon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is one possible way through which some supermassive black holes may have been formed?",
+    "choices": [
+      "Stellar nucleosynthesis",
+      "By absorbing additional matter",
+      "The collapse of a white dwarf",
+      "Radioactive decay"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is required for primordial black holes to have formed in such a dense medium?",
+    "choices": [
+      "Low temperature",
+      "Uniform mass distribution",
+      "Constant speed of expansion",
+      "Initial density perturbations"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why didn't the early universe re-collapse into a black hole during the Big Bang?",
+    "choices": [
+      "Because the universe was not dense enough",
+      "Because the expansion rate was greater than the attraction",
+      "Because the universe was made of dark energy",
+      "Because quantum gravity prevented it"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the scale of fluctuations affect the prediction of the creation of primordial black holes?",
+    "choices": [
+      "It has no effect",
+      "Different models for the early universe vary widely in their predictions of the scale of these fluctuations.",
+      "It makes it easier to predict black holes",
+      "It only allows predictions of big black holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What would have caused a net repulsive gravitation in the beginning of the universe?",
+    "choices": [
+      "Big Crush theory",
+      "Constant state theory",
+      "Inflation theory",
+      "Relativity theory"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which has a higher expansion rate than attraction, the object or space?",
+    "choices": [
+      "Star",
+      "Object",
+      "Space",
+      "Planet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Besides gravitational collapse, how else could black holes be formed?",
+    "choices": [
+      "Through radioactive decay",
+      "In high-energy collisions that achieve sufficient density",
+      "By merging with white dwarfs",
+      "Through dark energy accumulation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What factor puts the creation of black holes out of reach of any high-energy process occurring on or near Earth?",
+    "choices": [
+      "Lack of funding for research",
+      "High temperatures",
+      "Low air pressure",
+      "A lower limit for the mass of black holes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What suggests that there must be a lower limit for the mass of black holes?",
+    "choices": [
+      "Detection of such events",
+      "No detection of such events",
+      "Detection of the amount of radiation",
+      "Detecting a deficiency in air pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Even if micro black holes could be formed, how long is it expected that they would evaporate?",
+    "choices": [
+      "About 1 second",
+      "About 10−25 seconds",
+      "About 1 hour",
+      "About 1 year"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is not a way to form black holes?",
+    "choices": [
+      "High-energy collisions",
+      "Gravitational collapse",
+      "Evaporation",
+      "Primordial"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does a black hole grow once it has formed?",
+    "choices": [
+      "By decreasing the size of its event horizon",
+      "By splitting into smaller black holes",
+      "By absorbing additional matter",
+      "By emitting Hawking radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one possible way supermassive black holes may have formed?",
+    "choices": [
+      "Hawking radiation",
+      "The direct collisions of objects",
+      "By quantum tunnelling",
+      "Through the aggregation of many smaller objects"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which objects can black holes merge with?",
+    "choices": [
+      "Stars only",
+      "Other black holes only",
+      "Only dark matter",
+      "Stars or even other black holes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What kind of process has been suggested for the formation of intermediate-mass black holes found in globular clusters?",
+    "choices": [
+      "An unknown process",
+      "Black hole's merging with black holes",
+      "Accretion with neutron stars",
+      "Accretion process"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does Hawking radiation predict about black holes?",
+    "choices": [
+      "They are entirely black and absorb everything",
+      "They emit small amounts of thermal radiation",
+      "They explode violently",
+      "They do not exist"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What determines the Hawking temperature of a black hole?",
+    "choices": [
+      "Its electric charge",
+      "Its surface gravity, which is inversely proportional to its mass",
+      "Its angular momentum",
+      "Its location in the universe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the fate of black holes according to Hawking's theory of black hole radiation?",
+    "choices": [
+      "They will eventually grow to infinite size",
+      "They are expected to shrink and evaporate over time",
+      "They will remain stable forever",
+      "They will transform into white holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to stellar-mass or larger black holes regarding the cosmic microwave background radiation?",
+    "choices": [
+      "They receive more mass from it than they emit through Hawking radiation and thus will grow instead of shrinking",
+      "They receive less mass from it than they emit through Hawking radiation and thus will shrink instead of growing",
+      "They do not interact with it",
+      "They stabilize the cosmic microwave background radiation"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "For an astrophysical black hole, what is the main obstacle to detecting Hawking radiation from Earth?",
+    "choices": [
+      "It is too weak",
+      "It is too bright",
+      "It is absorbed by the atmosphere",
+      "It only emits gamma rays"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why must astrophysicists rely on indirect observations when searching for black holes?",
+    "choices": [
+      "Black holes are too small to see directly",
+      "Black holes are too far away to observe directly",
+      "Black holes do not themselves emit electromagnetic radiation other than hypothetical Hawking radiation",
+      "Black holes are hidden by dark matter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the Event Horizon Telescope (EHT) directly observe?",
+    "choices": [
+      "The internal structure of black holes",
+      "The immediate environment of black holes' event horizons",
+      "Hawking radiation",
+      "The formation of singularities"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is visible in the EHT images of black holes?",
+    "choices": [
+      "The singularity",
+      "The event horizon",
+      "The gases at the edge of the event horizon",
+      "The center"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes the brightening of material in the 'bottom' half of the processed EHT image?",
+    "choices": [
+      "Hawking radiation",
+      "Doppler beaming",
+      "Gravitational lensing",
+      "Dark energy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In 2015, what did the EHT detect just outside the event horizon of Sagittarius A*?",
+    "choices": [
+      "Dark matter",
+      "Magnetic fields",
+      "Wormholes",
+      "Tachyons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did the first-ever successful direct observation of gravitational waves made by LIGO in 2015 represent?",
+    "choices": [
+      "The first detection of Hawking radiation",
+      "The first observation of a black hole merger",
+      "The first evidence of dark energy",
+      "The confirmation of the existence of wormholes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the ringdown signal produced by?",
+    "choices": [
+      "The black hole when it emits particles",
+      "The merging of two black holes",
+      "An accretion disc",
+      "A black hole's settling down to a stationary state after merger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does the ringdown mode confirm?",
+    "choices": [
+      "The absence of black holes",
+      "The presence of a photon sphere",
+      "The absence of a photon sphere",
+      "The existence of a gravitational sphere"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What important was founded by observing the signal from LIGO?",
+    "choices": [
+      "The gravitational lens of binary systems",
+      "The existence of stellar-mass black hole binaries",
+      "That black holes do not have mass",
+      "That stellar black holes weight less than 5 solarmasses"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The signal observed by LIGO also included the start of the post-merger ringdown and which of these concepts?",
+    "choices": [
+      "The signal after it passes the event horizon",
+      "The signal produced as the newly formed compact object settles down to a stationary state",
+      "The signal when it evaporates",
+      "There was no signal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What do the proper motions of stars near the center of our Milky Way provide strong observational evidence for?",
+    "choices": [
+      "The existence of dark matter",
+      "The Big Bang theory",
+      "Stars being destroyed by neutron stars",
+      "Stars orbiting a supermassive black hole"
+    ],
+    "answer": 3
+  }
+  ]

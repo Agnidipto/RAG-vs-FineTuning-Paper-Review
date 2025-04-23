@@ -1,0 +1,662 @@
+[
+    {
+      "question": "What is the primary focus of planetary science?",
+      "choices": [
+        "The study of stars and galaxies.",
+        "The scientific study of planets, celestial bodies, and planetary systems.",
+        "The development of new space technologies.",
+        "The search for extraterrestrial life."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which discipline is NOT typically incorporated into planetary science?",
+      "choices": [
+        "Planetary geology",
+        "Cosmochemistry",
+        "Theoretical planetary science",
+        "Quantum physics"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Planetary science primarily grew from which two fields?",
+      "choices": [
+        "Biology and chemistry",
+        "Astronomy and Earth science",
+        "Physics and mathematics",
+        "Engineering and computer science"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following research methods is used in observational planetary science?",
+      "choices": [
+        "Computer simulation",
+        "Mathematical modeling",
+        "Robotic spacecraft missions",
+        "Theoretical calculations"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where are planetary scientists commonly located?",
+      "choices": [
+        "Commercial spaceflight companies",
+        "Astronomy and physics or Earth sciences departments of universities or research centers",
+        "Government intelligence agencies",
+        "Private law firms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which ancient Greek philosopher is mentioned as an early contributor to the ideas of planetary science?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Democritus",
+        "Socrates"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was Galileo's major contribution to planetary science?",
+      "choices": [
+        "Discovering the law of gravity.",
+        "Developing the first telescope.",
+        "Discovering the moons of Jupiter, mountains on the moon, and the rings of Saturn.",
+        "Proposing the heliocentric model of the solar system."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Galileo's observations of the Moon suggested what?",
+      "choices": [
+        "The Moon was perfectly smooth.",
+        "The Moon was made of cheese.",
+        "The Moon's surface was similar to Earth's.",
+        "The Moon had a thick atmosphere."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which type of instrument contributed to early understanding of planets?",
+      "choices": [
+        "Atomic clocks",
+        "Optical telescopes",
+        "Electron microscopes",
+        "Quantum computers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is true about the current state of Solar System exploration?",
+      "choices": [
+        "The Solar System is completely understood, and no new discoveries are being made.",
+        "The Solar System has never been studied",
+        "The Solar System has been relatively well-studied, but there are still many unsolved questions and a high rate of new discoveries.",
+        "Interplanetary spacecraft are no longer exploring the Solar System."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT considered a major discipline within planetary science?",
+      "choices": [
+        "Planetary geology",
+        "Planetary astronomy",
+        "Planetary oceanography",
+        "Particle physics"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the main focus of observational planetary astronomy?",
+      "choices": [
+        "Predicting the weather on Earth",
+        "Studying the dynamics of the Milky Way galaxy",
+        "Studying the small bodies of the Solar System.",
+        "Developing new telescope technologies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary concern of theoretical planetary astronomy?",
+      "choices": [
+        "Analyzing meteorite compositions",
+        "Applying celestial mechanics to planetary systems",
+        "Mapping the surface of Mars",
+        "Studying the atmospheres of gas giants"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does planetary geology study in the broadest sense?",
+      "choices": [
+        "Only the surface of planets",
+        "Only the interior of planets",
+        "The surface and interior parts of planets and moons",
+        "Only Earth's geology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which planetary bodies are most frequently studied in planetary geology?",
+      "choices": [
+        "Jupiter and Saturn",
+        "The Moon, Venus, and Mars",
+        "Exoplanets",
+        "Dwarf planets like Pluto"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does planetary geomorphology study?",
+      "choices": [
+        "The chemical composition of planetary atmospheres.",
+        "The magnetic fields of planets.",
+        "The features on planetary surfaces and the history of their formation.",
+        "The internal structure of planets."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an example of a volcanic feature studied in planetary geomorphology?",
+      "choices": [
+        "Craters",
+        "Lava flows",
+        "Glacial moraines",
+        "Sand dunes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'space weathering'?",
+      "choices": [
+        "The effects of a planet's atmosphere on its surface",
+        "Erosional effects generated by the harsh environment of space.",
+        "The process of terraforming a planet.",
+        "The formation of new planets in space."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique did Nicolas Steno develop that is used in planetary geomorphology?",
+      "choices": [
+        "Spectroscopy",
+        "Stratigraphic mapping",
+        "Radioactive dating",
+        "Seismic analysis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the purpose of stratigraphic mapping in the Apollo program?",
+      "choices": [
+        "To identify potential landing sites.",
+        "To measure the Moon's gravitational field.",
+        "To map potential resources to mine.",
+        "To prepare the astronauts for the lunar geology they would encounter."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a major limitation when studying the formation and evolution of objects in the Solar System?",
+      "choices": [
+        "The lack of funding for research.",
+        "The availability of powerful telescopes.",
+        "The lack of samples that can be analyzed in laboratories.",
+        "The complexity of mathematical models."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where do direct samples from the Moon, asteroids, and Mars come from?",
+      "choices": [
+        "Samples collected by human explorers",
+        "Samples collected by robotic probes and returned to Earth.",
+        "Samples created by space stations",
+        "Meteorites."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What makes Antarctic meteorites particularly valuable for research?",
+      "choices": [
+        "Their large size.",
+        "Their ease of collection.",
+        "They contain extraterrestrial life.",
+        "They are almost entirely pristine and not contaminated by Earth's atmosphere and biosphere."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "From what specific asteroid have scientists traced the HED meteorites back to?",
+      "choices": [
+        "Ceres",
+        "Eros",
+        "Vesta",
+        "Pallas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many kilograms of lunar samples were collected during the Apollo program?",
+      "choices": [
+        "100",
+        "384",
+        "1000",
+        "50"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What new capability did space probes introduce to planetary science?",
+      "choices": [
+        "Collecting samples for lab analysis.",
+        "Characterizing the planet's geology",
+        "Collecting data in other areas of the electromagnetic spectrum besides visible light",
+        "Creating artificial atmospheres on other planets"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the two force fields used to characterize planets in this context?",
+      "choices": [
+        "Electromagnetic and gravitational fields",
+        "Gravity and magnetic fields",
+        "Nuclear and magnetic fields",
+        "Weak and strong nuclear fields"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are 'mascons'?",
+      "choices": [
+        "Large volcanic mountains",
+        "Concentrations of mass beneath lunar maria",
+        "Areas of high magnetic field intensity",
+        "Regions of dense atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the stream of charged particles emitted by the sun?",
+      "choices": [
+        "Van Allen radiation belt",
+        "Cosmic radiation",
+        "Solar wind",
+        "Magnetosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What areas does Planetary geophysics include?",
+      "choices": [
+        "Seismology",
+        "Tectonophysics",
+        "Mineral physics",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the focus of planetary geodesy?",
+      "choices": [
+        "The study of planetary atmospheres",
+        "The study of exoplanets.",
+        "The measurement and representation of planets, their gravitational fields, and geodynamic phenomena.",
+        "The study of meteorite composition."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What causes the Earth's equatorial bulge?",
+      "choices": [
+        "Plate tectonics",
+        "Volcanism",
+        "The gravitational pull of the Moon",
+        "The Earth's rotation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why are mountains on Earth limited in height?",
+      "choices": [
+        "Erosion by wind and water.",
+        "The composition of the crust",
+        "The lack of available material.",
+        "Gravity causes the rock at the base to become plastic and slump."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why is Olympus Mons on Mars able to be significantly taller than mountains on Earth?",
+      "choices": [
+        "Mars has a stronger gravitational field.",
+        "Mars has a thicker atmosphere.",
+        "Mars has less volcanic activity",
+        "Mars has less surface gravity."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the 'geoid'?",
+      "choices": [
+        "The actual shape of the Earth.",
+        "The shape of the Earth abstracted from its topographic features.",
+        "A fictional planet in a science fiction novel",
+        "The measurement of Earth's rotation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the role of an atmosphere?",
+      "choices": [
+        "It is a barrier preventing scientific observation.",
+        "It is only important for weather forecasting.",
+        "It is an important transitional zone between the solid planetary surface and space.",
+        "It is always identical on all planets."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What primarily determines whether a planet has an atmosphere?",
+      "choices": [
+        "The type of rocks on its surface.",
+        "The mass of the planet and its distance from the Sun.",
+        "The presence of water.",
+        "The presence of life."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which terrestrial planets have significant atmospheres?",
+      "choices": [
+        "Mercury only",
+        "Earth and Mars only.",
+        "Earth, Venus, and Mars.",
+        "All terrestrial planets."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What creates the banded appearance of Jupiter and Saturn?",
+      "choices": [
+        "Giant lava flows",
+        "Atmospheric streams and currents.",
+        "Mountain ranges.",
+        "The composition of the surface."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What two moons have significant atmospheres?",
+      "choices": [
+        "Earth's Moon and Titan",
+        "Earth's Moon and Triton",
+        "Titan and Triton",
+        "Ganymede and Callisto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the focus of planetary oceanography?",
+      "choices": [
+        "The study of Earth's oceans.",
+        "The study of past and present oceans on other planets and moons.",
+        "The study of planetary atmospheres",
+        "The study of exoplanets"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the focus of exoplanetology?",
+      "choices": [
+        "The study of the Solar System.",
+        "The study of the Earth.",
+        "The study of exoplanets.",
+        "The study of the Milky Way galaxy."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What has allowed exoplanetology to become a rapidly developing subfield of astronomy?",
+      "choices": [
+        "Decreased funding for planetary science.",
+        "The decline of interest in space exploration.",
+        "Increased focus on theoretical research.",
+        "Innovation in research technology."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When did exoplanetology become a prominent area of study?",
+      "choices": [
+        "Since the invention of the telescope.",
+        "Until recently",
+        "200 years ago",
+        "Before the beginning of space travel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What techniques are used to study exoplanets?",
+      "choices": [
+        "Samples of exoplanet materials",
+        "Seismology analysis of exoplanets",
+        "Means of studying exoplanets are extremely limited but advancing rapidly",
+        "In situ observation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What makes the study of exoplanets challenging?",
+      "choices": [
+        "Too much funding",
+        "Earths close proximity",
+        "Limit technological advancements.",
+        "Extreme distances and methodological limitations"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the primary goal of comparative planetary science?",
+      "choices": [
+        "To understand Earth's unique features.",
+        "To find Earth-like planets.",
+        "To gain a greater understanding of planetary objects through comparison.",
+        "To develop new technologies for space exploration."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is commonly compared when studying exoplanets and our solar system?",
+      "choices": [
+        "Comparing dense atmospheres of Earth and Saturn's moon Titan.",
+        "The geomorphology of the surfaces of the terrestrial planets.",
+        "Evolution of outer Solar System objects at different distances from the Sun.",
+        "All of the above."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a common basis for comparison in planetary science?",
+      "choices": [
+        "Venus",
+        "Features on Earth",
+        "Mars",
+        "The moon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what fields are Earth analog studies particularly common?",
+      "choices": [
+        "Planetary geology and atmospheric science",
+        "Geomorphology",
+        "Both A and B",
+        "Earth Analog Studies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who first described the use of terrestrial analogs?",
+      "choices": [
+        "Nicolas Steno",
+        "Neil Armstrong",
+        "Gilbert",
+        "Charles Darwin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In Frank Herbert's 'Dune', what is Liet-Kynes's role?",
+      "choices": [
+        "A spice harvester",
+        "A pilot",
+        "A soldier",
+        "The Imperial Planetologist"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What skills are associated with a planetologist in Dune?",
+      "choices": [
+        "Ecology, geology, meteorology, and biology",
+        "Mathematics, physics, and engineering",
+        "History, philosophy, and art",
+        "Medicine, law, and politics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function of planetologist in the Dune series?",
+      "choices": [
+        "Understand planetary resources",
+        "Plan terraforming projects",
+        "Plan planetary-scale engineering projects",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What impact has the planetologist in Dune had on planetary science?",
+      "choices": [
+        "It has had no impact",
+        "It is a touchstone in the related disciplines",
+        "Encouraging exploration of Earth",
+        "Is used a model for future professions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are planetologists skills needed on Earth?",
+      "choices": [
+        "Help managing human activity",
+        "To solve the heat death",
+        "Find ways to send humans to other planets",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a professional organization for planetary scientists?",
+      "choices": [
+        "The American Medical Association",
+        "Division for Planetary Sciences (DPS) of the American Astronomical Society",
+        "The American Bar Association",
+        "The Screen Actors Guild"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which country's space agency is abbreviated as CNSA?",
+      "choices": [
+        "Canada",
+        "China",
+        "France",
+        "Germany"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full name of the German space agency, abbreviated as DLR?",
+      "choices": [
+        "Deutsches Zentrum für Luft- und Raumfahrt e.V.",
+        "Deutsche Forschungsanstalt für Luft- und Raumfahrt",
+        "Deutsches Raumfahrtzentrum",
+        "Deutsches Zentrum für Weltraumforschung"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a major conference for planetary scientists?",
+      "choices": [
+        "The World Economic Forum",
+        "The Lunar and Planetary Science Conference (LPSC)",
+        "The Olympic Games",
+        "The Consumer Electronics Show"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When is the Lunar and Planetary Science Conference (LPSC) typically held?",
+      "choices": [
+        "December",
+        "June",
+        "March",
+        "September"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is areography?",
+      "choices": [
+        "The study of Earth's atmosphere.",
+        "The study of the surface and physical features of the Moon.",
+        "The study of the geography of Mars.",
+        "The study of Jupiter's moons."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is selenography?",
+      "choices": [
+        "The study of the surface and physical features of the Moon.",
+        "The study of exoplanets.",
+        "The study of asteroid composition.",
+        "The study of solar flares."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is planetary cartography?",
+      "choices": [
+        "Planetary geology",
+        "Planetary mapping",
+        "Planetary geodesy",
+        "Planetary chemistry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are planetary coordinate systems?",
+      "choices": [
+        "Systems used for communicating to space",
+        "Systems of classification",
+        "Systems for navigation",
+        "System of physical laws governing planets"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is theoretical planetology?",
+      "choices": [
+        "Theoretical analysis of planets",
+        "Planets as a philosophical concept",
+        "Models planets by simulations",
+        "Theories surrounding planets"
+      ],
+      "answer": 0
+    }
+  ]

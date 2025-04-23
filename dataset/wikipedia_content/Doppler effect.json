@@ -1,0 +1,682 @@
+[
+  {
+    "question": "Who is the Doppler effect named after?",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Christian Doppler",
+      "Galileo Galilei"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the received frequency when a vehicle sounding a horn approaches an observer?",
+    "choices": [
+      "It is lower than the emitted frequency.",
+      "It is identical to the emitted frequency.",
+      "It is higher than the emitted frequency.",
+      "It disappears completely."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From the observer's perspective, what happens to the time between cycles when a sound source is moving towards them?",
+    "choices": [
+      "The time between cycles is increased.",
+      "The time between cycles is reduced.",
+      "The time between cycles remains the same.",
+      "The time between cycles becomes infinite."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For waves propagating in a medium, what determines the total Doppler effect?",
+    "choices": [
+      "Motion of the source only.",
+      "Motion of the observer only.",
+      "Motion of the medium only.",
+      "Motion of the source, motion of the observer, motion of the medium, or any combination thereof."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "For electromagnetic waves propagating in a vacuum, what needs to be considered for the Doppler effect?",
+    "choices": [
+      "The motion of the medium.",
+      "The velocity of the source only.",
+      "The velocity of the observer only.",
+      "The difference in velocity between the observer and the source."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In what year did Doppler first propose the Doppler effect?",
+    "choices": [
+      "1845",
+      "1848",
+      "1842",
+      "1850"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who confirmed Doppler's hypothesis for sound waves experimentally?",
+    "choices": [
+      "Hippolyte Fizeau",
+      "John Scott Russell",
+      "Buys Ballot",
+      "Isaac Newton"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who independently discovered the Doppler effect on electromagnetic waves?",
+    "choices": [
+      "Buys Ballot",
+      "John Scott Russell",
+      "Christian Doppler",
+      "Hippolyte Fizeau"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In which country is the Doppler effect sometimes called 'effet Doppler-Fizeau'?",
+    "choices": [
+      "Britain",
+      "Germany",
+      "France",
+      "United States"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who made an experimental study of the Doppler effect in Britain?",
+    "choices": [
+      "Hippolyte Fizeau",
+      "Buys Ballot",
+      "John Scott Russell",
+      "Christian Doppler"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the classical physics formula for the Doppler effect, what does 'c' represent?",
+    "choices": [
+      "Speed of the receiver",
+      "Speed of the source",
+      "Wavelength of the wave",
+      "Propagation speed of waves in the medium"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In the classical physics formula for the Doppler effect, when is  v_r  added to 'c'?",
+    "choices": [
+      "When the receiver is moving away from the source.",
+      "When the receiver is stationary.",
+      "When the receiver is moving towards the source.",
+      "When the source is stationary."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the formula, what happens to the observed frequency if either the source or receiver is moving away from the other?",
+    "choices": [
+      "The frequency will increase.",
+      "The frequency will decrease.",
+      "The frequency will remain constant.",
+      "The frequency will become infinite."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does lambda represent in the alternative form of the doppler equation?",
+    "choices": [
+      "Frequency",
+      "Wavelength",
+      "Speed of the receiver",
+      "Speed of the source"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the observed frequency as a source approaches an observer at an angle?",
+    "choices": [
+      "It remains constant.",
+      "It decreases monotonically.",
+      "It increases monotonically.",
+      "It first is higher than the object's emitted frequency, and then there is a monotonic decrease in the observed frequency"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does the Doppler equation predict if a wave source moves toward a stationary observer at the speed of the wave?",
+    "choices": [
+      "A negative frequency.",
+      "An infinite frequency.",
+      "No change in frequency.",
+      "A doubling of the frequency."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the resulting wave effect when a sound source moves faster than the speed of sound?",
+    "choices": [
+      "A subsonic wave.",
+      "A radio wave.",
+      "A shock wave creating a sonic boom.",
+      "An electromagnetic wave."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Lord Rayleigh predict would be heard if an observer moved away from a stationary source at twice the speed of sound?",
+    "choices": [
+      "Silence.",
+      "A higher pitch.",
+      "A lower pitch.",
+      "A musical piece played backwards."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "According to the article, what is inapplicable for cases where the source is moving at or exceeding the speed of the wave?",
+    "choices": [
+      "The law of thermodynamics.",
+      "The doppler equation",
+      "The theory of relativity.",
+      "The law of conservation of energy."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of wave would result from exceeding the speed of the original wave?",
+    "choices": [
+      "Tidal wave",
+      "Sine wave",
+      "Shock wave",
+      "Light wave"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to John Dobson, why does a siren on a passing emergency vehicle 'slide' in pitch?",
+    "choices": [
+      "Because the siren's volume changes.",
+      "Because the vehicle's speed changes.",
+      "Because the siren doesn't hit you directly.",
+      "Because the air temperature changes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the Doppler effect causing light to shift towards the blue end of the spectrum?",
+    "choices": [
+      "Redshift",
+      "Blueshift",
+      "Blackshift",
+      "Greenshift"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can the Doppler effect be used to detect in astronomy?",
+    "choices": [
+      "The age of the universe only.",
+      "The composition of stars only.",
+      "The temperature of planets only.",
+      "If an apparently single star is a close binary"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Among the nearby stars, what does a positive radial speed indicate?",
+    "choices": [
+      "The star is approaching the Sun.",
+      "The star is stationary.",
+      "The star is orbiting the Sun.",
+      "The star is receding from the Sun."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In cosmology, how is the redshift of expansion considered compared to redshifts due to gravity or Doppler motion?",
+    "choices": [
+      "It is considered the same.",
+      "It is considered less important.",
+      "It is considered more important.",
+      "It is considered separate."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does radar use the Doppler effect to measure?",
+    "choices": [
+      "The temperature of objects.",
+      "The color of objects.",
+      "The velocity of detected objects.",
+      "The density of objects."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In radar applications, why is the change in frequency observed due to a target's motion doubled?",
+    "choices": [
+      "Because the signal is amplified twice.",
+      "Because the target's velocity is squared.",
+      "Because the Doppler shift affects the wave incident upon the target as well as the wave reflected back to the radar.",
+      "Because the radar emits two frequencies simultaneously."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the proximity fuze developed during World War II based on?",
+    "choices": [
+      "Inertial guidance.",
+      "GPS technology.",
+      "Doppler radar.",
+      "Optical sensors."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In radar applications, what happens to the wavelength when a car is approaching?",
+    "choices": [
+      "Wavelength decreases",
+      "Wavelength increases",
+      "Wavelength remains the same",
+      "Wavelength becomes infinite"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In radar applications, the Doppler Effect is used to determine what?",
+    "choices": [
+      "The color of the target.",
+      "The temperature of the target.",
+      "The speed of the target.",
+      "The direction the target is traveling"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does an echocardiogram use the Doppler effect to assess?",
+    "choices": [
+      "Bone density only.",
+      "Brain activity only.",
+      "Skin thickness only.",
+      "The direction of blood flow and the velocity of blood and cardiac tissue."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a limitation of using the Doppler effect in echocardiography?",
+    "choices": [
+      "The patient must be completely still.",
+      "The patient must be fasting.",
+      "The ultrasound beam should be as parallel to the blood flow as possible.",
+      "The ultrasound beam should be perpendicular to the blood flow."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is contrast-enhanced ultrasound used for in medical Doppler measurements?",
+    "choices": [
+      "To reduce patient discomfort.",
+      "To speed up the process.",
+      "To improve image resolution only.",
+      "To improve velocity or other flow-related medical measurements."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In medical imaging, what is often measured instead of the frequency shift of the received signal?",
+    "choices": [
+      "The amplitude shift.",
+      "The phase shift.",
+      "The temperature shift.",
+      "The density shift."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In diagnosis of vascular problems, what is the Doppler effect used to measure?",
+    "choices": [
+      "Temperature of arteries.",
+      "The composition of blood.",
+      "Thickness of vein walls.",
+      "Velocity measurement of blood flow in arteries and veins"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What do instruments like the laser Doppler velocimeter (LDV) and acoustic Doppler velocimeter (ADV) measure?",
+    "choices": [
+      "The pressure of a fluid.",
+      "The density of a fluid.",
+      "Velocities in a fluid flow.",
+      "The temperature of a fluid."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do LDV and ADV measure the Doppler shift in?",
+    "choices": [
+      "The pressure of reflections.",
+      "The temperature of reflections.",
+      "Wavelengths of reflections.",
+      "The density of reflections."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is computed as a function of water velocity and phase?",
+    "choices": [
+      "Temperature",
+      "Density",
+      "Pressure",
+      "Actual flow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is special about velocity measurements taken with LDV or ADV?",
+    "choices": [
+      "They are high cost and limited in use",
+      "They are intrusive flow measurements, at high precision and high frequency.",
+      "They allow non-intrusive flow measurements, at high precision and high frequency.",
+      "They have low frequency but high cost."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are UDV instruments used for in medical applications?",
+    "choices": [
+      "Bone density",
+      "Velocity measurements",
+      "White blood cell count",
+      "Joint fluid viscosity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can Ultrasonic Doppler Velocimetry measure in real time?",
+    "choices": [
+      "Only the flow rate at a single point.",
+      "Only the average velocity.",
+      "Complete velocity profile in almost any liquids containing particles in suspension.",
+      "Only the temperature profile."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What types of flows can UDV measure?",
+    "choices": [
+      "Only laminar flows.",
+      "Only turbulent flows.",
+      "Only stationary flows.",
+      "Pulsating, oscillating, laminar or turbulent, stationary or transient."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a major advantage of Ultrasonic Doppler Velocimetry?",
+    "choices": [
+      "Invasive",
+      "Fully non-invasive.",
+      "Requires specialized fluids.",
+      "Limited applicability."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why does the Doppler shift need to be compensated for in satellite communication?",
+    "choices": [
+      "To improve signal strength.",
+      "To reduce atmospheric interference.",
+      "To account for the earth's rotation.",
+      "Because fast-moving satellites can have a Doppler shift of dozens of kilohertz relative to a ground station."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is dynamic Doppler compensation?",
+    "choices": [
+      "A technique to automatically adjust the satellite's orbit.",
+      "A method to shield the satellite from radiation.",
+      "A technique where the frequency of a signal is changed progressively during transmission.",
+      "A system to adjust the satellite's antenna alignment."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was done with the Huygens probe to reduce the Doppler shift during its approach to Titan?",
+    "choices": [
+      "Its speed was increased.",
+      "Its transmission frequency was doubled.",
+      "Its trajectory was altered so transmissions traveled perpendicular to its motion relative to Cassini.",
+      "Its antenna was realigned to point directly at Earth."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What variables are used in the equation to determine Doppler shift in satellites?",
+    "choices": [
+      "Mass, speed, wavelength",
+      "Wavelength, distance, speed",
+      "Mass, distance, speed",
+      "Mobile speed, carrier wavelength, satellite elevation, and driving direction"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What variable represents the relative speed of the satellite?",
+    "choices": [
+      "v_rel_sat",
+      "v_mob",
+      "lambda_c",
+      "theta"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How does the Leslie speaker take advantage of the Doppler effect?",
+    "choices": [
+      "By changing the speaker's volume.",
+      "By amplifying the sound waves.",
+      "By using an electric motor to rotate an acoustic horn around a loudspeaker.",
+      "By filtering out certain frequencies."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What results at the listener's ear because of the Doppler effect in the Leslie speaker?",
+    "choices": [
+      "A constant, unchanging pitch.",
+      "A muffled sound.",
+      "A rapidly fluctuating frequency of a keyboard note.",
+      "A louder volume."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Leslie speaker is predominantly used with what?",
+    "choices": [
+      "Guitar amp",
+      "Bass amp",
+      "Hammond organ",
+      "Synthesizer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the fluctuating frequency of the Leslie speaker result in?",
+    "choices": [
+      "Higher notes",
+      "Rapidly fluctuating sound",
+      "Perfect harmony",
+      "Silence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of motor is used by the Leslie Speaker?",
+    "choices": [
+      "Water motor",
+      "Gas motor",
+      "Electric motor",
+      "Turbine motor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does a laser Doppler vibrometer (LDV) measure?",
+    "choices": [
+      "Temperature only.",
+      "Pressure only.",
+      "Vibration amplitude and frequency.",
+      "Density only."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does the LDV extract vibration information?",
+    "choices": [
+      "By measuring the surface temperature.",
+      "By analyzing the reflected light's color.",
+      "By extracting the Doppler shift of the laser beam frequency.",
+      "By measuring the surface's electrical conductivity."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of instrument is a LDV?",
+    "choices": [
+      "Contact instrument",
+      "Invasive instrument",
+      "Non-contact instrument",
+      "Limited use instrument"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the process used by the LDV?",
+    "choices": [
+      "Direct reflection",
+      "Phase shift of light",
+      "Doppler shift of laser beam frequency",
+      "Wavelength of the object surface"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What instrument is used to measure motion?",
+    "choices": [
+      "Laser Doppler Vibrometer",
+      "Oscilloscope",
+      "Laser Tracker",
+      "Multimeter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In robotics, what does dynamic real-time path planning often take help of?",
+    "choices": [
+      "GPS satellites",
+      "The Doppler effect.",
+      "Artificial intelligence.",
+      "Human input."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of environments are Doppler applications usually used for?",
+    "choices": [
+      "Static environments",
+      "Stable environments",
+      "Constantly changing environments",
+      "Environments with humans"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where might you see dynamic real-time path planning?",
+    "choices": [
+      "Robosoccer",
+      "Basketball",
+      "Golf",
+      "Chess"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Doppler effect is always used to help the robot do what?",
+    "choices": [
+      "Make friends",
+      "Find a path",
+      "Plan",
+      "Move"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of obstacle is often present in robotic applications?",
+    "choices": [
+      "Static obstacles",
+      "Moving obstacles",
+      "Transparent obstacles",
+      "Solid obstacles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the size of the Doppler shift depend on?",
+    "choices": [
+      "The volume of the wave.",
+      "The temperature of the medium.",
+      "The refractive index of the medium.",
+      "The color of the wave."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is required for a negative refraction?",
+    "choices": [
+      "Normal materials",
+      "Some materials",
+      "Electrically charged",
+      "Radioactive"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the opposite of a conventional Doppler Shift",
+    "choices": [
+      "Inverse Doppler effect",
+      "Perpendicular Doppler Effect",
+      "Opposite Frequency Effect",
+      "Negative Frequency Inversion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In what type of materials has the inverse Doppler effect been observed?",
+    "choices": [
+      "Static materials",
+      "Homogeneous materials",
+      "Inhomogeneous materials",
+      "Metallic materials"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Inside a Vavilov-Cherenkov cone, the inverse Doppler effect is what?",
+    "choices": [
+      "Observed",
+      "Predicted",
+      "Guaranteed",
+      "Impossible"
+    ],
+    "answer": 1
+  }
+]

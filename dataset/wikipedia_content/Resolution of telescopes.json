@@ -1,0 +1,452 @@
+[
+  {
+    "question": "What is the primary function of a telescope?",
+    "choices": [
+      "To measure the distance to nearby stars.",
+      "To observe distant objects by their emission, absorption, or reflection of electromagnetic radiation.",
+      "To analyze the chemical composition of planets.",
+      "To track the movement of artificial satellites."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What were the first practical telescopes?",
+    "choices": [
+      "Reflecting telescopes with metal mirrors.",
+      "Radio telescopes.",
+      "Refracting telescopes with glass lenses.",
+      "Infrared telescopes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which type of telescope uses mirrors to collect and focus light?",
+    "choices": [
+      "Refracting telescope.",
+      "Radio telescope.",
+      "Reflecting telescope.",
+      "Gamma-ray telescope."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When were radio telescopes invented?",
+    "choices": [
+      "Early 17th century.",
+      "Late 18th century.",
+      "Early 19th century.",
+      "20th century."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When were infrared telescopes invented?",
+    "choices": [
+      "Early 17th century.",
+      "1930s.",
+      "1960s.",
+      "21st century."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who coined the word 'telescope'?",
+    "choices": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Hans Lipperhey",
+      "Giovanni Demisiani"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "From which language does the word 'telescope' originate?",
+    "choices": [
+      "Latin",
+      "Dutch",
+      "Greek",
+      "Italian"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does 'tele' mean in ancient Greek?",
+    "choices": [
+      "Light",
+      "See",
+      "Far",
+      "Observe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does 'skopein' mean in ancient Greek?",
+    "choices": [
+      "Distant",
+      "To look or see",
+      "Instrument",
+      "Observation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does 'teleskopos' mean?",
+    "choices": [
+      "Far light",
+      "Far seeing",
+      "Observe light",
+      "See instrument"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is credited with submitting the earliest existing record of a telescope?",
+    "choices": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Hans Lipperhey",
+      "Johannes Kepler"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year was the earliest record of a telescope submitted?",
+    "choices": [
+      "1508",
+      "1608",
+      "1708",
+      "1808"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of telescope was Hans Lipperhey's?",
+    "choices": [
+      "Reflecting telescope",
+      "Refracting telescope",
+      "Radio telescope",
+      "Infrared telescope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who built the first practical reflecting telescope?",
+    "choices": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Hans Lipperhey",
+      "Johannes Kepler"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What invention partially corrected color aberrations in refracting telescopes?",
+    "choices": [
+      "Parabolic mirror",
+      "Achromatic lens",
+      "Speculum metal mirror",
+      "Aluminized mirror"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are space telescopes necessary for certain wavelengths?",
+    "choices": [
+      "They provide a closer view of celestial objects.",
+      "The Earth's atmosphere is opaque to most of the electromagnetic spectrum.",
+      "Space telescopes are easier to maintain.",
+      "Space telescopes are cheaper to build."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is an advantage of launching a telescope into space?",
+    "choices": [
+      "Lower cost",
+      "Ease of maintenance",
+      "Elimination of atmospheric interference",
+      "Larger size"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a disadvantage of launching a telescope into space?",
+    "choices": [
+      "Lack of atmosphere",
+      "Low operating costs",
+      "Limited size",
+      "High image resolution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which wavelengths does the Hubble Space Telescope detect?",
+    "choices": [
+      "Infrared only",
+      "Radio waves only",
+      "Visible light, ultraviolet, and near-infrared",
+      "X-rays and gamma rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which space telescope detects infrared radiation?",
+    "choices": [
+      "Hubble Space Telescope",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope",
+      "James Webb Space Telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens as wavelengths become longer?",
+    "choices": [
+      "It becomes harder to use antenna technology.",
+      "It becomes easier to use antenna technology.",
+      "The wavelengths are not affected by antenna technology.",
+      "The wavelengths are absorbed by the antenna."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these telescopes operates more like a radio telescope?",
+    "choices": [
+      "Spitzer Space Telescope",
+      "Hubble Space Telescope",
+      "James Clerk Maxwell Telescope",
+      "James Webb Space Telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of optics is used for shorter wavelengths?",
+    "choices": [
+      "Fully reflecting optics",
+      "Glancing-incident optics",
+      "Refracting optics",
+      "Diffracting optics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a larger aperture enable?",
+    "choices": [
+      "Only more light to be collected",
+      "Only a finer angular resolution",
+      "Both more light collection and a finer angular resolution",
+      "A wider field of view only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the classifications of telescopes by location?",
+    "choices": [
+      "Ground, radio, and optical telescopes",
+      "Ground, space, and flying telescopes",
+      "Reflecting, refracting, and catadioptric telescopes",
+      "Amateur and professional telescopes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the typical function of a large dish radio telescope?",
+    "choices": [
+      "Magnifies images",
+      "Collects radio waves",
+      "Focuses visible light",
+      "Detects infrared radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the dishes of a radio telescope sometimes constructed of?",
+    "choices": [
+      "Solid metal",
+      "Conductive wire mesh",
+      "Glass",
+      "Plastic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a focal-plane array?",
+    "choices": [
+      "A single receiver in a radio telescope dish.",
+      "An array of several receivers in a single radio telescope dish.",
+      "The dish of the telescope itself.",
+      "A type of optical lens used in radio telescopes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are multi-dish arrays known as?",
+    "choices": [
+      "Radio reflectors",
+      "Optical interferometers",
+      "Astronomical interferometers",
+      "Aperture masks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is aperture synthesis?",
+    "choices": [
+      "The process of magnifying images in optical telescopes",
+      "The technique of computing high-resolution images by correlating signals received by several dishes",
+      "The construction of radio telescope dishes using wire mesh",
+      "The use of a single receiver in a radio telescope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What part of the electromagnetic spectrum does an optical telescope primarily gather light from?",
+    "choices": [
+      "Radio waves",
+      "Infrared",
+      "Visible light",
+      "X-rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do optical telescopes increase?",
+    "choices": [
+      "Apparent distance of objects only",
+      "Apparent angular size and brightness of objects",
+      "Actual size of objects only",
+      "Actual brightness of objects only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What optical element(s) do telescopes employ to gather light and electromagnetic radiation?",
+    "choices": [
+      "Flat mirrors",
+      "Curved mirrors only",
+      "Curved optical elements, usually lenses and/or mirrors",
+      "Prisms"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which type of optical telescope uses lenses to form an image?",
+    "choices": [
+      "Reflecting telescope",
+      "Catadioptric telescope",
+      "Refracting telescope",
+      "Radio telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a Fresnel imager?",
+    "choices": [
+      "A type of reflecting telescope",
+      "A proposed design for a space telescope that uses a Fresnel lens to focus light",
+      "A type of radio telescope",
+      "A sub-type of reflecting telescope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why must ultraviolet observations be performed from the upper atmosphere or from space?",
+    "choices": [
+      "Ultraviolet light is blocked by clouds",
+      "Ultraviolet light is too intense on the ground",
+      "Most ultraviolet light is absorbed by the Earth's atmosphere",
+      "Ultraviolet light interferes with other telescopes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of optics do X-ray telescopes use?",
+    "choices": [
+      "Refracting lenses",
+      "Radio dishes",
+      "X-ray optics, such as Wolter telescopes",
+      "Fresnel lenses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who outlined ways to build a telescope using only 'glancing' mirrors?",
+    "choices": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Hans Wolter",
+      "Johannes Kepler"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What shape are the mirrors of the Wolter telescope?",
+    "choices": [
+      "Flat",
+      "Spherical",
+      "Section of a rotated parabola and a hyperbola, or ellipse",
+      "Cylindrical"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What allows the NuSTAR X-ray Telescope to detect photon energies of 79 keV?",
+    "choices": [
+      "Larger mirrors",
+      "A long deployable mast",
+      "Special filters",
+      "More sensitive detectors"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do higher energy X-ray and gamma-ray telescopes form an image?",
+    "choices": [
+      "By using fully reflecting optics.",
+      "By refracting light through lenses.",
+      "By using coded aperture masks.",
+      "By directly focusing the radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are X-ray and Gamma-ray telescopes usually installed on high-flying balloons or Earth-orbiting satellites?",
+    "choices": [
+      "They need to be closer to celestial objects.",
+      "The Earth's atmosphere is opaque to this part of the electromagnetic spectrum.",
+      "They need to avoid radio interference.",
+      "They need to be shielded from visible light."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is an example of a gamma-ray detector based on Water Cherenkov Detectors (WCDs)?",
+    "choices": [
+      "H.E.S.S.",
+      "VERITAS",
+      "HAWC",
+      "CTA"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the discovery in 2012 allow for gamma-ray telescopes?",
+    "choices": [
+      "Increased resolution",
+      "Decreased cost",
+      "Focusing",
+      "Detection of lower energy gamma rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At what photon energies does the index of refraction start to increase again for gamma rays?",
+    "choices": [
+      "70 keV",
+      "700 keV",
+      "7 MeV",
+      "70 MeV"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,1072 @@
+[
+  {
+    "question": "What is the nickname for Mars?",
+    "choices": [
+      "The Blue Planet",
+      "The Green Planet",
+      "The Red Planet",
+      "The Yellow Planet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the average surface pressure of Mars' atmosphere compared to Earth's?",
+    "choices": [
+      "About the same",
+      "About ten times greater",
+      "About a hundredth",
+      "About half"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a major component of the Martian atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Martian dichotomy?",
+    "choices": [
+      "The difference in color between the northern and southern hemispheres",
+      "The north-south division of terrain, with flat plains in the north and cratered highlands in the south",
+      "The difference in the number of moons orbiting Mars",
+      "The contrast in atmospheric pressure between the poles and the equator"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how long is a Martian year compared to an Earth year?",
+    "choices": [
+      "About the same",
+      "Approximately half as long",
+      "Approximately twice as long",
+      "Approximately three times as long"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the article, what process resulted in the formation of Mars?",
+    "choices": [
+      "Deliberate construction by an alien civilization",
+      "Run-away accretion from the protoplanetary disk",
+      "A collision between two other planets",
+      "Ejection from Jupiter's gravitational field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which elements are more common on Mars than Earth, according to the article?",
+    "choices": [
+      "Iron, Magnesium, and Aluminum",
+      "Silicon, Oxygen, and Calcium",
+      "Chlorine, Phosphorus, and Sulfur",
+      "Carbon, Hydrogen, and Helium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What event might have created the Borealis basin?",
+    "choices": [
+      "Volcanic eruption",
+      "Tectonic shift",
+      "Impact by a Pluto-sized body",
+      "Erosion by ancient oceans"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which moon of Mars may have been part of a ring system?",
+    "choices": [
+      "Europa",
+      "Phobos",
+      "Deimos",
+      "Ganymede"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What suggests that Mars may have once had a ring system?",
+    "choices": [
+      "The composition of its atmosphere",
+      "The orbital inclination of Deimos",
+      "The presence of volcanic activity",
+      "The discovery of fossilized bacteria"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During which period did the formation of the oldest extant surfaces of Mars occur?",
+    "choices": [
+      "Amazonian Period",
+      "Hesperian Period",
+      "Noachian Period",
+      "Modern Period"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which geological period on Mars is marked by extensive lava plains?",
+    "choices": [
+      "Noachian",
+      "Amazonian",
+      "Hesperian",
+      "Arsia Mons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "During which period did Olympus Mons form?",
+    "choices": [
+      "Noachian period",
+      "Hesperian period",
+      "Amazonian period",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how old are the sheet-like lava flows in the Athabasca Valles?",
+    "choices": [
+      "4.5 billion years old",
+      "3.5 billion years old",
+      "200 million years old",
+      "20 million years old"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do water flows in the grabens called the Cerberus Fossae suggest?",
+    "choices": [
+      "Ancient oceans covered Mars",
+      "Recent volcanic intrusions",
+      "Evidence of past life",
+      "The presence of a magnetic field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the diameter of Mars compared to Earth?",
+    "choices": [
+      "About the same",
+      "Approximately twice the size",
+      "Approximately half the size",
+      "Approximately one-tenth the size"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of Earth's surface gravity is Mars's surface gravity?",
+    "choices": [
+      "11%",
+      "15%",
+      "38%",
+      "62%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why does Mars have a red-orange appearance?",
+    "choices": [
+      "Due to the presence of sulfur",
+      "Due to the presence of rust",
+      "Due to the composition of its atmosphere",
+      "Due to the reflection of sunlight"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a desert planet?",
+    "choices": [
+      "A planet with a very thin atmosphere",
+      "A planet with a surface covered in ice",
+      "A rocky planet with a surface like Earth's deserts",
+      "A planet with a molten core"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What color can the surface of Mars appear to be besides red-orange?",
+    "choices": [
+      "Blue and purple",
+      "Silver and gold",
+      "Golden, brown, tan, and greenish",
+      "Black and white"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the thickness of the Martian crust?",
+    "choices": [
+      "6-117 kilometers",
+      "27 kilometers on average",
+      "100-200 kilometers",
+      "Unknown"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which elements are most abundant in the Martian crust?",
+    "choices": [
+      "Iron, Nickel, and Copper",
+      "Carbon, Hydrogen, and Oxygen",
+      "Silicon, Oxygen, and Iron",
+      "Gold, Silver, and Platinum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a marsquake?",
+    "choices": [
+      "A dust storm on Mars",
+      "A seismic event on Mars",
+      "A volcanic eruption on Mars",
+      "An impact crater on Mars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is unique about the upper Martian mantle?",
+    "choices": [
+      "It is completely molten",
+      "It is a high-velocity zone",
+      "It is a low-velocity zone",
+      "It is made of diamond"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the temperature of Mars's core estimated to be?",
+    "choices": [
+      "2000-2400 K",
+      "5400-6230 K",
+      "1000-1500 K",
+      "3000-3500 K"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the Martian surface primarily composed of?",
+    "choices": [
+      "Granite",
+      "Tholeiitic basalt",
+      "Diamond",
+      "Liquid water"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the composition of the dust that covers much of the Martian surface?",
+    "choices": [
+      "Silicon dioxide",
+      "Iron(III) oxide",
+      "Calcium carbonate",
+      "Methane hydrate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the pH of Martian soil, as measured by the Phoenix lander?",
+    "choices": [
+      "Acidic",
+      "Basic (alkaline)",
+      "Neutral",
+      "Unknown"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the commonly accepted hypotheses about the streaks that are common across Mars?",
+    "choices": [
+      "The streaks are new rivers",
+      "The streaks are growth of organisms",
+      "They are dark underlying layers of soil revealed after avalanches of bright dust or dust devils",
+      "The streaks are caused by wind erosion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the radiation levels in low Earth orbit?",
+    "choices": [
+      "0.5 millisieverts of radiation per day",
+      "0.64 millisieverts of radiation per day",
+      "1.84 millisieverts of radiation per day",
+      "0.064 millisieverts of radiation per day"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What evidence suggests that Mars may have had a magnetic field in the past?",
+    "choices": [
+      "Observations of a current global magnetic field",
+      "Magnetized crustal rocks",
+      "A strong radiation belt",
+      "Active plate tectonics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What geological feature on Earth is similar to the alternating bands found on Mars?",
+    "choices": [
+      "The Grand Canyon",
+      "Ocean floors",
+      "Mountain ranges",
+      "Volcanoes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does paleomagnetism refer to?",
+    "choices": [
+      "The study of ancient climates",
+      "The study of ancient life forms",
+      "The study of past magnetic fields",
+      "The study of plate tectonics"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was plate tectonic activity suspected to have occurred on Mars?",
+    "choices": [
+      "4.5 billion years ago",
+      "4 billion years ago",
+      "3 billion years ago",
+      "1 billion years ago"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What caused the alternating bands found on Earth's ocean floors and on Mars's crust?",
+    "choices": [
+      "Earthquakes",
+      "Asteroid impacts",
+      "Plate tectonic activity",
+      "Volcanic eruptions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who were the first areographers?",
+    "choices": [
+      "Galileo Galilei and Isaac Newton",
+      "Johann Heinrich von Mädler and Wilhelm Beer",
+      "Percival Lowell and Giovanni Schiaparelli",
+      "Merton E. Davies and Harold Masursky"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are craters larger than 50 km on Mars named?",
+    "choices": [
+      "After towns and villages",
+      "After classical mythology",
+      "After deceased scientists and writers",
+      "After rivers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What were the paler plains on Mars once thought to be?",
+    "choices": [
+      "Oceans",
+      "Deserts",
+      "Continents",
+      "Volcanoes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Planum Boreum?",
+    "choices": [
+      "The southern polar ice cap",
+      "A large canyon",
+      "A massive volcano",
+      "The permanent northern polar ice cap"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who specified the location of Mars's Prime Meridian?",
+    "choices": [
+      "Giovanni Schiaparelli",
+      "Percival Lowell",
+      "Merton E. Davies, Harold Masursky, and Gérard de Vaucouleurs",
+      "Johann Heinrich von Mädler and Wilhelm Beer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the tallest mountain in the Solar System?",
+    "choices": [
+      "Mount Everest",
+      "Olympus Mons (possibly)",
+      "Mauna Kea",
+      "Valles Marineris"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How wide is Olympus Mons?",
+    "choices": [
+      "60 km",
+      "600 km",
+      "6,000 km",
+      "60,000 km"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the height of Olympus Mons compare to Mount Everest?",
+    "choices": [
+      "It is about the same height",
+      "It is about twice as tall",
+      "It is about three times as tall",
+      "It is much smaller"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of volcano is Olympus Mons?",
+    "choices": [
+      "Stratovolcano",
+      "Shield volcano",
+      "Cinder cone",
+      "Composite volcano"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where is the Rheasilvia peak located?",
+    "choices": [
+      "Mars",
+      "Earth",
+      "Asteroid Vesta",
+      "Moon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Martian topography characterized by?",
+    "choices": [
+      "Uniform, smooth plains",
+      "Northern plains flattened by lava flows contrasting with southern cratered highlands",
+      "A single, massive mountain range",
+      "Deep, interconnected canyons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the largest impact crater in the Solar System?",
+    "choices": [
+      "Hellas Planitia",
+      "Argyre basin",
+      "Utopia Planitia",
+      "South Pole-Aitken basin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how many impact craters with a diameter of 5 kilometers or greater are on Mars?",
+    "choices": [
+      "4,300",
+      "43,000",
+      "430,000",
+      "4,300,000"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the size of Hellas Planitia?",
+    "choices": [
+      "1,400 kilometers wide and 23,000 feet deep",
+      "2,300 kilometers wide and 7,000 meters deep",
+      "1,500 kilometers wide and 3,000 meters deep",
+      "10,600 kilometers wide and 8,500 kilometers deep"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is Mars more likely to be struck by short-period comets?",
+    "choices": [
+      "It has a stronger gravitational pull",
+      "It is closer to the asteroid belt",
+      "It is located closer to the asteroid belt",
+      "Its atmosphere is more conducive to cometary entry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How long is Valles Marineris?",
+    "choices": [
+      "446 kilometers",
+      "2,500 kilometers",
+      "4,000 kilometers",
+      "7,000 kilometers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What caused the formation of Valles Marineris?",
+    "choices": [
+      "Erosion by ancient rivers",
+      "A large asteroid impact",
+      "The swelling of the Tharsis area",
+      "Tectonic plate movement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the proposed explanation for Valles Marineris being more than just a graben?",
+    "choices": [
+      "It is an ancient seabed",
+      "It is a rift valley",
+      "It is a plate boundary",
+      "It is a volcanic caldera"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the depth of Valles Marineris?",
+    "choices": [
+      "Up to 2 kilometers",
+      "Up to 4.3 miles",
+      "Up to 7 kilometers",
+      "Up to 9 kilometers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the comparison given to the length of Valles Marineris?",
+    "choices": [
+      "The length of the Grand Canyon",
+      "The length of Europe",
+      "The circumference of the Earth",
+      "The length of the Amazon River"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the collective name for the seven possible cave entrances on Arsia Mons?",
+    "choices": [
+      "The Seven Dwarfs",
+      "The Seven Sisters",
+      "The Seven Wonders",
+      "The Seven Mountains"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum estimated depth of most of the cave entrances on Arsia Mons?",
+    "choices": [
+      "10 meters",
+      "50 meters",
+      "73 meters",
+      "100 meters"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the seven cave entrances on Arsia Mons has a visible floor?",
+    "choices": [
+      "Chloe",
+      "Dena",
+      "Frances",
+      "Wendy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What may the interiors of the caverns protect from?",
+    "choices": [
+      "Gravity",
+      "Radio waves",
+      "Micrometeoroids, UV radiation, solar flares and high energy particles",
+      "The solar wind"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How are the cave entrances on Arsia Mons named?",
+    "choices": [
+      "After famous scientists",
+      "After loved ones of their discoverers",
+      "After mythological figures",
+      "After geographical locations on Earth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happened to Mars's magnetosphere?",
+    "choices": [
+      "It is still present and active",
+      "It was enhanced by a solar flare",
+      "It was lost about 4 billion years ago",
+      "It was captured by Jupiter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does the atmosphere of Mars compare to Earth's atmosphere?",
+    "choices": [
+      "It is denser",
+      "It is more rarefied",
+      "It has a higher percentage of oxygen",
+      "It has a similar atmospheric pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the mean surface pressure on Mars?",
+    "choices": [
+      "101.3 kPa",
+      "600 Pa",
+      "30 Pa",
+      "1,155 Pa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary component of Mars's atmosphere?",
+    "choices": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why does the Martian sky have a tawny color?",
+    "choices": [
+      "Due to high concentrations of oxygen",
+      "Due to iron oxide particles suspended in it",
+      "Due to the lack of atmosphere",
+      "Due to the presence of liquid water"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do Martian seasons compare to Earth seasons?",
+    "choices": [
+      "Martian seasons are shorter due to its faster orbit",
+      "Mars does not have seasons",
+      "Martian seasons are nearly twice as long as Earth seasons",
+      "Martian seasons are milder than Earth seasons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What contributes to the wide range of temperatures on Mars?",
+    "choices": [
+      "A thick atmosphere and high atmospheric pressure",
+      "The presence of large bodies of water",
+      "The thin atmosphere, low atmospheric pressure, and low thermal inertia of Martian soil",
+      "Active volcanic activity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How much sunlight does Mars receive compared to Earth?",
+    "choices": [
+      "Approximately the same amount",
+      "About 43% of the amount",
+      "About twice the amount",
+      "About 10% of the amount"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is unique about dust storms on Mars?",
+    "choices": [
+      "They are very rare",
+      "They only occur at the poles",
+      "They are the largest in the Solar System",
+      "They are caused by liquid water"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to dry ice during Martian seasons?",
+    "choices": [
+      "It melts and forms oceans",
+      "It covers polar ice caps",
+      "It turns into dust storms",
+      "It disappears completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where does most of the water on Mars exist?",
+    "choices": [
+      "In the atmosphere as vapor",
+      "In underground lakes",
+      "In rivers and oceans",
+      "As dust covered ice at the polar ice caps"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If the volume of water ice in the south polar ice cap melted, how deep would the water be if it covered the planet?",
+    "choices": [
+      "1 meter",
+      "5 meters",
+      "11 meters",
+      "20 meters"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why can't liquid water prevail on the surface of Mars?",
+    "choices": [
+      "Because of the high surface temperatures",
+      "Because of the low atmospheric pressure",
+      "Because of the lack of oxygen in the atmosphere",
+      "Because of the strong magnetic field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What forms in the atmosphere of Mars due to the presence of water?",
+    "choices": [
+      "Rain and thunderstorms",
+      "Larger clouds of water ice and different cases of snow and frost",
+      "Permanent oceans",
+      "Liquid water rivers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is dry ice?",
+    "choices": [
+      "Water ice",
+      "Carbon dioxide ice",
+      "Methane ice",
+      "Nitrogen ice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are outflow channels thought to be a record of?",
+    "choices": [
+      "Wind erosion",
+      "Tectonic plate movement",
+      "Catastrophic release of water from subsurface aquifers",
+      "Volcanic activity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What evidence suggests that precipitation occurred in early Mars history?",
+    "choices": [
+      "The presence of outflow channels",
+      "Finer-scale, dendritic networks of valleys",
+      "The discovery of hematite",
+      "The detection of perchlorates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where are Martian gullies typically found?",
+    "choices": [
+      "In the northern plains",
+      "In the highlands of the Southern Hemisphere facing the Equator",
+      "Around volcanoes",
+      "Near impact craters"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is thought to be the origin of liquid water involved in the formation of Martian gullies?",
+    "choices": [
+      "Rainwater",
+      "Melting ice",
+      "Seawater",
+      "Underground aquifers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is hematite?",
+    "choices": [
+      "A type of volcanic rock",
+      "A type of sedimentary rock",
+      "A mineral that sometimes forms in the presence of water",
+      "A type of Martian soil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What mineral did Opportunity detect in 2004 that indicates water once existed on Mars?",
+    "choices": [
+      "Hematite",
+      "Gypsum",
+      "Jarosite",
+      "Olivine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What mineral was found on the surface of Mars by the Mars rover Opportunity in 2011?",
+    "choices": [
+      "Quartz",
+      "Calcite",
+      "Gypsum",
+      "Halite"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the estimated amount of water in the upper mantle of Mars, represented by hydroxyl ions?",
+    "choices": [
+      "Less than Earth's",
+      "Equal to or greater than Earth's",
+      "Significantly less than Earth's",
+      "Unknown"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In 2013, what evidence did NASA report from the Curiosity rover regarding mineral hydration?",
+    "choices": [
+      "Liquid water on the surface",
+      "Hydrated calcium sulfate in rock samples",
+      "Vast underground oceans",
+      "Ice volcanoes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What were the dark streaks flowing downhill in Martian summer speculated to be?",
+    "choices": [
+      "Flowing lava",
+      "Hydrated brine flows",
+      "Dust devils",
+      "Glacial activity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how long is Mars's orbital period?",
+    "choices": [
+      "365 Earth days",
+      "687 Earth days",
+      "730 Earth days",
+      "820 Earth days"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How long is a solar day (sol) on Mars?",
+    "choices": [
+      "24 hours",
+      "24.6 hours",
+      "25 hours",
+      "23.9 hours"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the axial tilt of Mars?",
+    "choices": [
+      "23.5 degrees",
+      "25.19 degrees",
+      "0 degrees",
+      "90 degrees"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does Mars's orbital eccentricity compare to Earth's?",
+    "choices": [
+      "It is the same",
+      "It is smaller",
+      "It is more pronounced",
+      "Mars has no orbital eccentricity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the average time between successive oppositions of Mars?",
+    "choices": [
+      "365 days",
+      "687 days",
+      "780 days",
+      "812 days"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the mean apparent magnitude of Mars?",
+    "choices": [
+      "-3.0",
+      "+0.71",
+      "+1.86",
+      "+3.0"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What color does Mars usually appear to be?",
+    "choices": [
+      "Blue",
+      "Green",
+      "Yellow, orange, or red",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate resolving capability of optical ground-based telescopes when Earth and Mars are closest?",
+    "choices": [
+      "30 kilometers",
+      "300 kilometers",
+      "3,000 kilometers",
+      "30,000 kilometers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is retrograde motion?",
+    "choices": [
+      "The forward movement of a planet",
+      "The rotation of a planet on its axis",
+      "The apparent backward movement of a planet",
+      "The elliptical orbit of a planet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How long does the retrograde motion of Mars last?",
+    "choices": [
+      "30 days",
+      "72 days",
+      "1 year",
+      "2 years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the names of Mars's two moons?",
+    "choices": [
+      "Titan and Europa",
+      "Io and Ganymede",
+      "Phobos and Deimos",
+      "Callisto and Rhea"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Greek mythology, what did Phobos and Deimos accompany their father Ares as?",
+    "choices": [
+      "Guides",
+      "Guards",
+      "Twins of panic and terror",
+      "Messengers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to Phobos as a result of tidal forces from Mars?",
+    "choices": [
+      "Its orbit is gradually rising",
+      "It is being pushed further away from Mars",
+      "Its orbit is gradually lowering",
+      "Its orbit is becoming more eccentric"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the most popular theory about the origin of Phobos and Deimos?",
+    "choices": [
+      "They were formed from debris from a large impact on Mars",
+      "They were created during the planet's formation",
+      "They were asteroids captured into Martian orbit",
+      "They are remnants of a larger moon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What may be another origin of Phobos, other than being captured asteroids?",
+    "choices": [
+      "That Phobos had a low porous interior",
+      "That Phobos had a ring structure",
+      "That Phobos spectra of themal infrared are chondrites of any class",
+      "That Phobos had a high porous interior and that it was created from material ejected by an impact on Mars that reaccreted in Martian orbit"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did the ancient Sumerians name Mars?",
+    "choices": [
+      "Ares",
+      "Nergal",
+      "Mars",
+      "Πυρόεις"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who first recorded the existence of Mars as a wandering object in the night sky?",
+    "choices": [
+      "The ancient Romans",
+      "The ancient Greeks",
+      "The ancient Babylonians",
+      "The ancient Egyptian astronomers"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Ptolemy present in the Almagest?",
+    "choices": [
+      "A heliocentric model of the solar system",
+      "Observations of Mars's moons",
+      "A model of the orbital motion of Mars",
+      "A description of Martian canali"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the traditional name for Mars in East Asian cultures?",
+    "choices": [
+      "The water star",
+      "The metal star",
+      "The fire star",
+      "The earth star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Aristotle note regarding Mars in the fourth century BCE?",
+    "choices": [
+      "Mars was closer than the Moon",
+      "Mars had moons",
+      "Mars disappeared behind the Moon during an occultation",
+      "Mars had a habitable atmosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Johannes Kepler deduce from Tycho Brahe's observations of Mars?",
+    "choices": [
+      "Mars orbits the Sun in a perfect circle",
+      "Mars is at the center of the solar system",
+      "Mars orbits the Sun in an ellipse",
+      "Mars does not move"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who made the first telescopic observation of Mars?",
+    "choices": [
+      "Isaac Newton",
+      "Tycho Brahe",
+      "Johannes Kepler",
+      "Galileo Galilei"
+    ],
+    "answer": 3
+  }
+]

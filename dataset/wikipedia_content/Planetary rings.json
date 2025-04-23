@@ -1,0 +1,703 @@
+[
+  {
+    "question": "Which of the following is NOT a common component of a ring system?",
+    "choices": [
+      "Dust",
+      "Meteoroids",
+      "Planetoids",
+      "Stellar objects",
+      "Gas"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Ring systems are most commonly associated with which type of astronomical object?",
+    "choices": [
+      "Stars",
+      "Giant Planets",
+      "Dwarf Planets",
+      "Asteroids"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Besides planets, ring systems have been suggested to exist around which other type of object?",
+    "choices": [
+      "Black Holes",
+      "Nebulae",
+      "Moons",
+      "Comets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following planets does NOT have a ring system?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Venus",
+      "Neptune"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The asteroid belt can be considered a type of...",
+    "choices": [
+      "Galactic ring",
+      "Circumstellar disc",
+      "Belt of planetoids",
+      "Ring of interplanetary dust"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the article, where does the material for thicker planetary rings originate?",
+    "choices": [
+      "Solar wind",
+      "Protoplanetary disk within the Roche limit",
+      "Interstellar dust",
+      "Volcanic activity on the planet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What force is responsible for disrupting moons that form ring systems?",
+    "choices": [
+      "Solar flares",
+      "Magnetic fields",
+      "Tidal stresses",
+      "Electromagnetic radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What appears to be the primary source for fainter planetary rings?",
+    "choices": [
+      "Cryovolcanic ejecta",
+      "Black hole accretion",
+      "Nebular gasses",
+      "Artificial satellite decay"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most likely source of material in rings formed around centaurs after a close encounter with a giant planet?",
+    "choices": [
+      "Heavy metals from the centaur's core",
+      "Icy mantle from the parent body",
+      "The giant planet's atmosphere",
+      "Pre-existing asteroid belts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of centaurs does the article predict will have experienced ring forming encounters?",
+    "choices": [
+      "1%",
+      "10%",
+      "50%",
+      "90%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are planetary ring particles primarily composed of?",
+    "choices": [
+      "Heavy metals",
+      "Gases",
+      "Silicates and icy dust",
+      "Plasma"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What determines the maximum size of ring particles?",
+    "choices": [
+      "The color of the ring",
+      "The magnetic field of the planet",
+      "The material strength, density, and tidal force",
+      "The planet's rotation speed"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the function of Shepherd Moons?",
+    "choices": [
+      "To add material to the rings",
+      "To serve as a navigation point for space ships",
+      "To maintain the rings' sharply defined edge",
+      "To provide light to the rings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is predicted to happen to Mars' moon Phobos?",
+    "choices": [
+      "It will collide with Mars.",
+      "It will be ejected from the solar system.",
+      "It will break up and form a planetary ring.",
+      "It will become a shepherd moon for another planet."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "To what is tidal force proportional to?",
+    "choices": [
+      "Orbital period squared",
+      "Average density outside the radius of the ring",
+      "Orbital period cubed",
+      "Average density inside the radius of the ring"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When was Jupiter's ring system first observed?",
+    "choices": [
+      "1610",
+      "1850",
+      "1979",
+      "2000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which spacecraft made the first observations of Jupiter's rings?",
+    "choices": [
+      "Cassini",
+      "Voyager 1",
+      "Hubble Space Telescope",
+      "Galileo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the composition of Jupiter's ring system?",
+    "choices": [
+      "Primarily ice",
+      "Primarily dust",
+      "Primarily rock",
+      "Equal amounts of ice, dust, and rock"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the four main parts of Jupiter's ring system?",
+    "choices": [
+      "A, B, C, D",
+      "Alpha, Beta, Gamma, Delta",
+      "Main ring, Halo, E ring, G ring",
+      "Halo, Main ring, Gossamer rings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the shape of Jupiter's Halo ring?",
+    "choices": [
+      "Thin",
+      "Thick torus",
+      "Flat disc",
+      "Spiral"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who first observed Saturn's rings?",
+    "choices": [
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Christiaan Huygens"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who accurately described Saturn's rings as a disk around the planet?",
+    "choices": [
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Christiaan Huygens"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary composition of Saturn's rings?",
+    "choices": [
+      "Water ice",
+      "Rock",
+      "Metallic elements",
+      "Organic compounds"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the range of particle sizes in Saturn's rings?",
+    "choices": [
+      "Nanometers to micrometers",
+      "Centimeters to kilometers",
+      "Micrometers to meters",
+      "Meters to hundreds of meters"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How would you describe the density of Saturn's rings?",
+    "choices": [
+      "Uniform throughout",
+      "A series of distinct, narrow ringlets",
+      "A disk with varying density",
+      "Almost entirely empty space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When were the rings of Uranus discovered?",
+    "choices": [
+      "1655",
+      "1781",
+      "1977",
+      "1989"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What contributes to the lack of dust in Uranus' rings?",
+    "choices": [
+      "High solar winds",
+      "Aerodynamic drag from Uranus' extended exosphere-corona",
+      "Strong magnetic fields",
+      "Dense atmospheric conditions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how many distinct rings have been identified around Uranus?",
+    "choices": [
+      "5",
+      "13",
+      "25",
+      "100"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the likely composition of the rings of Uranus?",
+    "choices": [
+      "Pure ice",
+      "Liquid water",
+      "Water ice and radiation-processed organics",
+      "Volcanic rock"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What characterized the width of most of Uranus' rings?",
+    "choices": [
+      "Hundreds of kilometers wide",
+      "Tens of kilometers wide",
+      "Few kilometers wide",
+      "Less than 1 km wide"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do Neptune's rings compare to Saturn's?",
+    "choices": [
+      "Denser and brighter",
+      "Comparable to the densest regions of Saturn's rings",
+      "Comparable to the low-density regions of Saturn's rings",
+      "Made entirely of dust"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of Neptune's rings is dust?",
+    "choices": [
+      "Less than 1%",
+      "1 to 5%",
+      "20 to 70%",
+      "Over 90%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When were Neptune's rings conclusively discovered?",
+    "choices": [
+      "1846",
+      "1977",
+      "1989",
+      "2000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the likely composition of the very dark material making up Neptune's rings?",
+    "choices": [
+      "Pure carbon",
+      "Volcanic ash",
+      "Organics processed by radiation",
+      "Metallic compounds"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What spacecraft confirmed Neptune's rings?",
+    "choices": [
+      "Galileo",
+      "Cassini",
+      "Voyager 2",
+      "New Horizons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What geologic period do scientists believe Earth had a ring system?",
+    "choices": [
+      "Cambrian",
+      "Jurassic",
+      "Ordovician",
+      "Neogene"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What caused the Earth's potential ring system?",
+    "choices": [
+      "A large volcanic eruption",
+      "A passing asteroid that was stripped of debris",
+      "The breakup of a former moon",
+      "A collision with another planet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What evidence supports the Earth's ring system hypothesis?",
+    "choices": [
+      "Fossil records showing ring debris",
+      "Impact craters clustered in a band around the Earth's equator",
+      "Geological dating of rock formations",
+      "Chemical analysis of Earth's core"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What cooling event may have been a result of Earth's hypothetical ring system?",
+    "choices": [
+      "The Younger Dryas",
+      "The Holocene climatic optimum",
+      "The Hirnantian glaciation",
+      "The Paleocene-Eocene Thermal Maximum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How long may Earth's ring system have lasted?",
+    "choices": [
+      "10 years",
+      "1,000 years",
+      "40 million years",
+      "1 billion years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Initially, what celestial body was thought to possibly have a ring system, making it the only moon known to have one?",
+    "choices": [
+      "Titan",
+      "Rhea",
+      "Ganymede",
+      "Europa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What observation contradicted the hypothesis that Rhea had a ring system?",
+    "choices": [
+      "Changes in gravitational pull",
+      "Temperature fluctuations",
+      "Imaging from the Cassini spacecraft",
+      "Spectroscopic analysis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was hypothesized about Pluto and Charon before the arrival of New Horizons?",
+    "choices": [
+      "They had a rocky surface.",
+      "They had a circumbinary ring system.",
+      "They had a liquid ocean beneath the surface.",
+      "They had active volcanoes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the main danger that a ring system around Pluto and Charon would pose to New Horizons?",
+    "choices": [
+      "Radiation damage",
+      "Dust collisions",
+      "Gravitational anomalies",
+      "Atmospheric interference"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Did New Horizons detect any dust rings around Pluto?",
+    "choices": [
+      "Yes, several rings were discovered",
+      "Yes, but only one faint ring",
+      "No, but there was evidence of debris",
+      "No, no rings or debris were detected"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of minor planet was 10199 Chariklo?",
+    "choices": [
+      "Asteroid",
+      "Kuiper belt object",
+      "Centaur",
+      "Trojan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How was the ring system of Chariklo discovered?",
+    "choices": [
+      "Direct observation with a telescope",
+      "Analysis of gravitational perturbations",
+      "Stellar occultation",
+      "Radar imaging"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What evidence supported the hypothesis that the observed dips in brightness were due to rings?",
+    "choices": [
+      "The dips were only observed at one location",
+      "The dips were observed at multiple locations",
+      "The dips coincided with known moon positions",
+      "The dips occurred after a known meteor impact"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a potential origin of Chariklo's rings?",
+    "choices": [
+      "Capture of asteroids",
+      "Volcanic activity",
+      "A collision that caused debris to orbit it",
+      "Solar wind interacting with the surface"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the nicknames given to Chariklo's rings by their discoverers?",
+    "choices": [
+      "Alpha and Beta",
+      "Oiapoque and Chuí",
+      "A and B",
+      "Inner and Outer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of minor planet is 2060 Chiron?",
+    "choices": [
+      "Asteroid",
+      "Kuiper Belt Object",
+      "Centaur",
+      "Trojan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What initially led scientists to believe that Chiron might have rings?",
+    "choices": [
+      "Direct imaging",
+      "Changes in Chiron's rotation",
+      "Stellar-occultation data initially interpreted as jets",
+      "Changes in infrared spectrum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is thought to maintain Chiron's rings?",
+    "choices": [
+      "Gravitational influence from a nearby star",
+      "Orbiting material ejected during seasonal outbursts",
+      "Electromagnetic forces",
+      "Tidal interactions with a nearby planet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What observation confirms the ring hypothesis?",
+    "choices": [
+      "Constant ring radius",
+      "Changing appearance at different viewing angles",
+      "Lack of dust within the rings",
+      "High albedo rings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How did one of Chiron's rings change over time?",
+    "choices": [
+      "It disappeared completely",
+      "It changed color",
+      "It went from a partial to a full ring",
+      "It changed its composition"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of celestial body is Haumea?",
+    "choices": [
+      "Asteroid",
+      "Comet",
+      "Dwarf planet",
+      "Exoplanet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How was the ring around Haumea discovered?",
+    "choices": [
+      "Through direct imaging by the Hubble Space Telescope",
+      "By analyzing its gravitational effects on nearby objects",
+      "By observing a stellar occultation",
+      "By measuring its magnetic field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of Haumea's moons shares a plane with its ring?",
+    "choices": [
+      "Namaka",
+      "Hi'iaka",
+      "Charon",
+      "Dysnomia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which resonance is close to Haumea's ring?",
+    "choices": [
+      "1:1",
+      "2:1",
+      "3:1",
+      "4:1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where is Haumea's ring located in relation to its Roche limit?",
+    "choices": [
+      "Well outside the Roche limit",
+      "Very close to the Roche limit",
+      "Well within the Roche limit",
+      "Exactly on the Roche limit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of celestial body is Quaoar?",
+    "choices": [
+      "Asteroid",
+      "Kuiper belt object",
+      "Centaur",
+      "Trojan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many rings does Quaoar have?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which property is NOT descriptive of Quaoar's ring system?",
+    "choices": [
+      "Widely separated rings",
+      "Outer rings beyond Roche limit",
+      "Diffuse sections",
+      "Homogenous, dark black"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How did astronomers discover Quaoar's ring system?",
+    "choices": [
+      "Direct observation with a telescope",
+      "Analysis of gravitational perturbations",
+      "Stellar occultation",
+      "Radar imaging"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the distance of Quaoar's outer ring from the dwarf planet's radius?",
+    "choices": [
+      "Approximately 2 times the radius of Quaoar",
+      "Approximately 4.6 times the radius of Quaoar",
+      "Approximately 7.5 times the radius of Quaoar",
+      "Approximately 10 times the radius of Quaoar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How are exoplanetary ring systems typically detected?",
+    "choices": [
+      "Direct observation through telescopes",
+      "Analysis of gravitational lensing",
+      "Additional reduction of light of the central star during transit",
+      "Changes in the exoplanet's orbital period"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary material that can form stable rings around exoplanets within the frost line?",
+    "choices": [
+      "Ice",
+      "Gas",
+      "Rocky material",
+      "Metallic hydrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What unusual feature was observed about Fomalhaut b?",
+    "choices": [
+      "Extremely high temperature",
+      "Unusually dense atmosphere",
+      "Large and unclearly defined structure",
+      "Retrograde orbit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the most likely explanation for the odd characteristics of Fomalhaut b?",
+    "choices": [
+      "A very young planet still forming",
+      "A cloud of dust attracted from the dust disc of the star",
+      "An expanding debris cloud from an asteroid collision",
+      "A rogue planet passing through the system"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What observation suggests that Proxima Centauri c may have a ring system?",
+    "choices": [
+      "Unusual brightness",
+      "Rapid rotation",
+      "Anomalous magnetic field",
+      "Unexplained changes in orbital inclination"
+    ],
+    "answer": 0
+  }
+]

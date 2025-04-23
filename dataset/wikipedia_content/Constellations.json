@@ -1,0 +1,582 @@
+[
+  {
+    "question": "What is a constellation?",
+    "choices": [
+      "A bright star in the night sky",
+      "An area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline",
+      "A planet visible without a telescope",
+      "A type of comet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did people likely use constellations for in prehistory?",
+    "choices": [
+      "To predict the weather",
+      "To track the movement of animals",
+      "To relate stories of their beliefs, experiences, creation, and mythology",
+      "To calculate planting seasons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the ecliptic?",
+    "choices": [
+      "The apparent path of the Sun, Moon, and planets across the sky",
+      "The boundary of a constellation",
+      "A group of stars that appear to move together",
+      "The Earth's orbit around the Sun"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who listed the traditional 48 constellations, consisting of the zodiac and 36 more?",
+    "choices": [
+      "Hesiod",
+      "Eudoxus",
+      "Aratus",
+      "Ptolemy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When did the International Astronomical Union (IAU) formally accept the modern list of 88 constellations?",
+    "choices": [
+      "1850",
+      "1900",
+      "1922",
+      "2000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the Late Latin term 'cōnstellātiō' translate to?",
+    "choices": [
+      "Bright light",
+      "Celestial sphere",
+      "Set of stars",
+      "Ancient god"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Ancient Greek word for constellation?",
+    "choices": [
+      "cosmos",
+      "astron",
+      "uranus",
+      "galaxy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a constellation or star that never sets below the horizon called?",
+    "choices": [
+      "Equatorial",
+      "Circumpolar",
+      "Zodiacal",
+      "Ecliptic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary reason constellations change slowly over time?",
+    "choices": [
+      "Earth's rotation",
+      "The expansion of the universe",
+      "Each star has its own independent motion",
+      "Changes in Earth's atmosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are many officially recognized constellations based on?",
+    "choices": [
+      "Mathematical calculations",
+      "Random patterns in the sky",
+      "Ancient, Near Eastern and Mediterranean mythologies",
+      "Modern scientific observations"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do constellation positions change throughout the year?",
+    "choices": [
+      "Due to the gravitational pull of the moon",
+      "Because of Earth's axial tilt",
+      "Due to night on Earth occurring at gradually different portions of its orbit around the Sun",
+      "Because of the expansion of the universe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate tilt of the Earth's axis?",
+    "choices": [
+      "13.5 degrees",
+      "23.5 degrees",
+      "33.5 degrees",
+      "43.5 degrees"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where does the zodiac appear directly overhead?",
+    "choices": [
+      "North Pole",
+      "Equator",
+      "From latitudes of 23.5° north to 23.5° south, depending on the time of year",
+      "South Pole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate tilt of the Solar System's galactic plane relative to the ecliptic?",
+    "choices": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where can the Galactic Center be found?",
+    "choices": [
+      "Between Taurus and Gemini",
+      "Near Aquila",
+      "Near Cygnus",
+      "Between Scorpius and Sagittarius"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What constellation is Polaris part of?",
+    "choices": [
+      "Ursa Major",
+      "Cassiopeia",
+      "Ursa Minor",
+      "Orion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From latitudes of around 35° north, which constellation appears to the northeast in January?",
+    "choices": [
+      "Pisces",
+      "Aries",
+      "Ursa Major",
+      "Cassiopeia"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which constellation contains the Northern Cross?",
+    "choices": [
+      "Hercules",
+      "Cygnus",
+      "Boötes",
+      "Virgo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "From latitudes of around 35° north, where is Virgo located in July?",
+    "choices": [
+      "To the east",
+      "To the west",
+      "To the south",
+      "To the northeast"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "From latitudes of around 35° north, where is Ursa Major located in July?",
+    "choices": [
+      "In the northwest",
+      "In the northeast",
+      "In the southeast",
+      "In the southwest"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which constellations are located near Hydrus and Mensa in the southern hemisphere in January?",
+    "choices": [
+      "Ara and Scorpius",
+      "Chamaeleon and Apus",
+      "Pictor and Reticulum",
+      "Pavo and Hydrus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which constellation is adjacent to Triangulum Australe in July?",
+    "choices": [
+      "Scorpius",
+      "Centaurus",
+      "Ara",
+      "Pavo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which star is closest to approximating a southern pole star?",
+    "choices": [
+      "Alpha Centauri",
+      "Beta Centauri",
+      "Sigma Octantis",
+      "Pavo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which constellation is used in conjunction with Alpha and Beta Centauri to triangulate the south pole?",
+    "choices": [
+      "Triangulum Australe",
+      "Crux",
+      "Pavo",
+      "Hydrus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which constellations are located near the southern pole star?",
+    "choices": [
+      "Ara and Scorpius",
+      "Chamaeleon, Apus and Triangulum Australe",
+      "Pictor and Reticulum",
+      "Pavo, Crux and Hydrus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where are the 17,000-year-old cave paintings suggested to depict star constellations located?",
+    "choices": [
+      "Mesopotamia",
+      "Ancient Egypt",
+      "Lascaux Caves, southern France",
+      "Ancient China"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What provides the earliest generally accepted evidence for humankind's identification of constellations?",
+    "choices": [
+      "Greek mythology",
+      "Mesopotamian inscribed stones and clay writing tablets",
+      "Egyptian hieroglyphics",
+      "Chinese oracle bones"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Around what time period were the bulk of Mesopotamian constellations created?",
+    "choices": [
+      "5000 to 4000 BC",
+      "3000 to 2000 BC",
+      "1300 to 1000 BC",
+      "500 to 100 BC"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which version of the Babylonian constellations did the Greeks adopt?",
+    "choices": [
+      "Neo-Babylonian constellations from the 6th century BC",
+      "Sumerian constellations from the Early Bronze Age",
+      "Assyrian constellations from the Iron Age",
+      "Akkadian constellations from the Copper Age"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which biblical book mentions constellations such as 'Ayish, chesil, and chimah?",
+    "choices": [
+      "Genesis",
+      "Exodus",
+      "Book of Job",
+      "Revelation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who introduced the Babylonian astronomical system to Greece?",
+    "choices": [
+      "Hesiod",
+      "Ptolemy",
+      "Eudoxus of Cnidus",
+      "Aratus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of Ptolemy's work that remained the standard definition of constellations in the medieval period?",
+    "choices": [
+      "Works and Days",
+      "Phenomena",
+      "Metamorphoses",
+      "Almagest"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Where does the zodiac of Dendera originate from?",
+    "choices": [
+      "Greece",
+      "Babylon",
+      "Egypt",
+      "Rome"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "During which period were most native Egyptian tradition of anthropomorphic figures represented the planets, stars, and various constellations placed?",
+    "choices": [
+      "Old Kingdom",
+      "Middle Kingdom",
+      "New Kingdom",
+      "Roman period"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "During what dynasty have nonspecific Chinese star names been found on oracle bones from Anyang?",
+    "choices": [
+      "Zhou dynasty",
+      "Qin dynasty",
+      "Shang dynasty",
+      "Han dynasty"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which period did the Chinese system of constellations develop independently from the Greco-Roman system?",
+    "choices": [
+      "Warring States period",
+      "Han period",
+      "Tang period",
+      "Song dynasty"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which astronomer of the 3rd century conflated the constellations of the three schools of classical Chinese astronomy?",
+    "choices": [
+      "Qutan Xida",
+      "Xu Guangqi",
+      "Johann Adam Schall von Bell",
+      "Chen Zhuo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the well-known map from the Song period, which was prepared with carvings of stars on the planisphere of the Chinese sky on a stone plate?",
+    "choices": [
+      "Dunhuang Manuscripts",
+      "Suzhou Astronomical Chart",
+      "Treatise on Astrology of the Kaiyuan Era",
+      "Chongzhen Lishu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What treatise improved Chinese Sky by incorporating 23 new constellations with 125 stars of the southern hemisphere of the sky based on the knowledge of Western star charts?",
+    "choices": [
+      "Dunhuang Manuscripts",
+      "Suzhou Astronomical Chart",
+      "Treatise on Astrology of the Kaiyuan Era",
+      "Chongzhen Lishu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of Johann Bayer's star atlas from 1603 that assigned stars to individual constellations?",
+    "choices": [
+      "Almagest",
+      "Uranometria",
+      "Phenomena",
+      "Astronomica"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the designations assigned by Johann Bayer to the stars within each constellation known as?",
+    "choices": [
+      "Flamsteed designations",
+      "Ptolemaic designations",
+      "Bayer designations",
+      "Chinese designations"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where does the evidence of northern constellations primarily come from?",
+    "choices": [
+      "Chinese astronomy",
+      "Classical Greek legends",
+      "Egyptian mythology",
+      "Babylonian tablets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the star catalogue which Benjamin Gould defined constellation boundaries?",
+    "choices": [
+      "Uranometria Argentina",
+      "Almagest",
+      "Astronomica",
+      "Phenomena"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What were southern constellations important for from the 14th to 16th centuries?",
+    "choices": [
+      "Agricultural planning",
+      "Religious ceremonies",
+      "Celestial navigation",
+      "Weather forecasting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who were some of the Italian explorers who recorded new southern constellations?",
+    "choices": [
+      "Copernicus, Galileo, Kepler",
+      "Andrea Corsali, Antonio Pigafetta, Amerigo Vespucci",
+      "Newton, Einstein, Hawking",
+      "Plato, Aristotle, Socrates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who developed many of the IAU-recognized constellations in the southern region?",
+    "choices": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Petrus Plancius",
+      "Albert Einstein"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which astronomer split the ancient constellation Argo Navis into three?",
+    "choices": [
+      "Petrus Plancius",
+      "Johannes Hevelius",
+      "Nicolas Louis de Lacaille",
+      "Johann Bayer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When did Nicolas Louis de Lacaille publish his star catalogue, in which he split Argo Navis into three?",
+    "choices": [
+      "1503",
+      "1603",
+      "1703",
+      "1756"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When was a list of 88 constellations produced for the IAU?",
+    "choices": [
+      "1822",
+      "1922",
+      "2022",
+      "2000"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who introduced fourteen new constellations to the list of 88 modern constellations?",
+    "choices": [
+      "Johannes Hevelius",
+      "Nicolas Louis de Lacaille",
+      "Ptolemy",
+      "Henry Norris Russell"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Henry Norris Russell produce a list of 88 constellations with three-letter abbreviations for them?",
+    "choices": [
+      "1822",
+      "1922",
+      "2022",
+      "2000"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When were contiguous boundaries along vertical and horizontal lines of right ascension and declination for the 88 modern constellations developed by Eugene Delporte?",
+    "choices": [
+      "1918",
+      "1928",
+      "1938",
+      "1948"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Whose data did Eugene Delporte used to develop the boundaries of 88 modern constellations?",
+    "choices": [
+      "Henry Norris Russell",
+      "Johannes Hevelius",
+      "Nicolas Louis de Lacaille",
+      "Benjamin A. Gould"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What might the symbols of ecliptic constellations take?",
+    "choices": [
+      "Greek letters",
+      "Roman numerals",
+      "Signs of the zodiac",
+      "Egyptian hieroglyphs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Great Rift?",
+    "choices": [
+      "A large crater on the moon",
+      "A series of dark patches in the Milky Way",
+      "A cluster of bright stars",
+      "A massive comet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which civilization identified various dark areas or dark nebulae in the Milky Way as animals and associated their appearance with the seasonal rains?",
+    "choices": [
+      "Ancient Greeks",
+      "Inca civilization",
+      "Ancient Egyptians",
+      "Chinese civilization"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the most famous dark cloud constellation described in Australian Aboriginal astronomy?",
+    "choices": [
+      "Dark Horse",
+      "Cygnus Rift",
+      "Emu in the sky",
+      "Serpens-Aquila Rift"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What dark nebula forms the head of the 'emu in the sky' constellation?",
+    "choices": [
+      "Rho Ophiuchi cloud complex",
+      "Great Rift",
+      "Cygnus Rift",
+      "Coalsack"
+    ],
+    "answer": 3
+  }
+]

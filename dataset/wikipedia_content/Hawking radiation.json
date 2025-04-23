@@ -1,0 +1,452 @@
+[
+    {
+      "question": "What is Hawking radiation?",
+      "choices": [
+        "Electromagnetic radiation released inside a black hole's event horizon.",
+        "Black body radiation released outside a black hole's event horizon due to quantum effects.",
+        "A type of radiation that increases the mass of black holes.",
+        "A prediction made by previous models of black holes before 1974."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the predicted effect of Hawking radiation on black holes?",
+      "choices": [
+        "It will increase the size of black holes.",
+        "It will have no effect on black holes.",
+        "It will reduce the mass and rotational energy of black holes, causing them to evaporate.",
+        "It will cause black holes to merge more frequently."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the relationship between the Hawking temperature and the mass of a black hole?",
+      "choices": [
+        "The Hawking temperature is directly proportional to the black hole's mass.",
+        "The Hawking temperature is inversely proportional to the black hole's mass.",
+        "The Hawking temperature is not related to the black hole's mass.",
+        "The Hawking temperature is only related to the rotational energy of the black hole."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why hasn't Hawking radiation been directly observed?",
+      "choices": [
+        "It doesn't exist.",
+        "It is too faint to be detected by current telescopes.",
+        "It is blocked by the event horizon.",
+        "It is only emitted by white holes, not black holes."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to smaller black holes in regards to radiation?",
+      "choices": [
+        "Small black holes emit radiation at a slower rate than larger black holes.",
+        "Small black holes emit radiation at a faster rate than larger black holes.",
+        "Small black holes do not emit radiation.",
+        "Small black holes have radiation but remain the same size."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of Einstein's theories predicted black holes?",
+      "choices": [
+        "Special relativity",
+        "Quantum mechanics",
+        "General relativity",
+        "The photoelectric effect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the defining characteristic of a black hole's event horizon?",
+      "choices": [
+        "It's a physical barrier.",
+        "It's the point of maximum light emission.",
+        "It's the region beyond which nothing, not even light, can escape.",
+        "It's where the temperature reaches absolute zero."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who were some early researchers into black holes?",
+      "choices": [
+        "Hawking and Bekenstein",
+        "Zeldovich and Starobinsky",
+        "Schwarzschild and Wheeler",
+        "Einstein and Bohr"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens to matter that falls inside a black hole's event horizon?",
+      "choices": [
+        "It is converted into energy and released.",
+        "It orbits the event horizon indefinitely.",
+        "It falls into a gravitational singularity.",
+        "It is crushed into a super-dense state but remains in a defined location."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the minimal amount of information needed to describe a simple black hole?",
+      "choices": [
+        "Mass and charge",
+        "Charge and angular momentum",
+        "Mass, charge, and angular momentum",
+        "Mass and event horizon size"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who first proposed that rotating black holes should emit particles?",
+      "choices": [
+        "Stephen Hawking",
+        "Jacob Bekenstein",
+        "Yakov Zeldovich and Alexei Starobinsky",
+        "Karl Schwarzschild"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Jacob Bekenstein propose about black holes?",
+      "choices": [
+        "They have no entropy.",
+        "They should have an entropy proportional to their surface area.",
+        "They are purely theoretical objects.",
+        "They only emit radiation when they collide with other objects."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What two ideas did Stephen Hawking combine to develop his theory?",
+      "choices": [
+        "Classical mechanics and thermodynamics.",
+        "Quantum field theory and general relativity.",
+        "Special relativity and electromagnetism.",
+        "Newtonian gravity and statistical mechanics."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Hawking radiation derive from?",
+      "choices": [
+        "Nuclear fusion within the black hole.",
+        "Gravitational collapse of the singularity.",
+        "Vacuum fluctuations.",
+        "The accretion of matter onto the event horizon."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is Bekenstein-Hawking radiation also known as?",
+      "choices": [
+        "The Pauli Exclusion Principle",
+        "The Einstein-Rosen Bridge",
+        "Hawking radiation",
+        "The Planck Constant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What effects are related to Hawking radiation?",
+      "choices": [
+        "Doppler Effect",
+        "Unruh Effect",
+        "Placebo Effect",
+        "Greenhouse Effect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the metric for a Schwarzschild black hole describe?",
+      "choices": [
+        "The charge of the black hole",
+        "The angular momentum of the black hole",
+        "The background spacetime",
+        "The chemical composition of the black hole"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the condition of local thermal equilibrium?",
+      "choices": [
+        "The condition that the black hole temperature must be 0",
+        "The consistent extension of the local thermal bath has a finite temperature at infinity",
+        "The condition that the black hole temperature must be greater than the environment it's in",
+        "The black hole must be in space"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the local acceleration felt by the near-horizon observer?",
+      "choices": [
+        "α = ρ",
+        "α = 1/ρ",
+        "α = ρ^2",
+        "α = 1/ρ^2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the Unruh effect?",
+      "choices": [
+        "An accelerating observer sees a thermal bath of particles.",
+        "An accelerating observer sees nothing.",
+        "An accelerating observer sees time change.",
+        "An accelerating observer sees only one particle."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the mass loss due to particle emission lead to?",
+      "choices": [
+        "An increase in the size of the black hole.",
+        "A decrease in the size of the black hole, leading to eventual evaporation.",
+        "No change in the size of the black hole.",
+        "The black hole becoming a white hole."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the lifespan of a black hole scale as?",
+      "choices": [
+        "The square root of its initial mass.",
+        "The square of its initial mass.",
+        "The cube of its initial mass.",
+        "The inverse of its initial mass."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the 'Page time'?",
+      "choices": [
+        "The time it takes for a black hole to completely evaporate.",
+        "The time it takes for the event horizon or entropy of a black hole to halve.",
+        "The time it takes for a black hole to double in mass.",
+        "The time it takes for a black hole to collide with another black hole."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the modern estimate of a solar-mass black hole lifetime?",
+      "choices": [
+        "10^10 years",
+        "10^64 years",
+        "10^67 years",
+        "10^100 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following parameters is NOT used in calculating the Hawking radiation power emitted by a Schwarzschild black hole?",
+      "choices": [
+        "The black hole's mass.",
+        "The speed of light.",
+        "The black hole's charge.",
+        "The gravitational constant."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Trans-Planckian problem?",
+      "choices": [
+        "The problem of detecting trans-uranic elements near black holes.",
+        "The issue that Hawking's calculation includes particles with wavelengths shorter than the Planck length.",
+        "The difficulty of calculating the mass of black holes using Planck units.",
+        "The problem of understanding quantum gravity beyond the Planck scale."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes the trans-Planckian problem?",
+      "choices": [
+        "Incorrect use of general relativity.",
+        "Quantum fluctuations near the Earth",
+        "The behavior of time near the event horizon.",
+        "Dark Matter interacting with quantum particles."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In Hawking's original calculation, where does the outgoing radiation come from?",
+      "choices": [
+        "The singularity.",
+        "The accretion disk.",
+        "The event horizon.",
+        "A microscopic point when the black hole first formed."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How is the Unruh effect related to the Trans-Planckian problem?",
+      "choices": [
+        "The Unruh Effect only deals with classical mechanics.",
+        "The Trans-Planckian problem deals with black holes and the Unruh effect does not.",
+        "Similar trans-Planckian problems occur when the modes occupied with Unruh radiation are traced back in time.",
+        "There is no correlation between the two."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a possible solution for the trans-planckian problem?",
+      "choices": [
+        "Matter falling onto a black hole solution",
+        "Matter accumulating on a black hole solution",
+        "Matter falling onto a white hole solution",
+        "Matter falling onto a worm hole solution"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In models with large extra dimensions, what happens to the Planck scale?",
+      "choices": [
+        "It increases dramatically.",
+        "It decreases dramatically.",
+        "It remains the same.",
+        "It disappears."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How are the formulas for Hawking radiation modified in models with large extra dimensions?",
+      "choices": [
+        "They are not modified.",
+        "They must account for the lower energy scale and the number of extra dimensions.",
+        "They become simpler.",
+        "The Plank time becomes 0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the potential effect of extra dimensions on the lifetime of micro black holes?",
+      "choices": [
+        "Their lifetimes become infinite.",
+        "Their lifetimes become much longer.",
+        "Their lifetimes become much shorter.",
+        "The lifetimes do not change."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the potential low-energy scale in a large extra dimensions model?",
+      "choices": [
+        "A few GeV",
+        "A few TeV",
+        "A few PeV",
+        "A few EeV"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What variables does the lifetime of a micro black hole depend on with large extra dimensions?",
+      "choices": [
+        "M∗ and mass",
+        "Mass of black hole, number of extra dimensions, and the low-energy scale",
+        "Mass of black hole and number of extra dimensions",
+        "Surface area and number of extra dimensions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What quantum theory is used to study the quantum geometry of a black hole event horizon?",
+      "choices": [
+        "String theory",
+        "Quantum field theory",
+        "Loop quantum gravity",
+        "Superstring theory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What free parameter needs to be tuned in loop quantum gravity to reproduce the Bekenstein-Hawking entropy formula?",
+      "choices": [
+        "The Gravitational Constant",
+        "The Hubble Constant",
+        "A parameter to cancel out various constants",
+        "There is no free parameter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do quantum black holes exhibit deviations from the Hawking radiation spectrum?",
+      "choices": [
+        "They don't show any deviations.",
+        "They emit only gamma rays.",
+        "They exhibit discrete and unblended frequencies on top of the Hawking spectrum.",
+        "They emit radiation in a continuous spectrum."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Are the quantum gravitational corrections to the entropy and radiation of black holes computed?",
+      "choices": [
+        "No, due to limitations of the theory",
+        "Yes",
+        "No, because the theory doesn't exist",
+        "Only with certain black holes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the relationship between fluctuations in horizon area and quantum black holes?",
+      "choices": [
+        "Quantum fluctuations do not affect horizon area",
+        "Larger fluctuations in horizon area means weaker signals",
+        "Based on the fluctuations of the horizon area, a quantum black hole exhibits deviations from the Hawking radiation spectrum",
+        "Based on the fluctuations of the horizon area, a quantum black hole does not emit Hawking radiation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of radiation is the Fermi space telescope searching for?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "Gamma-ray flashes",
+        "X-rays"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What particles might the Large Hadron Collider be able to create if speculative large extra dimension theories are correct?",
+      "choices": [
+        "Higgs bosons",
+        "Quarks",
+        "Micro black holes",
+        "Neutrinos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What analog model is used to study Hawking radiation in the lab?",
+      "choices": [
+        "Water waves",
+        "Sonic black holes",
+        "Electrical circuits",
+        "Nuclear reactions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is used in place of light in sonic black holes to mimic Hawking radiation?",
+      "choices": [
+        "Sound waves",
+        "Radio waves",
+        "Electromagnetic waves",
+        "Alpha Radiation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was created in a laboratory in September 2010 that was shown to emit an optical analog to Hawking radiation?",
+      "choices": [
+        "Black Hole",
+        "White Hole",
+        "White Hole Event Horizon",
+        "Black Hole Event Horizon"
+      ],
+      "answer": 2
+    }
+  ]

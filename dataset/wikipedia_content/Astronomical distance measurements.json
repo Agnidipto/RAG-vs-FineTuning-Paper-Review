@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What is the primary purpose of using distance measures in physical cosmology?",
+    "choices": [
+      "To determine the exact location of objects in the universe.",
+      "To calculate the peculiar velocities of galaxies.",
+      "To tie observable quantities to quantities more convenient for calculations.",
+      "To directly measure the age of the universe."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the article, at low redshift, cosmological distance measures converge to:",
+    "choices": [
+      "The Hubble distance.",
+      "The luminosity distance.",
+      "The comoving distance.",
+      "The common notion of Euclidean distance."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Within the context of general relativity, cosmological distance measures are calculated using:",
+    "choices": [
+      "Newton's Law of Universal Gravitation.",
+      "The Schwarzschild metric.",
+      "The Friedmann–Lemaître–Robertson–Walker solution.",
+      "Special relativity."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The distance measures discussed in the article are primarily expressed as functions of:",
+    "choices": [
+      "Time.",
+      "Redshift.",
+      "Luminosity.",
+      "Velocity."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate value of the Hubble distance (dH)?",
+    "choices": [
+      "3000 km/s",
+      "3000 h⁻¹ Mpc",
+      "13.8 billion light years",
+      "9.26 * 10²⁵ km"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the equation for the dimensionless Hubble parameter E(z), what does Ωₖ represent?",
+    "choices": [
+      "The present radiation energy density.",
+      "The matter density.",
+      "The dark energy density.",
+      "The curvature."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What happens to the Hubble parameter H(z) at a given redshift z?",
+    "choices": [
+      "It remains constant.",
+      "It decreases with increasing redshift.",
+      "It is equal to H₀.",
+      "It is calculated as H₀E(z)."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why is it often necessary to solve the comoving distance integral numerically?",
+    "choices": [
+      "Because it's always impossible to find a closed-form solution.",
+      "Because cosmological parameters are always changing.",
+      "Because the integral only has a closed analytic form for limited choices of parameters.",
+      "Because the integral is undefined for certain values of redshift."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which distance measure serves as the basis for most other distance formulas?",
+    "choices": [
+      "Luminosity distance.",
+      "Angular diameter distance.",
+      "Comoving distance.",
+      "Light-travel distance."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the formula for Transverse Comoving distance when the curvature (Ωₖ) is zero?",
+    "choices": [
+      "dC(z)",
+      "dH/sqrt(Ωₖ) * sinh(sqrt(Ωₖ) * dC(z) / dH)",
+      "dH/sqrt(|Ωₖ|) * sin(sqrt(|Ωₖ|) * dC(z) / dH)",
+      "(1+z)dM(z)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What term does Peebles use for transverse comoving distance?",
+    "choices": [
+      "Lookback distance",
+      "Angular diameter distance",
+      "Angular size distance",
+      "Proper distance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is another term for light-travel distance?",
+    "choices": [
+      "Peculiar distance",
+      "Hubble distance",
+      "Lookback distance",
+      "Comoving distance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which distance is not to be mistaken for the angular diameter distance?",
+    "choices": [
+      "Peculiar distance",
+      "Hubble distance",
+      "Angular size distance",
+      "Comoving distance"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "What symbols are used to denote both the comoving and the angular diameter distance?",
+    "choices": [
+      "χ or r",
+      "δ or θ",
+      "z or d",
+      "Ω or H"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the light-travel distance also called?",
+    "choices": [
+      "Peculiar distance",
+      "Hubble distance",
+      "Lookback time",
+      "Comoving distance"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "What effect does the Earth's movement with respect to the Hubble flow have on the observed redshift?",
+    "choices": [
+      "It has no effect.",
+      "It only affects nearby objects.",
+      "It affects the measured redshift.",
+      "It changes the Hubble constant."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate speed of the Solar System's motion relative to the cosmic microwave background?",
+    "choices": [
+      "30 km/s",
+      "370 km/s",
+      "3000 km/s",
+      "9.26 * 10²⁵ km/s"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "What is the relationship between comoving distance and proper distance at the present time?",
+    "choices": [
+      "Comoving distance is greater than proper distance.",
+      "Comoving distance is the proper distance at the present time.",
+      "Comoving distance is less than proper distance.",
+      "They are unrelated."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the main reason that objects beyond a megaparsec have parallax too small to be measured?",
+    "choices": [
+      "Their distance is too great.",
+      "Their velocity is too high.",
+      "The curvature of spacetime affects parallax measurements.",
+      "The universe is expanding too rapidly."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What condition results in a closed-form expression for the integral in the definition of comoving distance?",
+    "choices": [
+      "Ωᵣ = Ωₘ = 1",
+      "Ωᵣ = Ωₘ = 0",
+      "Ωₖ = ΩΛ = 0",
+      "Ωₖ = 1"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "How does proper distance change over time due to the expansion of the universe?",
+    "choices": [
+      "It remains constant.",
+      "It decreases.",
+      "It can change.",
+      "It is independent of the expansion."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does comoving distance factor out?",
+    "choices": [
+      "The peculiar velocity of objects.",
+      "The gravitational pull of nearby galaxies.",
+      "The expansion of the universe.",
+      "The redshift of the object."
+    ],
+    "answer": 2
+  },
+   {
+    "question": "What is the relationship between comoving distance and proper distance?",
+    "choices": [
+      "They are the same thing.",
+      "Comoving distance is the proper distance at the present time.",
+      "Proper distance is the comoving distance at the present time.",
+      "They are inversely proportional."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comoving distance represents distance between observers that are both moving with:",
+    "choices": [
+      "The Earth",
+      "The Sun",
+      "The Hubble flow",
+      "The Milky Way"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Proper distance roughly corresponds to where a distant object would be at a specific:",
+    "choices": [
+      "Moment of cosmological time",
+      "Point in space",
+      "Peculiar location",
+      "Distance from the sun"
+    ],
+    "answer": 0
+  },
+   {
+    "question": "What distance is used to find the distance between two comoving objects with constant redshift that are separated by an angle on the sky?",
+    "choices": [
+      "Luminosity distance.",
+      "Angular diameter distance.",
+      "Comoving distance.",
+      "Transverse comoving distance."
+    ],
+    "answer": 3
+  },
+   {
+    "question": "What does the angular diameter distance relate to?",
+    "choices": [
+      "The luminosity of an object and its flux.",
+      "The size of an object and its angular size.",
+      "The redshift of an object and its distance.",
+      "The velocity of an object and its distance."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are baryon acoustic oscillations used for?",
+    "choices": [
+      "To measure the luminosity distance of distant objects.",
+      "To observe standard rulers.",
+      "To detect dark matter.",
+      "To measure the speed of light."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When accounting for the earth's peculiar velocity, what quantity needs to be used?",
+    "choices": [
+      "The measured redshift",
+      "The angular diameter",
+      "The corrected comoving distance",
+      "The redshift that would pertain without peculiar velocity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If one starts to move towards an object, at any distance, the angular diameter of that object changes:",
+    "choices": [
+      "Decreases",
+      "Increases",
+      "Remains the same",
+      "Oscillates"
+    ],
+    "answer": 0
+  },
+   {
+    "question": "What is the relationship between luminosity distance (dL), intrinsic luminosity (L), and flux (S)?",
+    "choices": [
+      "dL = L / (4πS)",
+      "dL = sqrt(L / (4πS))",
+      "dL = (1+z) * dM",
+      "dL = (1+z)² * dA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are Type Ia supernovae commonly used for?",
+    "choices": [
+      "Measuring the age of the universe.",
+      "Discovering the acceleration of the expansion of the universe.",
+      "Detecting dark matter.",
+      "Measuring the temperature of distant stars."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When accounting for the earth's peculiar velocity when finding luminosity distance, which redshift should be used for the (1+z) factor?",
+    "choices": [
+      "The peculiar redshift",
+      "The corrected redshift",
+      "The measured redshift",
+      "The intrinsic redshift"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What theorem does the luminosity distance formula align with?",
+    "choices": [
+      "The Pythagorean theorem",
+      "Etherington's reciprocity theorem",
+      "The Hubble-Lemaître Law",
+      "The law of conservation of energy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In this way, the luminosity distance will be equal to the angular diameter distance multiplied by:",
+    "choices": [
+      "(1 + z)",
+      "(1 + z)²",
+      "(1 - z)",
+      "(1 - z)²"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "What does the light-travel distance represent?",
+    "choices": [
+      "The physical distance to an object at the present time.",
+      "The time it took light to reach the observer from the object multiplied by the speed of light.",
+      "The distance an object has moved due to peculiar velocity.",
+      "The distance an object would have if the universe were not expanding."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If the cosmological constant is zero (Ωᵣ = ΩΛ = 0), what is true about dₜ(z)?",
+    "choices": [
+      "There is a closed-form solution for z(dₜ).",
+      "There is a closed-form solution for dₜ(z).",
+      "The light-travel distance is infinite.",
+      "The light-travel distance is zero."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In a flat universe, what happens to the comoving distance and the transverse comoving distance?",
+    "choices": [
+      "They diverge significantly.",
+      "They become inversely proportional.",
+      "They become equivalent.",
+      "They remain unrelated."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The age of the universe becomes",
+    "choices": [
+      "dₜ(z)/c",
+      "lim z→∞ dₜ(z)/c",
+      "lim z→0 dₜ(z)/c",
+      "c/H₀"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is the time elapsed since redshift z until now written?",
+    "choices": [
+      "t(z)=dT(z)*c",
+      "t(z)=dT(z)/c",
+      "t(z)=dT(z)/z",
+      "t(z)=c/dT(z)"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "What is Etherington's distance-duality equation describing?",
+    "choices": [
+      "The relationship between redshift and comoving distance.",
+      "The relationship between luminosity distance and angular-diameter distance.",
+      "The relationship between the Hubble constant and the age of the universe.",
+      "The relationship between dark matter and dark energy."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the formula for Etherington's distance-duality equation?",
+    "choices": [
+      "dₗ = (1+z) * dA",
+      "dₗ = (1+z)² * dA",
+      "dA = (1+z)² * dₗ",
+      "dₗ = √(dA)"
+    ],
+    "answer": 1
+  }
+]

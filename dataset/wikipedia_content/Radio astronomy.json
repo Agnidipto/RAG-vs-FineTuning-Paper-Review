@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What was Karl Jansky investigating when he discovered radio waves from space?",
+    "choices": [
+      "Cosmic Microwave Background Radiation",
+      "Static that might interfere with short wave transatlantic voice transmissions",
+      "Radio waves emitted by the Sun",
+      "Gravitational Waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What cycle did the unknown signal that Jansky detected follow?",
+    "choices": [
+      "24-hour solar cycle",
+      "23-hour lunar cycle",
+      "23-hour and 56-minute sidereal day",
+      "24-hour and 4-minute solar day"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Jansky hypothesize the strange radio interference came from?",
+    "choices": [
+      "The Sun's intense radio noise",
+      "Interstellar gas and dust in the galaxy",
+      "Distant radio galaxies",
+      "Quasars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What unit was named after Karl Jansky in recognition of his work?",
+    "choices": [
+      "Hertz (Hz)",
+      "Watt (W)",
+      "Jansky (Jy)",
+      "Decibel (dB)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sagittarius A* is believed to be what?",
+    "choices": [
+      "A radio galaxy",
+      "A pulsar",
+      "A supermassive black hole",
+      "A nebula"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who built the first parabolic radio telescope in their backyard?",
+    "choices": [
+      "Karl Jansky",
+      "Grote Reber",
+      "James Stanley Hey",
+      "Martin Ryle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who made the first detection of radio waves emitted by the Sun?",
+    "choices": [
+      "Grote Reber",
+      "George Clark Southworth",
+      "James Stanley Hey",
+      "Elizabeth Alexander"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the Telecommunications Research Establishment researching during WWII?",
+    "choices": [
+      "Radio astronomy",
+      "Radar",
+      "Optical telescopes",
+      "Microwave communications"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What technique did Martin Ryle and Antony Hewish develop?",
+    "choices": [
+      "Radio interferometry",
+      "Earth-rotation aperture synthesis",
+      "Radar astronomy",
+      "Optical astronomy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What were the names of the catalogs made from the Cambridge Interferometer?",
+    "choices": [
+      "First and Second Cambridge Catalogues",
+      "First and Third Cambridge Catalogues",
+      "Second and Third Cambridge Catalogues",
+      "First, Second, and Third Cambridge Catalogues"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What limits radio astronomy observations at low frequencies?",
+    "choices": [
+      "Water vapor",
+      "Radio-frequency interference",
+      "The ionosphere",
+      "Cosmic Microwave Background Radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What interferes with radio astronomy at higher frequencies?",
+    "choices": [
+      "The ionosphere",
+      "Water vapor",
+      "Radio-frequency interference",
+      "Cosmic Microwave Background Radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are many radio observatories built in remote places?",
+    "choices": [
+      "To be closer to stars",
+      "To be higher in altitude",
+      "To minimize radio-frequency interference",
+      "To minimize light pollution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What factor dictates angular resolution in proportion to the wavelenght of the electromagnetic radiation being observed?",
+    "choices": [
+      "Diameter of the 'objective'",
+      "Sensitivity of the receiver",
+      "Distance to the observed object",
+      "Atmospheric conditions"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the angular resolution of a 1-meter diameter optical telescope?",
+    "choices": [
+      "0.3 arc seconds",
+      "3 arc seconds",
+      "30 arc seconds",
+      "30 minutes of arc"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who were the radio astronomers that developed radio interferometry?",
+    "choices": [
+      "Ryle and Hewish",
+      "Jansky and Reber",
+      "Ryle and Payne-Scott",
+      "Ryle and Pawsey"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When was the first astronomical observation using a radio interferometer carried out?",
+    "choices": [
+      "1933",
+      "1937",
+      "1942",
+      "1946"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did the first astronomical observation using a radio interferometer observe?",
+    "choices": [
+      "The Milky Way",
+      "The Sun",
+      "A radio galaxy",
+      "A quasar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the projected separation between any two telescopes as seen from the radio source called?",
+    "choices": [
+      "Aperture",
+      "Baseline",
+      "Interference pattern",
+      "Fringe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many telescopes does the Very Large Array have?",
+    "choices": [
+      "9",
+      "12",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What allows telescopes from all over the world to be combined to perform very-long-baseline interferometry?",
+    "choices": [
+      "Higher frequency signals",
+      "More sensitive receivers",
+      "Improved stability of radio telescope receivers",
+      "Optical fibers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is typically used to provide timing information for VLBI data?",
+    "choices": [
+      "GPS",
+      "Radio signal from a pulsar",
+      "Local atomic clock",
+      "Network Time Protocol (NTP)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the pre-eminent VLBI array operating across North America?",
+    "choices": [
+      "The European VLBI Network",
+      "The Very Long Baseline Array",
+      "The Long Baseline Array",
+      "The East-Asian VLBI Network"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does e-VLBI refer to?",
+    "choices": [
+      "VLBI using earth orbiting telescopes",
+      "VLBI using extremely large antennas",
+      "VLBI performed in real time",
+      "VLBI using enhanced data correlation techniques"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What enables very high angular resolutions to be achieved in VLBI?",
+    "choices": [
+      "High frequency receivers",
+      "High bandwidth recording media",
+      "Large distances between telescopes",
+      "Advanced data processing algorithms"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these celestial objects was discovered through radio astronomy?",
+    "choices": [
+      "Planets",
+      "Stars",
+      "Pulsars",
+      "Galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was first detected using radio telescopes and provided evidence for the Big Bang theory?",
+    "choices": [
+      "Radio Galaxies",
+      "Quasars",
+      "Cosmic Microwave Background Radiation",
+      "Pulsars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these objects closer to Earth has been observed by radio telescopes?",
+    "choices": [
+      "Distant quasars",
+      "The Sun",
+      "Exoplanets",
+      "Gamma-ray bursts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of radiation do active galactic nuclei and pulsars emit?",
+    "choices": [
+      "Blackbody radiation",
+      "Synchrotron radiation",
+      "Thermal radiation",
+      "Optical radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary source of Earth's radio signal?",
+    "choices": [
+      "Communication towers",
+      "Cell phones",
+      "Auroras",
+      "Radar installations"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the ITU, what is the subject of the radio astronomy radiocommunication service?",
+    "choices": [
+      "Transmitting radio waves to celestial objects",
+      "Receiving radio waves transmitted by astronomical objects",
+      "Analyzing the Earth's ionosphere",
+      "Creating radio telescopes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where are allocations of radio frequencies provided?",
+    "choices": [
+      "Article 1 of the ITU Radio Regulations",
+      "Article 5 of the ITU Radio Regulations",
+      "The United Nations Charter",
+      "National Tables of Frequency Allocations"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is a primary allocation indicated in tables of frequency allocations?",
+    "choices": [
+      "Small letters",
+      "Capital letters",
+      "Italicized text",
+      "Underlined text"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is a secondary allocation indicated in tables of frequency allocations?",
+    "choices": [
+      "Small letters",
+      "Capital letters",
+      "Italicized text",
+      "Underlined text"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is responsible for the exclusive or shared utilization?",
+    "choices": [
+      "The International Telecommunication Union (ITU)",
+      "National Administrations",
+      "Radio astronomers",
+      "The United Nations"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,702 @@
+[
+    {
+      "question": "What is gravitation also known as?",
+      "choices": [
+        "Centrifugal force",
+        "Gravitational attraction",
+        "Quantum entanglement",
+        "Electromagnetic force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'gravity' at the surface of a planet include in addition to gravitation?",
+      "choices": [
+        "Centrifugal force",
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Weak nuclear force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational attraction is the mutual attraction between:",
+      "choices": [
+        "Electrically charged particles",
+        "Magnetic fields",
+        "All masses in the universe",
+        "Only celestial bodies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The centrifugal force included in the definition of 'gravity' results from the planet's:",
+      "choices": [
+        "Orbital speed",
+        "Rotation",
+        "Magnetic field",
+        "Atmospheric pressure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the most accurate description of gravity?",
+      "choices": [
+        "The weakest fundamental interaction",
+        "The force between all masses in the universe",
+        "The same as gravitation",
+        "Gravitation plus the centrifugal force from rotation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What did Aristotle believe about gravity?",
+      "choices": [
+        "It was not unique to the Earth",
+        "Heavier objects fall faster",
+        "The Earth orbits the Sun",
+        "Gravity is a curvature of spacetime"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which ancient Greek philosopher discovered the center of gravity of a triangle?",
+      "choices": [
+        "Plutarch",
+        "Aristotle",
+        "Archimedes",
+        "Vitruvius"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who proposed the theory of impetus?",
+      "choices": [
+        "Brahmagupta",
+        "Al-Khazini",
+        "John Philoponus",
+        "Al-Biruni"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which ancient Indian mathematician and astronomer used the term 'gurutvākarṣaṇ' to describe gravity?",
+      "choices": [
+        "Archimedes",
+        "Plutarch",
+        "Brahmagupta",
+        "Al-Biruni"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Al-Biruni believed that the force of gravity was:",
+      "choices": [
+        "Unique to Earth",
+        "Present on other heavenly bodies",
+        "Stronger at the Earth's poles",
+        "Dependent on a substance's weight"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who wrote that bodies in free fall uniformly accelerate?",
+      "choices": [
+        "Giambattista Benedetti",
+        "Domingo de Soto",
+        "Simon Stevin",
+        "Galileo Galilei"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Simon Stevin observed that cannonballs of differing sizes and weights:",
+      "choices": [
+        "Fell at different rates",
+        "Fell at the same rate",
+        "Did not fall at all",
+        "Rotated as they fell"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Galileo Galilei used what to firmly establish that gravitational acceleration is the same for all objects?",
+      "choices": [
+        "Pendulums",
+        "Telescopes",
+        "Balls rolling down inclines",
+        "Vacuum chambers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who correctly hypothesized that the distance of a falling object is proportional to the square of the time elapsed?",
+      "choices": [
+        "Robert Hooke",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Galileo postulate was the reason that objects with a low density and high surface area fall more slowly in an atmosphere?",
+      "choices": [
+        "Magnetic interference",
+        "Air resistance",
+        "Lack of gravitational pull",
+        "Quantum fluctuations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who published 'Micrographia' in 1657, hypothesizing about the Moon's gravity?",
+      "choices": [
+        "Isaac Newton",
+        "Robert Hooke",
+        "Edmond Halley",
+        "Johannes Kepler"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Newton's law of universal gravitation states that the force is proportional to the product of the masses and:",
+      "choices": [
+        "Directly proportional to the distance between them",
+        "Inversely proportional to the distance between them",
+        "Directly proportional to the square of the distance between them",
+        "Inversely proportional to the square of the distance between them"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the equation F = G(m1m2)/r^2, what does 'G' represent?",
+      "choices": [
+        "Gravitational force",
+        "Gravitational acceleration",
+        "Gravitational constant",
+        "Geometric mean"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Newton's theory of gravitation was used to predict the existence of which planet?",
+      "choices": [
+        "Uranus",
+        "Saturn",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which astronomer created a table modeling the orbit of Uranus, which showed a discrepancy with the planet's actual trajectory?",
+      "choices": [
+        "John Couch Adams",
+        "Urbain Le Verrier",
+        "Alexis Bouvard",
+        "Edmond Halley"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In general relativity, gravity is described as:",
+      "choices": [
+        "A fundamental force",
+        "The exchange of gravitons",
+        "A curvature of spacetime",
+        "A constant acceleration"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the 'equivalence principle'?",
+      "choices": [
+        "The speed of light is constant for all observers",
+        "Energy and mass are interchangeable",
+        "Free fall is equivalent to inertial motion",
+        "The universe is expanding"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In general relativity, what are the paths that free-falling objects move along in curved spacetime called?",
+      "choices": [
+        "Isotopes",
+        "Geodesics",
+        "Trajectories",
+        "Vectors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What phenomenon in the orbit of Mercury could not be explained by Newtonian theory?",
+      "choices": [
+        "Its eccentric orbit",
+        "Its elliptical orbit",
+        "The increasing perihelion",
+        "Its decreasing orbital speed"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following best describes Einstein's view of force in relation to an object following a geodesic?",
+      "choices": [
+        "A force is required to follow a geodesic.",
+        "A force will cause it to deviate from a geodesic.",
+        "A force is irrelevant to the path of a geodesic.",
+        "A force is equivalent to the path of a geodesic."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What remains the framework for understanding gravity in modern physics?",
+      "choices": [
+        "Newtonian mechanics",
+        "Quantum mechanics",
+        "General relativity",
+        "Special relativity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are physicists continuing to find for the Einstein field equations?",
+      "choices": [
+        "Inconsistencies",
+        "No solution",
+        "Exact solutions",
+        "Excellent agreement"
+      ],
+      "answer": 3
+    },
+        {
+      "question": "What is the Einstein field equations a system of?",
+      "choices": [
+        "Linear algebraic equations",
+        "Partial differential equations",
+        "Ordinary differential equations",
+        "Integral equations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the Einstein field equations, what does Gμν represent?",
+      "choices": [
+        "Metric tensor",
+        "Stress-energy tensor",
+        "Einstein tensor",
+        "Cosmological constant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the Einstein field equations, what does Tμν represent?",
+      "choices": [
+        "Metric tensor",
+        "Stress-energy tensor",
+        "Einstein tensor",
+        "Cosmological constant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the Schwarzschild solution describe?",
+      "choices": [
+        "Spacetime around a charged object",
+        "Spacetime around a rotating object",
+        "Spacetime around a spherically symmetric non-rotating uncharged massive object",
+        "The expansion of the universe"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which solution to the Einstein field equations predicts the expansion of the Universe?",
+      "choices": [
+        "Schwarzschild solution",
+        "Kerr solution",
+        "Friedmann–Lemaître–Robertson–Walker solution",
+        "Reissner-Nordström solution"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Kerr solution generalizes the Schwarzchild solution to:",
+      "choices": [
+        "Charged objects",
+        "Rotating massive objects",
+        "Objects with double event horizons",
+        "Expanding universes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Kerr-Newman solution describes:",
+      "choices": [
+        "Non-rotating, uncharged objects",
+        "Charged, rotating massive objects",
+        "Expanding universes",
+        "Static universes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the 'two-body problem' in the context of Einstein field equations?",
+      "choices": [
+        "Finding the solution for two dimensions in spacetime",
+        "Solving for the interaction of two charged particles",
+        "The geometry of spacetime around two mutually interacting massive objects",
+        "Finding a solution with only two variables"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary conflict between general relativity and quantum mechanics?",
+      "choices": [
+        "Different values for the speed of light",
+        "Different values for G",
+        "Continuous spacetime vs. discrete quanta",
+        "Different definitions of mass"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to quantum field theory, the electromagnetic force arises from the exchange of:",
+      "choices": [
+        "Gravitons",
+        "Electrons",
+        "Photons",
+        "Neutrinos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the QFT description of gravity, what particle is exchanged?",
+      "choices": [
+        "Photon",
+        "Graviton",
+        "Electron",
+        "Neutrino"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At what scale does the QFT approach to gravity fail?",
+      "choices": [
+        "Micrometer",
+        "Planck length",
+        "Nanometer",
+        "Millimeter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The goal of modern research is to unite gravity and quantum mechanics under:",
+      "choices": [
+        "General relativity",
+        "Quantum field theory",
+        "A more general framework",
+        "Newtonian Mechanics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Arthur Eddington confirm during the 1919 solar eclipse?",
+      "choices": [
+        "The existence of black holes",
+        "Gravitational lensing of light",
+        "The expansion of the universe",
+        "The existence of gravitational waves"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Pound and Rebka confirm in their 1959 experiment?",
+      "choices": [
+        "Gravitational time dilation",
+        "The existence of black holes",
+        "Gravitational lensing",
+        "The existence of gravitational waves"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cygnus X-1 was the first ever what?",
+      "choices": [
+        "Confirmed measurement of gravity",
+        "Gravitational wave",
+        "Observed red shift",
+        "Confirmed black hole"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What phenomenon confirmed by Gravity Probe B in 2011?",
+      "choices": [
+        "Gravitational lensing",
+        "Frame dragging",
+        "Gravitational time dilation",
+        "The existence of gravitational waves"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The LIGO observatory detected what in 2015?",
+      "choices": [
+        "Black holes",
+        "Dark matter",
+        "Gravitational waves",
+        "Dark energy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The strength of Earth's gravitational field is proportional to its mass and:",
+      "choices": [
+        "Inversely proportional to the distance from the center",
+        "Directly proportional to the distance from the center",
+        "Inversely proportional to the square of the distance from the center",
+        "Directly proportional to the square of the distance from the center"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The strength of the gravitational field is numerically equal to:",
+      "choices": [
+        "The speed of light",
+        "The acceleration of objects under its influence",
+        "The mass of the object",
+        "The volume of the object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is the force of gravity weakest at the equator?",
+      "choices": [
+        "Lower atmospheric pressure",
+        "Higher magnetic field strength",
+        "Centrifugal force and greater distance from Earth's center",
+        "Higher concentration of dark matter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The force of gravity on the Earth's surface is the vector sum of gravitational attraction and:",
+      "choices": [
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Centrifugal force",
+        "Weak nuclear force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A standard gravity value is defined by:",
+      "choices": [
+        "International System of Units (SI)",
+        "International Bureau of Weights and Measures",
+        "Newton's law of gravitation",
+        "Einstein Field Equations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first indirect evidence for gravitational radiation was observed in what system?",
+      "choices": [
+        "The solar system",
+        "The Cygnus X-1 black hole",
+        "The Hulse-Taylor binary",
+        "The Andromeda galaxy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happened to the orbital period of the Hulse-Taylor binary since its initial discovery?",
+      "choices": [
+        "Increased",
+        "Decreased",
+        "Remained constant",
+        "Oscillated randomly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How was the first direct evidence for gravitational radiation measured?",
+      "choices": [
+        "Using optical telescopes",
+        "Using gamma ray satellites",
+        "By the LIGO detectors",
+        "By observing the redshift of distant galaxies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first gravitational waves measured by LIGO were emitted during the collision of:",
+      "choices": [
+        "Two neutron stars",
+        "Two black holes",
+        "A black hole and a neutron star",
+        "The Big Bang"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The research on measuring gravitational waves emitted during the collision of two black holes was awarded what?",
+      "choices": [
+        "The Fields Medal in Mathematics",
+        "The Nobel Prize in Chemistry",
+        "The Nobel Prize in Physics",
+        "The Pulitzer Prize"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did a research team in China announce in 2012 about the speed of gravity?",
+      "choices": [
+        "It is infinite",
+        "It is slower than the speed of light",
+        "It is equal to the speed of light",
+        "It is faster than the speed of light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Earth would keep orbiting the vacant point normally for how long if the Sun suddenly disappeared?",
+      "choices": [
+        "1 second",
+        "1 minute",
+        "8 minutes",
+        "1 hour"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In October 2017, gravitational wave signals were received by the LIGO and Virgo detectors within 2 seconds of:",
+      "choices": [
+        "The invention of the telescope",
+        "Nuclear fission",
+        "Gamma ray satellites and optical telescopes seeing signals from the same direction",
+        "The creation of Quantum Mechanics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What confirms that the speed of gravitational waves was the same as the speed of light?",
+      "choices": [
+        "The LIGO detectors",
+        "Gamma ray satellites",
+        "Seeing signals from the same direction",
+        "Gravitational waves and seeing signals from the same direction"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A research team in China, LIGO, and Virgo detectors found the speed of gravity to equal:",
+      "choices": [
+        "Zero",
+        "Infinite",
+        "The speed of light",
+        "The speed of sound"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What observation is NOT adequately accounted for, pointing to the need for better theories of gravity or other explanations?",
+      "choices": [
+        "Extra-fast stars",
+        "Accelerated expansion of the universe",
+        "Flyby anomaly",
+        "Lunar tides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What has been proposed to account for the extra-fast movement of stars on the outskirts of galaxies?",
+      "choices": [
+        "Dark energy",
+        "Dark matter",
+        "Modified Newtonian dynamics",
+        "A change in the gravitational constant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What has been proposed to explain the accelerated expansion of the universe?",
+      "choices": [
+        "Dark matter",
+        "Dark energy",
+        "Neutrinos",
+        "Virtual particles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What has been shown to explain the Pioneer anomaly?",
+      "choices": [
+        "Thermal recoil",
+        "Dark energy",
+        "Dark matter",
+        "Relativistic effects"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the Flyby anomaly?",
+      "choices": [
+        "Stars moving faster then they should",
+        "A planet expanding slower then it should",
+        "Various spacecraft have experienced greater acceleration than expected during gravity assist maneuvers.",
+        "The expansion of the universe seems to be slowing down"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What models, based on general relativity, introduce two components to the universe?",
+      "choices": [
+        "Cosmological models",
+        "Physical models",
+        "Standard model of particle physics",
+        "Newtonian dynamics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What components do cosmological models introduce to the universe?",
+      "choices": [
+        "Dark matter and dark energy",
+        "Spacetime and spacetime curvature",
+        "Virtual particles and Gravitons",
+        "Neutrinos and Electromagnetic force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What will general relativity be the basis for in future progress?",
+      "choices": [
+        "Dark matter",
+        "Dark energy",
+        "Alternative theories of gravity",
+        "The many successful, high precision predictions of the standard model of cosmology"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The lack of physical models that align with cosmological data, and inconsistent cosmological observations, have led to:",
+      "choices": [
+        "A shift away from general relativity",
+        "The abandonment of the standard model of cosmology",
+        "The study of alternative theories of gravity",
+        "Doubling down on general relativity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Alternative theories of gravity were started due to:",
+      "choices": [
+        "Cosmological observations are inconsistent",
+        "Dark matter is not supported by the standard model of particle physics",
+        "Physical models for dark energy do not match cosmological data",
+        "All of the above"
+      ],
+      "answer": 3
+    }
+  ]

@@ -1,0 +1,982 @@
+[
+  {
+    "question": "What is the primary function of the greenhouse effect?",
+    "choices": [
+      "To reflect sunlight back into space.",
+      "To insulate a planet and raise its surface temperature.",
+      "To create clouds in a planet's atmosphere.",
+      "To generate internal heat within a planet."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of radiation does the Earth's surface primarily emit?",
+    "choices": [
+      "Shortwave radiation.",
+      "Microwave radiation.",
+      "Longwave radiation.",
+      "Ultraviolet radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Without the greenhouse effect, what would the Earth's average surface temperature be?",
+    "choices": [
+      "14°C (57°F)",
+      "0°C (32°F)",
+      "-18°C (-0.4°F)",
+      "100°C (212°F)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate rate of global average surface temperature increase per decade since 1981?",
+    "choices": [
+      "0.05°C (0.09°F)",
+      "0.18°C (0.32°F)",
+      "0.5°C (0.9°F)",
+      "1.0°C (1.8°F)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of incoming shortwave radiation is absorbed by Earth's atmosphere?",
+    "choices": [
+      "90%",
+      "7%",
+      "48%",
+      "23%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "According to the article, how is the greenhouse effect defined on Earth?",
+    "choices": [
+      "The blocking of convection currents.",
+      "The reflection of sunlight by the atmosphere.",
+      "The infrared radiative effect of all infrared absorbing constituents in the atmosphere.",
+      "The cooling effect of clouds and aerosols."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the 'enhanced greenhouse effect' refer to?",
+    "choices": [
+      "The natural fluctuations in the Earth's temperature.",
+      "The increase in the concentration of oxygen in the atmosphere.",
+      "The increase in the greenhouse effect due to human activity.",
+      "The decrease in the Earth's albedo."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a contributor to the greenhouse effect, as stated in the definition?",
+    "choices": [
+      "Greenhouse Gases (GHGs)",
+      "Clouds",
+      "Ozone",
+      "Some Aerosols"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What primarily happens when the natural greenhouse effect is increased due to human action?",
+    "choices": [
+      "The Earth's albedo decreases.",
+      "The amount of longwave radiation emitted to space increases.",
+      "The Earth's surface temperature rises.",
+      "The amount of solar radiation absorbed by the atmosphere decreases."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of radiation is mainly absorbed by greenhouse gases, clouds, and some aerosols?",
+    "choices": [
+      "Ultraviolet",
+      "Visible Light",
+      "Terrestrial radiation",
+      "Microwave"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does the greenhouse effect primarily retain heat?",
+    "choices": [
+      "By blocking convection.",
+      "By reflecting sunlight.",
+      "By restricting radiative transfer.",
+      "By increasing albedo."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do greenhouses mainly retain heat?",
+    "choices": [
+      "By restricting radiative transfer.",
+      "By blocking convection.",
+      "By absorbing longwave radiation.",
+      "By reflecting shortwave radiation."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the article, the term 'greenhouse effect' comes from an analogy to greenhouses, because:",
+    "choices": [
+      "Greenhouses retain heat mainly by reflecting sunlight back into the atmosphere.",
+      "Both greenhouses and the greenhouse effect work by retaining heat from sunlight.",
+      "Greenhouses and the greenhouse effect both work by trapping heat from the Earth's internal sources.",
+      "Greenhouses and the greenhouse effect are both primarily caused by carbon dioxide emissions."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What process is restricted by the greenhouse effect, leading to heat retention?",
+    "choices": [
+      "Convection",
+      "Absorption",
+      "Radiation",
+      "Albedo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following correctly describes how heat is retained in a greenhouse?",
+    "choices": [
+      "By absorbing infrared radiation through glass.",
+      "By preventing air from escaping and carrying heat away.",
+      "By releasing heat from the interior into the atmosphere.",
+      "By emitting infrared radiation back into the interior."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who first proposed the existence of the greenhouse effect (though not named as such)?",
+    "choices": [
+      "John Tyndall",
+      "Svante Arrhenius",
+      "Joseph Fourier",
+      "Nils Gustaf Ekholm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who demonstrated that air with water vapor and carbon dioxide had a greater warming effect?",
+    "choices": [
+      "Claude Pouillet",
+      "Eunice Newton Foote",
+      "John Tyndall",
+      "Svante Arrhenius"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first to apply the term 'greenhouse' to the phenomenon?",
+    "choices": [
+      "Joseph Fourier",
+      "Claude Pouillet",
+      "Eunice Newton Foote",
+      "Nils Gustaf Ekholm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who quantified the effect by measuring infrared absorption and emission of various gases and vapors?",
+    "choices": [
+      "Svante Arrhenius",
+      "Claude Pouillet",
+      "John Tyndall",
+      "Nils Gustaf Ekholm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year did Svante Arrhenius make his first quantitative prediction of global warming due to doubling of atmospheric carbon dioxide?",
+    "choices": [
+      "1824",
+      "1856",
+      "1896",
+      "1901"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the average temperature change caused by the Earth's greenhouse effect?",
+    "choices": [
+      "15°C (59°F)",
+      "-18°C (-0.4°F)",
+      "33°C (59°F)",
+      "100°C (212°F)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How is the greenhouse effect measured in terms of energy flow?",
+    "choices": [
+      "By measuring the change in albedo.",
+      "By measuring the difference between incoming and outgoing shortwave radiation.",
+      "By measuring the difference between longwave radiation leaving the surface and reaching space.",
+      "By measuring the changes in ozone concentration."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The greenhouse effect can be expressed as a percentage of the longwave thermal radiation that:",
+    "choices": [
+      "Reaches space from the sun",
+      "Is absorbed by the Earth's surface",
+      "Leaves the Earth's surface but does not reach space",
+      "Is reflected back into the Earth's atmosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the average rate at which longwave radiation leaves the Earth's surface?",
+    "choices": [
+      "239 W/m^2",
+      "159 W/m^2",
+      "398 W/m^2",
+      "0 W/m^2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does a measurement of the greenhouse effect as a change in temperature represent?",
+    "choices": [
+      "The cooling of the Earth's upper atmosphere.",
+      "The warming of the Earth's crust.",
+      "The same effect as a change in longwave thermal radiation.",
+      "The melting rate of glaciers and ice caps."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 'enhanced greenhouse effect' caused by?",
+    "choices": [
+      "Natural variations in solar activity.",
+      "Volcanic eruptions.",
+      "Additional greenhouse gases from human activities.",
+      "Changes in Earth's orbit."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary cause of the increased radiative forcing from human activity?",
+    "choices": [
+      "Increased atmospheric methane levels.",
+      "Increased atmospheric carbon dioxide levels.",
+      "Decreased albedo of the Earth's surface.",
+      "Increased water vapor in the atmosphere."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What evidence does the article give to support the claim that the enhanced greenhouse effect is occurring?",
+    "choices": [
+      "The shrinking of the ozone layer",
+      "Measurements by ARGO, CERES, and other instruments.",
+      "Changes in ocean currents",
+      "A decrease in the frequency of volcanic eruptions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the Mauna Loa Observatory measurements, what CO2 concentration milestone was passed in 2013?",
+    "choices": [
+      "200 ppm",
+      "300 ppm",
+      "400 ppm",
+      "500 ppm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to ice core data, what range of carbon dioxide concentrations has varied over the past 800,000 years?",
+    "choices": [
+      "300 ppm to 400 ppm",
+      "180 ppm to 270 ppm",
+      "400 ppm to 500 ppm",
+      "50 ppm to 100 ppm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of radiation does the Sun primarily emit?",
+    "choices": [
+      "Longwave radiation",
+      "Shortwave radiation",
+      "Microwave radiation",
+      "Radio wave radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How much incoming sunlight is reflected by the Earth and its atmosphere, according to the article?",
+    "choices": [
+      "7%",
+      "23%",
+      "30%",
+      "48%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Sun emits most of its energy as shortwave radiation in what wavelengths?",
+    "choices": [
+      "Far-infrared and microwave",
+      "Ultraviolet and X-ray",
+      "Near-infrared and visible",
+      "Radio waves and gamma rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately what percentage of incoming sunlight is absorbed by the Earth and its atmosphere combined?",
+    "choices": [
+      "23%",
+      "30%",
+      "48%",
+      "70%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a component of sunlight?",
+    "choices": [
+      "Longwave radiation",
+      "Thermal infrared",
+      "Ultraviolet radiation",
+      "Terrestrial radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is another term for longwave radiation emitted by the Earth and its atmosphere?",
+    "choices": [
+      "Sunlight",
+      "Shortwave radiation",
+      "Thermal infrared radiation",
+      "Ultraviolet radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the area between the curve for longwave radiation emitted by the Earth's surface and the curve for outgoing longwave radiation indicate?",
+    "choices": [
+      "The amount of sunlight absorbed by the atmosphere.",
+      "The amount of heat escaping into space.",
+      "The size of the greenhouse effect.",
+      "The amount of water vapor in the atmosphere."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is identified as being responsible for the dip in outgoing radiation (and associated rise in the greenhouse effect) at around 667 cm-1?",
+    "choices": [
+      "Methane",
+      "Water Vapor",
+      "Carbon Dioxide",
+      "Ozone"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the result of increasing the concentration of greenhouse gases in the atmosphere?",
+    "choices": [
+      "Less radiative heat loss and more warmth below.",
+      "More radiative heat loss and less warmth below.",
+      "No change in radiative heat loss or warmth.",
+      "A decrease in the absorption of radiation."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What happens to longwave radiation as it encounters each layer of the atmosphere containing greenhouse gases?",
+    "choices": [
+      "It is entirely reflected back to the surface.",
+      "It is completely transmitted through the atmosphere.",
+      "It is absorbed and some is emitted upwards and downwards.",
+      "It is converted into shortwave radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 'effective temperature' of a planet defined as?",
+    "choices": [
+      "The average near-surface air temperature.",
+      "The temperature a blackbody would need to emit the same amount of energy.",
+      "The highest temperature recorded on the planet's surface.",
+      "The temperature of the planet's core."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate Earth's overall effective temperature based on emissions of longwave radiation to space?",
+    "choices": [
+      "15 °C (59 °F)",
+      "16 °C (61 °F)",
+      "-18 °C (0 °F)",
+      "0 °C (32 °F)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate Earth's effective surface temperature based on thermal emissions from the surface?",
+    "choices": [
+      "15 °C (59 °F)",
+      "16 °C (61 °F)",
+      "-18 °C (0 °F)",
+      "0 °C (32 °F)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How much warmer is Earth's effective surface temperature than Earth's overall effective temperature?",
+    "choices": [
+      "1 °C (2 °F)",
+      "15 °C (27 °F)",
+      "33 °C (59 °F)",
+      "34 °C (61 °F)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Earth's surface temperature is often reported in terms of the average near-surface air temperature, which is about:",
+    "choices": [
+      "10 °C (50 °F)",
+      "15 °C (59 °F)",
+      "20 °C (68 °F)",
+      "25 °C (77 °F)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what units is energy flux typically expressed?",
+    "choices": [
+      "Joules per second (J/s)",
+      "Watts per square meter (W/m^2)",
+      "Kilograms per square meter (kg/m^2)",
+      "Meters per second (m/s)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the surface area of the Earth used for calculating global energy fluxes?",
+    "choices": [
+      "2.6 x 10^14 m^2",
+      "5.1 x 10^14 m^2",
+      "7.5 x 10^14 m^2",
+      "1.0 x 10^15 m^2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are the fluxes of radiation arriving at and leaving the Earth important?",
+    "choices": [
+      "They determine the composition of the Earth's atmosphere.",
+      "They drive the Earth's magnetic field.",
+      "They regulate the speed of the Earth's rotation.",
+      "Radiative transfer is the only process capable of exchanging energy between Earth and the rest of the universe."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How is the global surface area typically derived for calculating energy fluxes?",
+    "choices": [
+      "By measuring the surface of continents.",
+      "By measuring the surface area of water bodies.",
+      "By measuring both continental and oceanic surface areas.",
+      "By measuring the total flow of energy over the entire globe, divided by the surface area of the Earth."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Energy flux is the rate of energy flow per:",
+    "choices": [
+      "Unit volume",
+      "Unit mass",
+      "Unit area",
+      "Unit time"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What determines the temperature of a planet?",
+    "choices": [
+      "The composition of its atmosphere",
+      "The distance from its star",
+      "The balance between incoming and outgoing radiation",
+      "The planet's internal heat source"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Earth's energy imbalance (EEI) as of around 2015?",
+    "choices": [
+      "-0.7 W/m^2",
+      "0 W/m^2",
+      "0.7 W/m^2",
+      "1.4 W/m^2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where does the majority of the retained energy due to Earth's energy imbalance go?",
+    "choices": [
+      "Heating the land",
+      "Warming the atmosphere",
+      "Melting ice",
+      "Warming the oceans"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a planet's tendency towards in terms of radiative balance?",
+    "choices": [
+      "A state of constantly increasing temperature",
+      "A state of constantly decreasing temperature",
+      "A state of radiative equilibrium",
+      "A state of complete energy loss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Earth's energy imbalance (EEI) most critical for defining?",
+    "choices": [
+      "The composition of the Earth's atmosphere",
+      "The prospects for continued global warming and climate change",
+      "The strength of the Earth's magnetic field",
+      "The Earth's orbital parameters"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During the day/night cycle, solar heating applies only during:",
+    "choices": [
+      "Sunrise",
+      "Daytime",
+      "Sunset",
+      "Nighttime"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why does the atmosphere cool somewhat at night?",
+    "choices": [
+      "Due to a decrease in greenhouse gas concentration.",
+      "Due to the emission of thermal radiation.",
+      "Due to a sudden increase in convection.",
+      "Due to absorption of solar radiation."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What resists changes in the climate system both day and night, as well as for longer periods?",
+    "choices": [
+      "Solar radiation",
+      "The atmosphere's albedo",
+      "The thermal inertia of the climate system",
+      "The composition of greenhouse gases"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does diurnal temperature change with height in the atmosphere?",
+    "choices": [
+      "Increases with height",
+      "Decreases with height",
+      "Remains constant with height",
+      "Varies unpredictably with height"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The night/day cycle, seasonal cycle, and weather disturbances introduce:",
+    "choices": [
+      "Consistency",
+      "Simplification",
+      "Stability",
+      "Complications"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In which layer of the atmosphere does the air temperature typically decrease with increasing altitude?",
+    "choices": [
+      "Stratosphere",
+      "Mesosphere",
+      "Troposphere",
+      "Thermosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name given to the rate at which temperature changes with altitude?",
+    "choices": [
+      "Adiabatic rate",
+      "Lapse rate",
+      "Gradient rate",
+      "Convection rate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes the temperature lapse in the troposphere?",
+    "choices": [
+      "Absorption of solar radiation by ozone",
+      "Convection of air warmed by the surface",
+      "Release of latent heat from condensation",
+      "Reflection of infrared radiation by clouds"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is the vertical temperature gradient essential to the greenhouse effect?",
+    "choices": [
+      "It allows for uniform temperature distribution in the atmosphere.",
+      "It helps balance the heat energy absorbed at the surface.",
+      "If the temperature did not vary with altitude, there would be no greenhouse effect.",
+      "It maximizes the absorption of solar radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the average rate at which air temperature decreases with altitude on Earth?",
+    "choices": [
+      "1°C/km",
+      "6.5°C/km",
+      "10°C/km",
+      "0°C/km"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At what altitudes does the atmosphere become transparent to longwave radiation?",
+    "choices": [
+      "Lower altitudes, where the air is more dense.",
+      "Mid altitudes, where air pressure is moderate.",
+      "Higher altitudes, where the air is less dense.",
+      "All altitudes, equally."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What determines the intensity of the longwave radiation emitted by a radiating layer of the atmosphere?",
+    "choices": [
+      "The concentration of greenhouse gases within that layer.",
+      "The distance from the Sun.",
+      "The weighted average air temperature within that layer.",
+      "The surface albedo."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For any given wavelength of radiation emitted to space, there is an associated:",
+    "choices": [
+      "Reflectivity coefficient",
+      "Effective emission temperature (or brightness temperature)",
+      "Convection rate",
+      "Solar constant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the 'effective emission altitude' represent?",
+    "choices": [
+      "The height above sea level.",
+      "The mean average of the atmospheric boundary.",
+      "The weighted average of the altitudes within the radiating layer.",
+      "The height of the tropopause."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What varies by wavelength (or frequency) in the context of radiation emitted to space?",
+    "choices": [
+      "Only the radiation absorption rate.",
+      "Only the radiation reflection rate.",
+      "The effective emission temperature and altitude.",
+      "Only the radiation frequency."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Earth's surface radiates longwave radiation with wavelengths in what range?",
+    "choices": [
+      "0.1-1 micron",
+      "4-100 microns",
+      "100-1000 microns",
+      "1-4 microns"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The atmosphere near the Earth's surface is largely opaque to what type of radiation?",
+    "choices": [
+      "Incoming solar radiation",
+      "Outgoing shortwave radiation",
+      "Outgoing longwave radiation",
+      "Ultraviolet radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where do radiative energy losses become increasingly important?",
+    "choices": [
+      "Lower in the atmosphere",
+      "Higher in the atmosphere",
+      "At the Earth's surface",
+      "Within the Earth's crust"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Outgoing longwave radiation can be thought of as being emitted by a layer in the:",
+    "choices": [
+      "Upper stratosphere",
+      "Lower stratosphere",
+      "Mid-troposphere",
+      "Upper troposphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What explains the difference between surface emissions and emissions to space?",
+    "choices": [
+      "Changes in Earth's albedo.",
+      "The amount of shortwave radiation absorbed by the surface.",
+      "A lapse rate",
+      "The concentration of water vapor near the surface."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary role of a greenhouse gas (GHG)?",
+    "choices": [
+      "To reflect incoming solar radiation.",
+      "To trap heat by impeding the flow of longwave radiation out of a planet's atmosphere.",
+      "To create clouds in the atmosphere.",
+      "To absorb incoming shortwave radiation."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where do greenhouse gases contribute most of the greenhouse effect?",
+    "choices": [
+      "In Earth's crust",
+      "In the mesosphere",
+      "In Earth's energy budget",
+      "In the exosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Greenhouse gases trap heat by:",
+    "choices": [
+      "reflecting longwave radiation back towards the surface.",
+      "impeding the flow of longwave radiation out of the atmosphere.",
+      "absorbing shortwave radiation before it reaches the surface.",
+      "increasing the albedo of the Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a greenhouse gas according to the definition?",
+    "choices": [
+      "Methane",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Water Vapor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Greenhouse gases contribute most of the greenhouse effect in:",
+    "choices": [
+      "The upper troposphere",
+      "The lower stratosphere",
+      "The Earth's energy budget",
+      "The mesosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What characteristic makes a gas infrared active and able to act as a greenhouse gas?",
+    "choices": [
+      "Having only one atom.",
+      "Having two identical atoms.",
+      "Having molecules with two different atoms or three or more atoms.",
+      "Being transparent to longwave radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are gases with only one atom or two identical atoms not infrared active?",
+    "choices": [
+      "They absorb shortwave radiation instead of longwave radiation.",
+      "They have a dipole moment.",
+      "They are symmetrical and do not have a dipole moment.",
+      "They are too heavy to absorb radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the molecular dipole moment when infrared active molecules vibrate?",
+    "choices": [
+      "It remains unchanged.",
+      "It becomes symmetrical.",
+      "Those vibrations modify the molecular dipole moment, or asymmetry in the distribution of electrical charge.",
+      "It emits shortwave radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following gases is NOT infrared active?",
+    "choices": [
+      "CO",
+      "H2O",
+      "CO2",
+      "N2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "More than 99% of the dry atmosphere is composed of gases that are:",
+    "choices": [
+      "Infrared active",
+      "Greenhouse gases",
+      "Symmetrical",
+      "Transparent to longwave radiation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Within what ranges of wavelengths do greenhouse gases absorb and emit longwave radiation?",
+    "choices": [
+      "Random wavelengths",
+      "All wavelengths",
+      "Specific ranges of wavelengths (organized as spectral lines or bands)",
+      "Only visible light wavelengths"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens when greenhouse gases absorb radiation?",
+    "choices": [
+      "They reflect the radiation back into space.",
+      "They distribute the acquired energy to the surrounding air as thermal energy.",
+      "They convert the radiation into shortwave radiation.",
+      "They undergo a chemical reaction."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary mechanism by which energy is transferred from greenhouse gas molecules to other molecules?",
+    "choices": [
+      "Radiative emission",
+      "Molecular collisions",
+      "Chemical reactions",
+      "Nuclear fusion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What determines the rate at which greenhouse gases emit longwave radiation?",
+    "choices": [
+      "The concentration of greenhouse gases.",
+      "The albedo of the Earth.",
+      "The air temperature.",
+      "The intensity of solar radiation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Do greenhouse gases 're-emit' photons after they are absorbed?",
+    "choices": [
+      "Yes, immediately",
+      "Yes, after a short delay",
+      "No, the energy is redistributed to other molecules before a photon can be emitted",
+      "Only at very high altitudes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Within the troposphere, what is the typical net effect of greenhouse gases on air temperature?",
+    "choices": [
+      "A net warming effect",
+      "A net cooling effect",
+      "No effect",
+      "A fluctuating effect, alternating between warming and cooling"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What impact do greenhouse gases have on surface cooling through longwave radiation?",
+    "choices": [
+      "They increase radiative surface cooling.",
+      "They have no effect on radiative surface cooling.",
+      "They reduce radiative surface cooling.",
+      "They convert radiative cooling into convective cooling."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do greenhouse gases impact the top-of-atmosphere (TOA) energy budget?",
+    "choices": [
+      "By increasing the flux of longwave radiation emitted to space.",
+      "By decreasing the flux of shortwave radiation absorbed by the atmosphere.",
+      "By reducing the flux of longwave radiation emitted to space.",
+      "By having no impact on the energy budget."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What non-radiative mechanisms provide surface cooling?",
+    "choices": [
+      "Infrared radiation and reflection",
+      "Latent heat transport and thermals",
+      "Absorption of solar radiation and greenhouse gas emission",
+      "Conduction and shortwave radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When reasoning about the warming effect of greenhouse gases, it is important to focus on:",
+    "choices": [
+      "The surface energy budget",
+      "The top-of-atmosphere (TOA) energy budget",
+      "The internal energy of the Earth",
+      "The energy consumption of human activities"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the two main effects of clouds and aerosols on the climate system?",
+    "choices": [
+      "Heating and cooling effects",
+      "Absorption and emission of radiation",
+      "Reflection and transmission of radiation",
+      "Convection and conduction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the average net effect of clouds on the climate system?",
+    "choices": [
+      "A strong net warming effect",
+      "A slight net warming effect",
+      "A strong net cooling effect",
+      "No net effect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of clouds can have a net warming effect?",
+    "choices": [
+      "Cumulus clouds",
+      "Stratus clouds",
+      "Cirrus clouds",
+      "Cumulonimbus clouds"
+    ],
+    "answer": 2
+  }
+]

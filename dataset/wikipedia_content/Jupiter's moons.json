@@ -1,0 +1,552 @@
+[
+  {
+    "question": "As of February 5, 2024, how many confirmed moons of Jupiter are there?",
+    "choices": [
+      "79",
+      "92",
+      "95",
+      "63"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following were the first objects found to orbit a body that was neither Earth nor the Sun?",
+    "choices": [
+      "Inner Moons",
+      "Irregular Satellites",
+      "The Galilean Moons",
+      "Amalthea Moonlets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of the total orbiting mass around Jupiter is comprised by the Galilean moons?",
+    "choices": [
+      "99.997%",
+      "50%",
+      "25%",
+      "75%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who independently discovered the Galilean moons along with Galileo?",
+    "choices": [
+      "Johannes Kepler",
+      "Simon Marius",
+      "E. E. Barnard",
+      "Scott Sheppard"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The names of the Jovian moons are primarily derived from whom?",
+    "choices": [
+      "Greek philosophers",
+      "Roman emperors",
+      "Lovers/daughters of Jupiter/Zeus",
+      "Famous astronomers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Jupiter's regular satellites?",
+    "choices": [
+      "Prograde orbits",
+      "Nearly circular orbits",
+      "High inclination with respect to Jupiter's equatorial plane",
+      "Relatively small inclination"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The four inner moons of Jupiter serve as the source of what?",
+    "choices": [
+      "Water ice",
+      "Volcanic activity",
+      "Dust that makes up Jupiter's rings",
+      "Subsurface oceans"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary origin of Jupiter's outer irregular satellites?",
+    "choices": [
+      "Formed in place",
+      "Captured asteroids",
+      "Volcanic ejecta",
+      "Debris from a protoplanet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens when captured asteroids shatter by impacts?",
+    "choices": [
+      "They form a giant ring around Jupiter",
+      "They form the Galilean moons",
+      "They form inner moons",
+      "They form collisional families of moons"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately how many irregular moons larger than 1 km in diameter is Jupiter expected to have?",
+    "choices": [
+      "10",
+      "100",
+      "1000",
+      "500"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Galilean moon is the ninth largest object in the Solar System?",
+    "choices": [
+      "Io",
+      "Europa",
+      "Ganymede",
+      "Callisto"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the diameter range of most Jovian moons, excluding the Galilean moons?",
+    "choices": [
+      "Over 3,100 kilometers",
+      "Less than 250 kilometers",
+      "Between 500 and 1,000 kilometers",
+      "Exactly 1,000 kilometers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of motion do many of the smaller Jovian moons exhibit?",
+    "choices": [
+      "Retrograde motion",
+      "Perfectly circular motion",
+      "Geosynchronous orbit",
+      "Polar orbit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the orbital shape of most of the smaller Jovian moons?",
+    "choices": [
+      "Nearly perfectly circular",
+      "Highly elliptical",
+      "Parabolic",
+      "Hyperbolic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What object in the Solar System is Ganymede larger than?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Jupiter's regular satellites are believed to have formed from what?",
+    "choices": [
+      "Captured asteroids",
+      "A circumplanetary disk",
+      "Volcanic eruptions",
+      "Collisions with other moons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of Jupiter's mass captured from the solar nebula may have passed through the circumplanetary disk?",
+    "choices": [
+      "0.02%",
+      "0.2%",
+      "2%",
+      "20%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate orbital resonance ratio between Io, Europa, and Ganymede?",
+    "choices": [
+      "1:1:1",
+      "1:2:3",
+      "1:2:4",
+      "1:3:5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the expected orbital resonance ratio between Io, Europa, Ganymede and Callisto in 1.5 billion years?",
+    "choices": [
+      "1:2:4",
+      "1:2:4:6",
+      "1:2:4:8",
+      "2:4:6:8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How were the outer, irregular moons of Jupiter captured into orbit?",
+    "choices": [
+      "Volcanic Activity",
+      "Gravitational forces",
+      "The proto-lunar disk",
+      "Solar winds"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is credited with the first certain observations of Jupiter's satellites?",
+    "choices": [
+      "Simon Marius",
+      "Galileo Galilei",
+      "E.E. Barnard",
+      "Gan De"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what year did Galileo Galilei publish his observations of Jupiter's moons?",
+    "choices": [
+      "1609",
+      "1610",
+      "1614",
+      "1620"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the magnification of Galileo's telescope when he discovered the Galilean moons?",
+    "choices": [
+      "5x",
+      "10x",
+      "20x",
+      "50x"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which moon was discovered by E. E. Barnard in 1892?",
+    "choices": [
+      "Himalia",
+      "Amalthea",
+      "Elara",
+      "Pasiphae"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Chinese historian claimed the earliest record of a Jovian moon?",
+    "choices": [
+      "Xi Jinping",
+      "Xi Zezong",
+      "Gan De",
+      "Sun Tzu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which space probes discovered the inner moons Metis, Adrastea, and Thebe?",
+    "choices": [
+      "Pioneer 10 and 11",
+      "Voyager 1 and 2",
+      "Galileo",
+      "Cassini"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of cameras began emerging on telescopes that ushered in a wave of new moon discoveries in the 1990s?",
+    "choices": [
+      "Infrared cameras",
+      "Digital charge-coupled device (CCD) cameras",
+      "Photographic plate cameras",
+      "Analog film cameras"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The lost moon Themisto was rediscovered with the aid of what?",
+    "choices": [
+      "The Hubble Space Telescope",
+      "Automated computer algorithms",
+      "The naked eye",
+      "The Very Large Array"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How did Scott Sheppard and his team recover several lost moons of Jupiter from 2003 to 2011?",
+    "choices": [
+      "Surveying for trans-Neptunian objects",
+      "Surveying for distant trans-Neptunian objects",
+      "Using a submarine",
+      "Using an X-Ray Telescope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following observatories is NOT mentioned as being used to discover Jovian irregular moons?",
+    "choices": [
+      "Mauna Kea Observatory",
+      "Canada-France-Hawaii Telescope (CFHT)",
+      "Las Campanas Observatory",
+      "Very Large Array"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which astronomer is credited with suggesting the names of the Galilean moons?",
+    "choices": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Simon Marius",
+      "Camille Flammarion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What system of naming was used for Jupiter's moons before the adoption of the names Io, Europa, Ganymede, and Callisto?",
+    "choices": [
+      "Greek gods",
+      "Roman numerals",
+      "Alphabetical order",
+      "Order of discovery"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who first used the name Amalthea for Jupiter V?",
+    "choices": [
+      "Simon Marius",
+      "Galileo Galilei",
+      "Camille Flammarion",
+      "E.E. Barnard"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What organization granted formal names to Jupiter's satellites V-XIII in 1975?",
+    "choices": [
+      "NASA",
+      "ESA",
+      "International Astronomical Union (IAU)",
+      "Royal Astronomical Society"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the convention for naming prograde irregular satellites?",
+    "choices": [
+      "Names ending with 'a' or 'o'",
+      "Names ending with 'e'",
+      "Names ending with 'i'",
+      "Names ending with 'u'"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT part of the Inner satellites or Amalthea group?",
+    "choices": [
+      "Metis",
+      "Io",
+      "Amalthea",
+      "Thebe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which group contains Io, Europa, Ganymede and Callisto?",
+    "choices": [
+      "The Inner satellites or Amalthea group",
+      "The Himalia group",
+      "The Main group or Galilean moons",
+      "The Ananke group"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following celestial bodies is larger than Mercury in diameter?",
+    "choices": [
+      "Io",
+      "Europa",
+      "Ganymede",
+      "Callisto"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Galilean moons contain what percentage of the total mass in orbit around Jupiter?",
+    "choices": [
+      "90.007%",
+      "99.997%",
+      "95.000%",
+      "85.500%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the Galilean moons are suspected to have subsurface water oceans?",
+    "choices": [
+      "Io, Europa, and Ganymede",
+      "Europa, Ganymede, and Callisto",
+      "Io, Ganymede, and Callisto",
+      "Io, Europa, and Callisto"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following irregular satellites is NOT part of a known family?",
+    "choices": [
+      "Themisto",
+      "The Himalia",
+      "The Carme",
+      "The Pasiphae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the proposed origin of the Himalia group?",
+    "choices": [
+      "Break-up of a moon",
+      "Break-up of an asteroid",
+      "Volcanic eruption",
+      "Proto-planetary disc fragment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What effect induces the Lidov-Kozai resonance?",
+    "choices": [
+      "Tidal forces",
+      "Gravitational perturbations",
+      "Volcanic activity",
+      "Solar radiation pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Carme group is believed to have originated as collisional fragments from what type of object?",
+    "choices": [
+      "A-type asteroid",
+      "B-type asteroid",
+      "C-type asteroid",
+      "D-type asteroid"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What magnitude level did Sheppard and Jewitt predict Jupiter should have approximately 100 irregular satellites brighter than?",
+    "choices": [
+      "Magnitude 22",
+      "Magnitude 23",
+      "Magnitude 24",
+      "Magnitude 25"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What is the primary factor used to arrange the moons of Jupiter in the 'List' section?",
+    "choices": [
+      "Size",
+      "Orbital period",
+      "Distance from Jupiter",
+      "Discovery date"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the 'List' section, moons that are massive enough for their surfaces to have collapsed into a spheroid are indicated by what formatting?",
+    "choices": [
+      "Italics",
+      "Underlining",
+      "Bold text",
+      "Color shading"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What factor causes the orbits and mean distances of the irregular moons to be highly variable over short timescales?",
+    "choices": [
+      "Rapid rotation of Jupiter",
+      "Frequent planetary and solar perturbations",
+      "Collisions with asteroids",
+      "Volcanic activity on the moons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The proper orbital elements listed for the irregular moons are averaged over what period of time?",
+    "choices": [
+      "100 years",
+      "200 years",
+      "400 years",
+      "500 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For recently discovered irregular moons without published proper elements, what type of orbital elements are temporarily listed?",
+    "choices": [
+      "Accurate orbital elements",
+      "Inaccurate orbital elements",
+      "Osculating orbital elements",
+      "Italicized osculating orbital elements"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which spacecraft was the first to enter orbit around Jupiter?",
+    "choices": [
+      "Pioneer 10",
+      "Voyager 1",
+      "Galileo",
+      "Cassini"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did the Voyager probes discover on Io and Europa?",
+    "choices": [
+      "Subsurface oceans",
+      "Volcanic activity on Io and water ice on Europa",
+      "Atmospheres of nitrogen",
+      "Magnetic field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which mission discovered a magnetic field around Ganymede?",
+    "choices": [
+      "Pioneer 10",
+      "Voyager 1",
+      "Galileo",
+      "New Horizons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year did the Juno spacecraft begin close flybys of the Galilean moons?",
+    "choices": [
+      "2016",
+      "2018",
+      "2021",
+      "2022"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following did the Ulysses probe study?",
+    "choices": [
+      "The volcanic activity on Io",
+      "The possibility of liquid water beneath the surfaces of Europa, Ganymede, and Callisto.",
+      "Jupiter's magnetosphere",
+      "Improved measurements of the satellites orbital parameters"
+    ],
+    "answer": 3
+  }
+]

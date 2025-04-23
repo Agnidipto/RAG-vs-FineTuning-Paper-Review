@@ -1,0 +1,1012 @@
+[
+  {
+    "question": "Stellar evolution describes the changes a star undergoes over:",
+    "choices": [
+      "A few decades",
+      "A few centuries",
+      "The course of time",
+      "A single year"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The lifetime of a star depends primarily on its:",
+    "choices": [
+      "Color",
+      "Mass",
+      "Temperature",
+      "Location in the galaxy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "All stars originate from collapsing clouds of gas and dust known as:",
+    "choices": [
+      "Supernovae",
+      "Black holes",
+      "Nebulae or molecular clouds",
+      "White dwarfs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A star powered by hydrogen fusion at its core is called a:",
+    "choices": [
+      "Red giant",
+      "White dwarf",
+      "Main-sequence star",
+      "Supernova"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the core of a star like the Sun when it runs out of nuclear fuel?",
+    "choices": [
+      "It collapses into a neutron star",
+      "It collapses into a black hole",
+      "It collapses into a dense white dwarf",
+      "It explodes as a supernova"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The gravitational collapse of a giant molecular cloud is the beginning of:",
+    "choices": [
+      "A black hole",
+      "Stellar evolution",
+      "A supernova",
+      "A planetary nebula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Giant molecular clouds are typically how large across?",
+    "choices": [
+      "1 light-year",
+      "10 light-years",
+      "100 light-years",
+      "1000 light-years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "As a fragment of a molecular cloud collapses, what happens to its temperature and pressure?",
+    "choices": [
+      "They decrease",
+      "They remain constant",
+      "They increase",
+      "They oscillate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A rotating ball of superhot gas that condenses from a collapsing molecular cloud is called a:",
+    "choices": [
+      "Neutron star",
+      "Protostar",
+      "White dwarf",
+      "Red giant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Observations using what instrument have been especially important for discovering galactic protostars?",
+    "choices": [
+      "Hubble Space Telescope",
+      "Chandra X-ray Observatory",
+      "Wide-field Infrared Survey Explorer (WISE)",
+      "Kepler Space Telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the defining characteristic of a brown dwarf?",
+    "choices": [
+      "It is extremely luminous",
+      "It never reaches temperatures high enough for sustained hydrogen fusion",
+      "It always explodes as a supernova",
+      "It is the remnant of a massive star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The International Astronomical Union defines brown dwarfs as stars massive enough to fuse which element?",
+    "choices": [
+      "Hydrogen",
+      "Helium",
+      "Deuterium",
+      "Carbon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Objects smaller than 13 Jupiter masses that do not orbit a star are classified as:",
+    "choices": [
+      "Planets",
+      "Brown dwarfs",
+      "Sub-brown dwarfs",
+      "Red dwarfs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do brown dwarfs typically evolve over time?",
+    "choices": [
+      "They explode as supernovae",
+      "They become white dwarfs",
+      "They shine brightly and increase in temperature",
+      "They shine dimly and fade away slowly, cooling gradually"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What prevents a brown dwarf from becoming a main sequence star?",
+    "choices": [
+      "Lack of magnetic field",
+      "Insufficient mass to sustain hydrogen fusion",
+      "Too much angular momentum",
+      "Excessive internal pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What core temperature is required for a protostar to initiate the proton-proton chain reaction?",
+    "choices": [
+      "1 million kelvin",
+      "10 million kelvin",
+      "100 million kelvin",
+      "1 billion kelvin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In stars slightly over 1 M☉, what fusion reaction contributes a significant portion of the energy generation?",
+    "choices": [
+      "Proton-proton chain reaction",
+      "Triple-alpha process",
+      "Carbon–nitrogen–oxygen fusion reaction (CNO cycle)",
+      "Silicon burning"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What balances the weight of a star's matter, preventing further gravitational collapse during the main sequence phase?",
+    "choices": [
+      "Magnetic fields",
+      "Dark matter",
+      "Energy released by the core maintaining a high gas pressure",
+      "Electron degeneracy pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where does a new star sit on the Hertzsprung–Russell diagram during its main sequence phase?",
+    "choices": [
+      "Randomly",
+      "At the top right corner",
+      "At the bottom left corner",
+      "At a specific point depending on its mass"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately how long will a mid-sized yellow dwarf star, like the Sun, remain on the main sequence?",
+    "choices": [
+      "1 million years",
+      "1 billion years",
+      "10 billion years",
+      "100 billion years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can a star gain that may eventually develop into a planetary system?",
+    "choices": [
+      "A strong magnetic field",
+      "A protoplanetary disk",
+      "A companion star",
+      "A black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens when a star's core exhausts its supply of hydrogen?",
+    "choices": [
+      "It immediately explodes as a supernova",
+      "It becomes a black hole",
+      "It evolves off the main sequence",
+      "It remains unchanged"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What force counteracts gravity to prevent the core from contracting when a star exhausts its hydrogen supply?",
+    "choices": [
+      "Electromagnetic force",
+      "Electron degeneracy pressure or helium fusion",
+      "Strong nuclear force",
+      "Dark energy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate temperature required for helium fusion to begin in a star's core?",
+    "choices": [
+      "1 million Kelvin",
+      "10 million Kelvin",
+      "100 million Kelvin",
+      "1 billion Kelvin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What primarily determines whether electron degeneracy pressure or helium fusion occurs first after a star exhausts its core hydrogen?",
+    "choices": [
+      "The star's color",
+      "The star's mass",
+      "The star's rotation rate",
+      "The star's magnetic field strength"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the predicted fate of red dwarfs with very low mass (0.1 M☉) according to recent astrophysical models?",
+    "choices": [
+      "They will explode as supernovae",
+      "They will become black holes",
+      "They will stay on the main sequence for trillions of years before collapsing into white dwarfs",
+      "They will quickly evolve into red giants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What prevents low-mass stars (0.1 M☉) from becoming red giants?",
+    "choices": [
+      "They lack the necessary magnetic field",
+      "They have too much angular momentum",
+      "They do not have a convection zone",
+      "The whole star is a convection zone, preventing the development of a degenerate helium core"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What happens to slightly more massive stars than the smallest red dwarfs after they exhaust hydrogen shell burning?",
+    "choices": [
+      "They explode as supernovae",
+      "They move directly off the red-giant branch to become white dwarfs",
+      "They become neutron stars",
+      "They become black holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what initial mass must a star have to reach temperatures high enough to fuse helium?",
+    "choices": [
+      "0.1 M☉",
+      "0.3 M☉",
+      "0.6 M☉",
+      "1.0 M☉"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do 'mid-sized' stars do after evolving off of the red-giant branch?",
+    "choices": [
+      "They become black dwarfs",
+      "They go on to further stages of evolution",
+      "They explode as supernovae",
+      "They remain as red giants indefinitely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Stars of roughly 0.6–10 M☉ become what type of star?",
+    "choices": [
+      "White dwarfs",
+      "Red giants",
+      "Neutron stars",
+      "Black holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where do red giants lie on the Hertzsprung–Russell diagram?",
+    "choices": [
+      "Along the main sequence",
+      "On the left edge",
+      "On the right edge",
+      "In the center"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the two different phases during which mid-sized stars are red giants?",
+    "choices": [
+      "Protostar and main sequence star",
+      "Red-giant-branch and asymptotic-giant-branch",
+      "Subgiant and horizontal branch",
+      "White dwarf and black dwarf"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the composition of the inert cores in red-giant-branch stars and asymptotic-giant-branch stars, respectively?",
+    "choices": [
+      "Iron and carbon",
+      "Hydrogen and helium; carbon and oxygen",
+      "Helium and hydrogen; carbon and helium",
+      "Carbon and helium; hydrogen and helium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for helium-fusing stars that cluster towards the cool end of the horizontal branch as K-type giants?",
+    "choices": [
+      "Blue stragglers",
+      "Red clump giants",
+      "Yellow supergiants",
+      "Mira variables"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What process occurs in a star when it exhausts the hydrogen in its core?",
+    "choices": [
+      "It leaves the main sequence and begins to fuse hydrogen in a shell outside the core",
+      "It immediately explodes as a supernova",
+      "It becomes a white dwarf directly",
+      "It becomes a black hole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How long does the subgiant phase typically last?",
+    "choices": [
+      "A few years",
+      "A few decades",
+      "Several million to one or two billion years",
+      "Hundreds of billions of years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes the hydrogen shell to increase in temperature and the luminosity of the star to increase during the subgiant phase?",
+    "choices": [
+      "The outer layers cool sufficiently to become opaque, or the core becomes degenerate",
+      "The star starts to fuse helium",
+      "The star becomes a neutron star",
+      "The star collapses into a black hole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What happens to the star as a result of the hydrogen shell increasing in temperature during the subgiant phase?",
+    "choices": [
+      "It shrinks dramatically",
+      "It explodes as a supernova",
+      "It expands onto the red-giant branch",
+      "It becomes a white dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does the luminosity of the star change relative to its main sequence state during the subgiant phase?",
+    "choices": [
+      "It increases dramatically",
+      "It decreases significantly",
+      "It remains similar or slightly lower",
+      "It oscillates wildly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the outer layers of a star on the red-giant-branch phase?",
+    "choices": [
+      "They are no longer convective",
+      "They are ejected to form a planetary nebula",
+      "They become extremely hot and blue",
+      "They are convective, with material being mixed by turbulence from near the fusing regions up to the surface"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the 'first dredge-up'?",
+    "choices": [
+      "The process of ejecting the star's outer layers",
+      "The initial mixing of hydrogen and helium in the core",
+      "The mixing of fused material to the star's surface, making fusion products visible",
+      "The start of helium fusion in the core"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What changes are observed at the surface of a star due to the CNO cycle during the first dredge-up?",
+    "choices": [
+      "Increased hydrogen abundance",
+      "Lower 12C/13C ratios and altered proportions of carbon and nitrogen",
+      "Increased helium abundance",
+      "Increased oxygen abundance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the helium core on the red-giant branch?",
+    "choices": [
+      "It remains in thermal equilibrium",
+      "It explodes as a supernova",
+      "It increases in temperature which causes the rate of fusion in the hydrogen shell to increase",
+      "It collapses into a black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do the luminosities of red-giant-branch stars compare when they reach the tip with a degenerate helium core?",
+    "choices": [
+      "They vary wildly",
+      "They all have very different luminosities",
+      "They all reach the tip with very similar luminosities",
+      "The more massive ones become less luminous before that point"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a helium flash?",
+    "choices": [
+      "A sudden ejection of mass from the star",
+      "The rapid ignition of helium fusion in a degenerate core",
+      "A supernova explosion",
+      "The brief period when a star becomes a black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what type of stars does the ignition of helium fusion occur slowly without a flash?",
+    "choices": [
+      "Stars with degenerate helium cores",
+      "Stars with nondegenerate cores",
+      "White dwarfs",
+      "Neutron stars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where does the energy released during the helium flash go?",
+    "choices": [
+      "It is released as a burst of light",
+      "It is consumed by the thermal expansion of the initially degenerate core",
+      "It escapes as neutrinos",
+      "It is absorbed by the outer layers of the star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to hydrogen fusion in the overlying layers after a helium flash?",
+    "choices": [
+      "It accelerates dramatically",
+      "It slows down",
+      "It stops completely",
+      "It becomes unstable"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where does a star migrate to on the Hertzsprung–Russell diagram after a helium flash?",
+    "choices": [
+      "The main sequence",
+      "The red-giant branch",
+      "The horizontal branch",
+      "It becomes a black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where do core helium flash stars evolve to on the horizontal branch?",
+    "choices": [
+      "The blue end",
+      "The red end",
+      "The middle",
+      "They explode"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the 'red clump'?",
+    "choices": [
+      "A collection of red giants in the Milky Way",
+      "Stars often observed as a red clump of stars in the color-magnitude diagram of a cluster, hotter and less luminous than the red giants",
+      "A region of space filled with red dust",
+      "A type of supernova"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What determines the morphology of the horizontal branch?",
+    "choices": [
+      "Only age",
+      "Only metallicity",
+      "Parameters such as metallicity, age, and helium content",
+      "Only helium content"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the yellow instability strip on the horizontal branch associated with?",
+    "choices": [
+      "Red giants",
+      "Black holes",
+      "Unstable pulsating stars (RR Lyrae variables)",
+      "White dwarfs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What elements are primarily in the hot core of a star during the Asymptotic-giant-branch phase?",
+    "choices": [
+      "Hydrogen and helium",
+      "Carbon and oxygen",
+      "Iron and nickel",
+      "Silicon and sulfur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During the Asymptotic-giant-branch phase, where is the majority of the energy produced?",
+    "choices": [
+      "Helium burning in the core",
+      "Hydrogen burning in a shell further from the core of the star",
+      "Fusion of carbon in the core",
+      "Neutrino emission"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are thermal pulses?",
+    "choices": [
+      "Sudden bursts of energy from the core of a star",
+      "Dramatic increases in the energy output from the helium shell",
+      "Ejections of mass from the star's surface",
+      "Shockwaves caused by a supernova"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the 'second dredge up'?",
+    "choices": [
+      "The mixing of carbon from the core to the surface",
+      "The mixing of hydrogen from the outer layers to the core",
+      "The loss of mass from the star's surface",
+      "A supernova explosion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of star is formed as a result of the second dredge up?",
+    "choices": [
+      "A neutron star",
+      "A carbon star",
+      "A white dwarf",
+      "A black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are Mira variables?",
+    "choices": [
+      "Stars that pulsate with well-defined periods and large amplitudes",
+      "Stars that explode as supernovae",
+      "Stars that collapse into black holes",
+      "Stars that become white dwarfs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What ultimately happens to mid-range stars at the tip of the asymptotic-giant-branch?",
+    "choices": [
+      "They explode as supernovae",
+      "They run out of fuel for shell burning and contract again",
+      "They collapse into black holes",
+      "They continue to fuse heavier elements indefinitely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is produced during the post-asymptotic-giant-branch superwind phase?",
+    "choices": [
+      "A black hole",
+      "A neutron star",
+      "A white dwarf with a planetary nebula",
+      "A supernova"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the composition of the gas expelled during the post-AGB phase?",
+    "choices": [
+      "Pure hydrogen and helium",
+      "Relatively rich in heavy elements created within the star",
+      "Mostly iron and nickel",
+      "Entirely dark matter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What conditions are formed in circumstellar envelopes during the post-AGB phase?",
+    "choices": [
+      "Conditions unsuitable for molecule formation",
+      "Conditions ideal for maser excitation",
+      "Extremely high temperatures and pressures",
+      "A vacuum"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are born-again asymptotic-giant-branch stars?",
+    "choices": [
+      "Common, well-understood stars that repeat their AGB evolution",
+      "Unusual and poorly understood stars that have thermal pulses after post-AGB evolution begins",
+      "Stars that have exploded as supernovae and are re-forming",
+      "Stars that have collapsed into black holes and are re-emerging"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why do massive stars not brighten as dramatically as lower-mass stars when they expand and cool?",
+    "choices": [
+      "They lack the necessary mass",
+      "They are already very luminous on the main sequence",
+      "Their outer layers are too dense",
+      "They do brighten dramatically"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the ultimate fate of the cores of massive stars?",
+    "choices": [
+      "They collapse to produce a neutron star or black hole",
+      "They become white dwarfs",
+      "They explode as planetary nebulae",
+      "They remain stable indefinitely"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do extremely massive stars (more than approximately 40 M☉) tend to evolve?",
+    "choices": [
+      "They become red supergiants",
+      "They explode as supernovae immediately",
+      "They retain extremely high surface temperatures due to rapid mass loss",
+      "They collapse directly into black holes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a condition that can prevent a star from becoming a red giant or red supergiant?",
+    "choices": [
+      "A strong magnetic field",
+      "Being in a binary system where the companion star strips off the envelope",
+      "A slow rotation rate",
+      "A low metallicity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the core of a massive star change as it accretes material from hydrogen fusion outside the core?",
+    "choices": [
+      "It shrinks and cools",
+      "It remains constant",
+      "It grows hotter and denser",
+      "It becomes a black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary composition of the core of a star at the end of helium fusion?",
+    "choices": [
+      "Hydrogen and helium",
+      "Carbon and oxygen",
+      "Iron and nickel",
+      "Silicon and sulfur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens in stars heavier than about 8 M☉ after helium fusion?",
+    "choices": [
+      "Carbon ignites and fuses to form heavier elements",
+      "They collapse into black holes immediately",
+      "They become white dwarfs",
+      "They explode as supernovae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the end result for stars that partially ignite carbon but cannot fully fuse it?",
+    "choices": [
+      "They leave an oxygen-neon-magnesium white dwarf",
+      "They explode as supernovae",
+      "They collapse into neutron stars",
+      "They become black holes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What triggers neon burning in stars around 8-12 M☉?",
+    "choices": [
+      "A strong magnetic field",
+      "Neon capturing electrons",
+      "A supernova explosion",
+      "The star becoming a black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the result of unstable neon burning in the range of stars approximately 8-12 M☉?",
+    "choices": [
+      "A type II supernova",
+      "An electron capture supernova",
+      "A runaway fusion explosion",
+      "The star becoming a black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the final product of complete silicon burning in a massive star?",
+    "choices": [
+      "Carbon and oxygen",
+      "Neon and magnesium",
+      "Iron-peak elements",
+      "Hydrogen and helium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens when the iron core of a massive star reaches its effective Chandrasekhar mass?",
+    "choices": [
+      "It starts to fuse into heavier elements",
+      "It explodes as a supernova",
+      "It collapses",
+      "It becomes stable"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When the core of a massive star collapses, what can it form?",
+    "choices": [
+      "A white dwarf",
+      "A neutron star or a black hole",
+      "A planetary nebula",
+      "A red giant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of energy is converted into a supernova during a core collapse?",
+    "choices": [
+      "Nuclear energy",
+      "Chemical energy",
+      "Gravitational potential energy",
+      "Dark energy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a key observation that confirms core collapse produces a surge of neutrinos?",
+    "choices": [
+      "The detection of SN 1987A",
+      "The detection of black holes",
+      "The detection of white dwarfs",
+      "The detection of the CMB"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are the products created from the energetic neutrinos released during a core collapse supernova?",
+    "choices": [
+      "Electrons and protons",
+      "Neutrons, heat, and kinetic energy",
+      "Dark matter and dark energy",
+      "Quarks and gluons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are both supernovae and ejection of elements from red giants required to explain the observed abundance of heavy elements?",
+    "choices": [
+      "They produce the same elements in the same quantities",
+      "They produce different elements in different quantities",
+      "They both produce all the elements",
+      "They are the only sources of heavy elements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes a Type Ib, Type Ic, or Type II supernova?",
+    "choices": [
+      "The star becomes a black hole directly",
+      "The energy transferred from the collapse of the core to rebounding material",
+      "The star becomes a white dwarf",
+      "The rapid fusion of hydrogen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What may play an important role in the energy transfer problem during a supernova?",
+    "choices": [
+      "Neutrino oscillations",
+      "Dark energy",
+      "Dark matter",
+      "Black hole formation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What unique event can happen to the most massive stars?",
+    "choices": [
+      "Pair-instability supernova",
+      "Black hole formation",
+      "Neutron star formation",
+      "White dwarf formation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The final form a stellar remnant takes depends on its:",
+    "choices": [
+      "Color",
+      "Temperature",
+      "Mass during its lifetime",
+      "Rotation speed"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What force balances the inward pull of gravity in a white dwarf?",
+    "choices": [
+      "Nuclear fusion",
+      "Electron degeneracy pressure",
+      "Neutron degeneracy pressure",
+      "Dark energy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the relationship between mass and volume in white dwarfs of a given chemical composition?",
+    "choices": [
+      "Higher mass means larger volume",
+      "Lower mass means smaller volume",
+      "Higher mass means smaller volume",
+      "Mass and volume are unrelated"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary way a white dwarf loses its remaining heat?",
+    "choices": [
+      "Nuclear fusion",
+      "Radiating heat into space",
+      "Convection",
+      "Conduction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the predicted fate of white dwarfs in the distant future?",
+    "choices": [
+      "They will explode as supernovae",
+      "They will become black dwarfs",
+      "They will fuse into heavier elements",
+      "They will turn into black holes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens if a white dwarf's mass increases above the Chandrasekhar limit?",
+    "choices": [
+      "It becomes a red giant",
+      "It becomes a neutron star or runaway ignition of carbon and oxygen",
+      "It stabilizes",
+      "It turns into a black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a nova?",
+    "choices": [
+      "A type of supernova",
+      "A runaway fusion reaction on the surface of a white dwarf that remains below the Chandrasekhar limit",
+      "A type of black hole",
+      "A type of neutron star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to electrons and protons during a stellar core collapse?",
+    "choices": [
+      "They are destroyed",
+      "They fuse by electron capture",
+      "They are repelled by the pressure",
+      "They form quarks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What resists further compression in a neutron star?",
+    "choices": [
+      "Electron degeneracy pressure",
+      "Neutron degeneracy pressure",
+      "Dark energy",
+      "The magnetic field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How small are neutron stars?",
+    "choices": [
+      "Comparable in size to Earth",
+      "On the order of radius 10 km",
+      "Similar in size to the Sun",
+      "Similar in size to Jupiter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are pulsars?",
+    "choices": [
+      "Neutron stars that emit pulses of radiation when their magnetic poles align with Earth",
+      "White dwarfs with extremely strong magnetic fields",
+      "Stars that pulsate rapidly in brightness",
+      "Black holes that emit radiation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the minimum mass for a stellar remnant to become a black hole?",
+    "choices": [
+      "0.1 M☉",
+      "1.4 M☉",
+      "Between 2 and 3 M☉",
+      "10 M☉"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Schwarzschild radius?",
+    "choices": [
+      "The radius of a neutron star",
+      "The radius of a white dwarf",
+      "The radius below which a stellar remnant collapses into a black hole",
+      "The radius of a supernova explosion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to classical general relativity, what can flow from the interior of a black hole to an outside observer?",
+    "choices": [
+      "Matter",
+      "Information",
+      "Neither matter nor information",
+      "Only Hawking radiation due to quantum effects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is required to resolve the uncertainties regarding the mass relation between a star's initial mass and its remnant mass?",
+    "choices": [
+      "Analysis of more supernovae and supernova remnants",
+      "Building more powerful telescopes",
+      "Developing new theories of gravity",
+      "Sending probes into black holes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a stellar evolutionary model use as input?",
+    "choices": [
+      "The star's color and temperature",
+      "The star's luminosity and age",
+      "The star's mass and chemical composition",
+      "The star's distance and rotation rate"
+    ],
+    "answer": 2
+  }
+]

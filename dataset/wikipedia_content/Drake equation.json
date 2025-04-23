@@ -1,0 +1,802 @@
+[
+    {
+      "question": "What is the main purpose of the Drake equation as originally conceived by Frank Drake?",
+      "choices": [
+        "To accurately calculate the number of extraterrestrial civilizations.",
+        "To settle arguments within the SETI community.",
+        "To stimulate scientific discussion about factors related to extraterrestrial intelligence.",
+        "To secure funding for SETI projects."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Drake equation can be best described as a(n):",
+      "choices": [
+        "Precise calculation.",
+        "Scientific law.",
+        "Approximation.",
+        "Definitive answer."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary reason for the criticism surrounding the Drake equation?",
+      "choices": [
+        "The equation is mathematically incorrect.",
+        "The equation omits important factors.",
+        "The values for several factors are highly uncertain.",
+        "The equation is based on outdated astronomical data."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the article, the Drake equation is:",
+      "choices": [
+        "Primarily useful for quantifying extraterrestrial civilizations.",
+        "Incapable of being tested due to its hypothetical nature.",
+        "More useful as a framework for contemplating the conditions for life elsewhere.",
+        "Only relevant to the search for radio signals."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The uncertainty surrounding the Drake equation means that derived values are:",
+      "choices": [
+        "Always accurate.",
+        "Largely unimportant.",
+        "Associated with a very small margin of error.",
+        "Associated with a large margin of error."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the Drake equation, what does 'N' represent?",
+      "choices": [
+        "The number of stars in the Milky Way galaxy.",
+        "The number of planets capable of supporting life.",
+        "The number of civilizations in the Milky Way galaxy with which communication might be possible.",
+        "The average lifespan of a civilization."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the variable 'fp' represent in the Drake equation?",
+      "choices": [
+        "The rate of star formation in our galaxy.",
+        "The fraction of stars that have planets.",
+        "The number of planets per star that can support life.",
+        "The fraction of planets with life that develop intelligence."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which variable in the Drake equation represents the average number of planets that can potentially support life per star that has planets?",
+      "choices": [
+        "R∗",
+        "fp",
+        "ne",
+        "fl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the Drake equation, what does 'L' stand for?",
+      "choices": [
+        "The distance between galaxies.",
+        "The lifespan of a star.",
+        "The length of time for which civilizations release detectable signals into space.",
+        "The luminosity of a star."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a factor in the Drake equation?",
+      "choices": [
+        "The average rate of star formation.",
+        "The fraction of planets that could support life that actually develop life.",
+        "The likelihood of interstellar travel.",
+        "The fraction of civilizations that develop a detectable technology."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who co-authored the 1959 Nature article \"Searching for Interstellar Communications\"?",
+      "choices": [
+        "Frank Drake",
+        "Carl Sagan",
+        "Giuseppe Cocconi",
+        "Harlow Shapley"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What radio wavelength did Cocconi and Morrison suggest might be used for interstellar communication?",
+      "choices": [
+        "10 cm",
+        "21 cm",
+        "50 cm",
+        "100 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the name of Frank Drake's first SETI experiment?",
+      "choices": [
+        "Project Phoenix",
+        "Project Ozma",
+        "Project Cyclops",
+        "Project Daedalus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year did Drake host the first scientific meeting on SETI?",
+      "choices": [
+        "1959",
+        "1960",
+        "1961",
+        "1965"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the name of the group the attendees of the first SETI conference gave themselves?",
+      "choices": [
+        "The Star Seekers",
+        "The Green Bank Explorers",
+        "The Order of the Dolphin",
+        "The Cosmic Communicators"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the article, the Drake equation helps focus scientific attention on problems like:",
+      "choices": [
+        "The expansion rate of the universe.",
+        "Abiogenesis.",
+        "The mass of black holes.",
+        "The age of the solar system."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "After 50 years of SETI, which wavelength has been conclusively ruled out for widespread alien emissions?",
+      "choices": [
+        "10 cm",
+        "21 cm",
+        "50 cm",
+        "100 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Drake equation is considered a 'road map' for learning what in order to solve what question?",
+      "choices": [
+        "What we need to learn about physics to understand quantum mechanics.",
+        "What we need to learn about astrobiology in order to solve the origins of the universe.",
+        "What we need to learn in order to solve this fundamental existential question.",
+        "What we need to learn about social sciences to solve global poverty."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the article, SETI efforts since 1961 have conclusively ruled out what near the 21 cm wavelength of the hydrogen frequency?",
+      "choices": [
+        "Localized alien transmissions",
+        "Faint background noise",
+        "Widespread alien emissions",
+        "Planetary atmospheres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Drake equation is considered a seminal part of which science?",
+      "choices": [
+        "Physics",
+        "Cosmology",
+        "Astrobiology",
+        "Geology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What rate of star formation did Drake and his colleagues consider 'conservative' in 1961?",
+      "choices": [
+        "0.1 star per year",
+        "1 star per year",
+        "10 stars per year",
+        "100 stars per year"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What range did Drake estimate for the fraction of stars that will have planets?",
+      "choices": [
+        "0.01 to 0.1",
+        "0.2 to 0.5",
+        "0.8 to 1.0",
+        "0.9 to 0.99"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the minimum number of planets capable of developing life estimated by Drake and his colleagues?",
+      "choices": [
+        "0",
+        "1",
+        "5",
+        "10"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the minimum length of time Drake and his colleagues thought civilizations might communicate?",
+      "choices": [
+        "10 years",
+        "100 years",
+        "1000 years",
+        "1,000,000 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Drake conclude about N given the uncertainties in the original meeting?",
+      "choices": [
+        "N ≈ 1",
+        "N ≈ 0",
+        "N ≈ L",
+        "N is negligible"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to calculations from 2010, approximately how much stellar material is formed per year in the Milky Way?",
+      "choices": [
+        "0.1-0.5 M☉",
+        "0.68-1.45 M☉",
+        "5-10 M☉",
+        "10-20 M☉"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to microlensing surveys in 2012, what value might fp approach?",
+      "choices": [
+        "0",
+        "0.1",
+        "0.5",
+        "1"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Based on Kepler telescope data, how many Earth-sized planets might orbit in the habitable zones of sun-like and red dwarf stars?",
+      "choices": [
+        "1 billion",
+        "4 billion",
+        "10 billion",
+        "40 billion"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "According to Gibson, Fenner, and Lineweaver, what percentage of star systems in the Milky Way are hospitable to life?",
+      "choices": [
+        "1%",
+        "10%",
+        "50%",
+        "90%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What might mitigate against the presence of tidally locked planets close to red dwarf stars?",
+      "choices": [
+        "Low metallicity",
+        "Excessive planetary bombardment",
+        "Flaring behavior of the stars",
+        "Lack of a habitable zone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following provides geological evidence suggesting that fl may be high?",
+      "choices": [
+        "The presence of life on Mars.",
+        "The discovery of liquid water on Europa.",
+        "The early emergence of life on Earth.",
+        "The lack of evidence for abiogenesis."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the significance of finding evidence of past life on Mars, Europa, Enceladus, or Titan?",
+      "choices": [
+        "It would confirm the existence of extraterrestrial civilizations.",
+        "It would indicate that the Drake equation is invalid.",
+        "It would raise the estimate of fl closer to 1.",
+        "It would prove that abiogenesis is impossible on Earth."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What hypothesis did Crick and Orgel propose as an alternative to abiogenesis on Earth?",
+      "choices": [
+        "Spontaneous generation.",
+        "Directed panspermia.",
+        "Stellar nucleosynthesis.",
+        "The Great Filter."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the \"Astrobiological Copernican\" principle suggest regarding the formation of intelligent life?",
+      "choices": [
+        "Intelligent life is unique to Earth.",
+        "Intelligent life is exceedingly rare in the universe.",
+        "Intelligent life should form automatically on Earth-like planets.",
+        "Intelligent life requires specific conditions unlikely to be replicated."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The \"Astrobiological Copernican\" principle sets what probabilities for fl, fi and fc?",
+      "choices": [
+        "All to 0.",
+        "Random numbers.",
+        "All to a probability of 1.",
+        "All to 0.5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who pointed out that, of the billions of species that existed on Earth, only one has become intelligent, thus suggesting a low value for fi?",
+      "choices": [
+        "Carl Sagan",
+        "Ernst Mayr",
+        "Frank Drake",
+        "David Grinspoon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the article, which of the following discoveries is relevant when it comes to the fi factor?",
+      "choices": [
+        "The expansion of the universe is accelerating.",
+        "The Solar System's orbit is circular in the galaxy.",
+        "Neutrinos are nearly massless.",
+        "Black holes emit Hawking radiation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Pascal Lee of the SETI Institute propose for fi?",
+      "choices": [
+        "fi ≈ 1",
+        "0.0002",
+        "0.5",
+        "Random number"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the article, a discovery of the formation and disappearance of Martian life might?",
+      "choices": [
+        "Raise the estimate of fl and lower the estimate of fi",
+        "Lower the estimate of fl and raise the estimate of fi",
+        "Raise the estimate of fl and raise the estimate of fi",
+        "Lower the estimate of fl and lower the estimate of fi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The author of an analysis which applies to Earth's condition cautions that?",
+      "choices": [
+        "The study does not favor the formation of intelligent life on other planets with identical conditions to Earth.",
+        "The study applies to Earth's conditions and does not do so with high confidence.",
+        "That the conditions on Earth were probably due to alien life.",
+        "The study applies to Earth's conditions and does so with high confidence."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why might a civilization choose not to communicate?",
+      "choices": [
+        "They lack the technology.",
+        "They have no interest in other civilizations.",
+        "Communication is dangerous.",
+        "All of the above."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the article suggest is not required for an extraterrestrial civilization to receive a broadcast from Earth?",
+      "choices": [
+        "Active, purposeful transmission of messages by a civilization.",
+        "Advanced technology.",
+        "Proximity to Earth.",
+        "Understanding of human language."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to calculations, what technology level may make current Earth level technology detectable to aliens?",
+      "choices": [
+        "Equal level",
+        "Less advanced than present day humans",
+        "Not too much more advanced than present day humans",
+        "One million times more advanced than present day humans"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The question of what percentage of civilizations are close enough to detect depends on?",
+      "choices": [
+        "Technology, distance, the universe's age.",
+        "Technology, signals, the universe's age.",
+        "Location, signals, the universe's age.",
+        "Technology, distance, whether they send out signals."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "By what standard is the Earth a communicating civilization?",
+      "choices": [
+        "It transmits the Arecibo message.",
+        "Its radio transmissions are detectable to other nearby civilizations.",
+        "It actively seeks out communication with extraterrestrial life.",
+        "It actively colonizes planets."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Based on a comparison of 60 historical Earth civilizations, what did Michael Shermer estimate for L?",
+      "choices": [
+        "420 years",
+        "1,000 years",
+        "10,000 years",
+        "1 million years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What could be a reason to disregard civilizations when estimating duration L?",
+      "choices": [
+        "The turnover increases L.",
+        "They are separate.",
+        "Subsequent civilizations lack technologies of the first.",
+        "Since none could communicate over interstellar space, the method of comparing with historical civilizations could be regarded as invalid."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does David Grinspoon argue regarding advanced civilizations and their survival?",
+      "choices": [
+        "Civilizations are destined to self-destruct.",
+        "Civilizations must conquer other civilizations to survive.",
+        "Civilizations might overcome all threats and last indefinitely.",
+        "Civilizations are always destroyed by natural events."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Carl Sagan suggest was the determining factor for the number of civilizations in the universe?",
+      "choices": [
+        "The average rate of star formation.",
+        "The fraction of stars that have planets.",
+        "The lifetime of a civilization.",
+        "The development of interstellar travel."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Paleobiologist Olev Vinn suggests inherited behavior patterns present in all intelligent organisms cause what?",
+      "choices": [
+        "Rapid self-destruction.",
+        "Exploration of space.",
+        "Development of advanced technologies.",
+        "Peaceful coexistence."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If N ≪ 1, what does this imply?",
+      "choices": [
+        "There are many civilizations we might contact.",
+        "We are likely alone in the galaxy.",
+        "The Drake equation is invalid.",
+        "The parameters of the Drake equation are all equal to zero."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The presence of humanity implies what probability of intelligence arising?",
+      "choices": [
+        "Equal to zero",
+        "Between 0 and 1",
+        "Greater than zero",
+        "Impossible to determine"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "For Earth to have the only technological species that has ever occurred in the universe, what must the probability of any given habitable planet ever developing a technological species be less than?",
+      "choices": [
+        "2.5×10−1",
+        "2.5×10−14",
+        "2.5×10−24",
+        "2.5×10−34"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was the probability of technological species determined?",
+      "choices": [
+        "2006",
+        "2016",
+        "2026",
+        "1996"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does determining \"how unlikely the event of a technological species arising on a given habitable planet must be\" remove uncertainties about?",
+      "choices": [
+        "Communication and colonization",
+        "Lifetime and colonization",
+        "Lifetime and simultaneous communication",
+        "Communication and simultaneous colonization"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the article, modifications to the Drake equation have been proposed to account for:",
+      "choices": [
+        "The curvature of spacetime.",
+        "The uncertainty inherent in many of the terms.",
+        "The existence of parallel universes.",
+        "The rate of black hole formation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The best value for the non-longevity factors of the original six in the Drake equation is:",
+      "choices": [
+        "0.85 1/years",
+        "0.95 1/years",
+        "1.05 1/years",
+        "1.15 1/years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does David Brin note that the Drake equation ignores?",
+      "choices": [
+        "The contact cross-section between ETIs and contemporary human society.",
+        "The effects of dark matter on galactic evolution.",
+        "The possibility of time travel.",
+        "The role of artificial intelligence in civilization development."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If several civilizations come and go during the lifespan of one and the same planet, what does the total number of civilizations equal?",
+      "choices": [
+        "The number of civilizations may come and go during the lifespan of the planet.",
+        "1 + nr.",
+        "Nr",
+        "0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Drake equation may furthermore be multiplied by which factor?",
+      "choices": [
+        "colonization",
+        "stellar metallicity",
+        "reappearance",
+        "planetary metallicity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the METI factor represent, according to Alexander Zaitsev?",
+      "choices": [
+        "The fraction of civilizations capable of interstellar travel.",
+        "The fraction of civilizations that are actively searching for extraterrestrial life.",
+        "The fraction of civilizations that actually engage in deliberate interstellar transmission.",
+        "The fraction of civilizations that develop advanced technologies."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the focus of the Seager equation?",
+      "choices": [
+        "The search for planets with biosignature gases.",
+        "The calculation of interstellar travel distances.",
+        "The study of dark matter and dark energy.",
+        "The simulation of planetary formation."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the Seager equation, what does FS represent?",
+      "choices": [
+        "The fraction of stars that are sun-like.",
+        "The fraction of planets with solid surfaces.",
+        "The fraction of stars that are quiet.",
+        "The fraction of life producing a detectable signature gas."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What variable is modified by Sagan in his version of the equation?",
+      "choices": [
+        "N, number of civilizations",
+        "n, number of Earth-like planets",
+        "R, rate of star formation",
+        "L, lifetime of civilization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In Sagan's version of the equation what does fL represent?",
+      "choices": [
+        "Fraction of a planetary lifetime graced by a technological civilization",
+        "Fraction of communicative civilizations with clear and non-paranoid planetary consciousness",
+        "Fraction of civilizations that develop a technology that releases detectable signs of their existence into space",
+        "Fraction of planets with life that go on to develop intelligent life (civilizations)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a primary criticism of the Drake equation?",
+      "choices": [
+        "It's mathematically flawed.",
+        "It's based on outdated data.",
+        "Many of its terms are based on conjecture.",
+        "It doesn't account for the expansion of the universe."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does the article state that no statistical estimates are possible for some of the parameters in the Drake equation?",
+      "choices": [
+        "Because the parameters are too complex.",
+        "Because they are based on political considerations.",
+        "Because only one example is known.",
+        "Because the relevant data is classified."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What inaccurate assumption did the Drake equation make about the universe when it was first proposed?",
+      "choices": [
+        "It assumed the universe was static in time.",
+        "It assumed the universe was infinite in size.",
+        "It assumed the universe was filled with dark matter.",
+        "It assumed the universe was expanding at an increasing rate."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In response to criticism, it is pointed out that the equation was intended as a way to?",
+      "choices": [
+        "Prove that extraterrestrial life exists.",
+        "Stimulate dialogue on the topic.",
+        "Secure funding for SETI projects.",
+        "Develop new mathematical models."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author states that the uncertainties revolve around the present day understanding of the evolution of ____, not physics",
+      "choices": [
+        "Stars, nebulae and gravity",
+        "Chemistry, elements and subatomic particles",
+        "Life, intelligence and civilization",
+        "Dark matter, energy, and photons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Fermi paradox?",
+      "choices": [
+        "The contradiction between the high probability of extraterrestrial life and the lack of contact.",
+        "The inability to determine the age of the universe.",
+        "The failure of the Drake equation to produce a definitive answer.",
+        "The problem of interstellar travel limitations."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to the Drake Equation, which class does the lack of contact relate to?",
+      "choices": [
+        "Few intelligent civilizations ever arise",
+        "Intelligent civilizations exist, but we see no evidence",
+        "The lifetime of intelligent, communicative civilizations is short",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the Great Filter hypothesis?",
+      "choices": [
+        "The idea that the universe is too hostile for life to exist.",
+        "The idea that there is a step in the development of life that is very difficult to overcome.",
+        "The idea that extraterrestrial civilizations are intentionally avoiding contact.",
+        "The idea that interstellar travel is impossible."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does an analysis by Anders Sandberg, Eric Drexler and Toby Ord suggest?",
+      "choices": [
+        "The probability of the existence of life in the universe is zero.",
+        "The probability of the existence of life in the universe is almost 100%.",
+        "A substantial ex ante (predicted) probability of there being no other intelligent life in our observable universe.",
+        "A substantial ex ante (predicted) probability of there being other intelligent life in our observable universe."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The explanations of the lack of contact can be divided into three classes, the most common suspect is?",
+      "choices": [
+        "fi",
+        "fc",
+        "L",
+        "Ne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who cited the Drake equation as supporting the multiplicity of inhabited planets in Star Trek?",
+      "choices": [
+        "Carl Sagan",
+        "Frank Drake",
+        "Gene Roddenberry",
+        "Isaac Asimov"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What famous equation does the commemorative plate on NASA's Europa Clipper mission feature?",
+      "choices": [
+        "Einstein's mass-energy equivalence.",
+        "Drake equation.",
+        "Newton's law of universal gravitation.",
+        "Boltzmann equation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to Drake himself, what is wrong with Roddenberry's fictional version of the equation?",
+      "choices": [
+        "It is mathematically nonsensical.",
+        "It contains variables unrelated to the search for extraterrestrial life.",
+        "It lacks precision.",
+        "A number raised to the first power is just the number itself."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What type of track features the Drake equation in a spoken voice over?",
+      "choices": [
+        "Classical",
+        "Pop",
+        "Rock",
+        "Carbon Based Lifeforms album World of Sleepers"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is listed in the see also section?",
+      "choices": [
+        "String theory",
+        "The Fermi paradox",
+        "Planetary habitability",
+        "Special relativity"
+      ],
+      "answer": 2
+    }
+  ]

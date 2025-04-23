@@ -1,0 +1,44 @@
+Dataset preparation:
+
+done - Select 5 MMLU tasks: anatomy, astronomy, college biology, college chemistry, and prehistory
+Create a current events dataset about US events from Aug-Nov 2023 using GPT-4
+Scrape Wikipedia articles for each topic via API
+Clean data using WikiExtractor tool
+Create 10 paraphrases per current events chunk using GPT-4
+
+
+Model setup:
+
+Use 3 base models: Llama2-7B, Mistral-7B, Orca2-7B
+Use bge-large-en as embedding model for RAG
+Set up FAISS vector store
+
+
+Fine-tuning configuration:
+
+Implement unsupervised fine-tuning (continual pre-training)
+Use learning rates between 1e-6 and 5e-5
+Train on 4 NVIDIA A-100 GPUs for max 5 epochs
+Batch size of 64
+Chunk size of 256 tokens
+
+
+RAG implementation:
+
+Test different K values (0-5 retrieved documents)
+Implement dot-product ranking for retrieval
+
+
+Evaluation:
+
+Use LM-Evaluation-Harness framework
+Test 0-shot and 5-shot scenarios
+Calculate log-likelihood accuracy
+Compare base model, fine-tuned, RAG, and fine-tuned+RAG
+
+
+Analyze results:
+
+Compute relative accuracy gains
+Study effect of paraphrase count on performance
+Create visualizations for training loss and accuracy trends

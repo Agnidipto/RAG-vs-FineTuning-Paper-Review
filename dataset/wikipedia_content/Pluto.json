@@ -1,0 +1,952 @@
+[
+  {
+    "question": "Which of the following best describes Pluto's location?",
+    "choices": [
+      "Inner planet",
+      "Asteroid belt",
+      "Kuiper belt",
+      "Oort cloud"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Compared to the Earth's moon, Pluto's mass is approximately:",
+    "choices": [
+      "Six times larger",
+      "The same size",
+      "One-sixth as massive",
+      "Half the mass"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes Pluto to sometimes be closer to the Sun than Neptune?",
+    "choices": [
+      "A powerful magnetic field",
+      "Its orbital inclination",
+      "Its eccentric orbit",
+      "A collision with another object"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which spacecraft performed a flyby of Pluto?",
+    "choices": [
+      "Voyager 1",
+      "Cassini",
+      "New Horizons",
+      "Pioneer 10"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who discovered Pluto?",
+    "choices": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Clyde W. Tombaugh",
+      "Albert Einstein"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who initially predicted the existence of Neptune using Newtonian mechanics?",
+    "choices": [
+      "Clyde Tombaugh",
+      "Percival Lowell",
+      "Urbain Le Verrier",
+      "William H. Pickering"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the name Percival Lowell gave to the hypothetical ninth planet?",
+    "choices": [
+      "Neptune II",
+      "Planet Nine",
+      "Planet X",
+      "Terra Nova"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which observatory was founded by Percival Lowell?",
+    "choices": [
+      "Yerkes Observatory",
+      "Harvard College Observatory",
+      "Lowell Observatory",
+      "Caltech Observatory"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What instrument did Clyde Tombaugh use to discover Pluto?",
+    "choices": [
+      "Telescope",
+      "Spectroscope",
+      "Blink comparator",
+      "Radio telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how many Earth years does it take Pluto to orbit the Sun once?",
+    "choices": [
+      "84 years",
+      "29 years",
+      "248 years",
+      "165 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From which mythology does the name Pluto originate?",
+    "choices": [
+      "Egyptian",
+      "Greek",
+      "Roman",
+      "Norse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What were the initial top three name suggestions for Pluto?",
+    "choices": [
+      "Mars, Jupiter, Saturn",
+      "Minerva, Pluto, Cronus",
+      "Uranus, Neptune, Pluto",
+      "Vulcan, Pluto, Ceres"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who suggested the name 'Pluto'?",
+    "choices": [
+      "Percival Lowell",
+      "Herbert Hall Turner",
+      "Venetia Burney",
+      "Clyde Tombaugh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which animator introduced the Disney character Pluto in 1930?",
+    "choices": [
+      "Walt Disney",
+      "Ub Iwerks",
+      "Ben Sharpsteen",
+      "Fred Moore"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which element was named after Pluto?",
+    "choices": [
+      "Uranium",
+      "Neptunium",
+      "Plutonium",
+      "Americium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why were early estimates of Pluto's mass revised downward?",
+    "choices": [
+      "The atmosphere was miscalculated",
+      "Its effect on Neptune and Uranus was overestimated",
+      "Its albedo was lower than expected",
+      "New telescopes gave new data"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What discovery in 1978 allowed for a more accurate calculation of Pluto's mass?",
+    "choices": [
+      "Nitrogen ice on its surface",
+      "Its orbital resonance with Neptune",
+      "Its albedo",
+      "The discovery of Charon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Voyager mission provided data that revised estimates of Neptune's mass?",
+    "choices": [
+      "Voyager 1",
+      "Voyager 2",
+      "Voyager 3",
+      "Voyager 4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Ernest W. Brown conclude regarding Lowell's prediction of Planet X's orbit?",
+    "choices": [
+      "It was extremely accurate",
+      "It was entirely inaccurate",
+      "It was a coincidence",
+      "It was intentionally skewed"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "As of 2000, what did the majority of scientists agree about Lowell's Planet X?",
+    "choices": [
+      "It will be discovered soon",
+      "It existed, but has since disintegrated",
+      "It was a black hole",
+      "It does not exist"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the belt of objects that Pluto is a part of?",
+    "choices": [
+      "Asteroid belt",
+      "Kuiper belt",
+      "Oort cloud",
+      "Scattered disc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which trans-Neptunian object's discovery made the reclassification of Pluto unavoidable?",
+    "choices": [
+      "Triton",
+      "Charon",
+      "Eris",
+      "Ceres"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was Eris discovered?",
+    "choices": [
+      "2005",
+      "1992",
+      "2015",
+      "2006"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When did the Hayden Planetarium in New York City cause controversy by displaying a Solar System model of only eight planets?",
+    "choices": [
+      "February 2000",
+      "July 2005",
+      "August 2006",
+      "September 2006"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ceres, Pallas, Juno and Vesta lost their planet status among most astronomers after the discovery of many other _____ in the 1840s.",
+    "choices": [
+      "Trans-Neptunian Objects",
+      "Kuiper Belt Objects",
+      "Dwarf Planets",
+      "Asteroids"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the third criteria for an object to be considered a planet according to the IAU?",
+    "choices": [
+      "It must have a stable atmosphere",
+      "It must have cleared the neighborhood around its orbit",
+      "It must have a magnetic field",
+      "It must be tidally locked with a moon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the name given to objects that meet criteria 1 and 2, but not 3, as defined by the IAU?",
+    "choices": [
+      "Minor planet",
+      "Dwarf planet",
+      "Planetoid",
+      "Asteroid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which astronomer derided the IAU resolution and stated that less than five percent of astronomers voted for it?",
+    "choices": [
+      "Mike Brown",
+      "Alan Stern",
+      "Julio Ángel Fernández",
+      "Gonzalo Tancredi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What term did the American Dialect Society vote as the word of the year in 2006, related to Pluto's reclassification?",
+    "choices": [
+      "Demoted",
+      "Dwarfed",
+      "Plutoed",
+      "Reclassified"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What term did the IAU announce in a press release would be used to refer to Pluto and other planetary-mass objects that have an orbital semi-major axis greater than that of Neptune?",
+    "choices": [
+      "Kuiperoids",
+      "Dwarfoids",
+      "Plutoids",
+      "Trans-Neptunians"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how long is Pluto's orbital period?",
+    "choices": [
+      "84 years",
+      "29 years",
+      "248 years",
+      "165 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the flat reference plane that planets orbit around?",
+    "choices": [
+      "Equatorial plane",
+      "Orbital plane",
+      "Ecliptic",
+      "Invariant plane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When did the Pluto-Charon barycenter come to perihelion?",
+    "choices": [
+      "September 5, 1989",
+      "February 7, 1979",
+      "February 11, 1999",
+      "January 1, 2000"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The semi-major axis of Pluto's orbit varies with a period of about:",
+    "choices": [
+      "100 years",
+      "495 years",
+      "19,951 years",
+      "248 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes the chaotic behavior of Pluto's inclination and eccentricity?",
+    "choices": [
+      "Its high rotation speed",
+      "Its strong magnetic field",
+      "Immeasurably small details of the Solar System",
+      "Tidal locking with Charon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does Pluto's orbit pass Neptune's?",
+    "choices": [
+      "Pluto's orbit intersects Neptune's.",
+      "Pluto's orbit is 8 AU north of Neptune's",
+      "Pluto's orbit is 8 AU south of Neptune's",
+      "Pluto's orbit overlaps Neptune's"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What protects Pluto from colliding with Neptune?",
+    "choices": [
+      "A strong magnetic field",
+      "Its small size",
+      "Its 2:3 orbital resonance with Neptune",
+      "Tidal locking with Charon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the minimum separation between Pluto and Neptune?",
+    "choices": [
+      "8 AU",
+      "11 AU",
+      "17 AU",
+      "28 AU"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When does the minimum separation between Pluto and Neptune occur?",
+    "choices": [
+      "At Pluto's perihelion",
+      "At Neptune's perihelion",
+      "At Pluto's aphelion",
+      "When Pluto and Neptune are aligned"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the period of each cycle of Pluto's angular momentum transfer?",
+    "choices": [
+      "100 years",
+      "495 years",
+      "20,000 years",
+      "248 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Around what angle does Pluto's argument of perihelion librate?",
+    "choices": [
+      "0 degrees",
+      "45 degrees",
+      "90 degrees",
+      "180 degrees"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the amplitude of libration relative to Neptune of Pluto's argument of perihelion?",
+    "choices": [
+      "10 degrees",
+      "24 degrees",
+      "38 degrees",
+      "52 degrees"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The longitudes of ascending nodes of Pluto and Neptune are in near-resonance with which phenomena?",
+    "choices": [
+      "Solar flares",
+      "Kuiper belt density",
+      "Libration of Pluto's perihelion",
+      "The Earth's magnetic field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 1:1 superresonance?",
+    "choices": [
+      "When Pluto and Neptune are aligned",
+      "When Pluto and Charon are aligned",
+      "When Pluto's argument of perihelion librates around 0 degrees",
+      "When the longitudes of ascending nodes of Pluto and Neptune are the same"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Jovian planets play a role in the creation of the superresonance between Pluto and Neptune?",
+    "choices": [
+      "Jupiter only",
+      "Jupiter and Saturn only",
+      "Uranus and Neptune only",
+      "Jupiter, Saturn, Uranus, and Neptune"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately how long is Pluto's rotation period (day)?",
+    "choices": [
+      "24 hours",
+      "6.387 Earth days",
+      "29 Earth days",
+      "1 Earth year"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Pluto's axial tilt?",
+    "choices": [
+      "0 degrees",
+      "23.5 degrees",
+      "90 degrees",
+      "120 degrees"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the process where a body reorients itself to put extraneous mass near the equator?",
+    "choices": [
+      "Tidal locking",
+      "Polar wander",
+      "Orbital resonance",
+      "Axial precession"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What element buildup in shadowed areas of Pluto could contribute to polar wander?",
+    "choices": [
+      "Water ice",
+      "Methane",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At the equator, temperatures on Pluto can drop to approximately:",
+    "choices": [
+      "0 °C",
+      "-73 °C",
+      "-184 °C",
+      "-240 °C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary component of the plains on Pluto's surface?",
+    "choices": [
+      "Water ice",
+      "Methane ice",
+      "Nitrogen ice",
+      "Carbon dioxide ice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which region is methane most abundant on Pluto's surface?",
+    "choices": [
+      "Around 180° longitude",
+      "Near 300° east",
+      "The North Pole",
+      "The South Pole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the mountains on Pluto made of?",
+    "choices": [
+      "Nitrogen ice",
+      "Methane ice",
+      "Carbon monoxide ice",
+      "Water ice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the estimated age of the surface of Sputnik Planitia?",
+    "choices": [
+      "Less than 10 million years",
+      "Approximately 1 billion years",
+      "4.5 billion years",
+      "100 million years"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In what direction do the winds blow that form the transverse dunes on Western parts of Sputnik Planitia?",
+    "choices": [
+      "From surrounding mountains to Sputnik Planitia",
+      "Perpendicular to the surrounding mountains",
+      "From the center of Sputnik Planitia in the direction of surrounding mountains",
+      "South"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Pluto's approximate density?",
+    "choices": [
+      "1.0 g/cm3",
+      "1.853 g/cm3",
+      "5.5 g/cm3",
+      "10.0 g/cm3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the pre-New Horizons estimate for the diameter of Pluto's rocky core?",
+    "choices": [
+      "500 km",
+      "1000 km",
+      "1700 km",
+      "2370 km"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What may exist at the core-mantle boundary of Pluto?",
+    "choices": [
+      "A layer of solid iron",
+      "A subsurface ocean of liquid water",
+      "A dense layer of methane ice",
+      "A region of intense volcanic activity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which geological feature might have formed as a result of liquid water upwelling from below after a collision?",
+    "choices": [
+      "Belton Regio",
+      "Tombaugh Regio",
+      "Sputnik Planitia",
+      "The Brass Knuckles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is suggested about Wright Mons and Piccard Mons?",
+    "choices": [
+      "That they're cryovolcanic domes",
+      "That they're regular volcanoes",
+      "That they're mountain ranges",
+      "That they're ice formations"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is Pluto's diameter?",
+    "choices": [
+      "1,200 km",
+      "2,376.6 km",
+      "4,800 km",
+      "6,371 km"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pluto's mass is approximately what percentage of the Moon's mass?",
+    "choices": [
+      "5.0%",
+      "17.7%",
+      "50%",
+      "100%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pluto's surface area is comparable in size to:",
+    "choices": [
+      "The United States",
+      "Australia",
+      "Russia or Antarctica",
+      "China"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who's formulation of Kepler's third law allows scientists to determine the mass of Pluto-Charon system?",
+    "choices": [
+      "Newton",
+      "Kepler",
+      "Einstein",
+      "Hawking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which instrumentation allowed scientists to determine Pluto's shape more accurately?",
+    "choices": [
+      "Optical telescopes",
+      "Radio telescopes",
+      "Adaptive optics",
+      "Space probes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the main components of Pluto's atmosphere?",
+    "choices": [
+      "Oxygen and Nitrogen",
+      "Carbon Dioxide and Argon",
+      "Nitrogen, Methane, and Carbon Monoxide",
+      "Hydrogen and Helium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the surface pressure of Pluto's atmosphere?",
+    "choices": [
+      "1 atm",
+      "1 Pa",
+      "100 Pa",
+      "1000 Pa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Observations by New Horizons showed that atmospheric escape of nitrogen to be how many times less than expected?",
+    "choices": [
+      "10 times less than expected",
+      "100 times less than expected",
+      "1,000 times less than expected",
+      "10,000 times less than expected"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What effect does the sublimation of Pluto's atmosphere have on its surface temperature?",
+    "choices": [
+      "Warms the surface",
+      "Cools the surface",
+      "Has no effect",
+      "Causes it to fluctuate wildly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How has Pluto's atmospheric pressure changed since 2016?",
+    "choices": [
+      "Increased by 20%",
+      "Decreased by 20%",
+      "Remained the same",
+      "Increased exponentially"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many known natural satellites does Pluto have?",
+    "choices": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of Pluto's moons is large enough to cause the barycenter of the Pluto-Charon system to be outside Pluto?",
+    "choices": [
+      "Styx",
+      "Nix",
+      "Kerberos",
+      "Charon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What describes the orbits of Pluto's moons?",
+    "choices": [
+      "Highly elliptical and inclined",
+      "Circular and coplanar with Pluto's equator",
+      "Randomly oriented",
+      "Retrograde"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are the orbital periods of Pluto's moons related?",
+    "choices": [
+      "They are independent of each other",
+      "They are linked in a system of orbital resonances and near-resonances",
+      "They are decreasing over time",
+      "They are increasing over time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why do some astronomers call Pluto and Charon a double dwarf planet?",
+    "choices": [
+      "Because they are both dwarf planets",
+      "Because they are tidally locked",
+      "Because of their similar size",
+      "Because they have the same composition"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is 15810 Arawn classified as?",
+    "choices": [
+      "Moon of Pluto",
+      "Asteroid",
+      "Quasi-satellite of Pluto",
+      "Kuiper belt object"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For approximately how long would 15810 Arawn be a quasi-satellite of Pluto out of every two-million-year period?",
+    "choices": [
+      "1,000 years",
+      "350,000 years",
+      "1 million years",
+      "2 million years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What primary body controls the orbit of 15810 Arawn?",
+    "choices": [
+      "Pluto",
+      "Neptune",
+      "The Sun",
+      "Charon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What determines the classification of Arawn as a quasi-satellite?",
+    "choices": [
+      "Size",
+      "Orbital dynamics",
+      "Composition",
+      "Density"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What would have made it possible to calculate the orbit of Arawn more accurately?",
+    "choices": [
+      "New observations from Earth",
+      "Measurements made by the New Horizons spacecraft in 2015",
+      "Advances in telescope technology",
+      "A collision with another Kuiper belt object"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was one early hypothesis about Pluto's origin that was later rejected?",
+    "choices": [
+      "It was a captured asteroid",
+      "It was a rogue planet",
+      "It was an escaped moon of Neptune",
+      "It was a black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What population is Pluto the largest member of?",
+    "choices": [
+      "Asteroid belt",
+      "Oort cloud",
+      "Kuiper belt",
+      "Scattered disc"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What feature does Pluto share with comets?",
+    "choices": [
+      "A tail",
+      "A ring system",
+      "A solid iron core",
+      "The solar wind is gradually blowing its surface into space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Neptune moon is thought to be a captured Kuiper belt object?",
+    "choices": [
+      "Proteus",
+      "Triton",
+      "Nereid",
+      "Larissa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "To what does most astronomers agree that Pluto owes its position?",
+    "choices": [
+      "A collision with Neptune",
+      "The gravitational pull of Jupiter",
+      "A sudden migration undergone by Neptune",
+      "The formation of a black hole nearby"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is Pluto's average visual apparent magnitude?",
+    "choices": [
+      "5.0",
+      "10.0",
+      "15.1",
+      "20.0"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What minimum aperture size is desirable to see Pluto?",
+    "choices": [
+      "5 cm",
+      "10 cm",
+      "30 cm",
+      "50 cm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How were the earliest maps of Pluto created?",
+    "choices": [
+      "From radar data",
+      "From close observations of eclipses by Charon",
+      "From satellite images",
+      "From ground-based telescopes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which telescope produced better maps of Pluto by resolving variations several hundred kilometers across?",
+    "choices": [
+      "The Keck Telescope",
+      "The Very Large Telescope",
+      "The Hubble Space Telescope",
+      "The James Webb Space Telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Until the flyby of New Horizons, what was the source of the most detailed maps of Pluto?",
+    "choices": [
+      "Radar mapping",
+      "Ground-based observations",
+      "Computer simulations",
+      "Hubble Space Telescope images"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which spacecraft made the first flyby of Pluto?",
+    "choices": [
+      "Voyager 1",
+      "Pioneer 10",
+      "New Horizons",
+      "Cassini"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was the New Horizons spacecraft launched?",
+    "choices": [
+      "1977",
+      "1990",
+      "2006",
+      "2015"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was one of the scientific goals of New Horizons?",
+    "choices": [
+      "To land on Pluto",
+      "To establish a permanent base on Pluto",
+      "To characterize the global geology and morphology of Pluto and its moon Charon",
+      "To mine Pluto for resources"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has Alan Stern advocated for as the next Pluto mission?",
+    "choices": [
+      "A manned mission to Pluto",
+      "A Pluto lander",
+      "A Cassini-style orbiter",
+      "A new flyby mission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the highest level of resolution of Pluto's regions using images from the Hubble Space Telescope?",
+    "choices": [
+      "30° South",
+      "75° South",
+      "85° South",
+      "The equatorial regions"
+    ],
+    "answer": 2
+  }
+]

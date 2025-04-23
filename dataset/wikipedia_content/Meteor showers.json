@@ -1,0 +1,392 @@
+[
+  {
+    "question": "What causes meteor showers?",
+    "choices": [
+      "Volcanic eruptions on distant planets",
+      "Streams of cosmic debris called meteoroids entering Earth's atmosphere",
+      "Solar flares interacting with the Earth's magnetic field",
+      "The alignment of planets creating gravitational disturbances"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to most meteors as they enter Earth's atmosphere?",
+    "choices": [
+      "They bounce off the atmosphere and return to space",
+      "They disintegrate due to friction",
+      "They solidify and become larger",
+      "They are captured by the Earth's gravity and become satellites"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the name for very intense or unusual meteor showers?",
+    "choices": [
+      "Meteor drizzle",
+      "Meteor sprinkles",
+      "Meteor outbursts or meteor storms",
+      "Meteor flurries"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many meteor showers are well established according to the Meteor Data Centre?",
+    "choices": [
+      "Around 10",
+      "Around 50",
+      "Around 100",
+      "Over 500"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization maintains a daily map of active meteor showers?",
+    "choices": [
+      "The American Meteor Society",
+      "The International Meteor Organization",
+      "NASA",
+      "The European Space Agency"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was the first great meteor storm of the modern era, the Leonids, recorded?",
+    "choices": [
+      "November 1733",
+      "November 1833",
+      "November 1933",
+      "November 2033"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who accurately explained the Leonids meteor storm of November 1833?",
+    "choices": [
+      "Giovanni Schiaparelli",
+      "Alexander von Humboldt",
+      "Denison Olmsted",
+      "George Johnstone Stoney"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who ascertained the relation between meteors and comets?",
+    "choices": [
+      "Alexander von Humboldt",
+      "Adolphe Quetelet",
+      "Giovanni Schiaparelli",
+      "Arthur Matthew Weld Downing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which comet's dust did Stoney and Downing study when attempting to calculate the position of dust at Earth's orbit?",
+    "choices": [
+      "Comet Halley",
+      "Comet Shoemaker-Levy 9",
+      "Comet Tempel-Tuttle",
+      "Comet Wiseman-Skiff"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who published predictions for future dust trail encounters covering the next 50 years?",
+    "choices": [
+      "Donald K. Yeomans",
+      "Peter Jenniskens",
+      "Robert H. McNaught",
+      "Jérémie Vaubaillon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes the radiant point effect in meteor showers?",
+    "choices": [
+      "The gravitational pull of the moon",
+      "The Earth's magnetic field",
+      "The parallel paths of meteoroids and perspective",
+      "The refraction of light in the atmosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why does the radiant point move slowly across the sky during the night?",
+    "choices": [
+      "The meteoroids are changing direction",
+      "The Earth is orbiting the sun",
+      "The stars are moving independently",
+      "The Earth is turning on its axis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What causes radiant drift?",
+    "choices": [
+      "Changes in the Earth's magnetic field",
+      "The Earth moving in its orbit around the Sun",
+      "Gravitational interactions with other planets",
+      "The expansion of the universe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When is the best viewing time for a meteor shower generally?",
+    "choices": [
+      "Midday",
+      "Midnight",
+      "Slightly before dawn",
+      "Sunset"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is slightly before dawn the best viewing time?",
+    "choices": [
+      "The moon is always in the opposite part of the sky at that time",
+      "It is a compromise between the maximum number of meteors and the brightening sky",
+      "The atmosphere is clearer",
+      "There is less light pollution"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are meteor showers named?",
+    "choices": [
+      "After the person who discovered them",
+      "After the nearest comet",
+      "After the nearest constellation or bright star",
+      "Randomly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the suffix used in meteor shower names derived from a constellation or star?",
+    "choices": [
+      "-ion",
+      "-oid",
+      "-id or -ids",
+      "-ite"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization keeps track of meteor shower nomenclature?",
+    "choices": [
+      "NASA",
+      "The American Meteor Society",
+      "The International Meteor Organization",
+      "The International Astronomical Union's Task Group on Meteor Shower Nomenclature and the IAU's Meteor Data Center"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the correct name for meteors radiating from near the star Delta Aquarii?",
+    "choices": [
+      "Delta Aquarionids",
+      "Delta Aquariiods",
+      "Delta Aquariids",
+      "Delta Aquarites"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What is the process by which comets produce debris, as demonstrated by Fred Whipple?",
+    "choices": [
+      "Gravitational disruption",
+      "Water vapor drag",
+      "Nuclear fission",
+      "Chemical explosion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a 'dirty snowball' primarily made up of?",
+    "choices": [
+      "Mostly rock with traces of ice",
+      "Mostly metal with a frozen gas coating",
+      "Rock embedded in ice",
+      "Frozen carbon dioxide with mineral inclusions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to a comet when it swings by the Sun in its orbit?",
+    "choices": [
+      "It gains mass",
+      "It stays the same size",
+      "It loses mass due to sublimation",
+      "It captures asteroids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a meteoroid stream also known as?",
+    "choices": [
+      "Comet tail",
+      "Asteroid belt",
+      "Dust trail",
+      "Kuiper Belt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Peter Jenniskens, what is the origin of most short-period meteor showers?",
+    "choices": [
+      "Normal water vapor drag of active comets",
+      "Infrequent disintegrations of dormant comets",
+      "Collisions within the asteroid belt",
+      "Eruptions of volcanoes on asteroids"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first to offer the idea of a dust trail?",
+    "choices": [
+      "Fred Whipple",
+      "Milos Plavec",
+      "Peter Jenniskens",
+      "Donald K. Yeomans"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why do meteoroids drift mostly in front of or behind the comet after completing one orbit?",
+    "choices": [
+      "Due to solar radiation pressure",
+      "Due to gravitational pull from the planets",
+      "Due to some particles making a wider orbit than others",
+      "Due to magnetic interactions with the sun"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What determines where a dust trail would pass by Earth orbit?",
+    "choices": [
+      "The comet's tail",
+      "The sun's magnetic field",
+      "The gravitational pull of the planets",
+      "The temperature of space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a filament in the context of meteoroid streams?",
+    "choices": [
+      "A component of a shower caused by resonant orbits with Jupiter or other large planets",
+      "A type of meteoroid made of iron",
+      "A gap in the dust trail caused by a close encounter with a planet",
+      "A type of comet tail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the effect of radiation pressure on meteoroids?",
+    "choices": [
+      "It makes all meteoroids brighter",
+      "It affects all meteoroids equally",
+      "It pushes less massive particles into orbits further from the Sun",
+      "It pulls more massive particles closer to the Sun"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In most years, which is the most visible meteor shower?",
+    "choices": [
+      "The Leonids",
+      "The Geminids",
+      "The Perseids",
+      "The Quadrantids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When does the Perseid meteor shower peak?",
+    "choices": [
+      "July 12",
+      "August 12",
+      "September 12",
+      "October 12"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What term was coined after the November 1833 Leonid storm?",
+    "choices": [
+      "Meteorite fall",
+      "Meteor storm",
+      "Meteor shower",
+      "Fireball event"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When does the Leonid meteor shower peak?",
+    "choices": [
+      "October 17",
+      "November 17",
+      "December 17",
+      "January 17"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a characteristic of the Leonid meteor shower during a storm?",
+    "choices": [
+      "It produces only a few meteors per hour",
+      "It produces a consistent number of meteors every year",
+      "It produces thousands of meteors per hour",
+      "It is always less active than the Perseids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization maintains a list of official meteor shower names?",
+    "choices": [
+      "NASA",
+      "The American Meteor Society",
+      "The International Meteor Organization",
+      "The International Astronomical Union"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What Solar System body besides Earth can experience meteor showers?",
+    "choices": [
+      "Only planets with rings",
+      "Any body with a substantial atmosphere",
+      "Any body with a reasonably transparent atmosphere",
+      "Only rocky bodies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the Moon's sodium tail during meteor showers?",
+    "choices": [
+      "It decreases in size",
+      "It remains the same",
+      "It vanishes completely",
+      "It vastly increases"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has meteor showers that are different from the ones seen on Earth?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which rover recorded a streak believed to be caused by a meteor on Mars?",
+    "choices": [
+      "Curiosity",
+      "Opportunity",
+      "Spirit",
+      "Perseverance"
+    ],
+    "answer": 2
+  }
+]

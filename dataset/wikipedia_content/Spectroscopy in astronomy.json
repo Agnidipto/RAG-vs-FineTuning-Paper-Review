@@ -1,0 +1,942 @@
+[
+  {
+    "question": "What is the primary purpose of astronomical spectroscopy?",
+    "choices": [
+      "To measure the distance to stars.",
+      "To measure the spectrum of electromagnetic radiation from celestial objects.",
+      "To identify new constellations.",
+      "To calculate the orbital periods of planets."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following properties of a star CANNOT be determined using spectroscopy?",
+    "choices": [
+      "Chemical composition",
+      "Temperature",
+      "Density",
+      "Exact Position"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What phenomenon is used in spectroscopy to determine the velocity of a celestial object?",
+    "choices": [
+      "Refraction",
+      "Doppler shift",
+      "Reflection",
+      "Diffraction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Spectroscopy can be used to study which of these celestial objects?",
+    "choices": [
+      "Planets",
+      "Nebulae",
+      "Galaxies",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which region of the electromagnetic spectrum is NOT mentioned as being studied in astronomical spectroscopy?",
+    "choices": [
+      "Visible light",
+      "Radio waves",
+      "Microwaves",
+      "X-rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are satellite telescopes or rocket-mounted detectors required for X-ray and ultraviolet spectroscopy?",
+    "choices": [
+      "Radio signals have much longer wavelengths than optical signals.",
+      "Infrared light is absorbed by atmospheric water and carbon dioxide.",
+      "Ozone and molecular oxygen absorb light with wavelengths under 300 nm.",
+      "X-rays and ultraviolet light are too faint to be detected from Earth."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What atmospheric element is responsible for absorbing significant amount of light in the infrared spectrum?",
+    "choices": [
+      "Ozone",
+      "Molecular oxygen",
+      "Water",
+      "Carbon monoxide"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following statements about radio signals is most correct?",
+    "choices": [
+      "They are absorbed by ozone and molecular oxygen.",
+      "They require the use of prisms for detection.",
+      "They have much shorter wavelengths than optical signals.",
+      "They require the use of antennas or radio dishes."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The equipment needed for which type of spectroscopy is similar to that used in optical spectroscopy?",
+    "choices": [
+      "Ultraviolet spectroscopy",
+      "X-ray spectroscopy",
+      "Radio spectroscopy",
+      "Infrared spectroscopy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which type of electromagnetic radiation requires satellites to record much of its spectrum?",
+    "choices": [
+      "Visible light",
+      "Radio waves",
+      "Infrared light",
+      "X-rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who first used a prism to observe the refractive properties of light, leading to early observations of the solar spectrum?",
+    "choices": [
+      "Joseph von Fraunhofer",
+      "J.S. Plaskett",
+      "Isaac Newton",
+      "Karl Jansky"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Joseph von Fraunhofer observe in the solar spectrum?",
+    "choices": [
+      "Emission lines of various elements",
+      "574 dark lines",
+      "The continuous spectrum of a black body",
+      "The Doppler shift of spectral lines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the key advantage of reflection gratings over prisms in the early 1900s?",
+    "choices": [
+      "They were smaller and lighter.",
+      "They provided a more detailed spectrum and required less light.",
+      "They could be used to observe X-ray radiation.",
+      "They were cheaper to manufacture."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Bragg diffraction, as utilized in holographic gratings?",
+    "choices": [
+      "A process where light bends around an obstacle",
+      "A process where light is absorbed by a material",
+      "A process where the angle of reflection is dependent on the arrangement of atoms in the gelatin",
+      "A process where light is split into different colors."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a feature of holographic gratings?",
+    "choices": [
+      "They have fewer lines per mm than blazed gratings.",
+      "They are less efficient in collecting light than blazed gratings.",
+      "They are sealed between two sheets of glass for versatility.",
+      "They are only useful for observing a narrow region of the spectrum."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of detector is most commonly used in optical spectrographs today?",
+    "choices": [
+      "Photographic plates",
+      "Radio antennas",
+      "Charge-coupled devices (CCDs)",
+      "Prisms"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is spectrophotometry?",
+    "choices": [
+      "The process of calibrating the wavelength scale of a spectrum.",
+      "The process of calibrating the flux scale of a spectrum as a function of wavelength.",
+      "The process of measuring the chemical composition of a star.",
+      "The process of measuring the temperature of a star."
+    ],
+    "answer": 1
+  },
+   {
+    "question": "How is the wavelength scale of a spectrum calibrated?",
+    "choices": [
+      "By observing the spectrum of emission lines of known wavelength from a gas-discharge lamp.",
+      "By comparing the spectrum to a theoretical black body spectrum.",
+      "By measuring the Doppler shift of the spectral lines.",
+      "By using a standard star with known chemical composition."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the primary limitation of blazed gratings that holographic gratings were developed to overcome?",
+    "choices": [
+      "The type of materials that they can be made from.",
+      "The loss of focus due to the finite width that the mirrors can be ground",
+      "The amount of light that they require",
+      "The lack of an ability to specify the region of the spectrum that they can be focused on"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who developed high-quality reflection gratings that resolved issues with prims in the early 1900s?",
+    "choices": [
+      "Isaac Newton",
+      "Joseph von Fraunhofer",
+      "J.S. Plaskett",
+      "Karl Jansky"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is credited with founding radio astronomy?",
+    "choices": [
+      "Martin Ryle",
+      "Antony Hewish",
+      "Joseph Lade Pawsey",
+      "Karl Jansky"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Karl Jansky discover while working for Bell Labs?",
+    "choices": [
+      "The 21-centimeter H I line",
+      "Radio waves from the Sun",
+      "A source of noise coming from the center of the Milky Way",
+      "The technique of aperture synthesis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year was the 21-centimeter H I line discovered?",
+    "choices": [
+      "1930",
+      "1942",
+      "1951",
+      "1960"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did JS Hey capture in 1942 using military radar receivers?",
+    "choices": [
+      "The 21-centimeter H I line",
+      "Radio waves from the Sun",
+      "A source of noise coming from the center of the Milky Way",
+      "The technique of aperture synthesis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "Radio spectroscopy was founded by JS Hey",
+      "Karl Jansky discovered the 21-centimeter H I line in 1951.",
+      "Radio astronomy was founded with the work of Karl Jansky in the early 1930s",
+      "Joseph Lade Pawsey invented Military radar receivers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who pioneered radio interferometry by using a single antenna atop a sea cliff?",
+    "choices": [
+      "Martin Ryle",
+      "Antony Hewish",
+      "Karl Jansky",
+      "Joseph Lade Pawsey, Ruby Payne-Scott and Lindsay McCready"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary purpose of aperture synthesis?",
+    "choices": [
+      "To measure the temperature of celestial objects",
+      "To measure the chemical composition of stars",
+      "To analyze interferometer data and recover both spatial and frequency variation in flux",
+      "To detect the presence of dark matter in galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of analysis is used during aperture synthesis?",
+    "choices": [
+      "Autocorrelating and discrete Fourier transforming the incoming signal",
+      "Measuring the doppler shift of the incoming signal",
+      "Using prisms to refract incoming light",
+      "Comparing the incoming signal to a theoretical model"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the output of the aperture synthesis process?",
+    "choices": [
+      "A 2D image of the celestial object",
+      "A 3D image whose third axis is time",
+      "A 3D image whose third axis is frequency",
+      "A spectrum of the celestial object"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For what work were Ryle and Hewish jointly awarded the 1974 Nobel Prize in Physics?",
+    "choices": [
+      "Their discovery of radio waves from the Sun",
+      "Their discovery of the 21-centimeter H I line",
+      "Their pioneering work in radio interferometry and aperture synthesis",
+      "Their discovery of dark matter in galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What physical phenomenon explains the dark lines observed by Fraunhofer in the solar spectrum?",
+    "choices": [
+      "Hot solid objects produce light with a continuous spectrum, hot gases emit light at specific wavelengths, and hot solid objects surrounded by cooler gases show a near-continuous spectrum with dark lines corresponding to the emission lines of the gases",
+      "Doppler shift causes the wavelengths of light to change",
+      "The Earth's atmosphere absorbs certain wavelengths of light",
+      "Refraction of light through a prism causes dispersion of colors."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How can spectroscopy be used to determine the chemical composition of stars?",
+    "choices": [
+      "By directly observing the elements present in the star's core",
+      "By comparing the absorption lines of the star with emission spectra of known gases",
+      "By measuring the temperature of the star's surface",
+      "By analyzing the gravitational field of the star."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who independently observed a line next to the sodium doublet (D1 and D2) in the Sun's spectrum and determined it to be a new element, Helium?",
+    "choices": [
+      "Gustav Kirchhoff",
+      "Robert Bunsen",
+      "Norman Lockyer and Pierre Janssen",
+      "Charles Augustus Young and William Harkness"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was coronium?",
+    "choices": [
+      "A newly discovered element found in the Sun's core",
+      "An incorrectly named element only found in the Sun's corona, later identified as highly ionized iron",
+      "A type of telescope used to observe the Sun's corona",
+      "A type of emission line found in gaseous nebulae."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of absorption lines listed for the Sun have been linked to elemental absorption?",
+    "choices": [
+      "25%",
+      "50%",
+      "75%",
+      "99%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can be determined by analyzing the equivalent width of each spectral line in an emission spectrum?",
+    "choices": [
+      "The distance to the star",
+      "The elements present in a star and their relative abundances",
+      "The temperature of the star's core",
+      "The mass of the star."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which type of star has the highest metal content?",
+    "choices": [
+      "Population I stars",
+      "Population II stars",
+      "Population III stars",
+      "Population IV stars"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT true?",
+    "choices": [
+      "The sun is a Pop I star",
+      "Population III stars are the oldest stars with a very low metal content",
+      "Population I stars are the youngest stars",
+      "Population III stars are the youngest stars and have the highest metal content"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "In the context of stars, what is referred to as 'metals'?",
+    "choices": [
+      "Only Iron",
+      "Elements heavier than helium",
+      "Elements that are found in metal form on Earth",
+      "All elements in the periodic table"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how many absorption lines have been listed for the Sun between 293.5 and 877.0 nm?",
+    "choices": [
+      "2000",
+      "20000",
+      "200000",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does Wien's Law relate?",
+    "choices": [
+      "The luminosity of a star to its radius",
+      "The temperature of a black body to its peak emission wavelength",
+      "The mass of a star to its luminosity",
+      "The velocity of a star to its distance."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which constant is used in Wien's Law?",
+    "choices": [
+      "Stefan-Boltzmann constant",
+      "Planck constant",
+      "Wien's displacement constant",
+      "Hubble constant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Stefan-Boltzmann constant used to calculate?",
+    "choices": [
+      "The peak emission wavelength of a star",
+      "The luminosity of a star",
+      "The velocity of a star",
+      "The distance to a star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following values is not used to calculate the radius of a star?",
+    "choices": [
+      "Peak wave length",
+      "Temperature",
+      "Luminosity",
+      "Stefan-Boltzmann constant"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "Luminosity can be related to the radius of a star by: L = 4πRσT4",
+      "Luminosity can be related to the radius of a star by: L = 4πR^2σT",
+      "Luminosity can be related to the radius of a star by: L = 4πR^2σT^4",
+      "Luminosity can be related to the radius of a star by: L = 4πR^4σT^2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In 1937, Fritz Zwicky studied galaxy clusters and hypothesized what?",
+    "choices": [
+      "That galaxies are moving away from each other",
+      "That there must be a great deal of non-luminous matter in galaxy clusters, which became known as dark matter",
+      "That quasars are galaxies formed in the early years of our universe",
+      "That galaxies rotate around a common center of mass."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are quasars now thought to be?",
+    "choices": [
+      "Stars with unusually high temperatures",
+      "Planets with extreme atmospheric conditions",
+      "Galaxies formed in the early years of our universe, with their extreme energy output powered by super-massive black holes",
+      "Nebulae with unique chemical compositions."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which galaxy was found to have a large portion of its stars rotating in the opposite direction as the other portion?",
+    "choices": [
+      "Andromeda Galaxy",
+      "Milky Way Galaxy",
+      "NGC 4550",
+      "NGC 821"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "Zwicky discovered that galaxies were moving slower than should be expected.",
+      "Quasars were formed in the recent years of our universe.",
+      "NGC 4550 is believed to be the combination of two smaller galaxies that were rotating in opposite directions to each other",
+      "Dark Matter has an influence on all known galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What objects can bright stars in galaxies help determine?",
+    "choices": [
+      "The age of the galaxy",
+      "The distance to the galaxy",
+      "The chemical composition of the galaxy",
+      "The mass of the galaxy."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of the interstellar medium is gaseous?",
+    "choices": [
+      "1%",
+      "50%",
+      "99%",
+      "100%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following elements is most abundant in the interstellar medium?",
+    "choices": [
+      "Oxygen",
+      "Carbon",
+      "Helium",
+      "Hydrogen"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are nebulae?",
+    "choices": [
+      "Regions of empty space",
+      "Clouds of dust and gas in the interstellar medium",
+      "Galaxies formed in the early universe",
+      "Planets outside of our solar system."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a reflection nebula?",
+    "choices": [
+      "A nebula that absorbs light from nearby stars",
+      "A nebula that reflects the light of nearby stars",
+      "A nebula that emits light at specific wavelengths",
+      "A nebula that is made of dark matter."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes the light from a reflection nebula to appear bluer than the light of the stars surrounding it?",
+    "choices": [
+      "The dust particles in the nebula absorb red light",
+      "Shorter wavelengths scatter better than longer wavelengths",
+      "The stars surrounding the nebula emit more blue light",
+      "The nebula is moving towards the observer at a high velocity."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did William Huggins conclude about nebulae in 1864?",
+    "choices": [
+      "They contain solid objects surrounded by gases",
+      "They are moving away from Earth at a high velocity",
+      "They must contain 'enormous masses of luminous gas or vapour'",
+      "They are powered by super-massive black holes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was nebulium?",
+    "choices": [
+      "The name of the first discovered quasar",
+      "A new element thought to be present in nebulae, later found to be highly ionized oxygen",
+      "A type of telescope used to observe nebulae",
+      "The term used to describe dark matter in nebulae."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why can't the emission lines of highly ionized oxygen (O+2) in nebulae be replicated in a laboratory?",
+    "choices": [
+      "The equipment is too expensive to replicate the nebula",
+      "The low density of a nebula allows for metastable ions to decay via forbidden line emission",
+      "The emission lines are too faint to be detected in a laboratory",
+      "The ionization process requires the presence of a super-massive black hole."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the 21 cm emission line from neutral hydrogen allow scientists to measure?",
+    "choices": [
+      "The distance to the nearest star",
+      "The mass of a black hole",
+      "Velocity of the cloud, the intensity of the 21 cm line gives the density and number of atoms in the cloud, the temperature of the cloud",
+      "The age of the universe."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What fundamental principle allows scientists to conclude that the Milky Way is a spiral galaxy?",
+    "choices": [
+      "Measuring luminosity",
+      "Measuring temperature",
+      "Measuring Doppler shift",
+      "Measuring radial velocity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where are the chemical reactions forming complex molecules most likely to happen?",
+    "choices": [
+      "Only in cold, diffuse clouds",
+      "Only in dense regions illuminated with ultraviolet light",
+      "Everywhere in the galaxy",
+      "In cold, diffuse clouds or in dense regions illuminated with ultraviolet light"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In which portion of the spectrum does detection of spectral features of molecules usually occur?",
+    "choices": [
+      "Visible",
+      "Radio, microwave, or infrared",
+      "Ultraviolet",
+      "X-ray"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not one of the elements found in the interstellar medium?",
+    "choices": [
+      "Acetylene",
+      "Fullerenes",
+      "Acetone",
+      "Sodium"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How are molecules in the interstellar medium detected?",
+    "choices": [
+      "Through x-ray analysis",
+      "Through electron diffraction",
+      "Through transitions of component electrons between different energy levels, or by rotational or vibrational spectra",
+      "Through visible light analysis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "Nearly no organic compounds are found in space.",
+      "Most reactions that create molecules happen in regions containing super-massive black holes.",
+      "Detection of spectral features of molecules usually occurs in ultraviolet portions of the spectrum.",
+      "Most known compounds in space are organic"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the Doppler effect?",
+    "choices": [
+      "The bending of light around an object.",
+      "The changing of frequency of a wave due to the movement of the source.",
+      "The dispersion of light into its component colors.",
+      "The reflection of light off of a surface."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the wavelength of light from an object moving towards an observer?",
+    "choices": [
+      "It becomes longer (redshifted)",
+      "It becomes shorter (blueshifted)",
+      "It remains the same",
+      "It disappears"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vesto Slipher determine about the Andromeda Galaxy in 1913?",
+    "choices": [
+      "It was redshifted, meaning it was moving away from the Milky Way",
+      "It was blueshifted, meaning it was moving towards the Milky Way",
+      "It was stationary relative to the Milky Way",
+      "It did not have any measurable Doppler shift."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does Hubble's Law describe?",
+    "choices": [
+      "The relationship between a star's temperature and luminosity",
+      "The relationship between the distance of a galaxy and its velocity",
+      "The relationship between a planet's mass and its orbital period",
+      "The relationship between a black hole's mass and its event horizon."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "As of January 2013, what was the largest galaxy redshift found using the Hubble Ultra-Deep Field?",
+    "choices": [
+      "z~1",
+      "z~5",
+      "z~12",
+      "z~20"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is peculiar velocity?",
+    "choices": [
+      "The velocity of a galaxy due to the expansion of the universe",
+      "The velocity of a star relative to the center of its galaxy",
+      "The motion of stellar objects that are gravitationally bound around a common center of mass",
+      "The speed of light in a vacuum."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What effect does peculiar motion have on the observed redshift of a galaxy?",
+    "choices": [
+      "It always increases the redshift",
+      "It always decreases the redshift",
+      "It can either increase or decrease the redshift, obscuring the expected redshift based on Hubble's law",
+      "It has no effect on the redshift."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is the shape and size of the Virgo Cluster a matter of scientific scrutiny?",
+    "choices": [
+      "Because it is the closest galaxy cluster to Earth",
+      "Because it contains a super-massive black hole",
+      "Because of the very large peculiar velocities of the galaxies in the cluster",
+      "Because it is made up entirely of dark matter."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "Objects that are not gravitationally bound will rotate around a common center of mass.",
+      "Peculiar velocity can not alter the Hubble Flow.",
+      "Peculiar motion does not cause confusion when looking at a solar or galactic spectrum",
+      "The shape and size of the Virgo Cluster has been a matter of great scientific scrutiny due to the very large peculiar velocities of the galaxies in the cluster."
+    ],
+    "answer": 3
+  },
+    {
+    "question": "What does an extra term need to be added to?",
+    "choices": [
+      "Stefan's Law",
+      "Hubble's Law",
+      "Peculiar Motion",
+      "Doppler Effect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a visual binary?",
+    "choices": [
+      "Two stars that are too close together to be resolved by a telescope",
+      "Two stars that show a composite spectrum",
+      "Two stars that can be observed orbiting each other through a telescope",
+      "Two stars that have the same luminosity and spectral class."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a spectroscopic binary?",
+    "choices": [
+      "A binary star that has the same radial velocity as the Earth",
+      "A binary star system that can be detected due to the composite spectrum of its components",
+      "A binary star that is too far away to be seen with a telescope",
+      "A binary star system where the stars are of significantly different sizes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes the Doppler shift in the composite spectrum of a spectroscopic binary?",
+    "choices": [
+      "The expansion of the universe",
+      "The motion of the entire binary system through space",
+      "The stars orbiting around each other, causing one star to move towards the Earth while the other moves away",
+      "The gravitational lensing effect of the binary system."
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "Visual binaries are too close together to be resolved by a telescope.",
+      "The composite spectrum becomes easier to detect when the stars are of dissimilar luminosity and of similar spectral class.",
+      "The orbital plane of the system does not determine the magnitude of the observed shift.",
+      "Spectroscopic binaries can be also detected due to their radial velocity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If an observer is looking directly above a carousel, which direction will the animals be moving?",
+    "choices": [
+      "Towards and away from them",
+      "In the horizontal plane",
+      "Only in the vertical plane",
+      "They will not be moving at all."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What primarily happens to the parent stars light when it hits a planet, asteroid, or comet?",
+    "choices": [
+      "Emits",
+      "Reflects",
+      "Refracts",
+      "Absorbs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where do the emission lines from Solar System objects originate from?",
+    "choices": [
+      "Their Parent Stars",
+      "The solid bodies themselves",
+      "Gasses surrounding the objects",
+      "Minerals within their cores"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What produces the spectrum of worlds with thick atmospheres?",
+    "choices": [
+      "The solid body alone",
+      "Primarily or completely due to the atmosphere alone",
+      "Mineral Absorption alone",
+      "The parent star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which molecules are not able to be discovered through spectroscopy of the gases surrounding planets?",
+    "choices": [
+      "Methane",
+      "Carbon Dioxide",
+      "Carbon Monoxide",
+      "Hydrogen Sulfide"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many exoplanets have been discovered to date?",
+    "choices": [
+      "3500",
+      "3000",
+      "2500",
+      "1000"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the original categories of asteroids?",
+    "choices": [
+      "Tholen Classification",
+      "SMASS classification",
+      "Chapman Classification",
+      "Morrison Classification"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When were the original classifications of asteroids made?",
+    "choices": [
+      "1984",
+      "2002",
+      "1975",
+      "1990"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What primarily makes up C-type asteroids?",
+    "choices": [
+      "Silicates",
+      "Carbonaceous Material",
+      "Metals",
+      "Ices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "SMASS classification expanded the number of categories from 26 to 14",
+      "Chapman classification consisted mainly of silicates",
+      "S-type asteroids are made of carbonaceous material",
+      "C- and S-type asteroids are the most common asteroids"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the spectra of comets made of?",
+    "choices": [
+      "Pure Gases",
+      "Heavy Metals",
+      "A reflected solar spectrum from the dusty clouds surrounding the comet",
+      "A pure signal from the parent star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How was the chemical composition of Comet ISON determined?",
+    "choices": [
+      "Through x-ray analysis",
+      "Through spectoscopy due to the prominent emission lines of cyanogen, as well as two- and three-carbon atoms",
+      "Through mineral analysis",
+      "Through atmospheric sampling"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can be seen in X-rays of nearby comets?",
+    "choices": [
+      "Solid State reactions",
+      "The coma",
+      "Solar wind ions flying to the coma that are neutralized",
+      "Nothing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is most correct?",
+    "choices": [
+      "The spectra of comets are pure metal",
+      "The spectra of comets consist only of a reflected solar spectrum",
+      "The cometary X-ray spectra therefore reflect the state of the comet.",
+      "Nearby comets can even be seen in X-ray as solar wind ions flying to the coma are neutralized."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are the cometary emission lines from?",
+    "choices": [
+      "Parent star emission",
+      "Excited to fluorescence by sunlight and/or chemical reactions",
+      "Solid state material",
+      "Heavy metals"
+    ],
+    "answer": 1
+  }
+]

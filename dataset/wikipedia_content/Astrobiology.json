@@ -1,0 +1,702 @@
+[
+  {
+    "question": "What is another term sometimes used synonymously with astrobiology?",
+    "choices": [
+      "Biochemistry",
+      "Xenology",
+      "Geophysics",
+      "Cosmology"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best describes the premise upon which astrobiology is founded?",
+    "choices": [
+      "Life is abundant throughout the universe.",
+      "Earth is the only planet capable of supporting life.",
+      "Life may exist beyond Earth.",
+      "Intelligent life exists on other planets."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT considered one of the three main areas of research in astrobiology?",
+    "choices": [
+      "The search for extraterrestrial civilizations.",
+      "The study of habitable environments in the Solar System and beyond.",
+      "The search for planetary biosignatures of past or present extraterrestrial life.",
+      "The study of the origin and early evolution of life on Earth."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Viking program, a key part of NASA's early astrobiology efforts, primarily focused on:",
+    "choices": [
+      "Searching for extraterrestrial radio signals.",
+      "Studying the atmosphere of Venus.",
+      "Landing on Mars and searching for signs of life.",
+      "Mapping the surface of the Moon."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following disciplines contributes most to the study of habitable environments in astrobiology?",
+    "choices": [
+      "Atmospheric science",
+      "Geophysics",
+      "Geobiology",
+      "Paleontology"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist is credited with first proposing the term 'astrobiology'?",
+    "choices": [
+      "Joshua Lederberg",
+      "Robert Heinlein",
+      "Gavriil Tikhov",
+      "David Grinspoon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the term 'xenobiology' now specifically refer to?",
+    "choices": [
+      "The study of extraterrestrial civilizations",
+      "Biology based on foreign chemistry",
+      "The search for habitable exoplanets",
+      "The evolution of life on early Earth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which event marked the beginning of the Space Age and led to an increase in the study of potential for life on other planets?",
+    "choices": [
+      "The launch of the Hubble Space Telescope",
+      "The discovery of exoplanets",
+      "The launch of Sputnik 1",
+      "The Apollo 11 moon landing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the primary objective of NASA's Project Cyclops?",
+    "choices": [
+      "Searching for metabolic signs of life on Mars",
+      "Detecting radio frequencies transmitted by extraterrestrial life",
+      "Studying microbial life in extreme environments on Earth",
+      "Developing new techniques for detecting biosignatures"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following discoveries helped clarify the feasibility of potential life existing in harsh conditions?",
+    "choices": [
+      "The discovery of DNA",
+      "The discovery of microbial life in extreme environments on Earth",
+      "The development of telescopes",
+      "The discovery of plate tectonics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following elements is considered essential for life as we know it in astrobiology?",
+    "choices": [
+      "Silicon",
+      "Iron",
+      "Carbon",
+      "Gold"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is liquid water considered important for life in astrobiological research?",
+    "choices": [
+      "It provides an excellent environment for the formation of complicated carbon-based molecules.",
+      "It is the most abundant element in the universe.",
+      "It is a source of energy for all life forms.",
+      "It protects organisms from harmful radiation."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why are planets orbiting red dwarf stars of interest in astrobiology?",
+    "choices": [
+      "Red dwarf stars are the brightest stars in the galaxy.",
+      "Red dwarf stars have very short lifetimes, allowing for rapid evolution of life.",
+      "Red dwarf stars provide a very high amount of heat and warmth.",
+      "Red dwarf stars have long lifetimes, potentially allowing for the development of habitable environments on planets with thick atmospheres."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Astrobiology commonly assumes that any life elsewhere in the universe would require:",
+    "choices": [
+      "Sunlight only",
+      "An energy source",
+      "Oxygen",
+      "Intelligence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the most accurate statement regarding current understanding of life and its potential to exist in varied enviroments",
+    "choices": [
+      "Our current understanding is absolute",
+      "As our understanding of life and the potential for it to exist in different environments evolves, these assumptions may change.",
+      "The assumptions are purely speculative and lack scientific grounding.",
+      "The assumptions will not change"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following environments on Earth is studied to understand the limits of life for astrobiological applications?",
+    "choices": [
+      "Tropical rainforests",
+      "Deserts",
+      "Volcanic and deep-sea environments",
+      "Grasslands"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which extremophiles are studied for their ability to survive without sunlight and use chemical energy instead?",
+    "choices": [
+      "Desert extremophiles",
+      "Deep-sea extremophiles",
+      "Glacial microbes",
+      "High-altitude microbes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Researchers study microbes in which of the following extreme environments?",
+    "choices": [
+      "Deep mines",
+      "Subsurface soil",
+      "Cold glaciers and polar ice",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which methodology is not associated with the study of habitable environments in our solar system and beyond?",
+    "choices": [
+      "Geophysics",
+      "Geobiology",
+      "Astronomy",
+      "Environmental Science"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary focus of research concerning the geobiology of organisms in extreme environments on Earth?",
+    "choices": [
+      "To develop new technologies for space exploration",
+      "To understand the limits of life and the conditions under which life might be able to survive on other planets",
+      "To identify new species of extremophiles",
+      "To study the effects of climate change on extreme environments"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which research area focuses on how biodiversity contributes to the resilience of ecosystems?",
+    "choices": [
+      "Climate change and extinction",
+      "Biodiversity and ecosystem resilience",
+      "Human impact on the biosphere",
+      "Long-term preservation of life"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the study of 'Human impact on the biosphere' involve?",
+    "choices": [
+      "Investigating the effects of climate change on the biosphere",
+      "Studying ways to preserve samples of life on Earth for long periods",
+      "Studying how human activities are affecting the biosphere and the long-term survival of life on Earth",
+      "Investigating the impacts of climate change on different species and ecosystems"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which area of research explores ways to preserve samples of life on Earth for long periods of time?",
+    "choices": [
+      "Biodiversity and ecosystem resilience",
+      "Climate change and extinction",
+      "Human impact on the biosphere",
+      "Long-term preservation of life"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does research regarding the Earth's present environment consider?",
+    "choices": [
+      "The biodiversity and ecosystem resilience",
+      "Climate change and extinction",
+      "Human impact on the biosphere",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which field is not associated with the research regarding Earth's present environment?",
+    "choices": [
+      "Cryopreservation",
+      "Biodiversity",
+      "Geophysics",
+      "Genomics"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a method used in the search for biosignatures on other worlds?",
+    "choices": [
+      "The study of microbial life in the subsurface of Mars",
+      "The study of liquid bodies on icy moons",
+      "The study of the atmospheres of planets",
+      "The search for extraterrestrial radio signals"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary focus of missions like Europa Clipper and Dragonfly?",
+    "choices": [
+      "Studying Earth's climate change",
+      "Searching for biosignatures within icy moons",
+      "Investigating the geology of Mars",
+      "Mapping the surface of Venus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What tools are primarily used for the remote sensing of exoplanets in the search for biosignatures?",
+    "choices": [
+      "Microscopes",
+      "Telescopes",
+      "Submarines",
+      "Seismographs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which physical or chemical condition is of particular interest in the search for life in the atmospheres of planets?",
+    "choices": [
+      "The presence of oxygen",
+      "The presence of organic molecules and biosignature gases",
+      "The presence of liquid water",
+      "The presence of volcanic activity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which discipline is most heavily utilized within astrobiology in search of extraterrestrial life?",
+    "choices": [
+      "Ecology",
+      "Planetary science",
+      "Zoology",
+      "Botany"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the main focus of CETI?",
+    "choices": [
+      "Searching for habitable exoplanets.",
+      "Composing and deciphering messages that could be understood by another technological civilization.",
+      "Studying the origin and evolution of life on Earth.",
+      "Investigating extreme environments on Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of messages have humans attempted to communicate with extraterrestrials?",
+    "choices": [
+      "Mathematical languages",
+      "Pictorial systems",
+      "Computational approaches to detecting and deciphering natural language",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Stephen Hawking warn against regarding the transmission of messages to extraterrestrials?",
+    "choices": [
+      "It might be too expensive.",
+      "The messages might not be understood.",
+      "Aliens may raid Earth for its resources.",
+      "It might cause a war between Earth nations."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which discipline is heavily associated with CETI?",
+    "choices": [
+      "Extraterrestrial intelligence communications",
+      "Planetary science",
+      "Ecology",
+      "Biology"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who advocated for the transmission of messages to extraterrestrials?",
+    "choices": [
+      "Stephen Hawking",
+      "Carl Sagan",
+      "David Grinspoon",
+      "Neil deGrasse Tyson"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a focus of research when studying the early Earth to understand the origins of life?",
+    "choices": [
+      "The study of the early atmosphere.",
+      "The study of current human populations",
+      "The study of prebiotic chemistry.",
+      "The study of impact events."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What role are scientists investigating when they study the early magnetic field of Earth?",
+    "choices": [
+      "Protecting Earth from meteorites",
+      "Protecting the Earth from harmful radiation",
+      "Determining the composition of the early atmosphere",
+      "Catalyzing the formation of organic molecules"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the 'primordial soup' referring to in the context of astrobiology?",
+    "choices": [
+      "The Earth's early oceans",
+      "The first living organisms",
+      "Conditions and ingredients present on the early Earth that could have led to the formation of the first living organisms",
+      "The Earth's early atmosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is NOT included within the various astrobiological topics used to describe the early Earth?",
+    "choices": [
+      "the study of nuclear fission",
+      "The study of the role of minerals",
+      "The study of the role of energy and electricity",
+      "The study of hydrothermal vents"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following best describes palaeosciences role within the research concerning the study of the origin and early evolution of life on Earth?",
+    "choices": [
+      "They are hardly utilized within astrobiology",
+      "They are the primary discipline used",
+      "They are only used to study animals",
+      "They have no association"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What has been the outcome of astrobiology research as of 2024?",
+    "choices": [
+      "Confirmed evidence of extraterrestrial life.",
+      "Identification of habitable exoplanets.",
+      "No evidence of extraterrestrial life has been identified.",
+      "Discovery of microbial fossils on Mars."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is controversial about the Allan Hills 84001 meteorite?",
+    "choices": [
+      "Its age is uncertain.",
+      "It contains elements not found on Earth.",
+      "Some scientists believe it contains microfossils of extraterrestrial origin.",
+      "It caused a major impact event on Earth."
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What does a NASA scientist speculate regarding the carbon-rich spheres in Yamato 000593?",
+    "choices": [
+      "The are formed by inorganic activity",
+      "The are formed by biotic activity",
+      "They are just carbon remnants",
+      "They have no definitive origin"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What action did NASA take when regarding Richard B. Hoover's finding of alleged microfossils?",
+    "choices": [
+      "Dismissed his findings entirely",
+      "Officially distanced itself from Hoover's claim",
+      "Dismissed journal publication",
+      "Dismissed Hoover as a scientist"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "Which of the following is considered astrobiology's most concrete practical application?",
+    "choices": [
+      "Developing accurate models of exoplanet atmospheres.",
+      "Predicting the future of human civilization.",
+      "Developing hypotheses firmly grounded on science regarding the existence and origin of life.",
+      "Creating advanced technologies for space exploration."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is a primary focus of astronomy-related astrobiology research?",
+    "choices": [
+      "Developing new telescopes for Earth observation.",
+      "Studying the formation of galaxies.",
+      "Extrasolar planet (exoplanet) detection.",
+      "Mapping the Earth's magnetic field."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the main goal of missions designed to detect Earth-sized exoplanets?",
+    "choices": [
+      "To measure the size of the exoplanet only",
+      "To detect Earth-sized planets and directly detect light from the planet for spectroscopic study",
+      "To find new energy sources",
+      "To find new elements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which equation attempts to estimate the number of planets with intelligent communicative extraterrestrial life?",
+    "choices": [
+      "The Pythagorean theorem",
+      "The Drake equation",
+      "Einstein's theory of relativity",
+      "Newton's law of universal gravitation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What problem is there with the Drake Equation?",
+    "choices": [
+      "It's mathematically incorrect.",
+      "It uses too many variables.",
+      "The values of the variables are too complex to analyze.",
+      "It contains factors that can never be verified."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is NOT considered in astrobiology to be a topic in relation to astronomy?",
+    "choices": [
+      "exoplanet (exoplanet) detection",
+      "planetary system formation",
+      "panspermia",
+      "the peculiarities of the Solar System"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What role have extremophiles played in astrobiology research?",
+    "choices": [
+      "They have disproven the possibility of life beyond Earth.",
+      "They have helped to understand the limits of life in planetary context.",
+      "They have provided a new source of energy for space exploration.",
+      "They have proven that all life is dependent on sunlight."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What revolutionized the study of biology and astrobiology in 1977?",
+    "choices": [
+      "The discovery of DNA",
+      "The discovery of photosynthesis",
+      "The discovery of chemosynthesis",
+      "The invention of the microscope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of Jupiter's moons is considered a likely location for extant extraterrestrial life?",
+    "choices": [
+      "Io",
+      "Ganymede",
+      "Callisto",
+      "Europa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Oparin and Haldane hypothesis postulates that conditions on early Earth were conducive to",
+    "choices": [
+      "Nuclear explosions",
+      "The formation of organic compounds from inorganic elements",
+      "The evolution of dinosaurs",
+      "The extinction of life"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "The lichen fungi Rhizocarpon geographicum and Rusavskia elegans have contributed to:",
+    "choices": [
+      "Developing new medicines for astronauts",
+      "Finding alternative food sources",
+      "Learning more about life on other planets",
+      "Understanding how life can withstand exposure to the vacuum and radiation of outer space"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "Astrobiology intersects with philosophy by raising questions about:",
+    "choices": [
+      "The meaning of life on Earth",
+      "The definition of life itself",
+      "The best way to explore space",
+      "The existence of dark matter"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "According to Dunér, what is a major task of philosophy of astrobiology?",
+    "choices": [
+      "Debating the ethics of extraterrestrial communication",
+      "Constructing and debating concepts such as the concept of life",
+      "Developing new technologies for space exploration",
+      "Analyzing the economic implications of space colonization"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "For von Hegner, what differs between astrobiology and astrophilosophy?",
+    "choices": [
+      "One deals with emotions, the other with mathematics",
+      "Astrobiology is a self-corrective interaction among observation, hypothesis, experiment, and theory, pertaining to the exploration of all natural phenomena; Astrophilosophy consists of methods of dialectic analysis and logical argumentation, pertaining to the clarification of the nature of reality",
+      "Astrophilosophy is the more reliable one",
+      "There is no difference"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "Most of the philosophy of astrobiology deals with two main questions",
+    "choices": [
+      "The question of life and the ethics of space exploration",
+      "The question of economics and the question of science",
+      "The question of humanities and the question of mathematics",
+      "The question of earth and the question of space"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What is the stance of conceptual speciesm in astrobiology?",
+    "choices": [
+      "It tries to talk about not just biology, but about life in a general way, which includes terrestrial life as a subset",
+      "It is not present",
+      "There is no correct definition for it",
+      "It's the primary method of astrobiological study"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the Rare Earth hypothesis postulate?",
+    "choices": [
+      "Life is common throughout the universe.",
+      "Multicellular life forms found on Earth may actually be more of a rarity than scientists assume.",
+      "Earth is the only planet with liquid water.",
+      "Extraterrestrial civilizations are more advanced than human civilization."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the Rare Earth hypothesis provide a possible answer to?",
+    "choices": [
+      "The Drake equation",
+      "The Big Bang theory",
+      "The Fermi paradox",
+      "The theory of evolution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Rare Earth hypothesis is in opposition to:",
+    "choices": [
+      "The Fermi paradox",
+      "The principle of mediocrity",
+      "The theory of relativity",
+      "The theory of evolution"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which is not considered within the Rare Earth Hypothesis when considering the proper circumsatnces for life?",
+    "choices": [
+      "planetary system",
+      "the rate of rotation",
+      "location within it",
+      "orbit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the most accurate statement on the Rare Earth Hypothesis's stance on extraterrestrial life?",
+    "choices": [
+      "Life is common everywhere",
+      "Extraterrestrial aliens are common and easily apparent",
+      "If extraterrestrial aliens are common, why aren't they obvious?",
+      "There is no extraterrestrial life"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following missions explored the possibilities of life on other planets using biological experiments?",
+    "choices": [
+      "Cassini probe",
+      "Phoenix lander",
+      "Mars Science Laboratory",
+      "Viking program"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement best describes Norman Horowitz viewpoint?",
+    "choices": [
+      "Conditions found on Mars were incompatible with carbon-based life",
+      "Life is all around",
+      "It is unlikely carbon will produce life",
+      "That life is impossible"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What statement best describes the result of the Viking landers?",
+    "choices": [
+      "Alien life was found",
+      "All instruments failed",
+      "Result was inconclusive",
+      "There was a successful mission to retrieve life"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Why was the Beagle 2 mission considered unsuccessful?",
+    "choices": [
+      "It exploded mid-flight",
+      "All images were out of focus",
+      "It was unable to correctly deploy its solar panels and telecom antenna",
+      "The mission was never initiated"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What is the goal of the Mars 2020 mission?",
+    "choices": [
+      "To search for fossil fuels",
+      "To extract all resources",
+      "To investigate environments on Mars relevant to astrobiology and to collect and package samples",
+      "To bring alien specimens to Earth"
+    ],
+    "answer": 2
+  }
+]

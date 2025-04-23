@@ -1,0 +1,852 @@
+[
+    {
+      "question": "Who is NOT credited with the discovery of Neptune despite having observations that correspond to its position?",
+      "choices": [
+        "Galileo Galilei",
+        "Alexis Bouvard",
+        "John Couch Adams",
+        "Urbain Le Verrier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alexis Bouvard hypothesized the existence of Neptune to explain:",
+      "choices": [
+        "Anomalies in Jupiter's orbit",
+        "Deviations in the orbit of Uranus",
+        "The discovery of Triton",
+        "Changes in the color of Uranus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who independently calculated the position of Neptune?",
+      "choices": [
+        "John Couch Adams and Johann Gottfried Galle",
+        "Urbain Le Verrier and William Lassell",
+        "John Couch Adams and Urbain Le Verrier",
+        "Alexis Bouvard and James Challis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who successfully observed Neptune using calculations from Le Verrier?",
+      "choices": [
+        "James Challis",
+        "George Airy",
+        "Johann Gottfried Galle",
+        "Heinrich d'Arrest"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The \"Neptune papers\" that re-evaluated the discovery of Neptune were returned to which institution in 1998?",
+      "choices": [
+        "Paris Observatory",
+        "Royal Observatory, Greenwich",
+        "Berlin Observatory",
+        "Harvard College Observatory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was Neptune initially referred to as?",
+      "choices": [
+        "Janus",
+        "Oceanus",
+        "Le Verrier's planet",
+        "Herschel"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who initially proposed the name Janus for Neptune?",
+      "choices": [
+        "Urbain Le Verrier",
+        "Johann Gottfried Galle",
+        "James Challis",
+        "William Herschel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was Le Verrier's later suggestion for the name of Neptune?",
+      "choices": [
+        "Oceanus",
+        "Herschel",
+        "Le Verrier",
+        "Struve"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why was the name 'Neptune' chosen for the planet?",
+      "choices": [
+        "It was the name of Le Verrier's favorite dog",
+        "It was based on the planet's position in the sky",
+        "It aligned with mythological naming conventions for other planets",
+        "It was chosen randomly"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name for Neptune in Chinese, Vietnamese, Japanese, and Korean?",
+      "choices": [
+        "Rahab",
+        "Tangaroa",
+        "Dalain van",
+        "Sea king star"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "From 1846 until which year was Neptune the farthest known planet from the sun?",
+      "choices": [
+        "1930",
+        "1979",
+        "1999",
+        "2006"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During what period did Pluto's orbit make it closer to the Sun than Neptune?",
+      "choices": [
+        "1846-1930",
+        "1930-1979",
+        "1979-1999",
+        "1999-2006"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which discovery led to the debate over Pluto's planetary status?",
+      "choices": [
+        "The Great Dark Spot",
+        "The Kuiper belt",
+        "Triton's retrograde orbit",
+        "Neptune's ring system"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which year did the International Astronomical Union (IAU) reclassify Pluto as a dwarf planet?",
+      "choices": [
+        "1930",
+        "1992",
+        "1999",
+        "2006"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "After Pluto's reclassification, what became Neptune's status?",
+      "choices": [
+        "A dwarf planet",
+        "The second-farthest planet",
+        "The outermost-known planet",
+        "A gas giant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Neptune's mass is approximately how many times that of Earth?",
+      "choices": [
+        "1.0243",
+        "17.15",
+        "1/19th",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which planet has the highest surface gravity?",
+      "choices": [
+        "Earth",
+        "Neptune",
+        "Uranus",
+        "Jupiter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Neptune's equatorial radius is approximately how many times that of Earth?",
+      "choices": [
+        "1.0243",
+        "17.15",
+        "1/19th",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Neptune and Uranus are classified as what type of planet?",
+      "choices": [
+        "Gas giant",
+        "Terrestrial planet",
+        "Ice giant",
+        "Dwarf planet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the search for exoplanets, bodies similar in mass to Neptune are often referred to as:",
+      "choices": [
+        "Jupiters",
+        "Earths",
+        "Neptunes",
+        "Uranuses"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What percentage of Neptune's mass is made up of its atmosphere?",
+      "choices": [
+        "1 to 5%",
+        "5 to 10%",
+        "10 to 20%",
+        "20 to 30%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What substances are abundant in Neptune's mantle?",
+      "choices": [
+        "Iron, nickel, and silicates",
+        "Hydrogen and helium",
+        "Water, ammonia, and methane",
+        "Carbon dioxide and hydrogen cyanide"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The hot, dense supercritical fluid in Neptune's mantle is sometimes called a:",
+      "choices": [
+        "Superionic ocean",
+        "Water-ammonia ocean",
+        "Diamond rain",
+        "Iron core"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What might methane decompose into at a depth of 7,000 km within Neptune?",
+      "choices": [
+        "Hydrogen and oxygen ions",
+        "Liquid carbon",
+        "Diamond crystals",
+        "Helium and hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What elements are the core of Neptune most likely composed of?",
+      "choices": [
+        "Hydrogen and helium",
+        "Water, ammonia, and methane",
+        "Iron, nickel, and silicates",
+        "Carbon monoxide and hydrogen cyanide"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the main constituents of Neptune's atmosphere at high altitudes?",
+      "choices": [
+        "Methane and ammonia",
+        "Hydrogen and helium",
+        "Water and methane",
+        "Carbon dioxide and hydrogen cyanide"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary cause of Neptune's blue hue?",
+      "choices": [
+        "Rayleigh scattering",
+        "Absorption of blue light by methane",
+        "Emission of blue light by hydrogen",
+        "Presence of water clouds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The boundary between the troposphere and stratosphere in Neptune's atmosphere is called:",
+      "choices": [
+        "Thermosphere",
+        "Exosphere",
+        "Tropopause",
+        "Magnetopause"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following has been observed casting shadows on opaque cloud decks on Neptune?",
+      "choices": [
+        "High-altitude clouds",
+        "Methane ice crystals",
+        "Ammonia ice crystals",
+        "Hydrogen sulfide crystals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the approximate temperature of Neptune's thermosphere?",
+      "choices": [
+        "55 K (−218 °C; −361 °F)",
+        "273 K (0 °C; 32 °F)",
+        "750 K (477 °C; 890 °F)",
+        "5,400 K (5,100 °C; 9,300 °F)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does Neptune's color compare to that of Uranus?",
+      "choices": [
+        "Neptune is less blue than Uranus.",
+        "Neptune is about the same color as Uranus.",
+        "Neptune is slightly more saturated than Uranus.",
+        "Neptune is much more saturated than Uranus."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the initial intent when the color contrast of Neptune and Uranus was greatly exaggerated in early renderings?",
+      "choices": [
+        "To trick the public.",
+        "To accurately depict the true colors.",
+        "To better reveal the clouds, bands and winds.",
+        "To make the planets look more interesting."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Before the use of color normalization, how was Neptune often depicted compared to Uranus?",
+      "choices": [
+        "Off-white.",
+        "Faintly yellow.",
+        "Deep blue.",
+        "Pale green."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why were early images of Neptune and Uranus difficult to compare directly?",
+      "choices": [
+        "They were taken with different telescopes.",
+        "They were taken at different times of year.",
+        "They were imaged with different systems.",
+        "They were enhanced in post-processing."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was Neptune's color most comprehensively revisited with normalized color?",
+      "choices": [
+        "Early 1980's.",
+        "During the Voyager 2 flyby.",
+        "2018.",
+        "Late 2023."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the degree of tilt of Neptune's magnetic field relative to its rotational axis?",
+      "choices": [
+        "0°",
+        "23°",
+        "47°",
+        "90°"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the offset distance of Neptune's magnetic field from the planet's physical center?",
+      "choices": [
+        "0 km",
+        "1,000 km",
+        "13,500 km",
+        "63,000 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic field of Neptune may be generated by convective fluid motions in a shell of electrically conducting liquids, which most likely consist of a combination of:",
+      "choices": [
+        "Iron, nickel, and silicates",
+        "Hydrogen and helium",
+        "Ammonia, methane, and water",
+        "Carbon dioxide and nitrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do the aurorae of Neptune compare to those of Uranus?",
+      "choices": [
+        "They are more well-defined.",
+        "They are much brighter.",
+        "They have never been observed.",
+        "They are faint, weak, complex and unique."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In what areas of Neptune do the aurorae mostly occur?",
+      "choices": [
+        "Near its poles",
+        "Around its mid-latitude areas",
+        "Along its equator",
+        "In its deepest trenches"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the highest recorded sustained wind speeds on Neptune?",
+      "choices": [
+        "600 m/s",
+        "325 m/s",
+        "250 m/s",
+        "20 m/s"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which direction do most of the winds on Neptune move?",
+      "choices": [
+        "In the same direction as the planet's rotation",
+        "In a direction opposite the planet's rotation",
+        "Only along the equator",
+        "Only in the polar regions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long does each season last on Neptune?",
+      "choices": [
+        "1 Earth year",
+        "10 Earth years",
+        "40 Earth years",
+        "164 Earth years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What discovery was made about the temperature of Neptune's south pole in 2007?",
+      "choices": [
+        "It was about 10 K colder than the rest of its atmosphere",
+        "It was about 10 K warmer than the rest of its atmosphere",
+        "It was the same temperature as the equator",
+        "It was undetectable"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes the relative \"hot spot\" at Neptune's south pole?",
+      "choices": [
+        "Its proximity to the Sun",
+        "Its high albedo",
+        "Neptune's axial tilt exposing the south pole to the Sun",
+        "An excess of methane in the atmosphere"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the Great Dark Spot?",
+      "choices": [
+        "A massive volcano",
+        "A large anticyclonic storm system",
+        "A giant crater",
+        "An unusually dark moon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the 'Scooter' on Neptune?",
+      "choices": [
+        "A fast-moving moon",
+        "A white cloud group moving faster than the Great Dark Spot",
+        "A ring arc",
+        "A type of lightning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which spacecraft first observed the Great Dark Spot?",
+      "choices": [
+        "Hubble Space Telescope",
+        "Cassini",
+        "Voyager 1",
+        "Voyager 2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Where do Neptune's dark spots occur?",
+      "choices": [
+        "In the stratosphere at higher altitudes",
+        "In the troposphere at lower altitudes",
+        "On the surface of Neptune",
+        "Within the rings of Neptune"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of Neptune's dark spots may continue to exist as cyclones even after disappearing as a dark feature?",
+      "choices": [
+        "The Small Dark Spot",
+        "The Great Dark Spot",
+        "All of them",
+        "The ones which migrate too close to the equator"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Compared to Uranus, why does Neptune have more varied weather?",
+      "choices": [
+        "It is closer to the Sun",
+        "It has a higher internal heating",
+        "It has a lower albedo",
+        "It has fewer moons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the low temperature in the upper regions of Neptune's troposphere?",
+      "choices": [
+        "0 K",
+        "51.8 K",
+        "72.00 K",
+        "273 K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How much more energy does Neptune radiate compared to the amount it receives from the Sun?",
+      "choices": [
+        "1.1 times",
+        "1.61 times",
+        "2.61 times",
+        "3.61 times"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which planet radiates about 1.1 times as much energy as it receives from the Sun?",
+      "choices": [
+        "Neptune",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why is it difficult to explain Uranus's lack of internal heat compared to Neptune?",
+      "choices": [
+        "Because Neptune is more massive",
+        "Because Uranus is farther from the Sun",
+        "While preserving the apparent similarity between the two planets",
+        "Because Uranus lacks an atmosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average distance between Neptune and the Sun?",
+      "choices": [
+        "1 AU",
+        "10 AU",
+        "30.1 AU",
+        "100 AU"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Approximately how long does it take Neptune to complete one orbit around the Sun?",
+      "choices": [
+        "84 years",
+        "164.79 years",
+        "225 years",
+        "365 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the most circular orbit after Venus?",
+      "choices": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Neptune"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In what year did Neptune complete its first full barycentric orbit since its discovery in 1846?",
+      "choices": [
+        "1930",
+        "1989",
+        "2006",
+        "2011"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the approximate sidereal rotation period (day) of Neptune?",
+      "choices": [
+        "12 hours",
+        "16.11 hours",
+        "18 hours",
+        "24 hours"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the traditional method of planet formation that has difficulty explaining the formation of ice giants like Neptune and Uranus?",
+      "choices": [
+        "Nebular collapse",
+        "Core accretion",
+        "Gravitational instability",
+        "Accretion disk instability"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the dynamical evolution scenario that explores the potential effect of a migrating Neptune on the structure of the Kuiper belt?",
+      "choices": [
+        "Core accretion model",
+        "Nebular model",
+        "Nice model",
+        "Grand tack hypothesis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the region directly beyond Neptune's orbit known as?",
+      "choices": [
+        "The Asteroid Belt",
+        "The Oort Cloud",
+        "The Kuiper Belt",
+        "The Trojan Belt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are objects in the 2:3 resonance with Neptune called?",
+      "choices": [
+        "Trojans",
+        "Centaurs",
+        "Plutinos",
+        "Comets"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Neptune's trojan objects can be viewed as being in what kind of resonance with Neptune?",
+      "choices": [
+        "1:1",
+        "2:3",
+        "3:2",
+        "4:5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What percentage of the total mass in orbit around Neptune is accounted for by Triton?",
+      "choices": [
+        "50%",
+        "75%",
+        "90%",
+        "More than 99.5%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is unique about Triton's orbit compared to other large planetary moons in the Solar System?",
+      "choices": [
+        "It is perfectly circular",
+        "It is extremely eccentric",
+        "It is retrograde",
+        "It is prograde"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What will happen to Triton in approximately 3.6 billion years?",
+      "choices": [
+        "It will collide with Neptune",
+        "It will be ejected from the Solar System",
+        "It will reach the Roche limit and be torn apart",
+        "It will become a ring around Neptune"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name of Neptune's second-known satellite which has one of the most eccentric orbits of any satellite in the Solar System?",
+      "choices": [
+        "Proteus",
+        "Triton",
+        "Nereid",
+        "Larissa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is Proteus notable?",
+      "choices": [
+        "It is the largest Neptunian moon",
+        "It has a retrograde orbit",
+        "It is the farthest moon from Neptune",
+        "It is as large as a body of its density can be without being pulled into a spherical shape by its own gravity"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What are Neptune's rings likely composed of?",
+      "choices": [
+        "Solid rock",
+        "Metallic iron",
+        "Ice particles coated with silicates or carbon-based material",
+        "Liquid methane"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the names of the three main rings of Neptune?",
+      "choices": [
+        "Adams, Galle, Lassell",
+        "Adams, Le Verrier, Galle",
+        "Le Verrier, Lassell, Arago",
+        "Courage, Liberté, Egalité"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of Neptune's rings contains the prominent arcs named Courage, Liberté, Egalité 1, Egalité 2 and Fraternité?",
+      "choices": [
+        "Lassell Ring",
+        "Galle Ring",
+        "Adams Ring",
+        "Le Verrier Ring"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is believed to corral the arcs within the Adams ring into their current form?",
+      "choices": [
+        "Solar radiation",
+        "Magnetic fields",
+        "The gravitational effects of Galatea",
+        "Atmospheric pressure"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the location of the Le Verrier Ring?",
+      "choices": [
+        "42,000 km from the center of Neptune",
+        "53,000 km from the center of Neptune",
+        "57,000 km from the center of Neptune",
+        "63,000 km from the center of Neptune"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What phenomenon is causing Neptune to brighten?",
+      "choices": [
+        "Increased volcanic activity",
+        "Changing seasons",
+        "Increased solar flares",
+        "An approaching comet"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the typical appearance of Neptune through a telescope?",
+      "choices": [
+        "A bright, white disk",
+        "A small, blue disk",
+        "A large, red spot",
+        "Invisible to the naked eye"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What technology has significantly improved the study of Neptune?",
+      "choices": [
+        "Radar imaging",
+        "Adaptive optics",
+        "Seismic monitoring",
+        "Chemical analysis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes Neptune's apparent retrograde motion?",
+      "choices": [
+        "The planet's axial tilt",
+        "The Earth's orbit around the Sun",
+        "Neptune's gravitational pull on Earth",
+        "The movement of the background stars"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of radiation allows Neptune's storms to be readily tracked?",
+      "choices": [
+        "Gamma",
+        "Radio",
+        "Infrared",
+        "Ultraviolet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the only spacecraft that has visited Neptune?",
+      "choices": [
+        "Cassini",
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During the Voyager 2 encounter, how long did it take for signals from the spacecraft to reach Earth?",
+      "choices": [
+        "10 minutes",
+        "60 minutes",
+        "123 minutes",
+        "246 minutes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What hypothesis did the Voyager 2's accurate measurement of Neptune's mass disprove?",
+      "choices": [
+        "The existence of Neptune's moons",
+        "The existence of the Kuiper Belt",
+        "The existence of an undiscovered Planet X acting upon the orbits of Neptune and Uranus",
+        "The possibility of life on Neptune"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What NASA mission concept was studied in 2003, proposing a Cassini-level science mission?",
+      "choices": [
+        "New Horizons",
+        "Argo",
+        "Neptune Orbiter with Probes",
+        "Neptune Odyssey"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is one reason for the Uranus Orbiter and Probe mission's selection as the ice giant orbiter mission recommendation?",
+      "choices": [
+        "More scientific value",
+        "Better cost value",
+        "Logistical reasons",
+        "Easier to achieve launch window"
+      ],
+      "answer": 2
+    }
+  ]
