@@ -1,0 +1,1072 @@
+[
+  {
+    "question": "What primarily binds a galaxy together?",
+    "choices": [
+      "Electromagnetic Force",
+      "Strong Nuclear Force",
+      "Gravity",
+      "Weak Nuclear Force"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From what Greek word does the term 'galaxy' originate?",
+    "choices": [
+      "cosmos",
+      "aster",
+      "galaxias",
+      "ouranos"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a typical component of a galaxy?",
+    "choices": [
+      "Stars",
+      "Interstellar gas",
+      "Dust",
+      "Planets within the solar system"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the approximate diameter range of most galaxies?",
+    "choices": [
+      "1-10 parsecs",
+      "1,000-100,000 parsecs",
+      "1-10 megaparsecs",
+      "1,000-100,000 megaparsecs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the most common feature at the center of galaxies?",
+    "choices": [
+      "Neutron star",
+      "Pulsar",
+      "Supermassive black hole",
+      "Quasar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the Greek word 'galaxias' literally mean?",
+    "choices": [
+      "Starry night",
+      "Celestial sphere",
+      "Milky",
+      "Universal cluster"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the capitalized word 'Galaxy' often used to refer to?",
+    "choices": [
+      "Any spiral galaxy",
+      "The largest galaxy in a cluster",
+      "The Milky Way galaxy",
+      "Any galaxy containing a supermassive black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What were galaxies initially known as?",
+    "choices": [
+      "Star clusters",
+      "Planetary nebulas",
+      "Spiral nebulas",
+      "Island universes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What term did Harlow Shapley advocate for instead of 'universes' and 'nebula'?",
+    "choices": [
+      "'Star System'",
+      "'Cosmos'",
+      "'Galaxy'",
+      "'Celestial Body'"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When did the nomenclature for galaxies fully change?",
+    "choices": [
+      "1900",
+      "1920",
+      "1953",
+      "1980"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a galaxy catalog?",
+    "choices": [
+      "Messier catalogue",
+      "PGC",
+      "Sloan Digital Sky Survey",
+      "UGC"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Andromeda Galaxy is also known as:",
+    "choices": [
+      "M87",
+      "Messier 109",
+      "M31",
+      "NGC 1300"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What catalog contains the designation M109?",
+    "choices": [
+      "PGC",
+      "NGC",
+      "Messier",
+      "CGCG"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is PGC also known as?",
+    "choices": [
+      "NGC",
+      "LEDA",
+      "Messier",
+      "UGC"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What identifies millions of fainter galaxies?",
+    "choices": [
+      "Sloan Digital Sky Survey",
+      "Uppsala General Catalogue of Galaxies",
+      "Messier catalogue",
+      "New General Catalogue"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who first proposed that the Milky Way might consist of distant stars?",
+    "choices": [
+      "Aristotle",
+      "Democritus",
+      "Galileo Galilei",
+      "Ibn al-Haytham"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Aristotle, what caused the Milky Way?",
+    "choices": [
+      "A reflection of the sun's light",
+      "The ignition of the fiery exhalation of some stars",
+      "A collection of countless fragments of nebulous stars",
+      "Refraction from sublunary material"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who made the first attempt at observing and measuring the Milky Way's parallax?",
+    "choices": [
+      "al-Biruni",
+      "Avempace",
+      "Ibn Qayyim al-Jawziyya",
+      "Ibn al-Haytham"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In what year did Galileo Galilei discover that the Milky Way was composed of a huge number of faint stars?",
+    "choices": [
+      "1510",
+      "1610",
+      "1750",
+      "1845"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who first speculated that the Milky Way was a rotating body of stars held together by gravity?",
+    "choices": [
+      "Immanuel Kant",
+      "William Herschel",
+      "Harlow Shapley",
+      "Thomas Wright"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who made the earliest recorded identification of the Andromeda Galaxy?",
+    "choices": [
+      "Simon Marius",
+      "Abd al-Rahman al-Sufi",
+      "Emanuel Swedenborg",
+      "Pierre Louis Maupertuis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what century was the Andromeda Galaxy first identified?",
+    "choices": [
+      "9th",
+      "10th",
+      "11th",
+      "12th"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What object did Abd al-Rahman al-Sufi describe as a 'small cloud'?",
+    "choices": [
+      "Large Magellanic Cloud",
+      "Small Magellanic Cloud",
+      "Andromeda Galaxy",
+      "Triangulum Galaxy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who observed the spiral structure of Messier object M51?",
+    "choices": [
+      "Charles Messier",
+      "William Herschel",
+      "Lord Rosse",
+      "Vesto M. Slipher"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who proposed the 'island universes' hypothesis?",
+    "choices": [
+      "Edwin Hubble",
+      "Heber Doust Curtis",
+      "Harlow Shapley",
+      "Ernst Öpik"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which part of the electromagnetic spectrum is most transparent to observe the interior of giant molecular clouds and galactic cores?",
+    "choices": [
+      "Ultraviolet",
+      "X-ray",
+      "Far-infrared",
+      "Radio frequencies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which atmospheric layer blocks radio signals below 5 MHz?",
+    "choices": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Ionosphere"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are observed when a star in a distant galaxy is torn apart from the tidal forces of a nearby black hole?",
+    "choices": [
+      "Infrared flares",
+      "Ultraviolet flares",
+      "X-ray bursts",
+      "Radio jets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is the distribution of hot gas in galactic clusters mapped?",
+    "choices": [
+      "Using radio interferometers",
+      "By observing ultraviolet flares",
+      "By analyzing far-infrared emissions",
+      "By X-rays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of astronomy confirmed the existence of supermassive black holes at the cores of galaxies?",
+    "choices": [
+      "Radio astronomy",
+      "Infrared astronomy",
+      "Optical astronomy",
+      "X-ray astronomy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What wavelength radiation did Hendrik van de Hulst predict would be detectable from interstellar atomic hydrogen gas?",
+    "choices": [
+      "5 MHz",
+      "30 GHz",
+      "21 cm",
+      "658 nm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The galaxy rotation problem is thought to be explained by what?",
+    "choices": [
+      "Interstellar dust",
+      "Supermassive black holes",
+      "Dark matter",
+      "Radio jets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was revealed by Hubble Deep Field images?",
+    "choices": [
+      "A rotating bar structure in the center of this galaxy",
+      "Large quantities of unseen dark matter",
+      "125 billion (1.25×1011) galaxies in the observable universe",
+      "The hydrogen gas could also be traced in other galaxies."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What have surveys in the Zone of Avoidance revealed?",
+    "choices": [
+      "A rotating bar structure in the center of this galaxy",
+      "A discrepancy between observed galactic rotation speed",
+      "That the missing dark matter in this galaxy could not consist solely of inherently faint and small stars",
+      "A number of new galaxies."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did a 2016 study estimate the number of galaxies in the observable universe to be?",
+    "choices": [
+      "125 billion (1.25×1011) galaxies",
+      "1 trillion (1×1012) galaxies",
+      "2 trillion (2×1012) galaxies",
+      "500 billion (5×1011) galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT one of the three main types of galaxies?",
+    "choices": [
+      "Elliptical",
+      "Spiral",
+      "Irregular",
+      "Globular"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Hubble sequence classifies galaxies based on:",
+    "choices": [
+      "Distance",
+      "Mass",
+      "Visual morphological type (shape)",
+      "Star formation rate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where is the Galactic Center located?",
+    "choices": [
+      "In the Orion Arm",
+      "In the Sagittarius Arm",
+      "In the Perseus Arm",
+      "At the core region of the Milky Way"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of galaxy is characterized by its ellipticity?",
+    "choices": [
+      "Spiral",
+      "Irregular",
+      "Elliptical",
+      "Lenticular"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does a Hubble classification of E0 indicate?",
+    "choices": [
+      "Highly elongated elliptical galaxy",
+      "Nearly spherical elliptical galaxy",
+      "Spiral galaxy with tightly wound arms",
+      "Irregular galaxy with no discernible structure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What makes type-cD galaxies notable?",
+    "choices": [
+      "Their blue color",
+      "Their spiral arm structure",
+      "Their size, being the largest and most luminous galaxies known",
+      "Their irregular shape"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year were type-cD galaxies first described?",
+    "choices": [
+      "1936",
+      "1948",
+      "1964",
+      "1980"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the leading model for the formation of cD galaxies?",
+    "choices": [
+      "Cooling flow",
+      "Tidal interactions",
+      "Mergers of smaller galaxies in dense clusters",
+      "Accretion of intergalactic gas"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the residue of galactic collisions?",
+    "choices": [
+      "Extensive cloud of X-rays",
+      "Dense rings of stars",
+      "Strong radio emissions",
+      "High star formation rates"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What phenomenon have cooling flows been observed in?",
+    "choices": [
+      "Spiral galaxies",
+      "Irregular galaxies",
+      "Clusters such as Perseus and the Phoenix Cluster",
+      "Ring galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of galaxy has stars in its halo arranged in concentric shells?",
+    "choices": [
+      "Spiral",
+      "Irregular",
+      "Shell",
+      "Lenticular"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately what fraction of elliptical galaxies have a shell-like structure?",
+    "choices": [
+      "One-tenth",
+      "One-half",
+      "One-quarter",
+      "One-third"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How are shell galaxies thought to develop?",
+    "choices": [
+      "Through rapid star formation",
+      "Through tidal interactions with other galaxies",
+      "When a larger galaxy absorbs a smaller companion galaxy",
+      "Through the influence of a supermassive black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which galaxy has over 20 shells?",
+    "choices": [
+      "Andromeda Galaxy",
+      "Whirlpool Galaxy",
+      "NGC 3923",
+      "Messier 82"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the structure of spiral galaxies?",
+    "choices": [
+      "An ellipsoidal profile with little structure",
+      "A rotating disk with a central bulge and spiral arms",
+      "A ring-like structure of stars around a bare core",
+      "An ill-defined structure with no clear shape"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What extends beyond the visible component in spiral galaxies?",
+    "choices": [
+      "A cloud of interstellar gas",
+      "A spherical halo of dark matter",
+      "A ring-like structure",
+      "A linear bar-shaped band of stars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are spiral galaxies classified in the Hubble classification scheme?",
+    "choices": [
+      "By mass",
+      "By distance",
+      "By type S, followed by a, b, or c indicating the tightness of spiral arms and size of the central bulge",
+      "By color"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a grand design spiral galaxy known for?",
+    "choices": [
+      "Having poorly defined arms",
+      "Having an irregular structure",
+      "Having prominent and well-defined spiral arms",
+      "Being a flocculent spiral galaxy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What shape do the spiral arms have in spiral galaxies?",
+    "choices": [
+      "Circular",
+      "Elliptical",
+      "Approximate logarithmic spirals",
+      "Irregular"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the structure of the Milky Way galaxy?",
+    "choices": [
+      "Elliptical",
+      "Spiral",
+      "Barred spiral",
+      "Irregular"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is thought to be a temporary structure that can occur as a result of a density wave?",
+    "choices": [
+      "Spiral arms",
+      "Central bulge",
+      "Bars",
+      "Halo of dark matter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How thick is the Milky Way galaxy?",
+    "choices": [
+      "100 parsecs",
+      "1 kiloparsec",
+      "10 kiloparsecs",
+      "30 kiloparsecs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many stars does the Milky Way contain?",
+    "choices": [
+      "100 billion",
+      "200 billion",
+      "300 billion",
+      "500 billion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What characteristic do super-luminous spirals NOT possess?",
+    "choices": [
+      "Large mass",
+      "Very small",
+      "Significant amount of ultraviolet light",
+      "Increased star formation rate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes peculiar galaxies to develop unusual properties?",
+    "choices": [
+      "High star formation rates",
+      "Tidal interactions with other galaxies",
+      "Supermassive black holes",
+      "Lack of dark matter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are ring galaxies thought to occur?",
+    "choices": [
+      "From a starburst event",
+      "When a smaller galaxy passes through the core of a spiral galaxy",
+      "From a supermassive black hole",
+      "Through interaction with dark matter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Hubble type for lenticular galaxies?",
+    "choices": [
+      "S0",
+      "Sa",
+      "SB",
+      "Irr-I"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are Irr-II galaxies characterized by?",
+    "choices": [
+      "Well-defined spiral arms",
+      "An elliptical halo of stars",
+      "The presence of a bar structure",
+      "No structure that resembles a Hubble classification"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a dark or 'ultra diffuse' galaxy?",
+    "choices": [
+      "An extremely-high-luminosity galaxy",
+      "An extremely-low-luminosity galaxy",
+      "A galaxy with a prominent supermassive black hole",
+      "A galaxy with a high star formation rate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Compared to other galactic formations, what is the size of dwarf galaxies?",
+    "choices": [
+      "About the same size as the Milky Way",
+      "Larger than the Milky Way",
+      "About one hundredth the size of the Milky Way",
+      "About ten times the size of the Milky Way"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do blue compact dwarf galaxies contain?",
+    "choices": [
+      "Few billion stars",
+      "Large clusters of old, red, small stars",
+      "Large clusters of young, hot, massive stars",
+      "Only globular clusters"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many satellite galaxies does the Milky Way have?",
+    "choices": [
+      "At least 3",
+      "At least 12",
+      "At least 20",
+      "At least 50"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What types of galaxies are most dwarf galaxies classified as?",
+    "choices": [
+      "Elliptical or spiral",
+      "Irregular or dwarf elliptical/dwarf spheroidal",
+      "Lenticular or ring",
+      "Peculiar or blue compact"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to a study of 27 Milky Way neighbors, what is the approximate central mass of all dwarf galaxies?",
+    "choices": [
+      "1 million solar masses",
+      "10 million solar masses",
+      "100 million solar masses",
+      "1 billion solar masses"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the result of near misses between galaxies?",
+    "choices": [
+      "Galactic mergers",
+      "Cannibalism",
+      "Warping distortions due to tidal interactions",
+      "Starbursts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can collisions between galaxies trigger?",
+    "choices": [
+      "The formation of black holes",
+      "Starbursts",
+      "The cessation of star formation",
+      "The formation of a super-luminous spiral"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What occurs at the extreme of interactions?",
+    "choices": [
+      "Starbursts",
+      "Cannibalism",
+      "Galactic mergers",
+      "Tidal tails"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the process called when a more massive galaxy remains relatively undisturbed while a smaller one is torn apart?",
+    "choices": [
+      "Cannibalism",
+      "Tidal stripping",
+      "Galactic merger",
+      "Starburst"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the Milky Way currently in the process of cannibalizing?",
+    "choices": [
+      "Andromeda Galaxy",
+      "Triangulum Galaxy",
+      "Sagittarius Dwarf Elliptical Galaxy and the Canis Major Dwarf Galaxy",
+      "Large and Small Magellanic Clouds"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What characterises starburst galaxies?",
+    "choices": [
+      "Few H II regions",
+      "Low supernova rates",
+      "Dusty concentrations of gas and the appearance of newly formed stars",
+      "No significant heavy elements in them"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a starburst often associated with?",
+    "choices": [
+      "The presence of a supermassive black hole",
+      "Merging or interacting galaxies",
+      "Isolated galaxies",
+      "Low-ionization nuclear emission-line regions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the prototype example of a starburst-forming interaction?",
+    "choices": [
+      "Milky Way and Andromeda",
+      "M82 and M81",
+      "Sagittarius Dwarf Elliptical Galaxy and the Canis Major Dwarf Galaxy",
+      "Large and Small Magellanic Clouds"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What will trigger a chain reaction of star-building that spreads throughout the gaseous region?",
+    "choices": [
+      "Supernova explosions",
+      "The presence of a supermassive black hole",
+      "The merger with a dwarf galaxy",
+      "The passage through a spiral arm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How long does starburst activity last?",
+    "choices": [
+      "About 100 million years",
+      "About 10 million years",
+      "About 1 billion years",
+      "For the galaxy's entire lifespan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the energetic radio lobes in a radio galaxy powered by?",
+    "choices": [
+      "Supernova explosions",
+      "Jets from its active galactic nucleus",
+      "Merging or interacting galaxies",
+      "Dark matter annihilation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to their Fanaroff–Riley classification, what differentiates FR I galaxies from FR II galaxies?",
+    "choices": [
+      "Their color",
+      "Their distance",
+      "Radio luminosity and structural features",
+      "The amount of dust"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the radio emissions from giant radio galaxies generated by?",
+    "choices": [
+      "Synchrotron radiation from relativistic electrons accelerated by supernova",
+      "Nuclear fusion in the central galaxy",
+      "Relativistic jets powered by the central galaxy's supermassive black hole",
+      "Dark matter annihilation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How far do radio emissions from the Alcyoneus radio galaxy extend?",
+    "choices": [
+      "500,000 light-years",
+      "1 million light-years",
+      "5 megaparsecs (16×106 ly)",
+      "10 megaparsecs (32×106 ly)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the source of synchrotron radiation from normal radio galaxies?",
+    "choices": [
+      "Supermassive black holes",
+      "Neutron stars",
+      "Relativistic electrons accelerated by supernova",
+      "Dark matter annihilation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the cause of a significant portion of the total energy output in an active galaxy?",
+    "choices": [
+      "Nuclear fusion",
+      "Chemical reactions",
+      "Active galactic nucleus",
+      "Dark matter annihilation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are AGNs with luminosity much greater than that of the host galaxy known as?",
+    "choices": [
+      "Seyfert galaxies",
+      "Radio galaxies",
+      "Quasi-stellar objects or quasars",
+      "Luminous infrared galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the standard model for an active galactic nucleus based on?",
+    "choices": [
+      "A ring of dark matter",
+      "An accretion disc that forms around a supermassive black hole",
+      "A large cluster of young stars",
+      "A powerful magnetic field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What determines the AGN's luminosity?",
+    "choices": [
+      "The number of stars in the host galaxy",
+      "The distribution of dark matter",
+      "The SMBH's mass and the rate at which matter falls onto it",
+      "The galaxy's rate of rotation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of galaxies eject particles from the galaxy core at velocities close to the speed of light?",
+    "choices": [
+      "5%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do Seyfert galaxies appear through a telescope?",
+    "choices": [
+      "Like an ordinary galaxy with a bright star superimposed atop the core",
+      "Like a faint, diffuse cloud of gas",
+      "Like a large, irregular blob",
+      "Like a galaxy with a prominent bar structure"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What frequencies are observed in the spectra of Seyfert galaxies?",
+    "choices": [
+      "Based on frequencies observed",
+      "Based on mass",
+      "Based on their apparent shape",
+      "Based on their location in the universe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How does the nearest known quasar, Markarian 231, appear?",
+    "choices": [
+      "More similar to galaxies than to stars",
+      "Appeared more similar to stars than to galaxies",
+      "Like an empty spot",
+      "More irregular than galaxies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the nearest known quasar?",
+    "choices": [
+      "3C 273",
+      "UHZ1",
+      "Markarian 231",
+      "NGC 1068"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How far away is the most distant discovered quasar UHZ1?",
+    "choices": [
+      "581 million light-years",
+      "10 billion light-years",
+      "13.2 billion light-years",
+      "15 billion light-years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is believed to be active galaxies with a relativistic jet pointed in the direction of Earth?",
+    "choices": [
+      "LINERs",
+      "Radio galaxies",
+      "Blazars",
+      "Seyfert galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a key characteristic of LINERs?",
+    "choices": [
+      "Extremely high luminosities",
+      "Emission is dominated by weakly ionized elements",
+      "Powerful radio jets",
+      "Very high surface brightnesses"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What contributes to the emission of LINER-type galaxies?",
+    "choices": [
+      "Dark matter annihilation",
+      "Strong nuclear force",
+      "Post-AGB stars, AGN, and shocks",
+      "Synchrotron radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many galaxies are classified as containing LINER nuclei?",
+    "choices": [
+      "Approximately one-tenth",
+      "Approximately one-quarter",
+      "Approximately one-third",
+      "Approximately one-half"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What measurement of electromagnetic power output above 1011 L☉ (solar luminosities) classifies a galaxy as a luminous infrared galaxy?",
+    "choices": [
+      "Magnitude",
+      "Redshift",
+      "Luminosity",
+      "Mass"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In most LIRGs, where does most of their energy come from?",
+    "choices": [
+      "The supermassive black hole",
+      "Large numbers of young stars which heat surrounding dust",
+      "The decay of dark matter",
+      "External radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a luminosity high enough to be a LIRG require a star formation rate of?",
+    "choices": [
+      "At least 18 M☉ yr−1",
+      "At least 180 M☉ yr−1",
+      "At least 1800 M☉ yr−1",
+      "At least 1.8 M☉ yr−1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When were LIRGs and ULIRGS more prevalent?",
+    "choices": [
+      "In the present universe",
+      "When the universe was younger",
+      "With high rates of rotation",
+      "In a specific galaxy cluster"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do LIRGs and ULIRGS emit more energy?",
+    "choices": [
+      "Emit the same amount in the infrared as other wavelengths",
+      "Emit less energy in the infrared than other wavelengths",
+      "Emit more energy in the infrared than all other wavelengths combined",
+      "Do not emit energy in the infrared."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is it difficult to measure the true extent of a galaxy?",
+    "choices": [
+      "Because galaxies have definite boundaries",
+      "Because galaxies have a gradually decreasing stellar density",
+      "Because they have too much radiation",
+      "Because their stars are too bright to measure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is an angular diameter also called?",
+    "choices": [
+      "Effective diameter",
+      "Petrosian magnitude",
+      "Isophotal radius",
+      "Metric diameter"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are isophotes?",
+    "choices": [
+      "Diagrams that adjoin equal masses",
+      "Diagrams that adjoin points of equal distances",
+      "Diagrams that adjoin points of equal brightnesses",
+      "Diagrams that adjoin points of equal densities"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the unit of apparent brightness flux of a galaxy?",
+    "choices": [
+      "Parsecs",
+      "Kiloparsecs",
+      "Magnitudes per square arcsecond",
+      "Luminosities per square arcsecond"
+    ],
+    "answer": 2
+  }
+]

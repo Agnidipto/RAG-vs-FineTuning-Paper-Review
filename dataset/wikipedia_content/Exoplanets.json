@@ -1,0 +1,912 @@
+[
+  {
+    "question": "What is the defining characteristic of an exoplanet?",
+    "choices": [
+      "It orbits the Sun.",
+      "It is a planet outside the Solar System.",
+      "It has a specific atmospheric composition.",
+      "It is smaller than Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When was the first confirmed detection of an exoplanet around a main-sequence star?",
+    "choices": [
+      "1917",
+      "1988",
+      "1992",
+      "1995"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary limitation of transit photometry and Doppler spectroscopy in exoplanet detection?",
+    "choices": [
+      "They can only detect planets made of gas.",
+      "They are effective only for very distant stars.",
+      "They favor the detection of planets near the star.",
+      "They cannot detect planets smaller than Jupiter."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how many potentially habitable Earth-sized planets are estimated to be in the Milky Way Galaxy?",
+    "choices": [
+      "1 million",
+      "1 billion",
+      "11 billion",
+      "200 billion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the mass range of the most massive exoplanets listed in the NASA Exoplanet Archive?",
+    "choices": [
+      "Up to the mass of Earth",
+      "Between Earth and Neptune mass",
+      "About 30 times the mass of Jupiter",
+      "More than 50 times the mass of Jupiter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary focus of the IAU's official definition of 'planet'?",
+    "choices": [
+      "Exoplanets",
+      "Solar System planets",
+      "Brown dwarfs",
+      "Sub-brown dwarfs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate upper mass limit, according to the IAU, for an object to be considered a planet (based on deuterium fusion)?",
+    "choices": [
+      "1 Jupiter mass",
+      "10 Jupiter masses",
+      "13 Jupiter masses",
+      "25 Jupiter masses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the IAU, what are free-floating objects in young star clusters with masses below the deuterium fusion limit called?",
+    "choices": [
+      "Planets",
+      "Brown dwarfs",
+      "Sub-brown dwarfs",
+      "Rogue planets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the official definition of an exoplanet, what ratio must the mass have with the central object?",
+    "choices": [
+      "M/Mcentral < 2/(25+√621))",
+      "M/Mcentral > 2/(25+√621))",
+      "M/Mcentral < 2/(25-√621))",
+      "M/Mcentral > 2/(25-√621))"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a key factor in an alternative definition of planets, distinguishing them from brown dwarfs?",
+    "choices": [
+      "Orbital period",
+      "Atmospheric composition",
+      "Formation process",
+      "Distance from the star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one requirement for an exoplanet to be officially 'confirmed' by the NASA Exoplanet Archive?",
+    "choices": [
+      "It must be visible with the naked eye.",
+      "It must have a known atmosphere.",
+      "Different observation techniques reveal features that can only be explained by a planet.",
+      "It must be located within the habitable zone."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the Extrasolar Planets Encyclopedia, when is a planet considered 'Confirmed'?",
+    "choices": [
+      "When it is claimed unambiguously in an accepted paper or a professional conference.",
+      "When it is observed to transit its star multiple times.",
+      "When its mass and radius are accurately measured.",
+      "When it shows signs of atmospheric water."
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What is the 'sin i ambiguity' a problem for?",
+    "choices": [
+      "Planets with rocky cores",
+      "The 13 Jupiter-mass distinction by the IAU Working Group",
+      "The Coulomb pressure or electron degeneracy pressure",
+      "Planets that have water vapor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the standard for naming exoplanets based on?",
+    "choices": [
+      "Its atmospheric composition",
+      "The time it takes to orbit around the star",
+      "An extension of the system used for designating multiple-star systems",
+      "Its size relative to Earth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When multiple planets are discovered at the same time, how are they designated?",
+    "choices": [
+      "Randomly with letters of the alphabet",
+      "In order of mass, heaviest to lightest",
+      "In order of distance from the star, closest to furthest",
+      "Based on their surface temperatures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the nature of the first possible evidence of an exoplanet recorded in 1917?",
+    "choices": [
+      "A direct image of a planet.",
+      "Variations in a star's radial velocity.",
+      "An unusual spectrum of a white dwarf star.",
+      "Timing variations of a pulsar."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who announced the discovery of two terrestrial-mass planets orbiting the pulsar PSR B1257+12?",
+    "choices": [
+      "Michel Mayor and Didier Queloz",
+      "Aleksander Wolszczan",
+      "Bruce Campbell, G. A. H. Walker, and Stephenson Yang",
+      "Peter van de Kamp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What discovery ushered in the modern era of exoplanetary discovery in 1995?",
+    "choices": [
+      "The detection of planets around pulsars.",
+      "The first confirmed exoplanet by Chandra X-ray Observatory.",
+      "The discovery of a planet in a four-day orbit around 51 Pegasi.",
+      "The direct imaging of several gas giants."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the microlensing technique used for?",
+    "choices": [
+      "For imaging massive exoplanets with very long orbital periods",
+      "For planet detection in a distant galaxy",
+      "For measuring a star's position in the sky",
+      "For calculating a star's luminosity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did researchers using the Chandra X-ray Observatory, combined with a planet detection technique called microlensing, found evidence of planets in a distant galaxy?",
+    "choices": [
+      "in 1991",
+      "in 2016",
+      "in February 2018",
+      "in August 2022"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which philosopher, an early supporter of heliocentrism, proposed that fixed stars are accompanied by planets?",
+    "choices": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Giordano Bruno",
+      "Johannes Kepler"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In his Principia, what did Isaac Newton compare to the Sun's planets?",
+    "choices": [
+      "The planets of other solar systems",
+      "The moons of Jupiter",
+      "The rings of Saturn",
+      "The atmospheres of exoplanets"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who demonstrated that it was realistic to search for exo-Jupiters by using transit photometry?",
+    "choices": [
+      "D.Belorizky",
+      "Otto Struve",
+      "William Stephen Jacob",
+      "Thomas J. J. See"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When did Otto Struve propose that Doppler spectroscopy and the transit method could detect super-Jupiters in short orbits?",
+    "choices": [
+      "In 1938",
+      "In 1952",
+      "In 1855",
+      "In 1991"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "What did Struve mention as the compelling reason why planets could not be much closer to their parent star than is the case in the Solar System?",
+    "choices": [
+      "There is no compelling reason",
+      "It is unlikely that there is enough helium",
+      "Planets would disintegrate",
+      "It would cause tidal locking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What orbital anomaly did William Stephen Jacob report in the 70 Ophiuchi system in 1855?",
+    "choices": [
+      "Variations in stellar brightness",
+      "An unusually high orbital speed",
+      "That there was a planetary body in this system",
+      "That the orbit was expanding rapidly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Whose early series of detection claims for planets orbiting Barnard's Star are now generally regarded as erroneous?",
+    "choices": [
+      "Kaj Strand",
+      "Andrew Lyne",
+      "Forest Ray Moulton",
+      "Peter van de Kamp"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who claimed to have discovered a pulsar planet in orbit around PSR 1829-10 in 1991, before retracting the claim?",
+    "choices": [
+      "Donald Backer",
+      "Andrew Lyne",
+      "Stephen Thorsett",
+      "Michel Mayor"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "Who published a paper proving that a three-body system with orbital parameters would be highly unstable?",
+    "choices": [
+      "Kaj Strand",
+      "Forest Ray Moulton",
+      "Thomas J. J. See",
+      "Peter van de Kamp"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Kaj Strand observed in the orbital motions of 61 Cygni A and B in 1942?",
+    "choices": [
+      "That there was no planet",
+      "Variations in orbital speeds",
+      "Tiny but systematic variations",
+      "That the stars were disintegrating"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who made the first published discovery to receive subsequent confirmation in 1988?",
+    "choices": [
+      "Aleksander Wolszczan",
+      "Michel Mayor",
+      "Bruce Campbell, G. A. H. Walker, and Stephenson Yang",
+      "Donald Backer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of object was initially considered as a possible explanation for some of the apparent planets detected in the late 1980s?",
+    "choices": [
+      "Pulsars",
+      "White dwarfs",
+      "Brown dwarfs",
+      "Supernovas"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did the group of astronomers led by Donald Backer determine was needed to explain the observed Doppler shifts in PSR B1620−26 b?",
+    "choices": [
+      "A fourth star",
+      "A black hole",
+      "A third object",
+      "A nebula"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When did NASA announce the discovery of 715 newly verified exoplanets around 305 stars by the Kepler Space Telescope?",
+    "choices": [
+      "On 6 October 1995",
+      "In 1999",
+      "On 26 February 2014",
+      "On 23 July 2015"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which planet orbits a type of star known as an 'Orange Dwarf'?",
+    "choices": [
+      "Wolf 503b",
+      "Kepler-452b",
+      "Kepler-1625b",
+      "TOI 700 d"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What statistical technique was used to verify the 715 newly verified exoplanets around 305 stars by the Kepler Space Telescope?",
+    "choices": [
+      "Radial-velocity method",
+      "Transit method",
+      "Verification by multiplicity",
+      "Gravitational microlensing"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Which planet is the first Earth-sized planet in the habitable zone detected by TESS?",
+    "choices": [
+      "Kepler-452b",
+      "Kepler-1625b",
+      "Wolf 503b",
+      "TOI 700 d"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did NASA announce on 23 July 2015?",
+    "choices": [
+      "TOI 700 d, the first Earth-sized planet in the habitable zone detected by TESS",
+      "Wolf 503b, an exoplanet about 145 light years away from Earth",
+      "Kepler-16 contains the first discovered planet that orbits a binary main-sequence star system.",
+      "Kepler-452b, a near-Earth-size planet orbiting the habitable zone of a G2-type star."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In September 2020, what was reported about a possible extragalactic planet?",
+    "choices": [
+      "It was observed to disintegrate due to tidal forces.",
+      "It was directly imaged by the James Webb Space Telescope.",
+      "It was detected by eclipsing a bright X-ray source in the Whirlpool Galaxy.",
+      "It was found to have an atmosphere composed of water vapor."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "As of January 2020, what was the status of the planetary candidates identified by NASA's Kepler and TESS missions?",
+    "choices": [
+      "All candidates had been confirmed as exoplanets.",
+      "None of the candidates were located in the habitable zone.",
+      "Several candidates were nearly Earth-sized and located in the habitable zone, yet to be confirmed.",
+      "Most candidates were gas giants larger than Jupiter."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the major technical challenge in direct imaging of exoplanets?",
+    "choices": [
+      "Determining the planet's mass.",
+      "Blocking the light from the parent star to reduce glare.",
+      "Measuring the planet's orbital period.",
+      "Analyzing the chemical composition of the planet."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary requirement for the transit method to be effective in detecting exoplanets?",
+    "choices": [
+      "The planet must be very large.",
+      "The planet's orbit must intersect a line-of-sight between the host star and Earth.",
+      "The planet must have a very short orbital period.",
+      "The planet must emit a strong radio signal."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the radial velocity method detect exoplanets?",
+    "choices": [
+      "By measuring the dimming of a star's light as a planet passes in front of it.",
+      "By observing the changes in a star's position over time.",
+      "By detecting variations in the star's spectral lines due to the Doppler effect.",
+      "By directly imaging the planet's surface."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can Transit Timing Variation (TTV) indicate?",
+    "choices": [
+      "The presence of another star in the system.",
+      "The size of the transiting planet.",
+      "The presence of another planet, which itself may or may not transit.",
+      "The temperature of the transiting planet."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does a Transit duration variation (TDV) depend on?",
+    "choices": [
+      "Whether the planet has moons",
+      "A planet orbiting multiple stars",
+      "The amount of water the planet has",
+      "Whether the planet has an orbit"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What orbital distance from Sun-like stars is the microlensing method most sensitive to?",
+    "choices": [
+      "0.01–0.1 AU",
+      "1–10 AU",
+      "100–1000 AU",
+      "Greater than 1000 AU"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What method produced the first confirmed discovery of an extrasolar planet?",
+    "choices": [
+      "Astrometry",
+      "Radial velocity",
+      "Transit method",
+      "Pulsar timing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a Roemer time delay?",
+    "choices": [
+      "The delay of radio pulses because the pulsar is being physically closer or farther from Earth",
+      "The timing for pulsations of stars",
+      "The time when the planet has an eccentric orbit",
+      "The timing for the amount of light the planet releases"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "How is polarimetry used in exoplanet detection?",
+    "choices": [
+      "By measuring a star's position in the sky.",
+      "By detecting planets because it absorbs starlight and re-emits it as infrared radiation.",
+      "By measuring the observed flux from the star due to its motion.",
+      "By separating polarized light reflected off the planet from unpolarized light emitted from the star."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does Relativistic beaming measure?",
+    "choices": [
+      "Deviations from periodicity",
+      "Features on the disks",
+      "The observed flux from the star due to its motion",
+      "Features on the disks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how long after their star forms might planets form?",
+    "choices": [
+      "Within a few years",
+      "Within a few hundred years",
+      "Within a few to tens of millions of years",
+      "Within a few billion years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to hydrogen/helium envelopes that planets accrete in a gaseous protoplanetary disk?",
+    "choices": [
+      "They increase mass.",
+      "They cool and contract over time.",
+      "They combine to the iron core.",
+      "They become the crust of the planet."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a common element of most known exoplanets?",
+    "choices": [
+      "Carbon",
+      "Water",
+      "Iron core",
+      "Orbit stars roughly similar to the Sun"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What has been found using data from Kepler regarding the metallicity of a star?",
+    "choices": [
+      "No relation has been found",
+      "Stars are only formed with low metallicity",
+      "A correlation has been found between the metallicity of a star and the probability that the star hosts a giant planet",
+      "Stars are formed from a black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the term 'circumbinary planets' refer to?",
+    "choices": [
+      "Planets that orbit a single star.",
+      "Planets that orbit a black hole.",
+      "Planets that orbit both members of a binary star.",
+      "Planets with no known star."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "On what does the apparent brightness of a planet depend?",
+    "choices": [
+      "Its distance from the observer, albedo, and amount of light received from its star",
+      "Its density and size",
+      "The chemical composition of its atmosphere",
+      "Its speed and size"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What color has been determined for the exoplanet HD 189733b?",
+    "choices": [
+      "Red",
+      "Magenta",
+      "Deep dark blue",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are helium planets expected to look like?",
+    "choices": [
+      "Black",
+      "Magenta",
+      "Orange",
+      "White or grey"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the effect of cloud-column depth on the optical albedo?",
+    "choices": [
+      "Has no effect on the optical albedo",
+      "Decreases the albedo at optical wavelengths, but increases it at some infrared wavelengths",
+      "Increases the albedo at optical wavelengths, but decreases it at some infrared wavelengths",
+      "Increases the albedo at optical and infrared wavelengths"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "What can elliptical orbits cause?",
+    "choices": [
+      "A fixed atmospheric composition",
+      "A slight increase in gravity",
+      "A fixed mass for the planet",
+      "Major fluctuations in atmospheric composition"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What was inferred around HD 209458 b in 2014?",
+    "choices": [
+      "A large ocean.",
+      "A ring system.",
+      "A magnetic field.",
+      "A dense atmosphere of oxygen."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one potential way to detect exoplanet rotation?",
+    "choices": [
+      "By examining the motion of clouds.",
+      "By measuring the planet's albedo.",
+      "By measuring their auroral radio emissions with sensitive low-frequency radio telescopes.",
+      "By directly observing surface features with high-resolution telescopes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What phenomenon can cause hot Jupiters to have a larger radius than expected?",
+    "choices": [
+      "The tidal forces from the star.",
+      "Joule heating caused by the interaction between the stellar wind and the planet's magnetosphere.",
+      "A very high density of water.",
+      "Rapid planetary rotation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In 2019, a claim that previously announced that the magnetic fields of close-in exoplanets may cause what?",
+    "choices": [
+      "There are lower stellar flares",
+      "It may cause increased stellar flares and starspots on their host stars.",
+      "It may have a higher rotational speed",
+      "It may have more moons"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What compound may be responsible for the powerful magnetic fields observed in giant gas planets?",
+    "choices": [
+      "Magnesium oxide",
+      "Hydrogen",
+      "Methane",
+      "Liquid metallic hydrogen"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a conclusion of one team of researchers in 2007 regarding plate tectonics on super-Earths?",
+    "choices": [
+      "Plate tectonics is impossible due to high pressure.",
+      "Plate tectonics would be episodic or stagnant.",
+      "Plate tectonics occurs at a faster rate than on Earth.",
+      "Plate tectonics can cause higher temperatures than on Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens if a super-Earth has more than 80 times as much water as Earth?",
+    "choices": [
+      "It becomes an ice planet",
+      "It becomes an ocean planet with all land completely submerged.",
+      "It will become a desert world",
+      "The water evaporates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "To what have surface temperature variations on 55 Cancri e been attributed?",
+    "choices": [
+      "Tidal locking.",
+      "Atmospheric pressure changes.",
+      "High winds.",
+      "Possible volcanic activity."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What can tidal forces from the star cause for exoplanets?",
+    "choices": [
+      "The magnetic poles to reverse",
+      "The outermost rings of a planet being aligned with the planet's orbital plane around the star",
+      "The creation of a new crust for the planet",
+      "New volcanoes to occur"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "What did the object designated J1407b have been long believed to host?",
+    "choices": [
+      "A huge volcano",
+      "A lot of moons",
+      "A deep core that may have liquid iron",
+      "A vast planetary ring system much larger than Saturn's rings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the term commonly used to refer to moons around other planets?",
+    "choices": [
+      "Extramoons",
+      "Exomoons",
+      "Satellite planets",
+      "Planetary moons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why might the detection of sodium in hot Jupiters be important?",
+    "choices": [
+      "It indicates the presence of a thick atmosphere.",
+      "It indicates a Io-like exomoon around these planets.",
+      "It means the planet is uninhabitable.",
+      "The exoplanet is now the same color as the Earth"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "In December 2013, what was the microlensing event MOA-2011-BLG-262 detected to be?",
+    "choices": [
+      "New oceans",
+      "The lack of tectonic plates",
+      "Either a 0.5 ME exomoon around a Jupiter-sized free-floating planet or a Neptune-mass planet around a red dwarf",
+      "A black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the first exoplanet atmosphere to be observed?",
+    "choices": [
+      "WASP-76b",
+      "HD 209458 b",
+      "Kepler-1520b",
+      "Tau Boötis b"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can glints of light from Earth indicate?",
+    "choices": [
+      "A volcanic plate",
+      "More trees",
+      "Reflected light from ice crystals in the atmosphere.",
+      "It may be a black hole"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "Kepler-1520b is a small rocky planet that...",
+    "choices": [
+      "Has no atmosphere",
+      "Is leaving a trailing tail of cloud and dust like a comet",
+      "Has new ice formations",
+      "May have another Earth sized planet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What results from tidally locked planets in a 1:1 spin-orbit resonance?",
+    "choices": [
+      "The planet has more carbon",
+      "The atmosphere evaporates",
+      "A very dense atmosphere",
+      "The star always shining directly overhead on one spot"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "What can mid-infrared spectroscopy of exoplanets may detect?",
+    "choices": [
+      "Rocky surfaces",
+      "Water",
+      "Iron",
+      "Carbon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What do near-infrared spectroscopy of exoplanets may identify?",
+    "choices": [
+      "New oceans",
+      "Magma oceans or high-temperature lavas, hydrated silicate surfaces and water ice",
+      "The planet has new gases",
+      "The planet is likely to form a black hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What information can measuring the intensity of the light an exoplanet receives from its parent star provide?",
+    "choices": [
+      "The planet's diameter.",
+      "An estimate of the planet's temperature.",
+      "The planet's orbital period.",
+      "The chemical composition of the planet."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What cosmic phenomenon should be detectable to know if there is life on other planets?",
+    "choices": [
+      "If it is developed at a planetary scale and strongly modified the planetary environment",
+      "If it is a cosmic planet",
+      "If it orbits a stable star",
+      "It does not have to orbit a star"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What condition must be met for a potentially habitable planet to support liquid water at its surface?",
+    "choices": [
+      "The planet must have a rocky surface.",
+      "The planet must have a strong magnetic field.",
+      "The planet must have sufficient atmospheric pressure and orbit a stable star within a certain distance.",
+      "The planet must have active volcanoes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition of the habitable zone around a star?",
+    "choices": [
+      "The area in which an asteroid belt can be found.",
+      "The region where the temperature is just right to allow liquid water to exist on the surface of a planet.",
+      "The region that can form black holes",
+      "The area that makes the planet magnetic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does planetary rotation rate affect planetary habitability?",
+    "choices": [
+      "Rotation does not affect habitability.",
+      "Slowly rotating planets cannot have atmospheres.",
+      "Slowly rotating planets create thick clouds that reflect more.",
+      "Faster rotating planets are necessarily habitable."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why can 'eyeball' planets can be habitable closer to their star than previously thought due to the effect of clouds?",
+    "choices": [
+      "The radiation is likely to be different",
+      "At high stellar flux, strong convection produces thick water clouds near the substellar point that greatly increase the planetary albedo and reduce surface temperatures.",
+      "Their magnetic field is likely to be very strong",
+      "These planets likely have deep seas"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "Where is more of Earth's biomass found?",
+    "choices": [
+      "Subsurface microbes",
+      "Trees",
+      "Plankton",
+      "Insects"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do large fluctuations of axial tilt have on planets?",
+    "choices": [
+      "They have no effect",
+      "It has an even more of a warming effect than a fixed large tilt",
+      "The atmosphere will freeze",
+      "A small magnetic field is created"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to planets when orbital fluctuations or other causes produce cooling?",
+    "choices": [
+      "More gases will be created",
+      "Ice turns to gas",
+      "This creates more ice, but ice reflects sunlight causing even more cooling, creating a feedback loop until the planet is completely or nearly completely frozen.",
+      "Tectonic plates come into play"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one effect of tides on planets?",
+    "choices": [
+      "They circularize orbits over time",
+      "They change the way oxygen is created",
+      "The planet changes form",
+      "More gold is created"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What can tidal heating cause from the mantle of the planet?",
+    "choices": [
+      "It stops gases from coming out",
+      "New gases will be created",
+      "Nothing, it has no effect",
+      "Outgassing contributing to the formation and replenishment of an atmosphere"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What planets was identified in 2015 as the best candidates for being potentially habitable?",
+    "choices": [
+      "TOI 700 d, Kepler-1625b and Kepler-442b",
+      "Kepler-62f, Kepler-186f and Kepler-442b",
+      "Kepler-452b, Proxima Centauri b and Kepler-442b",
+      "WASP-76b, Kepler-186f and Kepler-442b"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "question": "Orion is most prominently visible during which season in the Northern Hemisphere?",
+    "choices": [
+      "Summer",
+      "Winter",
+      "Spring",
+      "Autumn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which two stars in Orion are among the brightest in the night sky and are both supergiants?",
+    "choices": [
+      "Mintaka and Alnilam",
+      "Rigel and Betelgeuse",
+      "Bellatrix and Saiph",
+      "Alnitak and Meissa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which meteor shower is associated with Halley's Comet and has its radiant in Orion?",
+    "choices": [
+      "Perseids",
+      "Leonids",
+      "Orionids",
+      "Geminids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one of the brightest nebulae in the sky, located in the Orion constellation?",
+    "choices": [
+      "Andromeda Galaxy",
+      "Crab Nebula",
+      "Orion Nebula",
+      "Ring Nebula"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which astronomer listed Orion among the 48 constellations in the 2nd century?",
+    "choices": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Ptolemy",
+      "Nicolaus Copernicus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which constellation borders Orion to the southwest?",
+    "choices": [
+      "Taurus",
+      "Eridanus",
+      "Lepus",
+      "Monoceros"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the three-letter abbreviation for the constellation Orion, as adopted by the International Astronomical Union?",
+    "choices": [
+      "Ori",
+      "Orn",
+      "Oro",
+      "Oio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which months is Orion typically in the daytime sky and invisible at most latitudes?",
+    "choices": [
+      "January-March",
+      "May-July",
+      "September-November",
+      "November-January"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who set the constellation boundaries in 1930, defining them by a polygon of 26 sides?",
+    "choices": [
+      "Galileo Galilei",
+      "Eugène Delporte",
+      "Johannes Kepler",
+      "Ptolemy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many square degrees does Orion cover, making it the twenty-sixth largest constellation?",
+    "choices": [
+      "488",
+      "594",
+      "612",
+      "725"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Extending the line of Orion's Belt southeastward helps locate which star?",
+    "choices": [
+      "Aldebaran",
+      "Procyon",
+      "Sirius",
+      "Castor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A line eastward across the two shoulders (Betelgeuse and Bellatrix) of Orion indicates the direction of which star?",
+    "choices": [
+      "Sirius",
+      "Aldebaran",
+      "Procyon",
+      "Castor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which asterism is Rigel a part of?",
+    "choices": [
+      "Summer Triangle",
+      "Winter Circle",
+      "Great Square of Pegasus",
+      "Big Dipper"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Following a line from Rigel through Betelgeuse points to which pair of stars?",
+    "choices": [
+      "Sirius and Procyon",
+      "Castor and Pollux",
+      "Aldebaran and Capella",
+      "Vega and Deneb"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which star is located by extending the line of Orion's Belt northwestward?",
+    "choices": [
+      "Sirius",
+      "Procyon",
+      "Aldebaran",
+      "Castor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the hourglass-shaped pattern formed by Orion's seven brightest stars?",
+    "choices": [
+      "Orion's Circle",
+      "Orion's Dipper",
+      "Orion's Hourglass",
+      "Orion's Square"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which four stars form the roughly rectangular shape that encloses Orion's Belt?",
+    "choices": [
+      "Rigel, Betelgeuse, Bellatrix, Saiph",
+      "Alnitak, Alnilam, Mintaka, Meissa",
+      "Sirius, Procyon, Castor, Pollux",
+      "Aldebaran, Capella, Rigel, Betelgeuse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which star marks Orion's head?",
+    "choices": [
+      "Rigel",
+      "Betelgeuse",
+      "Meissa",
+      "Bellatrix"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is located in the middle of Orion's Sword?",
+    "choices": [
+      "A bright star",
+      "A black hole",
+      "Orion Nebula",
+      "A cluster of galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of association do the stars of Orion's Belt and Sword form?",
+    "choices": [
+      "Orion Globular Cluster",
+      "Orion Open Cluster",
+      "Orion OB1 association",
+      "Orion Stellar Stream"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of star is Betelgeuse?",
+    "choices": [
+      "Main sequence star",
+      "Red dwarf",
+      "Red supergiant",
+      "White dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is expected to happen to Betelgeuse at the end of its life?",
+    "choices": [
+      "Become a black hole",
+      "Become a neutron star",
+      "Become a supernova",
+      "Become a white dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which part of Orion does Rigel represent?",
+    "choices": [
+      "Left shoulder",
+      "Right shoulder",
+      "Left foot",
+      "Right foot"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which star is also known as the \"Amazon Star\"?",
+    "choices": [
+      "Rigel",
+      "Betelgeuse",
+      "Bellatrix",
+      "Mintaka"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of variable star system does Mintaka constitute?",
+    "choices": [
+      "Pulsating variable",
+      "Eclipsing binary",
+      "Rotating variable",
+      "Cataclysmic variable"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What three stars constitute Orion's Belt?",
+    "choices": [
+      "Rigel, Betelgeuse, Bellatrix",
+      "Alnitak, Alnilam, Mintaka",
+      "Saiph, Meissa, Alnitak",
+      "Mintaka, Bellatrix, Alnilam"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the stars in Orion's Belt is the brightest?",
+    "choices": [
+      "Alnitak",
+      "Alnilam",
+      "Mintaka",
+      "Saiph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how far away from Earth is Alnilam?",
+    "choices": [
+      "800 light years",
+      "915 light years",
+      "1,344 light years",
+      "2,000 light years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which star in Orion's belt is the easternmost?",
+    "choices": [
+      "Alnitak",
+      "Alnilam",
+      "Mintaka",
+      "Rigel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which month is Orion's Belt best visible around 9:00 pm in the Northern Hemisphere?",
+    "choices": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What celestial objects are found within Orion's Sword?",
+    "choices": [
+      "Planets",
+      "Black Holes",
+      "Nebulae and Stars",
+      "Asteroids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the cluster of stars that are found in the Orion Nebula?",
+    "choices": [
+      "Pleiades",
+      "Hyades",
+      "Trapezium",
+      "Beehive"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which star marks the apex of the triangle forming Orion's head?",
+    "choices": [
+      "Alnitak",
+      "Meissa",
+      "Bellatrix",
+      "Rigel"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What kind of star is Meissa?",
+    "choices": [
+      "Red Giant",
+      "White Dwarf",
+      "Blue Giant",
+      "Yellow Dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the names of the stars that make up the base of the triangle which forms Orion's head?",
+    "choices": [
+      "Pi-1 and Pi-2 Orionis",
+      "Phi-1 and Phi-2 Orionis",
+      "Chi-1 and Chi-2 Orionis",
+      "Mu Orionis and Nu Orionis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which star marks the elbow of Orion's Club?",
+    "choices": [
+      "Mu Orionis",
+      "Nu Orionis",
+      "Xi Orionis",
+      "Chi1 Orionis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which stars mark the handle of Orion's Club?",
+    "choices": [
+      "Mu Orionis and Nu Orionis",
+      "Nu Orionis and Xi Orionis",
+      "Xi Orionis and Chi1 Orionis",
+      "Chi1 Orionis and Chi2 Orionis"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What type of star is U Orionis?",
+    "choices": [
+      "Red Giant",
+      "Yellow Dwarf",
+      "Blue Giant",
+      "White Dwarf"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which stars make up Orion's Shield?",
+    "choices": [
+      "Alpha Orionis (and Beta Orionis)",
+      "Gamma Orionis and Delta Orionis",
+      "Pi Orionis (π1 Ori, π2 Ori, π3 Ori, π4 Ori, π5 Ori and π6 Ori)",
+      "All of the stars in Orion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What direction does Orion's Shield lie relative to Bellatrix?",
+    "choices": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When does the Orionid meteor shower reach its peak each year?",
+    "choices": [
+      "Around January 20",
+      "Around April 20",
+      "Around July 20",
+      "Around October 20"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the parent body of the Orionid meteor shower?",
+    "choices": [
+      "Halley's Comet",
+      "Encke's Comet",
+      "Swift-Tuttle Comet",
+      "Hale-Bopp Comet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How many meteors per hour can be seen during the peak of the Orionid meteor shower?",
+    "choices": [
+      "5 meteors",
+      "10 meteors",
+      "20 meteors",
+      "30 meteors"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the multiple stars θ1 and θ2 Orionis found hanging from Orion's Belt?",
+    "choices": [
+      "The Trapezium",
+      "The Pleiades",
+      "The Hyades",
+      "The Big Dipper"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lies in Orion's sword?",
+    "choices": [
+      "Orion Nebula",
+      "Horsehead Nebula",
+      "Eagle Nebula",
+      "Crab Nebula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the approximate distance to the Trapezium cluster and the Orion Nebula?",
+    "choices": [
+      "1,000 light-years",
+      "1,500 light-years",
+      "2,000 light-years",
+      "2,500 light-years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which observatory's observations showed the extreme temperatures of the main stars in the Trapezium cluster?",
+    "choices": [
+      "Hubble Space Telescope",
+      "Keck Observatory",
+      "Chandra X-ray Observatory",
+      "Very Large Telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the integrated magnitude of M78?",
+    "choices": [
+      "5.0",
+      "6.0",
+      "7.0",
+      "8.0"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "What object is associated with the variable star V351 Orionis?",
+    "choices": [
+      "Flame Nebula",
+      "Horsehead Nebula",
+      "Orion Nebula",
+      "M78 (NGC 2068)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the nebula near ζ Orionis known for its dark dust cloud?",
+    "choices": [
+      "Flame Nebula",
+      "Horsehead Nebula",
+      "Orion Nebula",
+      "Eagle Nebula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate distance to the Orion molecular cloud complex?",
+    "choices": [
+      "500 light-years",
+      "1,000 light-years",
+      "1,500 light-years",
+      "2,000 light-years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Babylonian star catalogues, what was the name for Orion?",
+    "choices": [
+      "Sah",
+      "Nephilim",
+      "MULSIPA.ZI.AN.NA",
+      "Shen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In ancient Egypt, what god were the stars of Orion regarded as?",
+    "choices": [
+      "Ra",
+      "Sah",
+      "Osiris",
+      "Horus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What legendary patriarch and founder did the Armenians identify with Orion?",
+    "choices": [
+      "Noah",
+      "Abraham",
+      "Hayk",
+      "Moses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What name does the Bible give to Orion?",
+    "choices": [
+      "Nephilim",
+      "Al-jabbar",
+      "Kesil",
+      "Sah"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of Orion in ancient Aram?",
+    "choices": [
+      "Kesil",
+      "Hayk",
+      "Nephîlā",
+      "Sah"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Greek mythology, who were Orion's parents?",
+    "choices": [
+      "Zeus and Hera",
+      "Hades and Persephone",
+      "Poseidon and Euryale",
+      "Apollo and Artemis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the reason given for Scorpius and Orion never being in the sky at the same time in Greek Mythology?",
+    "choices": [
+      "Zeus's command",
+      "Gaia's rage",
+      "Poseidon's decree",
+      "Artemis's curse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is credited with reviving Orion after Gaia sent a scorpion to dispatch him?",
+    "choices": [
+      "Zeus",
+      "Apollo",
+      "Hades",
+      "Ophiuchus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Roman poet mentioned the constellation Orion in his Odes?",
+    "choices": [
+      "Ovid",
+      "Virgil",
+      "Horace",
+      "Cicero"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which of Homer's works is the constellation Orion mentioned?",
+    "choices": [
+      "The Illiad and Odyssey",
+      "The Odyssey",
+      "The Illiad",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was Orion known as in medieval Muslim astronomy?",
+    "choices": [
+      "Kesil",
+      "Sah",
+      "Al-jabbar",
+      "Shen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From what Arabic phrase does the name of Orion's sixth brightest star, Saiph, derive?",
+    "choices": [
+      "Al-jabbar",
+      "Saif al-jabbar",
+      "Kesil",
+      "Sah"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In China, which lunar mansion (Sieu) is Orion?",
+    "choices": [
+      "Dou",
+      "Niu",
+      "Shen",
+      "Wei"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which word refers to the meaning \"three\" and is used for the stars of Orion's Belt in Chinese?",
+    "choices": [
+      "Dou",
+      "Niu",
+      "Shen",
+      "Wei"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did the Chinese character 參 (shēn) originally mean?",
+    "choices": [
+      "The Dragon constellation",
+      "The Pleiades constellation",
+      "The Orion constellation",
+      "The Big Dipper constellation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the Rigveda, how is the Orion constellation referred to?",
+    "choices": [
+      "Mriga",
+      "Nataraja",
+      "Rudra",
+      "Ardra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does 'Mriga' mean?",
+    "choices": [
+      "The Warrior",
+      "The Archer",
+      "The Deer",
+      "The Sword"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Nataraja often interpreted as the representation of?",
+    "choices": [
+      "The Moon",
+      "The Sun",
+      "Orion",
+      "Venus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In old Hungarian tradition, what is Orion known as?",
+    "choices": [
+      "The Judge",
+      "The Archer",
+      "The Serpent Bearer",
+      "The Hunter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a name for Orion in old Hungarian tradition?",
+    "choices": [
+      "Nimrod",
+      "Íjász",
+      "Kaszás",
+      "The Deer"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In Scandinavian tradition, what was Orion's belt known as?",
+    "choices": [
+      "Väinämöinen's Belt",
+      "Judge's Stick",
+      "Frigg's Distaff",
+      "Kaleva's Sword"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What do the Seri people of northwestern Mexico call the three stars in the belt of Orion?",
+    "choices": [
+      "Las Tres Marías",
+      "Los Tres Reyes Magos",
+      "Mesabi",
+      "Hapj"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What animals does Hapj represent?",
+    "choices": [
+      "Mountain Lion, Mule Deer, Bighorn Sheep",
+      "Pronghorn, Mule Deer, Bighorn Sheep",
+      "Pronghorn, Bighorn Sheep, Bobcat",
+      "Deer, Bobcat, Mountain Lion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the three stars in Orion known as in Spain and most of Latin America?",
+    "choices": [
+      "Los Tres Reyes Magos",
+      "Mesabi",
+      "Hapj",
+      "Las Tres Marías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What do the Ojibwa/Chippewa Native Americans call the Orion constellation?",
+    "choices": [
+      "Tayamnicankhu",
+      "Mesabi",
+      "Hapj",
+      "Las Tres Marías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did the Lakota Native Americans call Orion's Belt?",
+    "choices": [
+      "Mesabi",
+      "Tayamnicankhu",
+      "Tayannisinte",
+      "Orion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Polynesian culture, what constellation do the seven primary stars of Orion make up?",
+    "choices": [
+      "Matariki",
+      "Heiheionakeiki",
+      "Tanra tellue",
+      "Puanga"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What is one interpretation of the constellation to several precolonial Filipinos?",
+    "choices": [
+      "A plow",
+      "A ballista",
+      "Three Marys",
+      "A giant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Māori tradition, which star in Orion is closely connected with the celebration of Matariki?",
+    "choices": [
+      "Betelgeuse",
+      "Rigel",
+      "Bellatrix",
+      "Alnitak"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Javanese culture, what is the constellation Orion often called, referring to the shape of a paddy field plow?",
+    "choices": [
+      "Tayamnicankhu",
+      "Balatik",
+      "Lintang Waluku",
+      "Heiheionakeiki"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which film distribution company used the constellation Orion as its logo?",
+    "choices": [
+      "Columbia Pictures",
+      "Orion Pictures",
+      "Universal Pictures",
+      "Paramount Pictures"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What war was the shoulder insignia of the 27th Infantry Division of the United States Army from?",
+    "choices": [
+      "American Civil War",
+      "World War One and Two",
+      "Korean War",
+      "Vietnam War"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In artistic renderings, which river is Orion depicted standing next to?",
+    "choices": [
+      "Nile",
+      "Amazon",
+      "Eridanus",
+      "Mississippi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Australia and New Zealand, what are Orion's Belt and Sword sometimes called?",
+    "choices": [
+      "Three Kings",
+      "Saucepan",
+      "Three Marys",
+      "The Hunter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "By what year is it predicted that Orion will no longer be visible from the latitude of Great Britain due to the effects of precession?",
+    "choices": [
+      "AD 10000",
+      "AD 12000",
+      "AD 14000",
+      "AD 16000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is predicted to happen to Betelgeuse sometime in the next million years?",
+    "choices": [
+      "Become a white dwarf",
+      "Become a black hole",
+      "Explode as a supernova",
+      "Merge with another star"
+    ],
+    "answer": 2
+  }
+]

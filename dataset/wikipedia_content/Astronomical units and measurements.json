@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is the modern definition of the astronomical unit (au)?",
+    "choices": [
+      "The average Earth-Sun distance.",
+      "Exactly 149,597,870,700 meters.",
+      "The distance light travels in one year.",
+      "The radius of Earth's orbit around the Sun."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary use of the astronomical unit?",
+    "choices": [
+      "Measuring distances between stars.",
+      "Measuring distances within galaxies.",
+      "Measuring distances within the Solar System.",
+      "Measuring the size of black holes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how many light-seconds are equivalent to one astronomical unit?",
+    "choices": [
+      "60",
+      "300",
+      "499",
+      "1000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What other unit of astronomical length uses the astronomical unit in its definition?",
+    "choices": [
+      "Light-year",
+      "Parsec",
+      "Kiloparsec",
+      "Megaparsec"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The astronomical unit was historically conceived as:",
+    "choices": [
+      "Earth's distance from the center of the galaxy.",
+      "The diameter of the sun.",
+      "The average Earth-Sun distance.",
+      "The distance to the nearest star."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which symbol is currently recommended by the IAU for the astronomical unit?",
+    "choices": [
+      "A",
+      "AU",
+      "ua",
+      "au"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organization previously recommended 'ua' as the symbol for the astronomical unit?",
+    "choices": [
+      "IAU",
+      "AAS",
+      "BIPM",
+      "RAS"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which scientific journals adopted the symbol 'au' for the astronomical unit?",
+    "choices": [
+      "Nature and Science",
+      "American Astronomical Society and Royal Astronomical Society journals",
+      "The Astrophysical Journal and The Astronomical Journal",
+      "Monthly Notices of the Royal Astronomical Society and Astronomy & Astrophysics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did the BIPM use the unit symbol 'au' in the SI Brochure?",
+    "choices": [
+      "1976",
+      "2006",
+      "2012",
+      "2014"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why did the IAU recommend the use of the symbol 'au' in 2012?",
+    "choices": [
+      "To align with the SI system",
+      "To distinguish it from other units",
+      "To avoid confusion with chemical symbols",
+      "Because various symbols were already in use for the astronomical unit"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the semi-major axis of Earth's orbit defined as?",
+    "choices": [
+      "The distance between Earth and the Sun at any point.",
+      "The straight line segment that joins the perihelion and aphelion.",
+      "Half of the straight line segment that joins the perihelion and aphelion.",
+      "The distance between Earth and the center of the Milky Way."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is an ephemeris?",
+    "choices": [
+      "A type of telescope.",
+      "A mathematical tool used in relativity.",
+      "A collection of data containing the expected positions and distances of objects at an established time.",
+      "A unit of time measurement."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In 1976, the IAU defined the astronomical unit based on which constant?",
+    "choices": [
+      "The speed of light.",
+      "The Hubble constant.",
+      "The Gaussian gravitational constant.",
+      "The fine-structure constant."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Barycentric Dynamical Time (TDB) used for in astronomical measurements?",
+    "choices": [
+      "Measuring distances to galaxies.",
+      "Expressing the speed of light.",
+      "Expressing time measurements in a standard scale that accounts for relativistic time dilation.",
+      "Calculating the orbital period of planets."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In 2012, the IAU redefined the astronomical unit as:",
+    "choices": [
+      "A function of the speed of light.",
+      "A conventional unit of length tied directly to the meter.",
+      "A variable quantity that depends on the position of Earth.",
+      "A unit based on the heliocentric gravitational constant."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Before 2012, the astronomical unit was dependent on the:",
+    "choices": [
+      "Speed of light",
+      "Heliocentric gravitational constant",
+      "Cosmological constant",
+      "Fine-structure constant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the effect of general relativity on time intervals measured on Earth's surface (TT) compared to the motions of the planets?",
+    "choices": [
+      "Terrestrial Time (TT) is constant.",
+      "The terrestrial second (TT) appears to be longer near January and shorter near July.",
+      "Terrestrial Time (TT) is always shorter than planetary time.",
+      "There is no difference between Terrestrial Time (TT) and planetary time."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why was the 1976 definition of the astronomical unit considered incomplete?",
+    "choices": [
+      "It was not based on relativistic effects.",
+      "It did not specify the frame of reference for the measurement.",
+      "It was not precise enough.",
+      "It relied on outdated measurements."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of distances is the astronomical unit typically used for?",
+    "choices": [
+      "Intergalactic distances.",
+      "Interstellar distances.",
+      "Stellar system scale distances.",
+      "Distances within atomic nuclei."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is the astronomical unit useful when simulating a numerical model of the Solar System?",
+    "choices": [
+      "It eliminates the need for floating point calculations.",
+      "It maximizes errors in floating point calculations.",
+      "It minimizes (overflow, underflow and truncation) errors in floating point calculations.",
+      "It simplifies the physics of the simulation."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Aristarchus, how did the distance to the Sun compare to the distance to the Moon?",
+    "choices": [
+      "The same",
+      "Half the distance",
+      "18 to 20 times the distance",
+      "389.174 times the distance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Eusebius, what distance to the Sun did Eratosthenes find, using the Greek stadium of 185 to 190 meters in the more accurate of the provided translation?",
+    "choices": [
+      "754800 km to 775200 km",
+      "148.7 to 152.8 billion meters",
+      "1210 times Earth's radius",
+      "1170 Earth radii"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the 2nd century CE, how did Ptolemy estimate the mean distance of the Sun?",
+    "choices": [
+      "18 to 20 times the distance to the Moon",
+      "490 Earth radii",
+      "1210 times Earth's radius",
+      "By observing the transit of Venus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first to realize that Ptolemy's estimate of the Earth-Sun distance was significantly too low?",
+    "choices": [
+      "Copernicus",
+      "Tycho Brahe",
+      "Johannes Kepler",
+      "Godefroy Wendelin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What astronomical event can be observed from two different locations to allow for a more accurate estimation of the astronomical unit?",
+    "choices": [
+      "Solar eclipse",
+      "Lunar eclipse",
+      "Transit of Mars",
+      "Transit of Venus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the unit distance A (the value of the astronomical unit in meters) also called?",
+    "choices": [
+      "Light-year",
+      "Parsec",
+      "Speed of light",
+      "Solar parallax"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What has the Sun's continuous loss of mass led to?",
+    "choices": [
+      "Planets orbiting faster",
+      "Planets steadily expanding outward from the Sun",
+      "The Sun turning into a black hole",
+      "The solar system shrinking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is increasingly becoming the norm in creating ephemerides?",
+    "choices": [
+      "Using the astronomical unit as a base unit",
+      "Using the parsec as a base unit",
+      "Creating them entirely in SI units",
+      "Using only historical data"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did a 2004 analysis of radiometric measurements in the inner Solar System suggest?",
+    "choices": [
+      "That the astronomical unit was decreasing by 15 meters per century.",
+      "That the astronomical unit was increasing by 15 meters per century.",
+      "That the astronomical unit was remaining constant.",
+      "That the speed of light was increasing."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Has the secular variation of the astronomical unit been confirmed by other authors?",
+    "choices": [
+      "Yes, and it is considered a well-established fact",
+      "Yes, and the measurements are very precise",
+      "No, and the measurements are controversial",
+      "No, there is no secular variation of the astronomical unit"
+    ],
+    "answer": 2
+  }
+]

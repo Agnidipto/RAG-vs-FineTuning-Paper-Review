@@ -1,0 +1,452 @@
+[
+  {
+    "question": "What is a defining characteristic of Cepheid variable stars?",
+    "choices": [
+      "Constant luminosity",
+      "Irregular pulsations",
+      "A strong relationship between luminosity and pulsation period",
+      "Emission of X-rays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who discovered the period-luminosity relationship of classical Cepheids?",
+    "choices": [
+      "Edwin Hubble",
+      "Harlow Shapley",
+      "Henrietta Swan Leavitt",
+      "John Goodricke"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary mechanism behind Cepheid variable star brightness changes?",
+    "choices": [
+      "Nuclear fusion variations",
+      "The κ–mechanism involving helium ionization",
+      "Changes in the star's rotation speed",
+      "External gravitational influences"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During which phase of the Cepheid cycle are the stars dimmest?",
+    "choices": [
+      "When helium is singly ionized",
+      "When helium is fully ionized",
+      "When helium is doubly ionized",
+      "When helium is neutral"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes the outer layer of a Cepheid variable star to expand?",
+    "choices": [
+      "Decreasing opacity due to singly ionized helium",
+      "Increasing opacity due to doubly ionized helium",
+      "Decreasing temperature",
+      "Increasing gravity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "From which star does the term 'Cepheid' originate?",
+    "choices": [
+      "Eta Aquilae",
+      "Delta Cephei",
+      "Zeta Geminorum",
+      "RS Puppis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered the variability of Eta Aquilae?",
+    "choices": [
+      "John Goodricke",
+      "Edward Pigott",
+      "Harlow Shapley",
+      "Edwin Hubble"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Harlow Shapley demonstrate in 1914 regarding Cepheid variable stars?",
+    "choices": [
+      "They are part of binary systems.",
+      "They show constant spectral types.",
+      "The idea that they were part of a binary system should be abandoned.",
+      "Their distances could be accurately determined using their motion through the sky."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Edwin Hubble able to determine using Cepheid variable stars in the Andromeda Galaxy?",
+    "choices": [
+      "The existence of dark matter.",
+      "That Andromeda was not part of the Milky Way and was another galaxy.",
+      "The age of the universe.",
+      "The chemical composition of the Andromeda Galaxy."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What major revision to the astronomical distance scale was caused by the division of Cepheids into different classes?",
+    "choices": [
+      "Confirmation that all Cepheids follow the same period-luminosity relationship.",
+      "Discovery that Cepheids are much closer than previously thought.",
+      "A twofold increase in the distance to M31 and the extragalactic distance scale.",
+      "Elimination of the need for parallax measurements."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT typically treated with Cepheid variables?",
+    "choices": [
+      "Delta Scuti variables",
+      "RR Lyrae variables",
+      "Classical Cepheids",
+      "Type II Cepheids"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which population are classical Cepheids associated with?",
+    "choices": [
+      "Population II",
+      "Population III",
+      "Population I",
+      "Halo population"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a significant use of classical Cepheids in astronomy?",
+    "choices": [
+      "Determining the age of the universe.",
+      "Determining distances to galaxies within the Local Group and beyond.",
+      "Measuring the speed of light.",
+      "Studying black hole formations."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is another name for Classical Cepheids?",
+    "choices": [
+      "Population II Cepheids",
+      "RV Tauri variables",
+      "Delta Cepheid variables",
+      "BL Her subclass"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is true about s-Cepheids?",
+    "choices": [
+      "They have very large amplitudes",
+      "They pulsate in the fundamental mode",
+      "They have sinusoidal light curves",
+      "They are always metal-poor"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the typical period range for Type II Cepheids?",
+    "choices": [
+      "1-50 days",
+      "1-4 days",
+      "10-20 days",
+      "Greater than 50 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a common characteristic of Type II Cepheids?",
+    "choices": [
+      "They are metal-rich.",
+      "They are very young.",
+      "They are Population II stars.",
+      "They are more massive than the Sun."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the BL Her subclass?",
+    "choices": [
+      "Type II Cepheids with periods between 1 and 4 days.",
+      "Classical Cepheids with periods between 1 and 4 days.",
+      "Anomalous Cepheids with periods between 1 and 4 days.",
+      "Type II Cepheids with periods between 10 and 20 days."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For what purpose are Type II Cepheids used?",
+    "choices": [
+      "To determine the mass of black holes.",
+      "To establish the distance to the Galactic Center, globular clusters, and galaxies.",
+      "To measure the expansion rate of the universe.",
+      "To study the chemical composition of stars."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which subclass do Type II Cepheids with periods greater than 20 days belong to?",
+    "choices": [
+      "W Virginis",
+      "BL Her",
+      "RV Tauri",
+      "Delta Cephei"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "How do Anomalous Cepheids compare to RR Lyrae variables in terms of luminosity?",
+    "choices": [
+      "They have lower luminosities",
+      "They have similar luminosities",
+      "They have higher luminosities",
+      "Their luminosities fluctuate more rapidly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is unclear regarding the origin of Anomalous Cepheids?",
+    "choices": [
+      "Whether they are young stars on a 'turned-back' horizontal branch",
+      "Whether they are blue stragglers formed through mass transfer in binary systems",
+      "Whether they are a mix of both young stars and blue stragglers",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Compared to Type II Cepheids, what is the mass of Anomalous Cepheids?",
+    "choices": [
+      "Lower",
+      "The same",
+      "Higher",
+      "Unrelated"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the period of Anomalous Cepheid variables?",
+    "choices": [
+      "Longer than 2 days",
+      "Less than 2 days",
+      "Equal to RR Lyrae variables",
+      "Unknown"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a possible formation scenario for Anomalous Cepheids?",
+    "choices": [
+      "Created from a single main sequence star",
+      "Through mass transfer in binary systems",
+      "Occurs during planetary nebula formation",
+      "From the merger of dwarf galaxies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the most common combination of modes in double-mode Cepheids?",
+    "choices": [
+      "Fundamental and second overtone",
+      "Fundamental and first overtone",
+      "First and second overtone",
+      "Any combination is equally likely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What best describes the proportion of Cepheid variables that have been observed to pulsate in two modes?",
+    "choices": [
+      "A very large proportion",
+      "About half",
+      "A small proportion",
+      "Almost all"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many modes of pulsation has been observed in the most rare of Cepheid variable stars?",
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What is the usual combination of modes pulsating within Double-mode Cepheids?",
+    "choices": [
+      "Fundamental and second undertone",
+      "First undertone and second overtone",
+      "Fundamental and first overtone",
+      "No discernible trend"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What types of overtones are seen in unusual combinations of modes in Double-mode Cepheids?",
+    "choices": [
+      "Higher",
+      "Lower",
+      "No overtones seen",
+      "All combinations"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following contributes to uncertainties in the Cepheid distance scale?",
+    "choices": [
+      "The nature of the period-luminosity relation",
+      "The impact of metallicity",
+      "Photometric contamination",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What range of values for the Hubble constant has been cited due to uncertainties in Cepheid distances?",
+    "choices": [
+      "20-40 km/s/Mpc",
+      "60-80 km/s/Mpc",
+      "100-120 km/s/Mpc",
+      "140-160 km/s/Mpc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is Delta Cephei particularly important?",
+    "choices": [
+      "It is the closest Cepheid to Earth.",
+      "It has the longest known pulsation period.",
+      "Its distance is among the most precisely established.",
+      "It is the brightest Cepheid in the sky."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has vastly improved the accuracy of parallax distance measurements to Cepheid variables?",
+    "choices": [
+      "Comparing images from Hubble taken six months apart",
+      "Using radio telescopes",
+      "Analyzing the spectral lines of Cepheids",
+      "Measuring the temperature of Cepheids"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which space telescopes have observed parallax distance to Delta Cephei?",
+    "choices": [
+      "Hubble, Spitzer, Chandra",
+      "Hubble, Hipparcos, Gaia",
+      "James Webb, Spitzer, Hubble",
+      "Hipparcos, Gaia, James Webb"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is another name for the Eddington valve?",
+    "choices": [
+      "The nuclear fusion mechanism",
+      "The gravity mechanism",
+      "The κ-mechanism",
+      "The Doppler effect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is thought to be most active in the pulsation process of Cepheids?",
+    "choices": [
+      "Hydrogen",
+      "Oxygen",
+      "Helium",
+      "Carbon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the opacity difference between doubly and singly ionized helium?",
+    "choices": [
+      "Singly ionized helium is more opaque.",
+      "Doubly ionized helium is more opaque.",
+      "They have the same opacity.",
+      "Opacity depends on temperature, not ionization state."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the Eddington valve, what causes the expansion of the star's outer layers?",
+    "choices": [
+      "Decreasing temperature",
+      "Increasing gravity",
+      "Heating by the star's radiation due to high opacity",
+      "Nuclear fusion in the outer layers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is analogous to the dynamics within a Cepheid variable star?",
+    "choices": [
+      "A pendulum",
+      "The rotation of a black hole",
+      "A relaxation oscillator in electronics",
+      "The movement of tectonic plates"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Which of the following is a Classical Cepheid?",
+    "choices": [
+      "W Virginis",
+      "Kappa Pavonis",
+      "BL Herculis",
+      "Eta Aquilae"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a Type II Cepheid?",
+    "choices": [
+      "Delta Cephei",
+      "Polaris",
+      "W Virginis",
+      "RT Aurigae"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an Anomalous Cepheid?",
+    "choices": [
+      "Beta Doradus",
+      "XZ Ceti",
+      "Zeta Geminorum",
+      "Eta Aquilae"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the pulsation mode for XZ Ceti?",
+    "choices": [
+      "Fundamental",
+      "First overtone",
+      "Second overtone",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a Cepheid variable?",
+    "choices": [
+      "Delta Cephei",
+      "BL Boötis",
+      "W Virginis",
+      "Betelgeuse"
+    ],
+    "answer": 3
+  }
+]

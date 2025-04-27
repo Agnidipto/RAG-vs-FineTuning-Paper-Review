@@ -1,0 +1,342 @@
+[
+  {
+    "question": "Who was Cassiopeia in Greek mythology?",
+    "choices": [
+      "A nymph",
+      "Queen of Aethiopia",
+      "A warrior",
+      "A goddess of the sea"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Cassiopeia known for in the night sky?",
+    "choices": [
+      "Its bright blue color",
+      "Its distinctive 'W' shape",
+      "Being the smallest constellation",
+      "Being the closest constellation to Earth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Greek astronomer included Cassiopeia in his list of constellations?",
+    "choices": [
+      "Aristotle",
+      "Ptolemy",
+      "Eratosthenes",
+      "Hipparchus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where is Cassiopeia best seen?",
+    "choices": [
+      "From the southern hemisphere",
+      "From latitudes above 34°N",
+      "Near the equator",
+      "Near the south pole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the brightest star in Cassiopeia?",
+    "choices": [
+      "Beta Cassiopeiae",
+      "Gamma Cassiopeiae",
+      "Alpha Cassiopeiae (Schedar)",
+      "Delta Cassiopeiae"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why was Cassiopeia placed in the sky according to Greek mythology?",
+    "choices": [
+      "As a reward for her beauty",
+      "As a punishment for boasting",
+      "To guide sailors",
+      "To honor her bravery"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which sea god did Cassiopeia enrage?",
+    "choices": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Apollo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who rescued Andromeda from Cetus?",
+    "choices": [
+      "Hercules",
+      "Perseus",
+      "Jason",
+      "Theseus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Persian drawings, how was Cassiopeia depicted?",
+    "choices": [
+      "Riding a horse",
+      "Holding a mirror",
+      "Holding a staff and crescent moon and riding a two-humped camel",
+      "Weaving a tapestry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Welsh Mythology, what is the traditional Welsh name for the constellation Cassiopeia?",
+    "choices": [
+      "Caer Gwydion",
+      "Caer Arianrhod",
+      "Llys Dôn",
+      "Na Taki-tolu-a-Mataliki"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate area covered by Cassiopeia in the sky?",
+    "choices": [
+      "0.5%",
+      "1.451%",
+      "5%",
+      "10%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the three-letter abbreviation for Cassiopeia?",
+    "choices": [
+      "Csp",
+      "Cas",
+      "Css",
+      "Cpa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which constellations border Cassiopeia?",
+    "choices": [
+      "Ursa Major, Ursa Minor, Draco",
+      "Orion, Taurus, Gemini",
+      "Cepheus, Andromeda, Perseus, Camelopardalis",
+      "Leo, Virgo, Libra"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does it mean for a constellation to be 'circumpolar'?",
+    "choices": [
+      "It is only visible near the equator",
+      "It is the brightest constellation in the sky",
+      "It never sets below the horizon for certain observers",
+      "It is only visible during a specific time of year"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For observers where is the whole constellation visible?",
+    "choices": [
+      "North of 70°S",
+      "North of 12°S",
+      "South of 12°S",
+      "South of 70°S"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who used Greek letters to label the stars in Cassiopeia?",
+    "choices": [
+      "John Flamsteed",
+      "Tycho Brahe",
+      "Johann Bayer",
+      "Eugène Delporte"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many stars brighter than or equal to magnitude 6.5 are within Cassiopeia's borders?",
+    "choices": [
+      "50",
+      "88",
+      "157",
+      "200"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which supernova was found to be B Cassiopeiae?",
+    "choices": [
+      "Kepler's Supernova",
+      "Tycho's Supernova",
+      "Crab Nebula Supernova",
+      "SN 1987A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What shape do the five brightest stars in Cassiopeia form?",
+    "choices": [
+      "A square",
+      "A triangle",
+      "A 'W' asterism",
+      "A circle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of star is Gamma Cassiopeiae the prototype for?",
+    "choices": [
+      "Delta Scuti variable star",
+      "Algol-type eclipsing binary star",
+      "Gamma Cassiopeiae variable star",
+      "Red supergiant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kappa Cassiopeiae is known for what?",
+    "choices": [
+      "Being the closest star to Earth in Cassiopeia",
+      "Having a bow shock due to its high speed",
+      "Being a red supergiant",
+      "Having a large number of exoplanets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which star is the nearest star in Cassiopeia?",
+    "choices": [
+      "Rho Cassiopeiae",
+      "Eta Cassiopeiae (Achird)",
+      "Kappa Cassiopeiae",
+      "Zeta Cassiopeiae (Fulu)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of star is Rho Cassiopeiae?",
+    "choices": [
+      "White dwarf",
+      "Yellow hypergiant",
+      "Red dwarf",
+      "Blue giant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tycho Brahe's supernova was visible within which constellation?",
+    "choices": [
+      "Perseus",
+      "Andromeda",
+      "Cassiopeia",
+      "Cygnus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What runs through Cassiopeia?",
+    "choices": [
+      "A black hole",
+      "A rich section of the Milky Way",
+      "A vast desert",
+      "A string of black dwarf stars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Heart Nebula and the Soul Nebula are what?",
+    "choices": [
+      "Planetary nebulas",
+      "Globular clusters",
+      "Emission nebulas",
+      "Dark nebulas"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the names of the two Messier objects found in Cassiopeia?",
+    "choices": [
+      "M31 and M33",
+      "M51 and M81",
+      "M52 and M103",
+      "M42 and M45"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of object is Cassiopeia A?",
+    "choices": [
+      "A black hole",
+      "A quasar",
+      "A supernova remnant",
+      "A globular cluster"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is IC 10?",
+    "choices": [
+      "A globular cluster",
+      "An irregular starburst galaxy",
+      "A planetary nebula",
+      "A quasar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the December Phi Cassiopeiids?",
+    "choices": [
+      "A galaxy",
+      "A star cluster",
+      "A meteor shower",
+      "A nebula"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is named after the constellation Cassiopeia?",
+    "choices": [
+      "A type of bird",
+      "A US Navy ship",
+      "A river in Africa",
+      "A mountain range in Europe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Pokémon Scarlet and Violet, what are the five squads of Team Star named after?",
+    "choices": [
+      "Greek gods",
+      "Elements",
+      "Cassiopeia's moons",
+      "The brightest stars in Cassiopeia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In Ni no Kuni: Wrath of the White Witch, what is the name of the penultimate main antagonist?",
+    "choices": [
+      "Cassiopeia",
+      "Cepheus",
+      "Andromeda",
+      "Cetus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of music does Casiopea, the Japanese group, play?",
+    "choices": [
+      "Classical",
+      "Rock",
+      "Jazz-Fusion",
+      "Pop"
+    ],
+    "answer": 2
+  }
+]

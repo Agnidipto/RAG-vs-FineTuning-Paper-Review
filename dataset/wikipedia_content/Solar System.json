@@ -1,0 +1,1112 @@
+[
+  {
+    "question": "The Solar System formed approximately how many years ago?",
+    "choices": [
+      "4.6 million",
+      "4.6 billion",
+      "10 billion",
+      "13.8 billion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Sun maintains equilibrium by fusing what element into helium?",
+    "choices": [
+      "Carbon",
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of star is the Sun classified as?",
+    "choices": [
+      "Red Giant",
+      "G-type main-sequence star",
+      "White Dwarf",
+      "Supergiant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a terrestrial planet?",
+    "choices": [
+      "Mercury",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately what percentage of the Solar System's mass is contained within the Sun?",
+    "choices": [
+      "50%",
+      "75%",
+      "90%",
+      "99.86%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Solar System formed from the gravitational collapse of a region within a large:",
+    "choices": [
+      "Black Hole",
+      "Molecular Cloud",
+      "Galaxy",
+      "Nebula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What force caused the pre-solar nebula to rotate faster as it collapsed?",
+    "choices": [
+      "Electromagnetic Force",
+      "Strong Nuclear Force",
+      "Conservation of Angular Momentum",
+      "Weak Nuclear Force"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The rocky planets of Mercury, Venus, Earth, and Mars formed where in the solar system?",
+    "choices": [
+      "Beyond the frost line",
+      "Within the Kuiper Belt",
+      "Within the Oort Cloud",
+      "Within the frost line"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What process began when the pressure and density of hydrogen in the protostar's center became great enough?",
+    "choices": [
+      "Black Hole Formation",
+      "Supernova",
+      "Thermonuclear Fusion",
+      "Nuclear Fission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which model proposes that gravitational encounters between planetisimals and the gas giants caused each to migrate into different orbits?",
+    "choices": [
+      "Grand Tack Hypothesis",
+      "Nebular Hypothesis",
+      "Nice Model",
+      "Standard Model"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Sun will eventually evolve into what type of star?",
+    "choices": [
+      "Red Dwarf",
+      "Red Giant",
+      "Neutron Star",
+      "Black Hole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the Sun's outer layers when it becomes a red giant?",
+    "choices": [
+      "They contract",
+      "They are ejected into space",
+      "They become more dense",
+      "They remain the same"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What will be left behind after the Sun ejects its outer layers?",
+    "choices": [
+      "A black hole",
+      "A neutron star",
+      "A white dwarf",
+      "A red dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Roughly how long will the Sun remain in its main-sequence phase?",
+    "choices": [
+      "2 billion years",
+      "5 billion years",
+      "10 billion years",
+      "15 billion years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What will happen to Mercury and Venus as the Sun expands?",
+    "choices": [
+      "They will become habitable",
+      "They will be vaporized",
+      "They will be pushed further away",
+      "They will merge together"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which planets are considered part of the inner Solar System?",
+    "choices": [
+      "Jupiter, Saturn, Uranus, Neptune",
+      "Mercury, Venus, Earth, Mars",
+      "Uranus, Neptune, Pluto, Eris",
+      "Jupiter, Saturn, Pluto, Ceres"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which planets are considered part of the outer Solar System?",
+    "choices": [
+      "Mercury, Venus, Earth, Mars",
+      "Jupiter, Saturn, Uranus, Neptune",
+      "Ceres, Pluto, Eris, Makemake",
+      "Jupiter, Earth, Uranus, Pluto"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What region is considered a distinct region after the discovery of the Kuiper Belt?",
+    "choices": [
+      "Inner Solar System",
+      "Asteroid Belt",
+      "Outer Solar System",
+      "The outermost parts of the Solar System"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Where is the asteroid belt located?",
+    "choices": [
+      "Between the orbits of Earth and Mars",
+      "Between the orbits of Mars and Jupiter",
+      "Beyond the orbit of Neptune",
+      "Between the orbits of Jupiter and Saturn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which dwarf planet is located in the asteroid belt?",
+    "choices": [
+      "Pluto",
+      "Eris",
+      "Ceres",
+      "Makemake"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the main component of the Solar System by mass?",
+    "choices": [
+      "Jupiter",
+      "Asteroid Belt",
+      "The Sun",
+      "All the planets combined"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Besides the Sun, which objects contain the majority of the remaining mass in the Solar System?",
+    "choices": [
+      "The Terrestrial Planets",
+      "The Giant Planets",
+      "The Dwarf Planets",
+      "The Asteroid and Kuiper Belts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which two elements primarily compose the Sun, Jupiter, and Saturn?",
+    "choices": [
+      "Iron and Nickel",
+      "Carbon and Oxygen",
+      "Silicon and Magnesium",
+      "Hydrogen and Helium"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What factor creates a composition gradient in the Solar System?",
+    "choices": [
+      "Gravitational forces from the planets",
+      "Heat and light pressure from the early Sun",
+      "Magnetic fields of the planets",
+      "The presence of the Oort Cloud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the frost line?",
+    "choices": [
+      "The boundary beyond which rocky planets cannot form",
+      "The boundary beyond which volatile substances could coalesce",
+      "The outermost edge of the Kuiper Belt",
+      "The edge of the heliosphere"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the plane of Earth's orbit called?",
+    "choices": [
+      "The Zodiac",
+      "The Ecliptic",
+      "The Celestial Sphere",
+      "The Prime Meridian"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are natural satellites orbiting planets commonly called?",
+    "choices": [
+      "Asteroids",
+      "Comets",
+      "Moons",
+      "Rings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what direction do most planets orbit the Sun?",
+    "choices": [
+      "Clockwise, as viewed from above Earth's north pole",
+      "Counter-clockwise, as viewed from above Earth's north pole",
+      "Randomly",
+      "East to West"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the closest approach of an object to the Sun called?",
+    "choices": [
+      "Aphelion",
+      "Perihelion",
+      "Zenith",
+      "Nadir"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who gets credit for the laws of planetary motion?",
+    "choices": [
+      "Einstein",
+      "Copernicus",
+      "Newton",
+      "Kepler"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Sun's radius is approximately how many AU?",
+    "choices": [
+      "0.0047 AU",
+      "0.1 AU",
+      "1 AU",
+      "5.2 AU"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is located approximately 5.2 AU from the Sun?",
+    "choices": [
+      "Mars",
+      "Saturn",
+      "Jupiter",
+      "Uranus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Titius-Bode law attempts to determine a relationship between:",
+    "choices": [
+      "Planetary mass and size",
+      "Planetary composition and distance from the Sun",
+      "Orbital distances",
+      "Atmospheric pressure and temperature"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is an orrery?",
+    "choices": [
+      "A type of telescope",
+      "A scale model of the Solar System",
+      "A type of comet",
+      "A unit of measurement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the Sweden Solar System model, what represents the Sun?",
+    "choices": [
+      "A golf ball",
+      "A small sphere",
+      "The Avicii Arena",
+      "Stockholm Arlanda Airport"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which characteristic enables the presence of life in the Solar System, aside from solar energy?",
+    "choices": [
+      "The Oort Cloud",
+      "The Kuiper Belt",
+      "The heliosphere and planetary magnetic fields",
+      "The Asteroid Belt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The zone of habitability is located where in the Solar System?",
+    "choices": [
+      "In the outer Solar System",
+      "In the inner Solar System",
+      "In the Kuiper Belt",
+      "In the Oort Cloud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where might habitability be possible, besides planetary surfaces?",
+    "choices": [
+      "In the Sun's core",
+      "In subsurface oceans of outer Solar System moons",
+      "In the Asteroid Belt",
+      "In the Kuiper Belt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cosmic Rays is another name for",
+    "choices": [
+      "low-energy interstellar particles",
+      "high-energy interstellar particles",
+      "solar flares",
+      "geomagnetic storms"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "Which planet's surface or atmosphere admit the possibility of liquid water?",
+    "choices": [
+      "Jupiter",
+      "Neptune",
+      "Earth",
+      "Venus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of planets are missing interior to the orbit of Mercury, compared to other extrasolar systems?",
+    "choices": [
+      "Gas Giants",
+      "Ice Giants",
+      "Super-Earths",
+      "Dwarf Planets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a super-Earth?",
+    "choices": [
+      "A planet larger than Jupiter",
+      "A planet between one and ten times as massive as Earth",
+      "A planet made entirely of ice",
+      "A planet very close to its star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the 'gap' seen between the size of Earth and of Neptune?",
+    "choices": [
+      "The difference in their composition",
+      "The size of planet's moons",
+      "A lack of intermediate-sized planets",
+      "The distance between their orbits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is true about the orbits of Solar System planets?",
+    "choices": [
+      "Highly Eccentric",
+      "Nearly Circular",
+      "Random",
+      "Unpredictable"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What does bias in the radial-velocity detection method explain?",
+    "choices": [
+      "The destruction and ejection of planets",
+      "Long interactions of a quite high number of planets",
+      "Circular orbits",
+      "Smaller orbital eccentricity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What percentage of the Solar System's mass does the Sun comprise?",
+    "choices": [
+      "50%",
+      "75%",
+      "90%",
+      "99.86%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What process sustains the Sun's energy production?",
+    "choices": [
+      "Chemical Reactions",
+      "Nuclear Fission",
+      "Nuclear Fusion of Hydrogen into Helium",
+      "Gravitational Collapse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of star is the Sun?",
+    "choices": [
+      "Red Giant",
+      "G2-type main-sequence star",
+      "White Dwarf",
+      "Supernova"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for elements heavier than hydrogen and helium in astronomical parlance?",
+    "choices": [
+      "Gases",
+      "Ices",
+      "Metals",
+      "Silicates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the heliosphere?",
+    "choices": [
+      "The Sun's atmosphere",
+      "The region of space dominated by the Solar magnetosphere",
+      "The Sun's core",
+      "The region beyond the Oort cloud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is primarily found in the inner Solar System?",
+    "choices": [
+      "Gas Giants",
+      "Ice Giants",
+      "Terrestrial Planets and Asteroids",
+      "Comets and Kuiper Belt Objects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The objects of the inner Solar System are mainly composed of:",
+    "choices": [
+      "Hydrogen and Helium",
+      "Water and Methane Ice",
+      "Silicates and Metals",
+      "Ammonia and Carbon Dioxide"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The entire radius of the inner Solar System is less than the distance between the orbits of:",
+    "choices": [
+      "Earth and Mars",
+      "Mars and Jupiter",
+      "Jupiter and Saturn",
+      "Saturn and Uranus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The inner Solar System is located within which feature?",
+    "choices": [
+      "Kuiper Belt",
+      "Frost Line",
+      "Oort Cloud",
+      "Heliosheath"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary reason solid objects in the outer Solar System contain a higher proportion of volatiles?",
+    "choices": [
+      "Higher Gravity",
+      "Stronger Solar Wind",
+      "Lower Temperatures",
+      "Lack of Refractory Minerals"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the smallest planet in the Solar System?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Mercury"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mercury's surface temperature varies widely, ranging from -170 °C at night to 420 °C during sunlight. This is due to:",
+    "choices": [
+      "A very dense atmosphere",
+      "A lack of atmosphere",
+      "A strong magnetic field",
+      "Active volcanism"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the main component of Venus's atmosphere?",
+    "choices": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Methane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is unique about Earth compared to other planets in our Solar System?",
+    "choices": [
+      "It has a ring system",
+      "It is tidally locked with the Sun",
+      "It is the only place where life and surface liquid water are known to exist",
+      "It has a retrograde rotation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary reason that Mars appears red?",
+    "choices": [
+      "Iron oxide in Martian soil",
+      "Liquid water on the surface",
+      "Dense cloud cover",
+      "Methane in the atmosphere"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary composition of the asteroid belt?",
+    "choices": [
+      "Ice and frozen gases",
+      "Liquid water",
+      "Carbonaceous, rocky, and metallic minerals",
+      "Hydrogen and helium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What distinguishes asteroids from dwarf planets?",
+    "choices": [
+      "Asteroids have a round shape, while dwarf planets are irregular",
+      "Dwarf planets orbit the Sun, while asteroids orbit other planets",
+      "Dwarf planets clear their orbit, while asteroids do not",
+      "Asteroids are larger than dwarf planets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mercury-crossing asteroids are defined by having:",
+    "choices": [
+      "Orbits that intersect with Mercury's orbit",
+      "Perihelia within the orbit of Mercury",
+      "Aphelia within the orbit of Mercury",
+      "A composition similar to Mercury"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are Near-Earth asteroids considered?",
+    "choices": [
+      "They are always a direct threat to Earth",
+      "They are all located within Earth's atmosphere",
+      "They have orbits that approach close to Earth's orbit and could potentially collide with Earth",
+      "They only exist in simulations and not in reality"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What geological and biological aspect is attributed to the confirmed collisions in the past?",
+    "choices": [
+      "It causes tidal locking",
+      "It has no role in either",
+      "It is now widely accepted that collisions in the past have had a significant role in shaping the geological and biological history of Earth",
+      "It only plays a small role in shaping the atmosphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where is the asteroid belt located?",
+    "choices": [
+      "Between Earth and Mars",
+      "Between Mars and Jupiter",
+      "Between Jupiter and Saturn",
+      "Beyond Neptune"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the asteroid belt thought to be made of?",
+    "choices": [
+      "Gases from the outer Solar System",
+      "Remnants from the Solar System's formation that failed to coalesce",
+      "Material ejected from planets",
+      "Debris from a destroyed planet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The total mass of the asteroid belt is estimated to be:",
+    "choices": [
+      "More than that of Earth",
+      "Comparable to that of Earth",
+      "About a thousandth of that of Earth",
+      "Insignificant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the largest bodies in the asteroid belt is also classified as a dwarf planet?",
+    "choices": [
+      "Vesta",
+      "Pallas",
+      "Ceres",
+      "Hilda"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Ceres is marked with what sign of volcanic activity?",
+    "choices": [
+      "Past cryovolcanic activity",
+      "Signs of high winds",
+      "Active volcanism",
+      "Water geysers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of the outer planets?",
+    "choices": [
+      "Having multiple moons",
+      "Having a ring system",
+      "Being composed mainly of silicates and metals",
+      "Being composed mainly of gases"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which two planets are classified as gas giants?",
+    "choices": [
+      "Jupiter and Saturn",
+      "Uranus and Neptune",
+      "Saturn and Uranus",
+      "Jupiter and Neptune"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which two planets are classified as ice giants?",
+    "choices": [
+      "Jupiter and Saturn",
+      "Uranus and Neptune",
+      "Saturn and Uranus",
+      "Jupiter and Neptune"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The outer planets compose roughly what percentage of the orbiting mass from the Sun?",
+    "choices": [
+      "99%",
+      "70%",
+      "50%",
+      "20%"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What is commonly found orbiting in the outer Solar System region?",
+    "choices": [
+      "The Asteroid Belt",
+      "Natural Gas",
+      "Icy substances",
+      "Lava"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What notable feature is visible on Jupiter's surface?",
+    "choices": [
+      "A large ocean",
+      "A giant storm called the Great Red Spot",
+      "Active volcanoes",
+      "A ring system"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What unique feature is found at Saturn's poles?",
+    "choices": [
+      "A large impact crater",
+      "Hexagon-shaped storms",
+      "Active geysers",
+      "A polar ice cap of methane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is unique about Uranus's axial tilt?",
+    "choices": [
+      "It has no axial tilt",
+      "It rotates vertically",
+      "It orbits the Sun on its side with an axial tilt of >90°",
+      "Its rotation is retrograde"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What unexplained phenomena are found in Neptune's atmosphere?",
+    "choices": [
+      "Its muted red color",
+      "Its thermosphere's abnormally high temperature and the tilt of its magnetosphere",
+      "Its large hexagon-shaped storms",
+      "Its lack of storms"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which moon in the Solar System has a substantial atmosphere?",
+    "choices": [
+      "Europa",
+      "Titan",
+      "Triton",
+      "Ganymede"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Centaurs are defined as icy, comet-like bodies located between what two planets?",
+    "choices": [
+      "Earth and Mars",
+      "Jupiter and Saturn",
+      "Jupiter and Neptune",
+      "Saturn and Uranus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where do centaurs originate?",
+    "choices": [
+      "Asteroid belt and Jupiter trojans",
+      "Mercury's orbit and Oort Cloud objects",
+      "Kuiper belt and scattered disc objects (SDOs)",
+      "Interstellar space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to Centaurs as they approach the sun?",
+    "choices": [
+      "They grow brighter and more massive",
+      "They develop a coma, similar to comets",
+      "They change their composition to rock and metal",
+      "They explode"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the largest known centaur that possesses a ring system?",
+    "choices": [
+      "2060 Chiron",
+      "10199 Chariklo",
+      "95P",
+      "Jupiter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where are the outer regions of the Solar System?",
+    "choices": [
+      "Largely unexplored",
+      "Overwhelmingly many thousands of small worlds",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What lies beyond the orbit of Neptune?",
+    "choices": [
+      "The Asteroid Belt",
+      "The Kuiper Belt and the scattered disc",
+      "The Oort Cloud",
+      "Interstellar Space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are Kuiper belt objects mainly composed of?",
+    "choices": [
+      "Rock and metal",
+      "Hydrogen and helium",
+      "Ice",
+      "Molten lava"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The total mass of the Kuiper belt is estimated to be:",
+    "choices": [
+      "Greater than the mass of Earth",
+      "Comparable to the mass of Earth",
+      "A tenth or hundredth the mass of Earth",
+      "Approximately equal to the mass of the Asteroid Belt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are members of the classical Kuiper Belt sometimes called?",
+    "choices": [
+      "Plutinos",
+      "Centaurs",
+      "Cubewanos",
+      "Scattered-disc objects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Pluto has what ratio with Neptune?",
+    "choices": [
+      "1:1",
+      "2:3",
+      "3:4",
+      "1:5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Orcus in terms of Pluto?",
+    "choices": [
+      "The opposite orbit of Pluto",
+      "The moon of Pluto",
+      "The source of Pluto",
+      "Nothing to do with Pluto"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the unique feature of Haumea?",
+    "choices": [
+      "It has a ring system",
+      "It has no moons",
+      "It does not rotate",
+      "It is perfectly round"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest known object in the classical Kuiper belt after Pluto?",
+    "choices": [
+      "Eris",
+      "Haumea",
+      "Makemake",
+      "Orcus"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What is Quaoar?",
+    "choices": [
+      "A highly elliptic dwarf planet",
+      "The second-largest known object in the classical Kuiper belt",
+      "A small black asteroid",
+      "A star in the Oort Cloud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is considered the source of short-period comets?",
+    "choices": [
+      "Asteroid Belt",
+      "Kuiper Belt",
+      "Scattered Disc",
+      "Oort Cloud"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Scattered-disc objects are believed to have been perturbed into erratic orbits by the gravitational influence of:",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "SDOs orbits can be inclined up to how many degrees?",
+    "choices": [
+      "90°",
+      "46.8°",
+      "180°",
+      "22.5°"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why did the discovery of Eris contribute to a debate about the definition of a planet?",
+    "choices": [
+      "It was smaller than Pluto",
+      "It was 25% more massive than Pluto",
+      "It has no moons",
+      "It orbits inside the asteroid belt"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What is Xiangliu?",
+    "choices": [
+      "A comet in the scattered disc",
+      "Gonggong's only known moon",
+      "A mountain on Pluto",
+      "An asteroid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Extreme trans-Neptunian objects (ETNOs) are characterized by:",
+    "choices": [
+      "Having no gravitational interaction with Neptune",
+      "A very small orbit",
+      "Being located close to Earth",
+      "A very large orbit"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Detached ETNOs differ from scattered ETNOs in that they:",
+    "choices": [
+      "Are more affected by Neptune",
+      "Are less affected by Neptune",
+      "Have no orbits",
+      "Orbit faster"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sednoids are also known as:",
+    "choices": [
+      "Scattered disc objects",
+      "Inner Oort cloud objects",
+      "Kuiper belt objects",
+      "Asteroids"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is unique about Sedna's orbit?",
+    "choices": [
+      "It orbits the sun very rapidly",
+      "It is part of the Oort Cloud",
+      "It is part of the Kuiper Belt",
+      "Its perihelion is too distant to have been affected by Neptune's migration"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "How long does Sedna take to complete one orbit?",
+    "choices": [
+      "~11,400 years",
+      "2 Earth days",
+      "1 Earth Year",
+      "It cannot be calculated"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where does the solar wind collide with the interstellar medium?",
+    "choices": [
+      "The Oort Cloud",
+      "The Kuiper Belt",
+      "The Termination Shock",
+      "The Heliosheath"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The heliosheath has been theorized to look and behave like?",
+    "choices": [
+      "A giant bubble",
+      "A comet's tail",
+      "A black hole",
+      "A flat disc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What shape is the heliosphere thought to take?",
+    "choices": [
+      "Perfect sphere",
+      "Cube",
+      "Hourglass",
+      "Bubble shape"
+    ],
+    "answer": 3
+  },
+    {
+    "question": "The Heliopause is considered:",
+    "choices": [
+      "The beginning of the interstellar medium",
+      "The end of the heliosphere",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "The bow shock is roughly where from the Sun?",
+    "choices": [
+      "230 AU",
+      "200 AU",
+      "100 AU",
+      "50 AU"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are comets primarily composed of?",
+    "choices": [
+      "Rock and Metal",
+      "Water and Helium",
+      "Volatile Ices",
+      "Dark matter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What forms when a comet enters the inner Solar System and its icy surface sublimes and ionizes?",
+    "choices": [
+      "A planet",
+      "A black hole",
+      "A coma and tail",
+      "An asteroid"
+    ],
+    "answer": 2
+  }
+]

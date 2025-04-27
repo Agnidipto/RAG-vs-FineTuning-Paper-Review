@@ -1,0 +1,952 @@
+[
+  {
+    "question": "What is the ultimate fate of the progenitor star in a supernova?",
+    "choices": [
+      "It always collapses to a neutron star.",
+      "It always collapses to a black hole.",
+      "It is completely destroyed to form a diffuse nebula.",
+      "It can collapse to a neutron star or black hole, or be completely destroyed."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How often do supernovae occur in the Milky Way, on average?",
+    "choices": [
+      "Once a century",
+      "Three times a century",
+      "Ten times a century",
+      "Once a millennium"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a primary mechanism for triggering a supernova?",
+    "choices": [
+      "The sudden re-ignition of nuclear fusion in a white dwarf",
+      "The sudden gravitational collapse of a massive star's core",
+      "The collision of two main sequence stars.",
+      "Accretion of material onto a white dwarf from a binary companion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens when a massive star's core can no longer produce energy from fusion to counteract gravity?",
+    "choices": [
+      "The star expands into a red giant.",
+      "The core undergoes a sudden collapse.",
+      "The star enters a period of stable equilibrium.",
+      "The star sheds its outer layers gradually."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the role of supernovae in the interstellar medium?",
+    "choices": [
+      "They deplete elements in the interstellar medium",
+      "They are a minor source of elements in the interstellar medium",
+      "They are a major source of elements in the interstellar medium",
+      "They have no effect on the composition of the interstellar medium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the term 'nova' mean in Latin?",
+    "choices": [
+      "Star",
+      "Bright",
+      "New",
+      "Explosion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who coined the word 'supernova'?",
+    "choices": [
+      "Tycho Brahe and Johannes Kepler",
+      "Isaac Newton and Galileo Galilei",
+      "Walter Baade and Fritz Zwicky",
+      "Knut Lundmark and Rudolph Minkowski"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the difference between a supernova and an ordinary nova?",
+    "choices": [
+      "Supernovae are less luminous than ordinary novae.",
+      "Supernovae are far more luminous than ordinary novae.",
+      "Supernovae only occur in the Milky Way, while novae occur in other galaxies.",
+      "Supernovae involve only white dwarf stars, while novae involve main sequence stars."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Walter Baade and Fritz Zwicky begin using the term 'supernova'?",
+    "choices": [
+      "1572",
+      "1604",
+      "1931",
+      "1960"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who may have coined the word 'supernova' independently?",
+    "choices": [
+      "Rudolph Minkowski",
+      "Knut Lundmark",
+      "Johannes Kepler",
+      "Tycho Brahe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are naked-eye supernova observations relatively rare?",
+    "choices": [
+      "They are intrinsically faint.",
+      "They occur too quickly to be easily seen.",
+      "The ability to become a supernova is restricted to rare kinds of binary star systems with at least one white dwarf",
+      "The chances of observing one with the naked eye are roughly once in a lifetime."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which supernova might have been recorded in a prehistoric rock carving in the Burzahama region of Kashmir?",
+    "choices": [
+      "SN 185",
+      "SN 1006",
+      "SN 1054",
+      "HB9"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which supernova produced the Crab Nebula?",
+    "choices": [
+      "SN 185",
+      "SN 1006",
+      "SN 1054",
+      "SN 1572"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which supernovae were influential in disproving the Aristotelian idea of an unchanging universe?",
+    "choices": [
+      "SN 185 and SN 1006",
+      "SN 1054 and SN 1572",
+      "SN 1572 and SN 1604",
+      "SN 1604 and SN 1987A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why might G1.9+0.3 have gone unnoticed in the late 19th century?",
+    "choices": [
+      "It was intrinsically faint",
+      "High extinction from dust dimmed the event",
+      "It occurred behind the Sun",
+      "Astronomers lacked the proper instruments"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did the name \"supernovae\" start being used without a hyphen?",
+    "choices": [
+      "1920s",
+      "1931",
+      "1934",
+      "1938"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who developed the modern supernova classification scheme?",
+    "choices": [
+      "Walter Baade and Fritz Zwicky",
+      "Rudolph Minkowski and Fritz Zwicky",
+      "Knut Lundmark and Jan Oort",
+      "Tycho Brahe and Johannes Kepler"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What discovery about supernovae in the 1960s led to their use as indicators of astronomical distances?",
+    "choices": [
+      "Their spectra revealed unique element compositions.",
+      "Their light curves were extremely similar.",
+      "Their maximum intensities could be used as standard candles.",
+      "They were found to emit gravitational waves."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is thought to be the nature of ASASSN-15lh?",
+    "choices": [
+      "A standard Type Ia supernova",
+      "A core-collapse supernova with unusual properties",
+      "A tidal disruption of a star by a black hole",
+      "The most luminous supernova ever recorded, but the explanation is debated"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why was the discovery of SN 2016gkg significant?",
+    "choices": [
+      "It was the most distant supernova ever observed.",
+      "It was the first time the initial shock breakout from an optical supernova had been observed.",
+      "It was the first supernova discovered by an amateur astronomer.",
+      "It confirmed the existence of Wolf-Rayet star progenitors."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the role of amateur astronomers in supernova discovery?",
+    "choices": [
+      "They primarily study known supernovae.",
+      "They are not involved in supernova discovery.",
+      "They play a significant role in finding supernovae by monitoring closer galaxies.",
+      "They focus on discovering supernovae in distant galaxies."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of the Supernova Early Warning System (SNEWS)?",
+    "choices": [
+      "To predict when and where supernovae will occur.",
+      "To detect gravitational waves from supernovae.",
+      "To give early warning of a supernova in the Milky Way galaxy using neutrino detectors.",
+      "To measure the redshift of distant supernovae."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What cosmological purpose do high redshift supernovae searches serve?",
+    "choices": [
+      "Generate Hubble diagrams and make cosmological predictions.",
+      "To study the physics and environments of supernovae.",
+      "Anchor the low-distance end of the Hubble curve.",
+      "Finding supernovae in nearby events."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the dataset assembled in 2018 that detailed 1048 supernovae?",
+    "choices": [
+      "SNEWS",
+      "Pantheon",
+      "IAU Dataset",
+      "Asiago Supernova Catalogue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the International Astronomical Union's Central Bureau for Astronomical Telegrams responsible for?",
+    "choices": [
+      "Discovering new supernovae.",
+      "Classifying supernovae based on their spectra.",
+      "Assigning names to newly discovered supernovae.",
+      "Measuring the redshift of distant supernovae."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How are supernovae named by the International Astronomical Union?",
+    "choices": [
+      "By their location in the sky.",
+      "By the name of the discoverer.",
+      "With the prefix SN, followed by the year of discovery, and a one or two-letter designation.",
+      "Randomly assigned names from a database."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens after the letters A to Z are used for naming supernovae in a year?",
+    "choices": [
+      "The naming restarts with A.",
+      "Numbers are used instead of letters.",
+      "Pairs of lowercase letters are used: aa, ab, and so on.",
+      "Three-letter designations are used immediately."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the designation for the last supernova retained in the Asiago Supernova Catalogue when it was terminated?",
+    "choices": [
+      "SN 2017jzp",
+      "SN 2005nc",
+      "SN 1885A",
+      "SN 1987A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Until what year were two-letter designations rarely needed for naming supernovae?",
+    "choices": [
+      "1947",
+      "1987",
+      "2000",
+      "2016"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are supernovae classified by astronomers?",
+    "choices": [
+      "By their distance from Earth.",
+      "By their size and mass.",
+      "According to their location in the galaxy.",
+      "According to their light curves and the absorption lines in their spectra."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the defining characteristic of Type II supernovae?",
+    "choices": [
+      "They lack hydrogen lines in their spectra.",
+      "They show a strong ionized silicon absorption line.",
+      "They contain lines of hydrogen (Balmer series) in their spectra.",
+      "They show strong neutral helium lines."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What spectral feature is present in Type Ia supernovae?",
+    "choices": [
+      "Strong ionized helium lines",
+      "Strong ionized silicon absorption line",
+      "Strong neutral helium lines",
+      "Lack of helium lines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are Type I supernovae further subdivided when they lack the strong silicon absorption line?",
+    "choices": [
+      "Based on their distance from Earth.",
+      "Based on their location in the galaxy.",
+      "Into Type Ib and Ic, based on the presence or absence of helium lines.",
+      "By the color of their light curves."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What distinguishes Calcium-rich supernovae from other types?",
+    "choices": [
+      "They have exceptionally low calcium lines in their spectra.",
+      "They are extremely slow and luminous.",
+      "They are very fast with unusually strong calcium lines in their spectra.",
+      "They lack any helium lines."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the 'n' stand for in Type IIn supernovae?",
+    "choices": [
+      "Normal",
+      "Neutron",
+      "Narrow",
+      "Neon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is characteristic of Type II-P supernovae light curves?",
+    "choices": [
+      "A linear decline",
+      "A distinctive 'plateau' shortly after peak brightness",
+      "An abrupt drop in luminosity",
+      "A rapid increase in brightness"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the defining characteristic of Type II-L supernovae light curves?",
+    "choices": [
+      "A distinctive 'plateau' shortly after peak brightness",
+      "A lack of a distinct plateau",
+      "A very broad and extended curve",
+      "A very rapid decline"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What do astronomers designate supernovae that do not fit into the normal classifications?",
+    "choices": [
+      "Unusual",
+      "Peculiar",
+      "Anomalous",
+      "Rare"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What types of supernovae would now all be treated as peculiar type II supernovae (IIpec)?",
+    "choices": [
+      "Types Ia, Ib, and Ic",
+      "Types III, IV, and V",
+      "Types II-P, II-L, and IIb",
+      "Types IIn only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the basis for the type number in supernova type codes?",
+    "choices": [
+      "The mass of the progenitor star.",
+      "The observed properties of the light from the supernova.",
+      "The chemical composition of the progenitor star.",
+      "The distance of the supernova from Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the main mechanism by which Type Ia supernovae are thought to be produced?",
+    "choices": [
+      "The collision of two black holes.",
+      "Runaway fusion ignited on degenerate white dwarf progenitors.",
+      "The sudden collapse of a massive star's core.",
+      "Accretion onto a neutron star from a binary companion."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to a white dwarf when its core temperature is raised enough to ignite carbon fusion?",
+    "choices": [
+      "It cools down and becomes a black dwarf.",
+      "It undergoes runaway nuclear fusion and is completely disrupted.",
+      "It collapses into a neutron star.",
+      "It sheds its outer layers to become a planetary nebula."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Chandrasekhar limit?",
+    "choices": [
+      "The maximum mass for a neutron star.",
+      "The minimum mass for a black hole.",
+      "The maximum mass that a white dwarf can have and still be stable.",
+      "The maximum temperature a star can reach before exploding."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What material undergoes nuclear fusion in normal Type Ia supernovae?",
+    "choices": [
+      "Hydrogen",
+      "Helium",
+      "Carbon",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the source of luminosity in Type Ia supernovae?",
+    "choices": [
+      "Nuclear fission.",
+      "Gravitational collapse.",
+      "Radioactive decay of nickel-56 through cobalt-56 to iron-56.",
+      "Accretion disk heating."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 'double-degenerate model' for the formation of type Ia supernovae?",
+    "choices": [
+      "The merger of two black holes.",
+      "The merger of two neutron stars.",
+      "The merger of two white dwarf stars.",
+      "The accretion of a white dwarf onto a neutron star."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the proposed classification for sub-luminous supernovae that occur when helium accretes onto a white dwarf?",
+    "choices": [
+      "Type Ib",
+      "Type Iax",
+      "Type II-L",
+      "Type IIn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a 'zombie star' in the context of supernovae?",
+    "choices": [
+      "A star that survives a Type II supernova.",
+      "A white dwarf that is not completely destroyed in a Type Iax supernova.",
+      "A neutron star that re-ignites.",
+      "A star that emits only dark matter."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are supernovae dubbed type Ia/IIn, type Ian, type IIa, or type IIan classified?",
+    "choices": [
+      "They originate from exploding neutron stars and contain high amounts of hydrogen",
+      "They explode like type Ia supernovae but contain hydrogen lines in their spectra",
+      "They are supernovae of an unknown origin",
+      "They explode from colliding black holes and contain ionized helium lines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the cause of core collapse in massive stars?",
+    "choices": [
+      "The accumulation of iron in the core.",
+      "The star exceeding the Chandrasekhar limit.",
+      "The inability of nuclear fusion to sustain the core against gravity.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT a mechanism for core collapse?",
+    "choices": [
+      "Exceeding the Chandrasekhar limit",
+      "Electron capture",
+      "Pair-instability",
+      "Hydrogen fusion"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What process is responsible for the collapse of an O/Ne/Mg core?",
+    "choices": [
+      "Pair-instability",
+      "Photodisintegration",
+      "Electron capture",
+      "Silicon fusion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what type of star does a pair-instability supernova typically occur?",
+    "choices": [
+      "Red giant",
+      "White dwarf",
+      "A large post-helium burning core",
+      "Super-AGB star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What process is initiated when a sufficiently large and hot stellar core generates gamma-rays energetic enough to initiate photodisintegration?",
+    "choices": [
+      "A complete collapse of the core",
+      "Runaway oxygen fusion",
+      "Beta decay",
+      "Electron capture"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why are Type IIn supernovae not included in the table summarizing core collapse?",
+    "choices": [
+      "They are not caused by core collapse.",
+      "Their narrow spectral lines are not related to the progenitor star.",
+      "They can be produced by various types of core collapse in different progenitor stars.",
+      "They all originate from electron-capture events."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the temperature of the newly formed neutron core in a lower-mass supernova core?",
+    "choices": [
+      "It decreases rapidly.",
+      "It remains the same.",
+      "It has an initial temperature of about 100 billion kelvin.",
+      "It increases until the star becomes a black hole."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the main output of the core-collapse event?",
+    "choices": [
+      "A burst of photons.",
+      "A burst of gamma rays.",
+      "A burst of neutrinos.",
+      "A burst of heavy elements."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens if material from the outer envelope falls back onto the neutron star?",
+    "choices": [
+      "The kinetic energy created increases.",
+      "The mass of expelled radioactive material increases.",
+      "It may generate relativistic jets that result in a gamma-ray burst.",
+      "The star becomes more stable and avoids forming a black hole."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the final result of the collapse of a massive non-degenerate core?",
+    "choices": [
+      "The formation of a white dwarf.",
+      "Ignition of further fusion.",
+      "Formation of a black dwarf.",
+      "Continuous emission of gravitational waves."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Stars with initial masses less than about what mass will eventually become white dwarfs?",
+    "choices": [
+      "6 M☉",
+      "8 M☉",
+      "10 M☉",
+      "12 M☉"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If a supergiant has a hydrogen envelope during core collapse, what type of supernova results?",
+    "choices": [
+      "Type Ia",
+      "Type Ib",
+      "Type II",
+      "Type Ic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At moderate to high metallicity, what type of supernova results from stars near the upper end of the mass range that have lost most of their hydrogen?",
+    "choices": [
+      "Type II-P",
+      "Type II-L",
+      "Type Ib",
+      "Type Ic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens when stars of around 140–250 M☉ reach core collapse by pair instability while still having a hydrogen atmosphere at very low metallicity?",
+    "choices": [
+      "They directly collapse to a black hole.",
+      "They produce a supernova with type II characteristics but a very large mass of ejected 56Ni and high luminosity.",
+      "They evolve into Wolf-Rayet stars.",
+      "They form a neutron star without any supernova."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do type Ib and Ic supernovae differ from type II?",
+    "choices": [
+      "They occur in smaller stars.",
+      "They have lost most of their outer hydrogen envelopes.",
+      "They always result in black hole formation.",
+      "They do not involve core collapse."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of stars are Wolf–Rayet stars?",
+    "choices": [
+      "Main sequence stars",
+      "Giant stars",
+      "Massive stars that have lost most of their outer envelopes",
+      "Small, cool stars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the most common type of Wolf-Rayet star that results in a Type Ib supernova?",
+    "choices": [
+      "WC",
+      "WO",
+      "WN",
+      "OB"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is believed to cause the jets produced by the magnetic field of the collapsing core of a star?",
+    "choices": [
+      "Neutrino flux",
+      "Relativistic jets",
+      "Rapidly spinning magnetar",
+      "High temperatures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What results from the nature of ultra-stripped supernovae being both iron core-collapse and electron capture supernovae?",
+    "choices": [
+      "They lead to a triple neutron star system.",
+      "They lead to a relatively dim and fast decaying light curve.",
+      "They occur only in regions of high metallicity.",
+      "They produce a large amount of iron and nickel."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What characteristics make an electron-capture supernova unique?",
+    "choices": [
+      "It is the most common type of supernova",
+      "It results from a helium flash on a white dwarf",
+      "It arises from a star in the transitional range between white dwarf formation and iron core-collapse",
+      "It always produces a black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of star is predicted to give rise to an electron-capture supernova?",
+    "choices": [
+      "A massive red supergiant",
+      "A white dwarf accreting material",
+      "A star in the transitional range (~8 to 10 solar masses) between white dwarf formation and iron core-collapse",
+      "A Wolf-Rayet star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What observational evidence supports the existence of electron-capture supernovae?",
+    "choices": [
+      "Direct detection of electron-capture events in the core.",
+      "Gamma-ray emissions from radioactive elements.",
+      "Spectroscopic evidence of unique element abundances.",
+      "Observation of SN 2018zd in NGC 2146."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which supernova remnant is now considered more likely to be the result of an electron-capture supernova?",
+    "choices": [
+      "Cassiopeia A",
+      "Tycho's Supernova",
+      "Kepler's Supernova",
+      "The Crab Nebula"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What happens in a failed supernova?",
+    "choices": [
+      "The star explodes with a very weak burst of light.",
+      "The core collapse is reversed, preventing an explosion.",
+      "The star evolves directly into a white dwarf.",
+      "The star emits only gravitational waves."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What powers the luminous emission of supernovae after the initial energy release?",
+    "choices": [
+      "Gravitational waves.",
+      "Nuclear fission.",
+      "Rotational energy from the central pulsar.",
+      "Radioactive decay of heavy elements."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What radioactive decay process provides energy for the peak of the light curve of SN1987A?",
+    "choices": [
+      "56Ni to 56Co",
+      "56Co to 56Fe",
+      "57Co to 57Fe",
+      "44Ti to 44Sc"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What radioactive decay process contributes to the late-time light curve of supernovae?",
+    "choices": [
+      "56Ni to 56Co",
+      "56Co to 56Fe",
+      "Positron emission from the remaining cobalt-56",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which spectral observations confirmed the power source of the decay in SN1987A?",
+    "choices": [
+      "Positron lines",
+      "Helium emission",
+      "Space gamma-ray telescopes confirming isotopes 56Co and 57Co",
+      "Silicone absorption lines"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes the light curves of Type Ia supernovae to be relatively uniform?",
+    "choices": [
+      "Their proximity to Earth.",
+      "Their location on the Hertzsprung-Russell diagram.",
+      "They arise from a consistent type of progenitor star and explode when they acquire a consistent typical mass.",
+      "Their lack of heavy elements."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary source of the optical energy output for Type Ia supernovae?",
+    "choices": [
+      "Hydrogen fusion",
+      "Gravitational potential energy",
+      "Radioactive decay of ejected nickel-56",
+      "Neutrino emission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What produces a secondary maximum in the infrared light curve of Type Ia supernovae?",
+    "choices": [
+      "Hydrogen fusion",
+      "Silicon fusion",
+      "Certain ionized heavy elements recombining",
+      "Neutrino emission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do the light curves of Type Ib and Ic supernovae differ from Type Ia?",
+    "choices": [
+      "They are generally brighter",
+      "They are dominated by gravitational wave emission",
+      "They have a lower average peak luminosity",
+      "They show a longer plateau phase"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a hypernova?",
+    "choices": [
+      "A Type Ia supernova with a higher than normal peak luminosity",
+      "A Type Ib/c supernova orders of magnitude more luminous than the norm",
+      "A failed core-collapse supernova",
+      "A white dwarf merger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What dominates the visual light output of type II supernovae for several months after the initial destruction?",
+    "choices": [
+      "Hydrogen fusion",
+      "Nuclear fission",
+      "Kinetic energy",
+      "Gravitational contraction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What leads to a prolonged plateau in the light curve of type II supernovae?",
+    "choices": [
+      "Kinetic energy",
+      "This is then followed by a declining light curve driven by radioactive decay although slower than in type I supernovae, due to the efficiency of conversion into light by all the hydrogen.",
+      "The existence of hydrogen in the ejecta from the atmosphere of the supergiant progenitor star.  In the initial destruction this hydrogen becomes heated and ionised.",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What characterizes the progenitors of type II-L supernovae?",
+    "choices": [
+      "They are very massive and hot.",
+      "They have very little hydrogen in their atmosphere.",
+      "They are white dwarfs.",
+      "They have a high rate of neutrino emission."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are type IIn supernovae characterized by?",
+    "choices": [
+      "Broad spectral lines",
+      "Additional narrow spectral lines produced in a dense shell of circumstellar material",
+      "A very short duration and low luminosity",
+      "Relatively no kinetic energy produced"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are average characteristics for a large number of supernovae catalogued?",
+    "choices": [
+      "To detect atmospheric turbulence.",
+      "To test atmospheric conditions.",
+      "To provide distance candles and test models",
+      "None of the above."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the 'kick' referring to in the context of supernova asymmetry?",
+    "choices": [
+      "The initial burst of radiation from the supernova.",
+      "The large velocity of the remaining compact object away from the epicentre.",
+      "The expansion of the supernova remnant.",
+      "The ejection of matter from the star."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What mechanisms are proposed to explain the kick that compact objects receive in Type II supernovae?",
+    "choices": [
+      "Convection in the collapsing star.",
+      "Asymmetric ejection of matter during neutron star formation.",
+      "Asymmetrical neutrino emissions.",
+      "All of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How can early asymmetries in type Ia supernovae be detected?",
+    "choices": [
+      "By measuring the redshift of the supernova.",
+      "By measuring the polarisation of the emitted light.",
+      "By analyzing the gamma-ray emissions.",
+      "By detecting neutrino bursts."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the expansion of a supernova change over time in terms of asymmetry?",
+    "choices": [
+      "It remains highly asymmetric.",
+      "It remains the same.",
+      "It becomes more symmetrical with the passage of time.",
+      "It becomes more irregular over time."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary energy output of core collapse supernovae?",
+    "choices": [
+      "Electromagnetic radiation.",
+      "Gravitational waves.",
+      "Neutrino emission.",
+      "Kinetic energy of ejected matter."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the role of Nickel-56 in Type Ia supernovae?",
+    "choices": [
+      "It is the initial fuel for nuclear fusion.",
+      "It triggers the core collapse.",
+      "It stabilizes the white dwarf.",
+      "Its radioactive decay produces the electromagnetic radiation."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is required to convert a fraction of the kinetic energy into electromagnetic radiation?",
+    "choices": [
+      "The supernova should occur inside a small dense cloud of circumstellar material",
+      "The relativistic jets should be too brief",
+      "There should be no pair-instability supernovae present",
+      "There should be very little ejection of material"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What factor determines the rate at which a star loses mass and contributes to the supernova type?",
+    "choices": [
+      "Its age.",
+      "Its distance from Earth.",
+      "Its metallicity.",
+      "Its luminosity."
+    ],
+    "answer": 2
+  }
+]

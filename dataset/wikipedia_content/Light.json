@@ -1,0 +1,752 @@
+[
+    {
+      "question": "What is the approximate wavelength range of visible light?",
+      "choices": [
+        "100-300 nm",
+        "400-700 nm",
+        "800-1200 nm",
+        "1500-2000 nm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of electromagnetic radiation has a shorter wavelength than visible light?",
+      "choices": [
+        "Infrared",
+        "Microwaves",
+        "Ultraviolet",
+        "Radio waves"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is infrared light invisible to humans?",
+      "choices": [
+        "It is absorbed by the cornea.",
+        "Its photons don't have enough energy to cause a lasting molecular change in retinal.",
+        "It's outside the range of human perception.",
+        "It does not cause electronic excitation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the reason that humans cannot see ultraviolet light?",
+      "choices": [
+        "It's blocked by the cornea and internal lens.",
+        "The rods and cones in the retina cannot detect ultraviolet wavelengths.",
+        "The retina is damaged by ultraviolet light.",
+        "All of the above."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is photomorphogenesis?",
+      "choices": [
+        "The process of plants using light to create energy.",
+        "The ability of animals to see infrared light.",
+        "The process of plant growth being affected by the color spectrum of light.",
+        "The process of the human eye adapting to different light levels."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the defined speed of light in a vacuum?",
+      "choices": [
+        "299,000,000 m/s",
+        "300,000,000 m/s",
+        "299,792,458 m/s",
+        "300,792,458 m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who made an early attempt to measure the speed of light by observing Jupiter's moons?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Ole Rømer",
+        "Hippolyte Fizeau"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who used a rotating cog wheel to measure the speed of light?",
+      "choices": [
+        "Léon Foucault",
+        "Albert Michelson",
+        "Hippolyte Fizeau",
+        "Ole Rømer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which substance does light travel at a slower speed compared to its speed in a vacuum?",
+      "choices": [
+        "Air",
+        "Water",
+        "Empty space",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What phenomenon was described as light being 'stopped' in a Bose-Einstein condensate?",
+      "choices": [
+        "Light being absorbed by the condensate.",
+        "Light being stored in the excited states of atoms and re-emitted later.",
+        "Light reflecting off of the condensate.",
+        "Light transforming into matter."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the study of light and its interaction with matter called?",
+      "choices": [
+        "Physics",
+        "Chemistry",
+        "Optics",
+        "Astronomy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which branch of optics is best suited for understanding the workings of eyes, lenses, and mirrors?",
+      "choices": [
+        "Quantum optics",
+        "Geometrical optics",
+        "Physical optics",
+        "Nonlinear optics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which branch of optics is needed to understand diffraction and interference?",
+      "choices": [
+        "Quantum optics",
+        "Geometrical optics",
+        "Physical optics",
+        "Nonlinear optics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When does Quantum optics apply?",
+      "choices": [
+        "When studying large objects",
+        "When studying diffraction",
+        "When studying individual photons interacting with matter",
+        "When studying large systems of light."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of object scatters incoming light, which is called glossiness?",
+      "choices": [
+        "Transparent",
+        "Opaque",
+        "Translucent",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is refraction?",
+      "choices": [
+        "The bending of light as it passes through a surface between two transparent materials.",
+        "The reflection of light off a surface.",
+        "The absorption of light by a material.",
+        "The scattering of light within a material."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What physical property stays the same when light refracts?",
+      "choices": [
+        "The speed of the light",
+        "The wavelength of the light",
+        "The frequency of the light",
+        "The direction of the light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to Snell's Law, what is 'n' when light is in a vacuum?",
+      "choices": [
+        "0",
+        "1",
+        "Greater than 1",
+        "Less than 1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the refractive quality of lenses change the apparent size of images?",
+      "choices": [
+        "By manipulating the frequency of light",
+        "By manipulating the polarization of light",
+        "By manipulating the intensity of light",
+        "By manipulating the direction of light"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What causes a change in direction when a beam of light is not orthogonal to the boundary between two media?",
+      "choices": [
+        "Change in frequency.",
+        "Change in wavelength.",
+        "Change in phase.",
+        "Change in intensity."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an example of a simple thermal light source?",
+      "choices": [
+        "Laser pointer",
+        "LED",
+        "Sunlight",
+        "Fluorescent light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What percentage of energy do incandescent light bulbs emit as visible light?",
+      "choices": [
+        "90%",
+        "50%",
+        "10%",
+        "25%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the origin of the pure-blue color often seen in a gas flame or welder's torch?",
+      "choices": [
+        "Black-body radiation",
+        "Molecular emission, notably by CH radicals",
+        "Synchrotron radiation",
+        "Cherenkov radiation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of emission is used in a laser?",
+      "choices": [
+        "Spontaneous emission",
+        "Stimulated emission",
+        "Thermal emission",
+        "Black-body radiation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of light produced by deceleration of a free charged particle?",
+      "choices": [
+        "Cherenkov radiation",
+        "Chemoluminescence",
+        "Fluorescence",
+        "Synchrotron radiation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What are the two main alternative sets of units for measuring light?",
+      "choices": [
+        "Amplitude and Frequency",
+        "Intensity and Wavelength",
+        "Radiometry and Photometry",
+        "Energy and Power"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which unit system is weighted with respect to human brightness perception?",
+      "choices": [
+        "Radiometry",
+        "Photometry",
+        "Spectrometry",
+        "Colorimetry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At what wavelength does the cumulative response of cone cells in the human eye peak?",
+      "choices": [
+        "450 nm",
+        "555 nm",
+        "620 nm",
+        "700 nm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is luminous efficacy?",
+      "choices": [
+        "The amount of light absorbed by an object",
+        "The relationship between raw power and photometry units",
+        "The speed of light in a particular medium",
+        "The color temperature of a light source"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a limitation of photocell sensors and charge-coupled devices (CCDs) without filters?",
+      "choices": [
+        "They only respond to specific wavelengths of light.",
+        "They cannot measure the intensity of light accurately.",
+        "They are unable to detect ultraviolet or infrared light.",
+        "They tend to respond to some infrared, ultraviolet or both."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What causes light pressure?",
+      "choices": [
+        "The bending of light waves",
+        "Photons striking and transferring their momentum",
+        "The absorption of light by matter",
+        "The reflection of light off a surface"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How is light pressure calculated?",
+      "choices": [
+        "Speed of light divided by power of the light beam.",
+        "Power of the light beam multiplied by the speed of light.",
+        "Power of the light beam divided by the speed of light.",
+        "Speed of light minus power of the light beam."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which application is the effect of light pressure more significant?",
+      "choices": [
+        "Lifting a penny with laser pointers.",
+        "Spinning asteroids.",
+        "Nanoelectromechanical systems (NEMS).",
+        "Making solar sails."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main cause of motion in the Crookes radiometer?",
+      "choices": [
+        "Light pressure",
+        "Partial vacuum",
+        "Torque",
+        "Radiation friction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Einstein call the force that opposes the movement of matter due to light pressure?",
+      "choices": [
+        "Momentum friction",
+        "Radiation torque",
+        "Radiation friction",
+        "Pressure opposition"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Greek philosopher believed that the human eye emitted rays of light?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Empedocles",
+        "Euclid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which ancient mathematician studied the properties of light and described the laws of reflection?",
+      "choices": [
+        "Archimedes",
+        "Euclid",
+        "Ptolemy",
+        "Pythagoras"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Roman philosopher wrote that light and heat are composed of minute atoms?",
+      "choices": [
+        "Cicero",
+        "Seneca",
+        "Lucretius",
+        "Virgil"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Whose theory of light is regarded as the start of modern physical optics?",
+      "choices": [
+        "Isaac Newton",
+        "René Descartes",
+        "Christiaan Huygens",
+        "Pierre Gassendi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who proposed a particle theory of light in the 1660s?",
+      "choices": [
+        "Isaac Newton",
+        "Robert Hooke",
+        "Pierre Gassendi",
+        "Christiaan Huygens"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Descartes believe light to be?",
+      "choices": [
+        "A stream of particles",
+        "A mechanical property of the luminous body",
+        "A form of energy",
+        "A series of waves"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Descartes incorrectly assume about the speed of light in different media?",
+      "choices": [
+        "Light traveled at the same speed in all media",
+        "Light traveled faster in a less dense medium",
+        "Light traveled faster in a denser medium",
+        "Light stopped moving when entering a dense medium"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was Descartes correct about when talking about refraction?",
+      "choices": [
+        "The relative speeds of light",
+        "Light behaved like a particle",
+        "Light behaved like a wave",
+        "The absolute speeds of light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Descartes reject in his theory of light?",
+      "choices": [
+        "Particles",
+        "Energy",
+        "Forms and species",
+        "Waves"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What analogy did Descartes use to arrive at the conclusion that light travelled faster in a denser medium?",
+      "choices": [
+        "Water waves",
+        "Sound waves",
+        "Electromagnetic waves",
+        "Gravitational waves"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who championed the particle theory of light in the 17th century?",
+      "choices": [
+        "Christiaan Huygens",
+        "Robert Hooke",
+        "Isaac Newton",
+        "Thomas Young"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Newton call the 'particles of matter' that composed light?",
+      "choices": [
+        "Photons",
+        "Quanta",
+        "Corpuscles",
+        "Atoms"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What phenomenon did Newton explain by allowing that a light particle could create a localized wave in the aether?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which phenomenon was considered at one time the proof of the particle theory?",
+      "choices": [
+        "Refraction",
+        "Interference",
+        "Polarization",
+        "Diffraction"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which phenomenon did Newton incorrectly assume to explain refraction?",
+      "choices": [
+        "Light accelerated upon entering a denser medium.",
+        "Light decelerated upon entering a denser medium.",
+        "Light maintained the same speed when entering a denser medium.",
+        "Light stopped when entering a denser medium."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who developed a mathematical wave theory of light in 1678?",
+      "choices": [
+        "Isaac Newton",
+        "Robert Hooke",
+        "Christiaan Huygens",
+        "Thomas Young"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What experiment showed that light behaved as waves?",
+      "choices": [
+        "Newton's prism experiment",
+        "Michelson-Morley experiment",
+        "Young's diffraction experiment",
+        "Rutherford's gold foil experiment"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the wave theory predict about light waves?",
+      "choices": [
+        "They could be polarized",
+        "They could interfere with each other",
+        "They could only travel in straight lines",
+        "They were composed of particles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What concept was disproven by the Michelson–Morley experiment?",
+      "choices": [
+        "The wave nature of light",
+        "The existence of gravity",
+        "The existence of the luminiferous aether",
+        "The particle nature of light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Fresnel state was the only way polarization of light could be explained by the wave theory?",
+      "choices": [
+        "Light was partially transverse",
+        "Light was entirely transverse",
+        "Light was partially longitudinal",
+        "Light was entirely longitudinal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered that the plane of polarization of light is rotated when light rays travel along the magnetic field?",
+      "choices": [
+        "James Clerk Maxwell",
+        "Michael Faraday",
+        "Heinrich Hertz",
+        "Albert Einstein"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which scientist first concluded that light was a form of electromagnetic radiation?",
+      "choices": [
+        "Michael Faraday",
+        "Heinrich Hertz",
+        "James Clerk Maxwell",
+        "Albert Einstein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the equations that describe the behavior of electric and magnetic fields called?",
+      "choices": [
+        "Newton's Laws",
+        "Faraday's Laws",
+        "Hertz's Equations",
+        "Maxwell's Equations"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What did Heinrich Hertz do to confirm Maxwell's theory?",
+      "choices": [
+        "Detected gravity waves",
+        "Generated and detected radio waves",
+        "Measured the speed of light with high accuracy",
+        "Developed quantum electrodynamics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a quantum theory for photons?",
+      "choices": [
+        "Particles which are like sound waves",
+        "Wave packets",
+        "Electrons",
+        "Positrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who suggested that light waves could only gain or lose energy in finite amounts called quanta?",
+      "choices": [
+        "Albert Einstein",
+        "Arthur Holly Compton",
+        "Max Planck",
+        "Gilbert N. Lewis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which phenomenon did Albert Einstein explain using the idea of light quanta?",
+      "choices": [
+        "Black-body radiation",
+        "Compton scattering",
+        "Photoelectric effect",
+        "Spectroscopy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who coined the term 'photons' for light quanta?",
+      "choices": [
+        "Max Planck",
+        "Albert Einstein",
+        "Arthur Holly Compton",
+        "Gilbert N. Lewis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which behaviour does electromagnetic radiation tend to behave more like at lower frequencies?",
+      "choices": [
+        "Classical particle",
+        "Classical wave",
+        "Quantum particle",
+        "Quantum wave"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which scientists showed that light followed different statistics from that of classical particles?",
+      "choices": [
+        "Bose and Einstein",
+        "Feynman and Dyson",
+        "Schwinger and Tomonaga",
+        "Jordan and Fock"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which scientists applied quantum theory to the electromagnetic field to understand photodetection and the statistics of light?",
+      "choices": [
+        "Newton and Huygens",
+        "Maxwell and Hertz",
+        "Klauder, Sudarshan, Glauber, and Mandel",
+        "Planck and Einstein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What concept was introduced to address variations between different types of light, such as laser light and thermal light?",
+      "choices": [
+        "The photon",
+        "The electromagnetic field",
+        "The coherent state",
+        "Ultrafast processes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What evidence did H. Jeff Kimble et al. demonstrate in 1977?",
+      "choices": [
+        "A single atom emitting one electron at a time.",
+        "The wave nature of light.",
+        "A single atom emitting one photon at a time.",
+        "The polarization of light."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What area of study opened up with the development of short and ultrashort laser pulses?",
+      "choices": [
+        "Bioluminescence",
+        "Ultrafast processes",
+        "Quantum entanglement",
+        "The photoelectric effect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which technology was crucial for achieving Bose-Einstein condensation?",
+      "choices": [
+        "X-Ray",
+        "Light momentum",
+        "Squeezed Light",
+        "Doppler cooling and Sisyphus cooling"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What process do green plants use to create sugars, utilizing sunlight?",
+      "choices": [
+        "Respiration",
+        "Digestion",
+        "Photosynthesis",
+        "Decomposition"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the general term for the generation of light by living things?",
+      "choices": [
+        "Chemoluminescence",
+        "Electroluminescence",
+        "Scintillation",
+        "Bioluminescence"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why do fireflies use light?",
+      "choices": [
+        "To attract predators",
+        "To locate mates",
+        "To stay warm",
+        "To scare away prey"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do vampire squid use light?",
+      "choices": [
+        "To communicate with each other",
+        "To blind their prey",
+        "To hide themselves from prey",
+        "To attract mates"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is photosynthesis important?",
+      "choices": [
+        "It provides the energy used by living things.",
+        "It creates the air we breathe.",
+        "It produces bioluminescence.",
+        "It creates the light on earth"
+      ],
+      "answer": 0
+    }
+  ]

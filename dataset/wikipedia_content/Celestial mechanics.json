@@ -1,0 +1,502 @@
+[
+    {
+      "question": "What branch of astronomy deals with the motions of objects in outer space?",
+      "choices": [
+        "Astrophysics",
+        "Celestial Mechanics",
+        "Astrometry",
+        "Cosmology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Historically, celestial mechanics applies which principles to astronomical objects?",
+      "choices": [
+        "Quantum Mechanics",
+        "Classical Mechanics",
+        "Thermodynamics",
+        "Electromagnetism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of data does celestial mechanics produce?",
+      "choices": [
+        "Spectral analysis",
+        "Ephemeris data",
+        "Cosmological constants",
+        "Stellar classifications"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Celestial mechanics deals with the motions of what kinds of objects?",
+      "choices": [
+        "Only planets and moons",
+        "Only stars",
+        "Any object in outer space",
+        "Only artificial satellites"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary goal of celestial mechanics?",
+      "choices": [
+        "To discover new exoplanets",
+        "To create a numerical model of the solar system",
+        "To measure the distances to stars",
+        "To study the composition of planets"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is considered to have started modern analytic celestial mechanics?",
+      "choices": [
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Gottfried Leibniz",
+        "Pierre-Simon Laplace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what book did Newton lay the foundation for celestial mechanics?",
+      "choices": [
+        "Opticks",
+        "Principia",
+        "Mathematical Principles of Natural Philosophy",
+        "Dialogue Concerning Two New Sciences"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who introduced the term 'celestial mechanics'?",
+      "choices": [
+        "Isaac Newton",
+        "Gottfried Leibniz",
+        "Johannes Kepler",
+        "Pierre-Simon Laplace"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What term did Newton suggest be used for the field that later became celestial mechanics?",
+      "choices": [
+        "Applied mathematics",
+        "Theoretical physics",
+        "Rational mechanics",
+        "Celestial dynamics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was lacking prior to Kepler in the study of planetary motion?",
+      "choices": [
+        "Accurate numerical calculations",
+        "Geometrical models",
+        "Connection between prediction and physical causes",
+        "The use of telescopes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who formulated the laws of planetary motion?",
+      "choices": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Whose planetary observations did Kepler use to develop his laws?",
+      "choices": [
+        "Galileo Galilei's",
+        "Isaac Newton's",
+        "Tycho Brahe's",
+        "Copernicus'"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the title of Kepler's work in 1609 that integrated prediction with physical concepts?",
+      "choices": [
+        "Principia Mathematica",
+        "De Revolutionibus Orbium Coelestium",
+        "New Astronomy, Based upon Causes, or Celestial Physics",
+        "Harmonices Mundi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What shape did Kepler determine planetary orbits to be?",
+      "choices": [
+        "Circular",
+        "Elliptical",
+        "Parabolic",
+        "Hyperbolic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kepler's elliptical model improved the accuracy of planetary motion predictions before what development?",
+      "choices": [
+        "The invention of the telescope",
+        "Newton's law of gravitation",
+        "The development of calculus",
+        "The discovery of Uranus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Newton unify with his laws of motion and gravity?",
+      "choices": [
+        "Electromagnetism and gravity",
+        "Celestial and terrestrial dynamics",
+        "Quantum mechanics and classical mechanics",
+        "Thermodynamics and statistical mechanics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What law did Newton use to confirm Kepler's laws?",
+      "choices": [
+        "Law of conservation of energy",
+        "Newton's first law of motion",
+        "Law of universal gravitation",
+        "Law of thermodynamics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which problem did Newton solve to derive Kepler's laws?",
+      "choices": [
+        "The three-body problem",
+        "The four-body problem",
+        "The two-body problem",
+        "The n-body problem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what work did Newton include his derivation of Kepler's laws?",
+      "choices": [
+        "Opticks",
+        "Principia Mathematica",
+        "De Motu Corporum in Gyrum",
+        "Arithmetica Universalis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fact that a falling apple and a planet orbiting the sun obey the same physical laws was first proposed by whom?",
+      "choices": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who attempted to solve the three-body problem and discovered Lagrange points?",
+      "choices": [
+        "Isaac Newton",
+        "Joseph-Louis Lagrange",
+        "Henri Poincaré",
+        "Simon Newcomb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Lagrange reformulate in classical mechanics?",
+      "choices": [
+        "The law of gravitation",
+        "The principles of thermodynamics",
+        "The principles of quantum mechanics",
+        "The principles of classical mechanics"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What did Poincaré show about the three-body problem?",
+      "choices": [
+        "It is integrable",
+        "It is exactly solvable",
+        "It is not integrable",
+        "It has a simple algebraic solution"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Poincaré's work on the three-body problem was a major achievement since which scientist?",
+      "choices": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Poincaré's work laid the basis for which mathematical theory?",
+      "choices": [
+        "Game theory",
+        "Chaos theory",
+        "Information theory",
+        "String theory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which astronomer revised Peter Andreas Hansen's table of lunar positions?",
+      "choices": [
+        "George William Hill",
+        "A.M.W. Downing",
+        "Simon Newcomb",
+        "Henri Poincaré"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who assisted Simon Newcomb in recalculating all the major astronomical constants?",
+      "choices": [
+        "A.M.W. Downing",
+        "Henri Poincaré",
+        "George William Hill",
+        "Peter Andreas Hansen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "With whom did Newcomb conceive a plan to resolve international confusion regarding ephemerides?",
+      "choices": [
+        "George William Hill",
+        "Peter Andreas Hansen",
+        "A.M.W. Downing",
+        "Henri Poincaré"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What consensus was reached at the standardisation conference in Paris in 1886?",
+      "choices": [
+        "All ephemerides should be based on Hansen's calculations",
+        "All ephemerides should be based on Newcomb's calculations",
+        "All ephemerides should be based on Downing's calculations",
+        "All ephemerides should be based on Poincaré's calculations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was Newcomb's constants confirmed as the international standard?",
+      "choices": [
+        "1877",
+        "1886",
+        "1900",
+        "1950"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who explained the anomalous precession of Mercury's perihelion?",
+      "choices": [
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Albert Einstein",
+        "Simon Newcomb"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year did Einstein publish his paper explaining the precession of Mercury?",
+      "choices": [
+        "1905",
+        "1915",
+        "1916",
+        "1921"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which theory provided a better explanation for Mercury's precession than Newtonian mechanics?",
+      "choices": [
+        "Quantum mechanics",
+        "Special relativity",
+        "General relativity",
+        "Thermodynamics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The anomalous precession of Mercury's perihelion is a problem with which planet?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Mercury"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What did the explanation of Mercury's precession lead astronomers to recognize?",
+      "choices": [
+        "That Newton's laws are completely wrong",
+        "That Newtonian mechanics did not provide the highest accuracy",
+        "That quantum mechanics is necessary for celestial mechanics",
+        "That relativity is not applicable to celestial motion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Celestial motion without additional forces is governed by what?",
+      "choices": [
+        "Electromagnetic force",
+        "Nuclear force",
+        "Reciprocal gravitational acceleration",
+        "Frictional forces"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name for the generalization of celestial motion with multiple interacting masses?",
+      "choices": [
+        "The two-body problem",
+        "The three-body problem",
+        "The n-body problem",
+        "The Lagrange problem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Spaceflight to Mars is an example of which problem?",
+      "choices": [
+        "Two-body problem",
+        "Three-body problem",
+        "Four-body problem",
+        "n-body problem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A binary star system is an example of which problem?",
+      "choices": [
+        "n=2 case (two-body problem)",
+        "n=3 case (three-body problem)",
+        "n=4 case (four-body problem)",
+        "n-body problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For an orbiting body much smaller than a central body, what assumption can be made?",
+      "choices": [
+        "Relativistic effects are important",
+        "The central body is not affected by the orbiting body",
+        "The standard assumptions in astrodynamics apply",
+        "The system is chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does perturbation theory provide for unsolvable problems?",
+      "choices": [
+        "An exact solution",
+        "An approximate solution",
+        "A graphical representation",
+        "A qualitative description"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the starting point for perturbation methods in celestial mechanics?",
+      "choices": [
+        "A chaotic system",
+        "A Keplerian ellipse",
+        "A complex numerical simulation",
+        "A highly relativistic model"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is perturbed to make the equations closer to the real problem?",
+      "choices": [
+        "The solved, but simplified problem",
+        "The exact solution",
+        "The initial conditions",
+        "The gravitational constant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the common difficulty with perturbation theory?",
+      "choices": [
+        "Corrections always lead to divergence",
+        "The corrections make solutions progressively more complicated",
+        "It only works for two-body problems",
+        "It requires exact knowledge of the initial conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What general procedure is followed in Perturbation theory?",
+      "choices": [
+        "Starting with a complex problem and simplifying it",
+        "Starting with a simplified problem and gradually adding corrections",
+        "Guessing the answer and checking its accuracy",
+        "Finding the exact solution and then approximating it"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a common simplifying reference frame applied to the three-body problem?",
+      "choices": [
+        "Cartesian reference frame",
+        "Synodic reference frame",
+        "Polar coordinate reference frame",
+        "Spherical coordinate reference frame"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What reference frame places the origin at the center of mass of a body?",
+      "choices": [
+        "Inertial frame",
+        "Synodic frame",
+        "Heliocentric frame",
+        "Non-inertial frame"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is one phenomenon caused by the choice of reference frame?",
+      "choices": [
+        "Gravitational lensing",
+        "Retrograde motion",
+        "Time dilation",
+        "Frame dragging"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the synodic reference frame, where is the origin located?",
+      "choices": [
+        "At the barycenter of the two larger celestial bodies",
+        "At the center of the largest body",
+        "At the center of mass of the system",
+        "At a fixed point in space"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which planet can exhibit retrograde motion when viewed in a geocentric reference frame?",
+      "choices": [
+        "Earth",
+        "Venus",
+        "Inferior Planets",
+        "Superior Planets"
+      ],
+      "answer": 3
+    }
+  ]

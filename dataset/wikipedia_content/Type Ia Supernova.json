@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What type of binary system is required for a Type Ia supernova?",
+    "choices": [
+      "Two main sequence stars",
+      "A white dwarf and a black hole",
+      "A white dwarf and another star",
+      "Two neutron stars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate Chandrasekhar mass limit for a carbon-oxygen white dwarf before a Type Ia supernova occurs?",
+    "choices": [
+      "0.44 solar masses",
+      "1.0 solar masses",
+      "1.44 solar masses",
+      "3.0 solar masses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how much energy is released during a Type Ia supernova explosion?",
+    "choices": [
+      "1x10^34 J",
+      "1x10^40 J",
+      "1x10^44 J",
+      "1x10^50 J"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What characteristic of Type Ia supernovae makes them useful for measuring distances?",
+    "choices": [
+      "Their variable peak luminosity",
+      "Their consistent peak luminosity",
+      "Their unique color",
+      "Their long lifespan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What process triggers the supernova explosion in a Type Ia supernova?",
+    "choices": [
+      "Hydrogen fusion on the surface of the white dwarf",
+      "The core of the white dwarf reaching ignition temperature for carbon fusion",
+      "The accretion of a black hole",
+      "The collision with another star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who devised the Minkowski-Zwicky supernova classification scheme?",
+    "choices": [
+      "Albert Einstein and Stephen Hawking",
+      "Rudolph Minkowski and Fritz Zwicky",
+      "Isaac Newton and Galileo Galilei",
+      "Edwin Hubble and Henrietta Leavitt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Chandrasekhar limit?",
+    "choices": [
+      "The maximum mass of a black hole",
+      "The maximum mass a white dwarf can have before collapsing",
+      "The minimum mass a star needs to become a supernova",
+      "The speed of light in a vacuum"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the current view on whether a white dwarf actually reaches the Chandrasekhar limit before a Type Ia supernova?",
+    "choices": [
+      "The white dwarf always exceeds the limit",
+      "The white dwarf never reaches the limit, and collapse is never initiated.",
+      "The white dwarf reaches the limit and collapses into a black hole",
+      "The white dwarf sometimes reaches the limit, depending on its composition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary fuel source for the deflagration flame front in a Type Ia supernova?",
+    "choices": [
+      "Hydrogen fusion",
+      "Helium fusion",
+      "Carbon fusion",
+      "Iron fusion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the typical ejection speed of matter during a Type Ia supernova explosion?",
+    "choices": [
+      "500-1,000 km/s",
+      "5,000-20,000 km/s",
+      "50,000-100,000 km/s",
+      "Close to the speed of light"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the single degenerate progenitor model, what type of star could the white dwarf accrete mass from?",
+    "choices": [
+      "Only a red giant",
+      "Only a main sequence star",
+      "A red giant, subgiant, or even a main sequence star",
+      "Only another white dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens when a white dwarf in a binary system accretes matter from its companion?",
+    "choices": [
+      "It always explodes immediately",
+      "It might explode as a type II supernova",
+      "It may approach the Chandrasekhar limit",
+      "It turns into a neutron star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the estimated percentage of Type Ia supernovae that originate from single degenerate progenitors?",
+    "choices": [
+      "Less than 5%",
+      "No more than 20%",
+      "Approximately 50%",
+      "Over 80%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor is NOT a component of a close binary system in the single degenerate progenitor model?",
+    "choices": [
+      "Main sequence stars",
+      "Asymptotic giant branch star",
+      "Black Hole",
+      "White Dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why does the resulting orbit become so short (a few hours) in the single degenerate progenitor model?",
+    "choices": [
+      "The primary star steals the angular momentum",
+      "Angular momentum is lost",
+      "The orbit expands during the final shared-envelope phase",
+      "The secondary star explodes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the combined mass limit that triggers a Type Ia supernova in the double degenerate progenitor scenario?",
+    "choices": [
+      "0.5 Solar masses",
+      "1.0 Solar masses",
+      "Exceeds the Chandrasekhar limit",
+      "Limited to the Chandrasekhar limit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where do collisions of solitary stars occur more frequently?",
+    "choices": [
+      "Galactic arms",
+      "The halo of a galaxy",
+      "Dense core regions of globular clusters",
+      "Open clusters"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What makes SN 2011fe particularly interesting in regards to the double degenerate scenario?",
+    "choices": [
+      "The companion star must have been smaller than the Sun if it existed",
+      "The companion star was a red giant",
+      "It was an overluminous supernova",
+      "It was an exceptionally dim supernova"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What kind of wave is produced when a pair of white dwarfs spiral inward?",
+    "choices": [
+      "X-rays",
+      "UV radiation",
+      "Gravitational waves",
+      "Radio waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What evidence suggests that the accretion-based model of Ia supernovae might not be as common as previously thought?",
+    "choices": [
+      "The observation of many accretion disks around white dwarfs",
+      "The missing X-ray radiation from accretion discs",
+      "The detection of strong ultraviolet radiation",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is left behind after a Type Iax supernova?",
+    "choices": [
+      "A black hole",
+      "A neutron star",
+      "A zombie star",
+      "Nothing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a known example of a type Iax supernova?",
+    "choices": [
+      "SN 1987A",
+      "SN 2006gy",
+      "SN 2002cx",
+      "SN 1604"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "What makes Pa 30 and IRAS 00500+6713 special?",
+    "choices": [
+      "They are the only SN II remnant in the Milky Way.",
+      "They are the only SN Iax remnant in the Milky Way.",
+      "They are the only hypernova remnant in the Milky Way.",
+      "They are the oldest supernova remnants."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What two types of white dwarfs are involved in the merger resulting in SN 1181?",
+    "choices": [
+      "Two CO white dwarfs",
+      "Two ONe white dwarfs",
+      "CO white dwarf and an ONe white dwarf",
+      "Helium white dwarf and a CO white dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the defining factor that makes Type Iax supernovae different from Type Ia?",
+    "choices": [
+      "They are much brighter than typical Type Ia supernovae.",
+      "They are much dimmer than typical Type Ia supernovae.",
+      "They are the result of core collapse",
+      "They occur only in spiral galaxies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what types of galaxies do Type Ia supernovae generally occur?",
+    "choices": [
+      "Only spiral galaxies",
+      "Only elliptical galaxies",
+      "Only irregular galaxies",
+      "All types of galaxies"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What elements were found in the expanding plasma of SN 2011fe, making it likely the progenitor was a white dwarf?",
+    "choices": [
+      "Hydrogen and helium",
+      "Carbon and oxygen",
+      "Iron and nickel",
+      "Silicon and sulfur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What conclusion was reached following observations of SN PTF 11kx?",
+    "choices": [
+      "All Type Ia supernovae arise from double-degenerate progenitors.",
+      "All Type Ia supernovae arise from single-degenerate progenitors.",
+      "This explosion arises from single-degenerate progenitor, with a red giant companion, thus suggesting there is no single progenitor path to SN Ia.",
+      "The progenitor was a black hole."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is SN PTF 11kx so surprising?",
+    "choices": [
+      "It was a double degenerate system",
+      "It had a red giant companion and experienced periodic nova eruptions",
+      "It was a type II supernova",
+      "It was a hypernova"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did NASA report about KSN 2011b?",
+    "choices": [
+      "It was observed by the Hubble Telescope",
+      "It was found to be a type II supernova",
+      "It was observed exploding by the Kepler space observatory",
+      "It did not exist"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What elements are prominently found in the spectrum of Type Ia supernovae near maximal luminosity?",
+    "choices": [
+      "Hydrogen and Helium",
+      "Intermediate-mass elements from oxygen to calcium",
+      "Heavy elements from iron to uranium",
+      "Exotic elements like antimatter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What element's radioactive decay dominates the energy output of the ejecta at intermediate to late times?",
+    "choices": [
+      "Uranium-238",
+      "Cobalt-60",
+      "Nickel-56",
+      "Carbon-14"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Phillips relationship?",
+    "choices": [
+      "Relationship between temperature and pressure of a star",
+      "Relationship between peak brightness and the amount of nickel-56",
+      "Relationship between a single parameter measured from the light curve can be used to correct unreddened Type Ia supernovae to standard candle values",
+      "Relationship between the luminosity and color of a supernova"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What led to an improved value of the Hubble constant?",
+    "choices": [
+      "Direct observation of black holes",
+      "Improved observations of the Sun",
+      "Improved calibrations of the Cepheid variable distance scale and direct geometric distance measurements to NGC 4258 from the dynamics of maser emission when combined with the Hubble diagram of the Type Ia supernova distances",
+      "Discovery of dark matter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What unexpected result did observations of distant Type Ia supernovae indicate in 1998?",
+    "choices": [
+      "The universe is contracting",
+      "The universe is static",
+      "The universe seems to undergo an accelerating expansion",
+      "The universe is infinite"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a characteristic of 1991T-like Type Ia supernovae?",
+    "choices": [
+      "Exceptionally dim luminosities",
+      "Particularly strong iron absorption lines and abnormally small silicon features",
+      "Strong early titanium absorption features",
+      "Slow photometric evolution"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a characteristic of 1991bg-like Type Ia supernovae?",
+    "choices": [
+      "Overluminous and slow photometric evolution",
+      "Strong early titanium absorption features and rapid photometric and spectral evolution",
+      "Lack of silicon features",
+      "Absence of iron absorption lines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Despite their abnormal luminosities, how are 1991T and 1991bg supernovae standardized?",
+    "choices": [
+      "By using absolute magnitude",
+      "By use of the Phillips relation, defined at blue wavelengths, to determine distance",
+      "By ignoring them",
+      "By measuring their red shift"
+    ],
+    "answer": 1
+  },
+   {
+    "question": "Which element is commonly absorbed by 1991T-like Type Ia supernovae?",
+    "choices": [
+      "Titanium",
+      "Iron",
+      "Silicon",
+      "Carbon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What makes subclasses in Type Ia supernovae reflect significant diversity?",
+    "choices": [
+      "Similar luminosity",
+      "Rapid spectral evolution",
+      "Different progenitor masses",
+      "Various photometric profiles"
+    ],
+    "answer": 3
+  }
+]

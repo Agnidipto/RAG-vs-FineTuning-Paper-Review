@@ -1,0 +1,1002 @@
+[
+    {
+      "question": "What is the average distance of the Moon from the Earth?",
+      "choices": [
+        "149.6 million km (93 million miles)",
+        "384,399 km (238,854 mi)",
+        "1.5 million km (930,000 mi)",
+        "100,000 km (62,000 mi)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary driver of Earth's tides?",
+      "choices": [
+        "The Sun's gravitational pull",
+        "Earth's rotation",
+        "The Moon's pull on Earth",
+        "Ocean currents"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Approximately what percentage of Earth's mass is the Moon's mass?",
+      "choices": [
+        "12%",
+        "1.2%",
+        "25%",
+        "50%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following celestial bodies is the Moon larger and more massive than?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Pluto",
+        "Mercury"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the prevailing theory for the Moon's formation?",
+      "choices": [
+        "Capture theory",
+        "Co-formation theory",
+        "Giant-impact theory",
+        "Fission theory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "From which language is the adjective 'lunar' derived?",
+      "choices": [
+        "Greek",
+        "Old English",
+        "Proto-Germanic",
+        "Latin"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the Greek goddess of the Moon?",
+      "choices": [
+        "Artemis",
+        "Cynthia",
+        "Selene",
+        "Diana"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a poetic name for the Moon?",
+      "choices": [
+        "Luna",
+        "Cynthia",
+        "Selene",
+        "Mona"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the adjective used to describe the study of the physical features of the Moon?",
+      "choices": [
+        "Selenian",
+        "Selenic",
+        "Selenography",
+        "Lunar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the astronomical symbols for the Moon?",
+      "choices": [
+        "Crescent and circle",
+        "Crescent and decrescent",
+        "Star and crescent",
+        "Circle and star"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Isotope dating of lunar samples suggests the Moon formed approximately how long after the origin of the Solar System?",
+      "choices": [
+        "5 million years",
+        "50 million years",
+        "500 million years",
+        "5 billion years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the hypothesized Mars-sized body that impacted the proto-Earth, leading to the Moon's formation?",
+      "choices": [
+        "Gaia",
+        "Theia",
+        "Terra",
+        "Luna"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following best describes the likely composition of the material that formed the Moon, according to current simulations?",
+      "choices": [
+        "Mostly from the proto-Earth",
+        "Mostly from the impactor, Theia",
+        "Equal parts from the proto-Earth and Theia",
+        "Mostly from captured asteroids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of ocean is theorized to have formed on both the Earth and Moon after the giant impact?",
+      "choices": [
+        "Water ocean",
+        "Magma ocean",
+        "Liquid iron ocean",
+        "Methane ocean"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Until approximately how long ago was the Moon volcanically active?",
+      "choices": [
+        "12 million years ago",
+        "120 million years ago",
+        "1.2 billion years ago",
+        "4.2 billion years ago"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is the Moon's shape more elongated than current tidal forces can account for?",
+      "choices": [
+        "It solidified when it orbited at half its current distance to the Earth.",
+        "It is still forming.",
+        "It is made of a less dense material than the Earth.",
+        "It has a strong magnetic field."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which statement best describes the Moon's size relative to its primary planet?",
+      "choices": [
+        "It is the smallest natural satellite in the Solar System relative to its primary planet.",
+        "It is the largest natural satellite in the Solar System relative to its primary planet.",
+        "It is similar in size to other satellites in the Solar System relative to their primary planets.",
+        "It is smaller than Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Moon's mass is approximately what fraction of Earth's mass?",
+      "choices": [
+        "1/4",
+        "1/27",
+        "1/81",
+        "1/100"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the surface gravity on the Moon compared to Earth?",
+      "choices": [
+        "About half",
+        "About one-quarter",
+        "About one-sixth",
+        "About the same"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which statement best describes the internal structure of the Moon?",
+      "choices": [
+        "Uniform density throughout",
+        "Solid iron core, liquid mantle, thin crust",
+        "Differentiated into crust, mantle, and core",
+        "Liquid core, solid mantle, thick crust"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average surface gravity of the Moon?",
+      "choices": [
+        "9.8 m/s²",
+        "3.7 m/s²",
+        "1.62 m/s²",
+        "0.1654 m/s²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are mascons?",
+      "choices": [
+        "Mountains on the Moon",
+        "Large positive gravitational anomalies associated with some of the giant impact basins",
+        "Lunar volcanoes",
+        "Regions of high albedo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes mascons on the Moon?",
+      "choices": [
+        "Dense mare basaltic lava flows",
+        "Impact craters",
+        "Underground water reservoirs",
+        "Tectonic plate movements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What instrument is used to measure the Moon's gravitational field?",
+      "choices": [
+        "Telescopes",
+        "Seismometers",
+        "Orbiting spacecraft by tracking the Doppler shift of radio signals",
+        "Magnetometers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What puzzle exists related to mascons?",
+      "choices": [
+        "They are all linked to mare volcanism.",
+        "Lava flows by themselves explain all of the gravitational signature.",
+        "Some mascons exist that are not linked to mare volcanism.",
+        "They are only found on the far side of the Moon."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Approximately how strong is the Moon's external magnetic field compared to Earth's?",
+      "choices": [
+        "Ten times stronger",
+        "About the same",
+        "One hundred thousandth that of Earth",
+        "Half as strong"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What kind of magnetic field does the Moon primarily have?",
+      "choices": [
+        "Global dipolar magnetic field",
+        "Crustal magnetization",
+        "Strong magnetosphere",
+        "Induced magnetic field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the Moon's magnetic field strength likely close to that of Earth's today?",
+      "choices": [
+        "The present",
+        "Early in its history, 4 billion years ago",
+        "About 1 billion years ago",
+        "Never"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the Moon's early dynamo field apparently expire?",
+      "choices": [
+        "Due to solar wind",
+        "Due to crustal magnetization",
+        "After the lunar core crystallized",
+        "Due to atmospheric erosion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where are the largest crustal magnetizations situated?",
+      "choices": [
+        "Near the equator",
+        "Near the poles",
+        "Near the antipodes of the giant impact basins",
+        "Underneath the maria"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What best describes the Moon's atmosphere?",
+      "choices": [
+        "Dense atmosphere",
+        "Exosphere, which is so tenuous as to be nearly vacuum",
+        "Nitrogen-rich atmosphere",
+        "Oxygen-rich atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the approximate surface pressure of the Moon's atmosphere?",
+      "choices": [
+        "1 atm",
+        "3 x 10^-15 atm",
+        "10 atm",
+        "100 atm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following elements have NOT been detected in the Moon's atmosphere?",
+      "choices": [
+        "Sodium",
+        "Helium-4",
+        "Oxygen",
+        "Argon-40"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to studies of Moon magma samples, what was the thickness of the Moon's atmosphere between 3 and 4 billion years ago, compared to present-day Mars?",
+      "choices": [
+        "Half the thickness",
+        "The same thickness",
+        "Twice the thickness",
+        "Ten times the thickness"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What creates the permanent Moon dust cloud?",
+      "choices": [
+        "Volcanic activity",
+        "Solar wind",
+        "Small particles from comets striking the Moon's surface",
+        "Atmospheric pressure"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average radiation level on the Moon during lunar daytime?",
+      "choices": [
+        "0.1 millisieverts per day",
+        "1.369 millisieverts per day",
+        "10 millisieverts per day",
+        "100 millisieverts per day"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes lunar dust to levitate?",
+      "choices": [
+        "Lunar gravity",
+        "Solar radiation electrically charging the dust",
+        "Wind",
+        "Volcanic activity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the axial tilt of the Moon with respect to the ecliptic?",
+      "choices": [
+        "23.44°",
+        "1.5427°",
+        "5°",
+        "0°"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the temperature range on the lunar surface?",
+      "choices": [
+        "0 °C to 100 °C",
+        "-50 °C to 50 °C",
+        "120 °C to -171 °C",
+        "20 °C to -20 °C"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name of the mostly gray surface layer blanketing the Moon's crust?",
+      "choices": [
+        "Bedrock",
+        "Megaregolith",
+        "Regolith",
+        "Anorthosite"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the largest impact crater on the Moon?",
+      "choices": [
+        "Mare Imbrium",
+        "South Pole–Aitken basin",
+        "Mare Serenitatis",
+        "Mare Crisium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the deepest point on the surface of the Moon?",
+      "choices": [
+        "The floor of the South Pole–Aitken basin",
+        "The bottom of Mare Crisium",
+        "The center of the Imbrium Basin",
+        "The rim of the Orientale basin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How much has the Moon shrunk within the past billion years, according to the discovery of fault scarp cliffs?",
+      "choices": [
+        "9 meters (30 ft)",
+        "90 meters (300 ft)",
+        "900 meters (3,000 ft)",
+        "9 kilometers (30,000 ft)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the significance of the cave near the Sea of Tranquility?",
+      "choices": [
+        "A large number of extraterrestrial life forms have been found.",
+        "It contains deposits of precious metals.",
+        "It is the entry point to a collapsed lava tube that could serve as a shelter for future astronauts.",
+        "It contains a historic lunar artifact."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What temperature can be found in lunar caves on the Moon?",
+      "choices": [
+        "350°C",
+        "17°C",
+        "-100°C",
+        "-23°C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the dark and relatively featureless plains on the Moon called?",
+      "choices": [
+        "Highlands",
+        "Terrae",
+        "Maria",
+        "Regolith"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are sinuous rilles likely formed from?",
+      "choices": [
+        "Tectonic activity",
+        "Erosion by lunar winds",
+        "Extinct lava channels or collapsed lava tubes",
+        "Impact craters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "During which period did most of the Moon's mare basalts erupt?",
+      "choices": [
+        "Pre-Nectarian",
+        "Nectarian",
+        "Imbrian",
+        "Eratosthenian"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where are most maria located?",
+      "choices": [
+        "Far side of the Moon",
+        "Near side of the Moon",
+        "Polar regions",
+        "Highlands"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the lighter-colored regions of the Moon called?",
+      "choices": [
+        "Maria",
+        "Rilles",
+        "Highlands",
+        "Craters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What geological process has most affected the Moon's surface?",
+      "choices": [
+        "Volcanism",
+        "Tectonic activity",
+        "Impact cratering",
+        "Erosion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the basic type of smaller lunar craters characterized by?",
+      "choices": [
+        "Smooth bowl-shaped interiors and upturned rims",
+        "Flat floors and central peaks",
+        "Terraced walls",
+        "Concentric rings of peaks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the lunar geologic timescale based on?",
+      "choices": [
+        "Volcanic activity",
+        "The most prominent impact events",
+        "Tectonic plate movements",
+        "Erosion patterns"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are many lunar craters well-preserved?",
+      "choices": [
+        "Due to a thick atmosphere",
+        "Due to continuous rainfall",
+        "Due to the lack of an atmosphere, weather, and recent geological processes",
+        "Due to protection by strong magnetic field"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are secondary craters?",
+      "choices": [
+        "Craters formed by volcanic activity",
+        "Craters that are much smaller than the primary craters",
+        "Craters created by ejecta from impacts",
+        "Craters that formed at the poles of the moon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are lunar swirls characterized by?",
+      "choices": [
+        "Low albedo",
+        "High albedo",
+        "Smooth texture",
+        "Rounded shape"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the surface appearance of swirls?",
+      "choices": [
+        "Optically mature",
+        "Optically old",
+        "Optically immature",
+        "Optically eroded"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What shape do lunar swirls often have?",
+      "choices": [
+        "Sinuous",
+        "Rounded",
+        "Square",
+        "Irregular"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What feature is often accentuated by lunar swirls?",
+      "choices": [
+        "High albedo regions",
+        "Low albedo regions",
+        "Magnetic fields",
+        "Ejecta fields"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the hypothesized cause for slower weathering in lunar swirl regions?",
+      "choices": [
+        "Shielding from the solar wind",
+        "Higher atmospheric pressure",
+        "Lower temperatures",
+        "Increased volcanic activity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why can't liquid water persist on the lunar surface?",
+      "choices": [
+        "Low gravity",
+        "Extreme temperature",
+        "Photodissociation due to solar radiation",
+        "Lack of atmosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is believed to be a possible source of water ice on the Moon?",
+      "choices": [
+        "Lunar volcanoes",
+        "Earth's atmosphere",
+        "Impacting comets",
+        "Subsurface aquifers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which spacecraft confirmed the existence of surface water ice on the Moon?",
+      "choices": [
+        "Clementine",
+        "Lunar Prospector",
+        "Chandrayaan-1",
+        "LCROSS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the LCROSS impactor detect in the plume of ejected material from a permanently shadowed polar crater?",
+      "choices": [
+        "Carbon dioxide",
+        "Methane",
+        "At least 100 kg of water",
+        "Nitrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where were the ice deposits on the Moon found?",
+      "choices": [
+        "Equatorial regions",
+        "North and South poles",
+        "Impact craters",
+        "Lunar highlands"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is the barycenter of the Earth-Moon system located?",
+      "choices": [
+        "At the Earth's core",
+        "At the Moon's center",
+        "1,700 km (1,100 mi) beneath the Earth's surface",
+        "Midway between Earth and Moon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the approximate semi-major axis of the geocentric lunar orbit, also known as the lunar distance?",
+      "choices": [
+        "150,000 km",
+        "400,000 km",
+        "1 million km",
+        "3 million km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the reason for only one side of the Moon being visible from Earth?",
+      "choices": [
+        "The Moon doesn't rotate.",
+        "Tidal locking resulting in a 1:1 spin-orbit resonance.",
+        "The far side is always in shadow.",
+        "The Moon's orbit is circular."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How is the Moon's orbit different from most satellites of other planets?",
+      "choices": [
+        "It's closer to the planet's equatorial plane",
+        "It's closer to the ecliptic plane than to the planet's equatorial plane",
+        "It has no perturbations",
+        "It is stationary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the effects of the Sun and Earth on the Moon's orbit?",
+      "choices": [
+        "They have no effect.",
+        "They cause no detectable change in its orbit.",
+        "They subtly perturb the Moon's orbit in many small, complex, and interacting ways.",
+        "The cause the moon to move farther from the Earth"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary effect of the gravitational attraction between Earth and the Moon?",
+      "choices": [
+        "Volcanic activity",
+        "Ocean tides",
+        "Earthquakes",
+        "Magnetic field generation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How much does the lunar solid crust experience tides?",
+      "choices": [
+        "1 mm",
+        "1 cm",
+        "10 cm",
+        "1 m"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can the Moon's influence on the Earth contribute to, according to recent research?",
+      "choices": [
+        "Maintaining Earth's tectonic activity",
+        "Maintaining Earth's magnetic field",
+        "Maintaining Earth's atmosphere",
+        "Maintaining Earth's surface temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are moonquakes?",
+      "choices": [
+        "A common type of seismic activity.",
+        "More frequent than earthquakes.",
+        "Much less common and weaker than earthquakes.",
+        "Not possible on the Moon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the Sun contribute to Earth's tides?",
+      "choices": [
+        "The Sun has no tidal influence on Earth.",
+        "The Sun contributes as much as 40% of the Moon's tidal force.",
+        "The Sun cancels out the Moon's tidal force.",
+        "The Sun is the primary contributor to tides."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is tidal acceleration?",
+      "choices": [
+        "The slowing of Earth's rotation due to tides",
+        "The increase in the Moon's orbital speed",
+        "The transfer of angular momentum from Earth to the Moon, lifting the Moon into a higher orbit",
+        "The decrease in the distance between Earth and Moon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How much is the distance between Earth and Moon increasing per year?",
+      "choices": [
+        "3.8 mm",
+        "38 mm",
+        "38 cm",
+        "3.8 m"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "By how much does Earth's Day lengthen every year?",
+      "choices": [
+        "1.7 microseconds",
+        "17 microseconds",
+        "17 milliseconds",
+        "1.7 seconds"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the theoretical end result of tidal drag, if the Earth–Moon system isn't engulfed by the Sun?",
+      "choices": [
+        "The Earth and Moon will collide.",
+        "The Earth's rotation will match the Moon's orbital period, causing the Earth to always present the same side to the Moon.",
+        "The Moon will leave Earth's orbit.",
+        "The Earth's rotation will speed up."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What could happen to the Moon if the drag from the solar atmosphere causes its orbit to decay to a certain distance?",
+      "choices": [
+        "It will collide with the Earth.",
+        "It will turn into a ring system.",
+        "It will become a dwarf planet.",
+        "It will be ejected from the Solar System."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What influences the Moon's highest altitude at culmination?",
+      "choices": [
+        "The Earth's rotation rate",
+        "The Moon's rotation rate",
+        "Its lunar phase and the time of year",
+        "Solar flares"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What phenomenon is referred to as a 'wet moon'?",
+      "choices": [
+        "The color of the moon when wet",
+        "The 'horns' of a crescent moon appearing to be pointing more upwards than sideways",
+        "The appearance of the moon during the rainy season",
+        "The appearance of ice on the moon's surface"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the average range in the Moon's angular diameter?",
+      "choices": [
+        "About 0.1°",
+        "About 0.52°",
+        "About 1°",
+        "About 10°"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes the psychological effect known as the Moon illusion?",
+      "choices": [
+        "The moon is closer to the Earth at night",
+        "The atmosphere bends the light of the moon at night",
+        "The moon appears larger when close to the horizon",
+        "The brain misinterprets the moon's angular diameter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the apparent orientation of the Moon change based on the hemisphere of Earth from which it is viewed?",
+      "choices": [
+        "It doesn't change",
+        "The near side becomes the far side",
+        "The image of the moon in the northern hemisphere appears upside down compared to the view from the southern hemisphere",
+        "It changes color"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What causes the Moon to always keep nearly the same face turned towards the Earth?",
+      "choices": [
+        "It's orbit around the Sun",
+        "Gravitational forces from other planets",
+        "Tidally locked synchronous rotation",
+        "Its slow rotation rate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the side of the Moon that faces Earth called?",
+      "choices": [
+        "Dark Side",
+        "New Side",
+        "Near Side",
+        "Far Side"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How did the Moon's rotation change early in its history?",
+      "choices": [
+        "It sped up",
+        "It remained constant",
+        "It slowed and became tidally locked",
+        "It stopped rotating altogether"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the location of the hydrogen-rich areas found on opposite sides of the Moon speculated to be?",
+      "choices": [
+        "New water ice",
+        "The poles of the Moon billions of years ago before it was tidally locked to Earth",
+        "Hydrocarbon deposits",
+        "Underground water reservoirs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Is the 'dark side' of the moon really dark?",
+      "choices": [
+        "Yes, it is always dark",
+        "It is in fact illuminated as often as the near side: once every 29.5 Earth days",
+        "It is dark during a lunar eclipse",
+        "It is dark during a solar eclipse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What determines the different lunar phases?",
+      "choices": [
+        "The temperature of the moon",
+        "Volcanic activity",
+        "Different areas of it are illuminated by the Sun",
+        "The Earth's axial tilt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is Earthlight?",
+      "choices": [
+        "Sunlight reflecting on the Earth",
+        "The reflection of light onto the Earth from the Moon",
+        "Light reflected back to Earth from areas of the near side of the Moon that are not illuminated by the Sun",
+        "Lunar light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The brightness and apparent size of the Moon changes also due to its...",
+      "choices": [
+        "Elliptic orbit around Earth",
+        "Shape",
+        "Albedo",
+        "Magnetic field"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During a supermoon the solid angle of the Moon is up to",
+      "choices": [
+        "10% larger",
+        "30% larger",
+        "14% larger",
+        "The same size"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The amount of sunlight falling on horizontal areas near the lunar poles depends on the",
+      "choices": [
+        "Altitude angle of the Sun",
+        "Magnetic field",
+        "Albedo",
+        "Number of impact craters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are lunar transient phenomena?",
+      "choices": [
+        "Permanent surface features",
+        "Illusory observations of surface changes due to lighting conditions",
+        "Actual surface changes caused by tectonic activity",
+        "Outgassing which could be responsible for a minor percentage of the reported lunar transient phenomena"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What has been suggested to have modified a region of the lunar surface roughly 3 km (1.9 mi) in diameter about a million years ago?",
+      "choices": [
+        "Outgassing",
+        "Volcanic activity",
+        "Erosion",
+        "Impact cratering"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the Moon's albedo?",
+      "choices": [
+        "Very high, like snow",
+        "Exceptionally low, slightly brighter than worn asphalt",
+        "About the same as Earth's",
+        "Reflects all colors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main reason the Moon is the brightest object in the night sky after the Sun?",
+      "choices": [
+        "Due to its high albedo",
+        "Due to its large angular diameter and color constancy in the visual system",
+        "Due to volcanic activity",
+        "Due to its proximity to Earth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the color constancy in the visual system perceive the sunlit Moon as a bright object?",
+      "choices": [
+        "Because the Moon reflects sunlight better than any other object",
+        "Because the Moon produces its own light",
+        "Because the Moon is surrounded by a comparatively dark sky",
+        "Because of special chemical compositions"
+      ],
+      "answer": 2
+    }
+]

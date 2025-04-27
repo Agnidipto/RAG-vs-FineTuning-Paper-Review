@@ -1,0 +1,793 @@
+[
+  {
+    "question": "Early cultures often associated celestial objects with which of the following?",
+    "choices": [
+      "Random occurrences",
+      "Gods and spirits",
+      "Scientific principles",
+      "Trade routes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is generally believed to be the profession of the first astronomers?",
+    "choices": [
+      "Merchants",
+      "Farmers",
+      "Priests",
+      "Soldiers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which constellation is possibly represented on a 32,500-year-old ivory mammoth tusk?",
+    "choices": [
+      "Ursa Major",
+      "Orion",
+      "Leo",
+      "Gemini"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ancient structures like Stonehenge likely served which of the following functions?",
+    "choices": [
+      "Solely religious",
+      "Solely social",
+      "Solely residential",
+      "Astronomical, religious, and social"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Calendars were particularly important to which type of societies?",
+    "choices": [
+      "Nomadic tribes",
+      "Agricultural societies",
+      "Hunter-gatherer communities",
+      "Industrialized nations"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Warren Field calendar, the oldest known calendar, was created around what time period?",
+    "choices": [
+      "8,000 BC",
+      "5,000 BC",
+      "3,000 BC",
+      "1,000 BC"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Warren Field calendar helps observers track what?",
+    "choices": [
+      "Solar eclipses",
+      "Lunar months",
+      "Planetary alignments",
+      "Cometary orbits"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Goseck circle is located in which present-day country?",
+    "choices": [
+      "France",
+      "Germany",
+      "Spain",
+      "Italy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What celestial phenomenon is depicted on the Nebra sky disc?",
+    "choices": [
+      "A solar eclipse",
+      "The full moon, crescent moon, and Pleiades",
+      "A comet",
+      "The planets of the solar system"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Kokino site in North Macedonia was used to observe what?",
+    "choices": [
+      "The motions of planets",
+      "The rising of the Sun and full moon",
+      "Solar eclipses",
+      "The movement of constellations"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Mesopotamian civilization was located in what region?",
+    "choices": [
+      "The Nile River Valley",
+      "The Indus River Valley",
+      "The land between the Tigris and Euphrates rivers",
+      "The Iberian Peninsula"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the writing system that emerged among the Sumerians?",
+    "choices": [
+      "Hieroglyphics",
+      "Cuneiform",
+      "Demotic",
+      "Aramaic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What number system, still used today, originated in Mesopotamia?",
+    "choices": [
+      "Binary (base 2)",
+      "Decimal (base 10)",
+      "Sexagesimal (base 60)",
+      "Duodecimal (base 12)"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "Who is the earliest known astronomer and poet by name?",
+    "choices": [
+      "Hammurabi",
+      "Gilgamesh",
+      "Enheduanna",
+      "Ashurbanipal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The MUL.APIN contains what information?",
+    "choices": [
+      "Codes of law",
+      "Religious hymns",
+      "Star catalogues and schemes for predicting heliacal risings",
+      "Medical texts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The earliest use of astronomy in India was for which purpose?",
+    "choices": [
+      "Predicting weather patterns",
+      "Creating calendars",
+      "Navigating trade routes",
+      "Building temples"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which text is the oldest extant Indian astronomical text?",
+    "choices": [
+      "The Rigveda",
+      "The Upanishads",
+      "The Vedanga Jyotisha",
+      "The Mahabharata"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian astronomer propounded a computational system based on a planetary model in which the Earth was taken to be spinning on its axis?",
+    "choices": [
+      "Varāhamihira",
+      "Brahmagupta",
+      "Aryabhata",
+      "Bhāskara II"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Shunga period in India is known as the:",
+    "choices": [
+      "Iron age of astronomy",
+      "Stone age of astronomy",
+      "Bronze age of astronomy",
+      "Golden age of astronomy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Indian astronomers by the sixth century believe about comets?",
+    "choices": [
+      "They were omens of bad luck",
+      "They were celestial bodies that re-appeared periodically",
+      "They were atmospheric phenomena",
+      "They were fragments of other planets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first to suggest a heliocentric system?",
+    "choices": [
+      "Ptolemy",
+      "Aristotle",
+      "Aristarchus of Samos",
+      "Eratosthenes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which astronomer made the first measurement of precession?",
+    "choices": [
+      "Aristarchus of Samos",
+      "Eratosthenes",
+      "Hipparchus of Nicea",
+      "Apollonius of Perga"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who estimated the circumference of the Earth with great accuracy?",
+    "choices": [
+      "Aristarchus of Samos",
+      "Eratosthenes",
+      "Hipparchus of Nicea",
+      "Apollonius of Perga"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the Greek astronomical device for calculating the movements of the Sun and the Moon?",
+    "choices": [
+      "Astrolabe",
+      "Quadrant",
+      "Antikythera mechanism",
+      "Armillary sphere"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The acme of Classical physical astronomy is associated with which astronomer?",
+    "choices": [
+      "Aristarchus of Samos",
+      "Eratosthenes",
+      "Hipparchus of Nicea",
+      "Ptolemy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which star was the pole star during the time the Egyptian pyramids were built?",
+    "choices": [
+      "Polaris",
+      "Sirius",
+      "Thuban",
+      "Vega"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Egyptians believed that the heliacal rising of which star foretold the flooding of the Nile?",
+    "choices": [
+      "Polaris",
+      "Sirius",
+      "Thuban",
+      "Vega"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the Astrologer's instruments according to Clement of Alexandria?",
+    "choices": [
+      "Telescope and compass",
+      "Microscope and astrolabe",
+      "Plumb line and sighting instrument",
+      "Sextant and sundial"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What role did astronomy play in religious matters in ancient Egypt?",
+    "choices": [
+      "Determining the hours of the night",
+      "Fixing the dates of festivals",
+      "Predicting the weather",
+      "Determining the layout of city walls",
+      "Both A and B"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "The Egyptians associated which star with Anubis, their jackal-headed god?",
+    "choices": [
+      "Sirius",
+      "Polaris",
+      "Vega",
+      "Canopus"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "The knowledge of Chinese astronomy was introduced into where?",
+    "choices": [
+      "North America",
+      "South America",
+      "East Asia",
+      "Europe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which type of calendar did the Chinese use?",
+    "choices": [
+      "Solar",
+      "Lunar",
+      "Lunisolar",
+      "Planetary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Chinese term for 'guest stars'?",
+    "choices": [
+      "Taiyang",
+      "Yueliang",
+      "Kexing",
+      "Xingxing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gan De, a Chinese astronomer, is known for creating what?",
+    "choices": [
+      "The first telescope",
+      "The first star catalogue",
+      "The first sundial",
+      "The first calendar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the primary purpose of much of early Chinese astronomy?",
+    "choices": [
+      "Navigation",
+      "Predicting weather patterns",
+      "Timekeeping",
+      "Studying planetary motions"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What was considered vital to the Cosmology of the Maya?",
+    "choices": [
+      "The planets' composition",
+      "The speed of the sun",
+      "The Milky Way",
+      "The shape of the Earth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which planet was considered the patron of war by the ancient Maya?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to John Teeple, how accurate was the Maya calculation of the solar year compared to the Gregorian calendar?",
+    "choices": [
+      "Less accurate",
+      "Equally accurate",
+      "Somewhat greater accuracy",
+      "Significantly less accurate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which celestial bodies did the Maya believe were gods?",
+    "choices": [
+      "Stars only",
+      "Moons only",
+      "Planets only",
+      "Stars, moons, and planets"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did the Maya base their calendrics on?",
+    "choices": [
+      "Carefully calculated cycles of the Pleiades",
+      "Weather patters",
+      "Number of births recorded",
+      "Civil war dates"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What was an important contribution by Islamic astronomers?",
+    "choices": [
+      "Emphasis on observational astronomy",
+      "Emphasis on Theoretical astronomy",
+      "Emphasis on building libraries",
+      "Emphasis on astrological beliefs"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which galaxy was first described and pictured by Abd al-Rahman al-Sufi?",
+    "choices": [
+      "Triangulum Galaxy",
+      "Andromeda Galaxy",
+      "Whirlpool Galaxy",
+      "Sombrero Galaxy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Ibn al-Haytham (Alhazen) separate from astronomy in the 11th century?",
+    "choices": [
+      "Astrology",
+      "Mathematics",
+      "Natural philosophy (particularly Aristotelian physics)",
+      "Calendar-making"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Omar Khayyám compiled tables and performed a reformation of which system?",
+    "choices": [
+      "Longitude",
+      "Planets",
+      "Calendar",
+      "Stars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What were Zij star catalogues?",
+    "choices": [
+      "Astronomical tools",
+      "Star catalogues",
+      "Religious tools",
+      "Astrological Charts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who calculated the time taken for the Sun to orbit the Earth to nine decimal places?",
+    "choices": [
+      "Aryabhata",
+      "Brahmagupta",
+      "Bhāskara II",
+      "Madhava of Sangamagrama"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which university in India offered formal courses in astronomical studies?",
+    "choices": [
+      "Taxila",
+      "Nalanda",
+      "Vikramashila",
+      "Vallabhi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Kerala school astronomer developed a partially heliocentric planetary model?",
+    "choices": [
+      "Aryabhata",
+      "Bhāskara II",
+      "Madhava of Sangamagrama",
+      "Nilakantha Somayaji"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Nilakantha's heliocentric planetary model had which of the following orbiting the Sun?",
+    "choices": [
+      "Sun and Moon",
+      "Mercury, Venus, Mars, Jupiter and Saturn",
+      "Mercury and the Sun",
+      "The Earth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the head of the astronomical observatory at Ujjain, continuing the mathematical tradition of Brahmagupta?",
+    "choices": [
+      "Aryabhata",
+      "Bhāskara II",
+      "Madhava of Sangamagrama",
+      "Nilakantha Somayaji"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which bishop noted that he had learned his astronomy from reading Martianus Capella?",
+    "choices": [
+      "Bishop Gregory of Tours",
+      "Bishop John of Tours",
+      "Bishop Patrick of Tours",
+      "Bishop Augustine of Tours"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What did the English monk Bede of Jarrow publish an influential text on?",
+    "choices": [
+      "The motion of stars",
+      "The motion of planets",
+      "Reckoning of Time",
+      "Religious doctrines"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where did European scholars travel to seek out learning in the Arabic-speaking world?",
+    "choices": [
+      "Spain and Sicily",
+      "Spain and Italy",
+      "Spain and Germany",
+      "Spain and Great Britain"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote a series of influential introductory astronomy textbooks: the Sphere, a Computus, a text on the Quadrant, and another on Calculation?",
+    "choices": [
+      "John Locke",
+      "John the Baptist",
+      "John of Sacrobosco",
+      "Saint John"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which bishop showed that neither the scriptural texts nor the physical arguments advanced against the movement of the Earth were demonstrative?",
+    "choices": [
+      "Bishop Patrick of Tours",
+      "Bishop Augustine of Tours",
+      "Bishop Gregory of Tours",
+      "Nicole Oresme"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In what year was Nicolaus Copernicus's De revolutionibus orbium coelestium published?",
+    "choices": [
+      "1453",
+      "1543",
+      "1643",
+      "1743"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who created the Tychonic system?",
+    "choices": [
+      "Johannes Kepler",
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of Kepler's laws states that the orbit of a planet is an ellipse with the Sun at one of the two foci?",
+    "choices": [
+      "Kepler's First Law",
+      "Kepler's Second Law",
+      "Kepler's Third Law",
+      "Kepler's Fourth Law"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What did Galileo Galilei discover using a telescope in 1610?",
+    "choices": [
+      "Rings of Saturn",
+      "Four largest moons of Jupiter",
+      "The phases of Mars",
+      "Uranus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Sir Isaac Newton's most famous law?",
+    "choices": [
+      "Law of Thermodynamics",
+      "Law of Conservation of Energy",
+      "Law of Universal Gravitation",
+      "Law of Motion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What theory held sway in France for some time after Newton's?",
+    "choices": [
+      "Theory of Relativity",
+      "Theory of Vortices",
+      "Theory of Quantum Mechanics",
+      "Theory of Plate Tectonics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Halley predict the return of the comet that bears his name?",
+    "choices": [
+      "1658",
+      "1758",
+      "1858",
+      "1958"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who found the first new planet to be observed in modern times, Uranus?",
+    "choices": [
+      "Edmond Halley",
+      "William Herschel",
+      "Johannes Kepler",
+      "Isaac Newton"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which law was used to disclose the gap between the planets Mars and Jupiter?",
+    "choices": [
+      "Titius–Bode law",
+      "Kepler's Law",
+      "Newton's law",
+      "Halley's Law"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What is the name given to the idea that the stars are distant suns, perhaps with their own planetary systems?",
+    "choices": [
+      "Cosmic pluralism",
+      "Heliocentrism",
+      "Geocentrism",
+      "Stellar evolution"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which astronomer was burned at the stake for his beliefs, including the idea that stars were distant suns?",
+    "choices": [
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Giordano Bruno"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which astronomer published the first measurements of the proper motion of a pair of nearby 'fixed' stars?",
+    "choices": [
+      "Tycho Brahe",
+      "Giordano Bruno",
+      "William Herschel",
+      "Edmond Halley"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "During the 1780s, which astronomer established a series of gauges in 600 directions to determine the distribution of stars in the sky?",
+    "choices": [
+      "Giordano Bruno",
+      "Edmond Halley",
+      "William Herschel",
+      "John Herschel"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Besides discovering Uranus, what else is William Herschel noted for?",
+    "choices": [
+      "Discovering that the Moon is made of cheese",
+      "Discovering binary star systems",
+      "Discovering the rings of Saturn",
+      "Discovering that the Earth is flat"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What was the earliest known astronomical photograph of?",
+    "choices": [
+      "Stars",
+      "Planets",
+      "The Sun",
+      "The Moon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In 1865, Secchi began classifying stars into what?",
+    "choices": [
+      "Constellations",
+      "Asteroid Fields",
+      "Spectral Types",
+      "Galaxies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was the first evidence of helium observed?",
+    "choices": [
+      "August 18, 1868",
+      "August 18, 1878",
+      "August 18, 1888",
+      "August 18, 1898"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What technique did Friedrich Bessel use to make the first direct measurement of the distance to a star?",
+    "choices": [
+      "Redshift",
+      "Parallax",
+      "Spectroscopy",
+      "Interferometry"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "Who discovered a comet using a telescope in 1847?",
+    "choices": [
+      "Caroline Herschel",
+      "Maria Mitchell",
+      "Vera Rubin",
+      "Henrietta Swan Leavitt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What role did the Harvard Computers play in astronomy?",
+    "choices": [
+      "Building telescopes",
+      "Performing tedious calculations",
+      "Writing astronomical theories",
+      "Discovering new planets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered the cepheid variable star period-luminosity relation?",
+    "choices": [
+      "Annie J. Cannon",
+      "Cecilia Payne-Gaposchkin",
+      "Vera Rubin",
+      "Henrietta Swan Leavitt"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Annie J. Cannon is known for developing the modern version of what?",
+    "choices": [
+      "Telescopes",
+      "Stellar classification scheme",
+      "Interferometers",
+      "Photoelectric photometer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cecilia Payne-Gaposchkin first proposed that stars were made primarily of what?",
+    "choices": [
+      "Iron and nickel",
+      "Carbon and oxygen",
+      "Hydrogen and helium",
+      "Silicon and magnesium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who settled the existence of external galaxies by identifying the Andromeda nebula as a different galaxy?",
+    "choices": [
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Isaac Newton",
+      "Edwin Hubble"
+    ],
+    "answer": 3
+  }
+]

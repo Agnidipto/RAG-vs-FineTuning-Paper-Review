@@ -1,0 +1,892 @@
+[
+    {
+      "question": "What is electromagnetic radiation (EMR)?",
+      "choices": [
+        "A stationary electric field.",
+        "A self-propagating wave of the electromagnetic field that carries momentum and radiant energy through space.",
+        "A stream of charged particles.",
+        "Sound waves traveling through a vacuum."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a form of electromagnetic radiation?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "Sound waves",
+        "X-rays"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What speed do all forms of EMR travel at in a vacuum?",
+      "choices": [
+        "Slower than the speed of sound.",
+        "Varies depending on the frequency.",
+        "The speed of light.",
+        "Instantaneously."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the relationship between frequency and wavelength of electromagnetic radiation?",
+      "choices": [
+        "They are directly proportional.",
+        "They are inversely proportional.",
+        "They are unrelated.",
+        "They are equal."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the quantum mechanical view of EMR?",
+      "choices": [
+        "EMR consists of continuous waves.",
+        "EMR consists of discrete particles called photons.",
+        "EMR is only a theoretical construct.",
+        "EMR is not governed by quantum mechanics."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes electromagnetic radiation to be produced?",
+      "choices": [
+        "Stationary charged particles.",
+        "Accelerating charged particles.",
+        "Neutral atoms.",
+        "Constant magnetic fields."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The energy in electromagnetic waves is sometimes called:",
+      "choices": [
+        "Kinetic Energy",
+        "Radiant Energy",
+        "Potential Energy",
+        "Thermal Energy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Does the energy of electromagnetic waves need a propagating medium to travel through space?",
+      "choices": [
+        "Yes, it needs a medium like air or water.",
+        "No, it can travel through a vacuum.",
+        "Only for high-frequency waves.",
+        "Only for low-frequency waves."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the principle of superposition, what happens when multiple electromagnetic fields exist in the same space?",
+      "choices": [
+        "They cancel each other out.",
+        "They average out.",
+        "They add together according to vector addition.",
+        "The strongest field dominates."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can occur when two or more coherent light waves interact?",
+      "choices": [
+        "They always cancel each other.",
+        "They always amplify each other.",
+        "They can constructively or destructively interfere.",
+        "They pass through each other without any interaction."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In homogenous, isotropic media, electromagnetic radiation is a:",
+      "choices": [
+        "Longitudinal wave",
+        "Transverse wave",
+        "Standing wave",
+        "Surface wave"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the far-field EM radiation, a time-change in one type of field is proportional to the curl of the other. What does this imply for the E and B fields in EMR?",
+      "choices": [
+        "The E and B fields are out of phase.",
+        "The E and B fields are in phase.",
+        "The E and B fields are independent of each other.",
+        "Only the E field is significant."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a monochromatic wave?",
+      "choices": [
+        "A wave with multiple frequencies.",
+        "A wave of a single frequency.",
+        "A wave with varying amplitude.",
+        "A wave with no defined wavelength."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the relationship between frequency and wavelength?",
+      "choices": [
+        "Directly proportional",
+        "Inversely proportional",
+        "No relationship",
+        "Equal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "As electromagnetic waves cross boundaries between different media, what happens to their speed and frequency?",
+      "choices": [
+        "Speed and frequency both change.",
+        "Speed changes, frequency remains constant.",
+        "Speed remains constant, frequency changes.",
+        "Both speed and frequency remain constant."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of Maxwell's equations did Maxwell refine with a displacement current term?",
+      "choices": [
+        "Gauss's law",
+        "Gauss's law for magnetism",
+        "Faraday's Law of Induction and Ampere's circuital law",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Maxwell conclude after discovering that the speed of EM waves predicted by his equations matched the measured speed of light?",
+      "choices": [
+        "EM waves are slower than light",
+        "Light itself is an EM wave",
+        "Light is made of particles",
+        "His equations were incorrect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who experimentally confirmed Maxwell's equations using radio waves?",
+      "choices": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Heinrich Hertz",
+        "Isaac Newton"
+      ],
+      "answer": 2
+    },
+     {
+      "question": "What did Maxwell view as the cause of the magnetic field associated with the displacement current?",
+      "choices": [
+        "The motion of free charges",
+        "The motion of bound charges",
+        "The alignment of magnetic dipoles",
+        "The absence of electric fields"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the other two Maxwell's equations?",
+      "choices": [
+        "Newton's Law and Law of Thermodynamics",
+        "Faraday's Law and Ampère's Law",
+        "Gauss's Law and Gauss's Law for Magnetism",
+        "Special and General Relativity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which type of electromagnetic field does NOT radiate energy freely into space?",
+      "choices": [
+        "Far field",
+        "Near field",
+        "Electromagnetic radiation field",
+        "Radiating field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which field declines with distance according to an inverse-cube law?",
+      "choices": [
+        "Far field",
+        "Near field",
+        "Radiating field",
+        "Electromagnetic radiation field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main difference between near field and far field radiation?",
+      "choices": [
+        "Near field propagates freely while far field does not",
+        "Far field propagates freely while near field does not",
+        "Near field travels at the speed of light while far field travels faster",
+        "Far field is stronger than near field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which part of electromagnetic field is electromagnetic radiation?",
+      "choices": [
+        "Near field",
+        "Far field",
+        "Magnetic Dipole Field",
+        "Electric Dipole Field"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the inverse-square law, how does the power density of EM radiation from an isotropic source decrease with distance?",
+      "choices": [
+        "Linearly with distance",
+        "With the inverse of the distance",
+        "With the inverse square of the distance",
+        "Exponentially with distance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who developed the theory of black-body radiation that introduced the concept of quanta?",
+      "choices": [
+        "Albert Einstein",
+        "Max Planck",
+        "Niels Bohr",
+        "Werner Heisenberg"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Einstein propose about light quanta in 1905?",
+      "choices": [
+        "They are just theoretical constructs.",
+        "They are real particles.",
+        "They behave only as waves.",
+        "They have infinite mass."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What experimental observation led Einstein to propose the particle theory of light?",
+      "choices": [
+        "The double-slit experiment",
+        "The Compton effect",
+        "The photoelectric effect",
+        "Black body radiation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens when an electron in an excited atom descends to a lower energy level?",
+      "choices": [
+        "It absorbs a photon.",
+        "It emits a photon of light.",
+        "It becomes ionized.",
+        "It does not change energy."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The energy of a photon is directly proportional to:",
+      "choices": [
+        "Its wavelength.",
+        "Its speed.",
+        "Its frequency.",
+        "Its mass."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What concept does the modern theory explaining the nature of light include?",
+      "choices": [
+        "Wave-only behavior",
+        "Particle-only behavior",
+        "Wave-particle duality",
+        "Constant speed of light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens during observation according to the concept of wave-particle duality?",
+      "choices": [
+        "The wave function collapses.",
+        "The particle disappears.",
+        "The wave function is amplified.",
+        "The particle's mass increases."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What determines the nature of absorption and emission spectrum of EM radiation?",
+      "choices": [
+        "The speed of light.",
+        "The temperature of the source.",
+        "The matter-composition of the medium through which the light travels.",
+        "The observer's location."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are dark bands in an absorption spectrum due to?",
+      "choices": [
+        "Emission of light at specific frequencies.",
+        "Absorption of light at specific frequencies by atoms in an intervening medium.",
+        "Reflection of light off the observer's eye.",
+        "Diffraction of light by the source."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the relationship between light speed in a medium and the refractive index?",
+      "choices": [
+        "Inversely proportional",
+        "Directly proportional",
+        "Equal",
+        "Unrelated"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What determines the speed of electromagnetic waves in matter?",
+      "choices": [
+        "Only the electric permittivity.",
+        "Only the magnetic permeability.",
+        "Both the electric permittivity and magnetic permeability.",
+        "The mass of the atoms in the medium."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a non-dispersive medium?",
+      "choices": [
+        "A medium where EM waves cannot travel.",
+        "A medium where all EM wave frequencies travel at different velocities.",
+        "A medium where all EM wave frequencies travel at the same velocity.",
+        "A medium that absorbs all EM waves."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In a dispersive medium, what happens to an arbitrary wave as it travels through the medium?",
+      "choices": [
+        "It maintains its shape and speed.",
+        "It slows down but maintains its shape.",
+        "It changes shape as it travels.",
+        "It stops propagating."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the formula for the velocity of waves in a medium where permittivity is ε and permeability is μ?",
+      "choices": [
+        "v = √(εμ)",
+        "v = 1/√(εμ)",
+        "v = εμ",
+        "v = 1/(εμ)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered infrared radiation?",
+      "choices": [
+        "Johann Wilhelm Ritter",
+        "James Clerk Maxwell",
+        "William Herschel",
+        "Wilhelm Röntgen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who discovered ultraviolet radiation?",
+      "choices": [
+        "William Herschel",
+        "Johann Wilhelm Ritter",
+        "Heinrich Hertz",
+        "Marie Curie"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who first produced radio waves deliberately?",
+      "choices": [
+        "James Clerk Maxwell",
+        "Heinrich Hertz",
+        "Wilhelm Röntgen",
+        "Guglielmo Marconi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered X-rays?",
+      "choices": [
+        "Henri Becquerel",
+        "Marie Curie",
+        "Ernest Rutherford",
+        "Wilhelm Röntgen"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who discovered gamma rays?",
+      "choices": [
+        "Henri Becquerel",
+        "Marie Curie",
+        "Paul Villard",
+        "Ernest Rutherford"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How is electromagnetic radiation classified?",
+      "choices": [
+        "By temperature.",
+        "By chemical composition.",
+        "By wavelength or frequency.",
+        "By intensity."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What mathematical technique is used to express arbitrary electromagnetic waves?",
+      "choices": [
+        "Calculus",
+        "Fourier analysis",
+        "Linear algebra",
+        "Differential equations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to the energy of photons as frequency increases?",
+      "choices": [
+        "Energy decreases.",
+        "Energy remains constant.",
+        "Energy increases.",
+        "Energy becomes zero."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Do electromagnetic radiation have a fundamental limit known to these wavelengths or energies, at either end of the spectrum?",
+      "choices": [
+        "Yes, there is a fundamental limit known",
+        "No, there is no fundamental limit known",
+        "Yes, there is a high limit, but not a low limit",
+        "Yes, there is a low limit, but not a high limit"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a region of the electromagnetic spectrum?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "Infrasound",
+        "Visible light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens when radio waves impinge upon a conductor?",
+      "choices": [
+        "They are completely blocked.",
+        "They pass through unaffected.",
+        "They couple to the conductor and induce an electric current.",
+        "They cause the conductor to melt."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the typical frequency range for microwaves?",
+      "choices": [
+        "300 MHz to 300 GHz",
+        "300 kHz to 300 MHz",
+        "300 GHz to 300 THz",
+        "300 Hz to 300 kHz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the primary way EMR interacts with matter at radio and microwave frequencies?",
+      "choices": [
+        "By interacting with individual atoms.",
+        "By interacting with the nucleus of atoms.",
+        "By interacting as a bulk collection of charges over many atoms.",
+        "By causing ionization."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Give an example of the interaction of radio and microwave frequencies?",
+      "choices": [
+        "Absorption or emission of radio waves by antennas",
+        "Absorption or emission of light waves by molecules",
+        "Absorption or emission of radio waves by molecules",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What type of EMR commonly interacts with dipoles present in single molecules?",
+      "choices": [
+        "Radio",
+        "Microwave",
+        "Infrared",
+        "Ultraviolet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the general effect of infrared radiation on substances?",
+      "choices": [
+        "It causes them to decrease in temperature.",
+        "It causes them to emit visible light.",
+        "It causes them to increase in temperature.",
+        "It has no effect on their temperature."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is not a subregion of infrared radiation?",
+      "choices": [
+        "Near-infrared",
+        "Mid-wavelength infrared",
+        "Far infrared",
+        "Extreme infrared"
+      ],
+      "answer": 3
+    },
+     {
+      "question": "Which of the following is a spectral subregion of infrared radiation?",
+      "choices": [
+        "Short-wavelength infrared",
+        "Super-wavelength infrared",
+        "Meta-wavelength infrared",
+        "Ultra-wavelength infrared"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What adaptation do some animals, like snakes, possess that allows them to sense infrared radiation?",
+      "choices": [
+        "Thermo-sensitive membranes (pit organs)",
+        "Specialized eyes that detect infrared wavelengths",
+        "Antennae that pick up infrared signals",
+        "Echolocation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the approximate wavelength range of visible light?",
+      "choices": [
+        "100 nm to 400 nm",
+        "400 nm to 700 nm",
+        "700 nm to 1000 nm",
+        "1 mm to 1 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What molecule in the human eye changes shape when it absorbs a photon of light?",
+      "choices": [
+        "Chlorophyll",
+        "Rhodopsin",
+        "Retinal",
+        "Melanin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function of carotenoids in plant tissues that conduct photosynthesis?",
+      "choices": [
+        "To absorb water",
+        "To conduct sunlight",
+        "To produce oxygen",
+        "To quench electronically excited chlorophyll"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What permanent change in structure happens to Retinal when a photon is absorbed?",
+      "choices": [
+        "cis to trans",
+        "trans to cis",
+        "alpha to beta",
+        "beta to alpha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What tissue is damaged in the same way by bulk heating as in excitation from single photons of radiation?",
+      "choices": [
+        "Infrared",
+        "Microwaves",
+        "Radio Waves",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What happens to certain doubly bonded molecules when exposed to ultraviolet radiation?",
+      "choices": [
+        "They become ionized.",
+        "They undergo permanent chemical rearrangement.",
+        "They emit visible light.",
+        "They are unaffected."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does ultraviolet A (UVA) damage DNA?",
+      "choices": [
+        "By directly breaking the bonds in DNA.",
+        "By producing reactive oxygen species.",
+        "By causing thermal damage.",
+        "UVA does not damage DNA."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is photoionization?",
+      "choices": [
+        "The emission of visible light by a substance.",
+        "The excitation of electrons to higher energy levels.",
+        "The process of causing molecules to rearrange chemically.",
+        "The process of electrons being liberated from an atom due to high energy photons."
+      ],
+      "answer": 3
+    },
+     {
+      "question": "Where is 'extreme UV' filtered by?",
+      "choices": [
+        "Earth's Atmosphere",
+        "Earth's Core",
+        "Earth's water",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the cutoff wavelength for ionization?",
+      "choices": [
+        "33 nm",
+        "124 nm",
+        "1240 nm",
+        "33 eV"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is considered ionizing radiation?",
+      "choices": [
+        "Radio waves",
+        "Infrared radiation",
+        "X-rays",
+        "Visible light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the effect of ionizing radiation on biological molecules?",
+      "choices": [
+        "It has no effect.",
+        "It causes them to become more stable.",
+        "It causes molecular damage, mutation, and cancer.",
+        "It only causes heating."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What types of electromagnetic radiation penetrate matter deeply?",
+      "choices": [
+        "Radio waves",
+        "Visible light",
+        "Infrared radiation",
+        "The higher end of the X-ray spectrum, and all of the gamma ray spectrum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which part of the Sun's ultraviolet light reaches the ground?",
+      "choices": [
+        "Almost all of it",
+        "None of it",
+        "Only 30% of it",
+        "50% of it"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What causes absorption bands in the infrared?",
+      "choices": [
+        "Electronic excitation of dioxygen",
+        "Electronic excitation of ozone",
+        "Modes of vibrational excitation in water vapor",
+        "Molecular nitrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens to incoming radiowaves from space when their frequency is less than about 10 MHz?",
+      "choices": [
+        "They pass through the atmosphere unaffected.",
+        "They are completely absorbed by the atmosphere.",
+        "Certain ionospheric effects begin to block them.",
+        "They are converted into visible light."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When electromagnetic radiation impinges on matter, what happens to the charged particles?",
+      "choices": [
+        "They become neutral.",
+        "They remain stationary.",
+        "They oscillate and gain energy.",
+        "They disappear."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What typically happens to absorbed electromagnetic radiation (excluding high-energy photons)?",
+      "choices": [
+        "It is converted into nuclear energy.",
+        "It is converted into chemical energy.",
+        "It is converted into thermal energy by heating the material.",
+        "It disappears entirely."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens to infrared radiation in the spectral distribution of a black body?",
+      "choices": [
+        "It becomes ionizing radiation.",
+        "It causes the material to emit visible light.",
+        "It has an equivalent temperature and is associated with an entropy change per unit of thermal energy.",
+        "It dissipates instantaneously."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When can any type of electromagnetic energy 'heat' a material?",
+      "choices": [
+        "When it is reflected.",
+        "When it is absorbed.",
+        "When it is emitted.",
+        "When it is transmitted."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the inverse or time-reversed process of absorption?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Thermal radiation",
+        "Ionization"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the best-understood effects of low-frequency radiation on living organisms?",
+      "choices": [
+        "Effects due to changes in gene expression.",
+        "Effects due to changes in the nervous system.",
+        "Effects due to radiation power alone, acting through heating when radiation is absorbed.",
+        "Effects due to changes in cell structure."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the World Health Organization, what is the classification of radio frequency electromagnetic radiation?",
+      "choices": [
+        "Group 1 carcinogen",
+        "Group 2A carcinogen",
+        "Group 2B—possibly carcinogenic",
+        "Not classified as a carcinogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the heat ray make use of?",
+      "choices": [
+        "X-ray frequencies",
+        "Microwave frequencies",
+        "Ultraviolet frequencies",
+        "Visible Light frequencies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What radiation is a Group 1 carcinogen, according to the World Health Organization?",
+      "choices": [
+        "Ultraviolet radiation",
+        "X-ray radiation",
+        "Gamma radiation",
+        "Radio Frequency radiation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does it make use of to create an unpleasant heating effect in the upper layer of the skin?",
+      "choices": [
+        "Heat wave",
+        "EMR",
+        "Ultraviolet wave",
+        "Water wave"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are electromagnetic waves predicted by?",
+      "choices": [
+        "Newton's Laws",
+        "Quantum Mechanics",
+        "Maxwell's Equations",
+        "The Standard Model"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What kind of solutions are described by Maxwell's equations in free space (without charges or currents)?",
+      "choices": [
+        "Static electric fields",
+        "Static magnetic fields",
+        "Waves of changing electric and magnetic fields",
+        "Constant electric currents"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first to produce a field theory consistent with waves travelling at the speed of light?",
+      "choices": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "answer": 1
+    },
+    {
+       "question": "What are the three field waves in the far-field E and B?",
+      "choices": [
+        "In proportion, out of phase, and orthogonal",
+        "In restricted magnitude, proportional, and perpendicular",
+        "In a special orientation, restricted magnitude, and proportional",
+        "Speed of light, orthogonal, and restricted orientation"
+      ],
+      "answer": 2
+    },
+    {
+       "question": "When viewed from the perspective of an electromagnetic wave traveling forward, the electric field oscillates up and down. What oscillates with right and left?",
+      "choices": [
+        "Magnetic Field",
+        "Electromagnetic Waves",
+        "Electric Field",
+        "All of the Above"
+      ],
+      "answer": 0
+    }
+  ]

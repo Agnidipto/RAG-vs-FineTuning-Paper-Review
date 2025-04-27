@@ -1,0 +1,702 @@
+[
+  {
+    "question": "What is the term for life that originates from a world other than Earth?",
+    "choices": [
+      "Terrestrial life",
+      "Alien life",
+      "Extraterrestrial intelligence",
+      "Prokaryotic life"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following statements is true regarding the current scientific detection of extraterrestrial life?",
+    "choices": [
+      "Extraterrestrial life has been conclusively detected and verified.",
+      "There is strong evidence supporting the existence of extraterrestrial life, but it remains unconfirmed.",
+      "No extraterrestrial life has yet been scientifically conclusively detected.",
+      "Extraterrestrial life has been detected in the form of simple prokaryotes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the Drake equation speculate about?",
+    "choices": [
+      "The origin of life on Earth.",
+      "The existence of sapient life elsewhere in the universe.",
+      "The chemical composition of extraterrestrial atmospheres.",
+      "The probability of finding water on exoplanets."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the science of extraterrestrial life known as?",
+    "choices": [
+      "Exogeology",
+      "Astrobiology",
+      "Xenochemistry",
+      "Cosmology"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a topic of speculation by pre-modern writers?",
+    "choices": [
+      "The possibility of Jesus visiting extraterrestrial worlds.",
+      "The potential for men, plants, and animals to inhabit extraterrestrial bodies.",
+      "The possibility of proving the stars were not inhabited by intelligent creatures.",
+      "The existence of dark matter in the universe."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Initially, after the Big Bang, what was the greatest impediment to the formation of life?",
+    "choices": [
+      "High temperatures",
+      "Lack of available water",
+      "Scarcity of free heavy elements",
+      "Strong gravitational forces"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which elements are formed during the late stages of stellar fusion in larger stars?",
+    "choices": [
+      "Hydrogen and helium",
+      "Carbon and oxygen",
+      "Neon and sulfur",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which factor presents a significant difficulty for the direct study of extraterrestrial life beyond the Solar System?",
+    "choices": [
+      "The lack of funding for space exploration",
+      "The immense distances between celestial objects",
+      "The absence of robotic probes",
+      "The inability to withstand lethal conditions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of the circumstellar habitable zone?",
+    "choices": [
+      "The presence of a strong magnetic field",
+      "Temperatures that allow liquid water to exist",
+      "High atmospheric pressure",
+      "Abundant volcanic activity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how long after the Big Bang might liquid water have been possible if planets existed?",
+    "choices": [
+      "15 million years",
+      "4.6 billion years",
+      "6 million years",
+      "10 to 17 million years"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the Copernican principle related to in the context of extraterrestrial life?",
+    "choices": [
+      "The unique position of Earth in the Solar System",
+      "Earth does not occupy a unique position in the Universe",
+      "The importance of Copernicus's scientific contributions",
+      "The development of heliocentric theories"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a factor considered by the Rare Earth hypothesis?",
+    "choices": [
+      "The location of Earth in the galaxy",
+      "The configuration of the Solar System",
+      "Local characteristics of the planet",
+      "The existence of dark matter"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does the Drake equation estimate?",
+    "choices": [
+      "The number of stars in the Milky Way galaxy.",
+      "The number of planets that can potentially support life.",
+      "The number of active, communicative extraterrestrial civilizations in the Milky Way galaxy.",
+      "The age of the universe."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a major criticism of the Drake equation?",
+    "choices": [
+      "It is not based on mathematical principles.",
+      "Some of its values are speculative and difficult to measure.",
+      "It only applies to the Milky Way galaxy.",
+      "It underestimates the number of planets in the universe."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Fermi paradox?",
+    "choices": [
+      "The contradiction between high estimates of the probability of the existence of extraterrestrial civilizations and the lack of evidence for such civilizations.",
+      "The inability to detect dark matter.",
+      "The difficulty of interstellar travel due to vast distances.",
+      "The limitations of the Drake equation."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the first basic requirement for life according to the text?",
+    "choices": [
+      "An oxygen-rich atmosphere",
+      "The presence of liquid water",
+      "An environment with non-equilibrium thermodynamics",
+      "A magnetic field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is water considered important for the origin of life?",
+    "choices": [
+      "It acts as a shield against radiation",
+      "It is a source of oxygen",
+      "It acts as a solvent for biochemical reactions",
+      "It regulates temperature"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a disadvantage of silicon compared to carbon in the context of hypothetical biochemistry?",
+    "choices": [
+      "Silicon is not abundant in the universe",
+      "Silicon molecules are less stable",
+      "Silicon cannot create covalent bonds",
+      "Silicon does not exist as a solid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What three capacities must a living entity have to undergo natural selection, as per the text?",
+    "choices": [
+      "Replicate itself, create energy, move",
+      "Replicate itself, avoid damage/decay, acquire and process resources",
+      "Grow, replicate, defend itself",
+      "Evolve, replicate, adapt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which characteristic is likely to develop in alien animals due to convergent evolution, according to Simon Conway Morris?",
+    "choices": [
+      "The ability to fly",
+      "Photosynthesis",
+      "Bilateral symmetry",
+      "The ability to survive in a vacuum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What aspects of the conditions on other planets can make them seem like they couldn't harbor life?",
+    "choices": [
+      "High UV radiation",
+      "Extreme temperatures",
+      "Lack of water",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What do hydrothermal vents on the ocean floor support which helps organisms to live in low oxygenated environments?",
+    "choices": [
+      "Chemosynthetic processes",
+      "Photosynthetic processes",
+      "High UV radiation",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why were carbon fixing, reduced chemical compounds necessary for the origin of life on Earth?",
+    "choices": [
+      "To support high oxygen levels",
+      "To provide energy and fix carbon in a reducing environment",
+      "To protect life from UV radiation",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are early Earth environments, such as hydrothermal vents, thought to be a possible place where life could have originated?",
+    "choices": [
+      "Their abundance of oxygen",
+      "The high temperatures found there",
+      "Chemical reactions forming spontaneously",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What kind of information regarding atmospheres on other planets in the Milky Way galaxy do scientists have?",
+    "choices": [
+      "Little amount of information",
+      "A lot of information",
+      "An equal amount of information when compared with Earth's",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the current status of extraterrestrial intelligence within the Solar System, according to the text?",
+    "choices": [
+      "It has been found on several planets.",
+      "It has been found on some moons.",
+      "It exists in the form of microbial life.",
+      "No extraterrestrial intelligence other than humans exists or has ever existed within the Solar System."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why is Venus still of interest to astrobiologists?",
+    "choices": [
+      "It is a gas giant with a dense atmosphere.",
+      "It is a terrestrial planet that was likely similar to Earth in its early stages.",
+      "It has evidence of current microbial life on its surface.",
+      "It is located outside the habitable zone."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What led to Mars becoming an inhospitable environment for life?",
+    "choices": [
+      "Increased volcanic activity.",
+      "The planetary core ceased to generate a magnetic field.",
+      "A sudden increase in atmospheric pressure.",
+      "The development of a dense ozone layer."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which moon of Saturn has liquid bodies on the surface?",
+    "choices": [
+      "Enceladus",
+      "Europa",
+      "Ganymede",
+      "Titan"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why is Europa considered a promising location to search for life?",
+    "choices": [
+      "It has a thick, oxygen-rich atmosphere.",
+      "It has a subsurface ocean in contact with the rocky surface.",
+      "It has active volcanoes on its surface.",
+      "It is located within the habitable zone of Saturn."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary goal of astrobiology?",
+    "choices": [
+      "To colonize other planets",
+      "To study the origin, evolution, and distribution of life in the universe",
+      "To develop new technologies for space travel",
+      "To search for precious minerals on other planets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a biosignature?",
+    "choices": [
+      "A type of spacecraft used for interstellar travel",
+      "A chemical element found only on Earth",
+      "Evidence of past or present life",
+      "A type of star that is likely to host habitable planets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the significance of the meteorite ALH84001?",
+    "choices": [
+      "It contained evidence of water on Mars",
+      "It was found to contain nanobacteria-like structures, sparking controversy",
+      "It was the first meteorite found on Earth",
+      "It confirmed the presence of intelligent life on Mars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the Curiosity rover aim to assess on Mars?",
+    "choices": [
+      "The current political climate on Mars",
+      "The past and present habitability of Mars",
+      "The possibility of terraforming Mars",
+      "The availability of natural resources on Mars"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What molecule was detected in a distant star system, suggesting that complex organic molecules may form before planets?",
+    "choices": [
+      "Methane",
+      "Oxygen",
+      "Glycolaldehyde",
+      "Carbon dioxide"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a technosignature?",
+    "choices": [
+      "A specific type of plant life found on exoplanets",
+      "A chemical compound that indicates the presence of water",
+      "A structure on a planet that has natural causes",
+      "An effect on a planet that suggests the presence of technology"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are the three main types of techno-signatures that are considered?",
+    "choices": [
+      "Interstellar communications, effects on the atmosphere, and planetary-sized structures",
+      "Dyson spheres, interstellar travel, light pollution",
+      "Chemical compounds, biological structures, signals",
+      "Robots, signals, and structures"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the Kardashev scale propose in relation to energy consumption?",
+    "choices": [
+      "The depletion of energy reserves",
+      "The development of renewable energy sources",
+      "The energy crisis for extraterrestrial civilizations",
+      "A civilization may eventually start consuming energy directly from its local star"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the main challenge in searching for interstellar communications?",
+    "choices": [
+      "The signals are very weak",
+      "The signals are constantly changing",
+      "Distinguishing artificial from natural signals",
+      "Distinguishing between the location of where it came from"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a potential artificial biosignature found in the atmosphere of earth?",
+    "choices": [
+      "Nitrogen dioxide",
+      "Light pollution",
+      "Heavy Elements",
+      "Hydrogen gas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the focus of astronomers searching for extrasolar planets?",
+    "choices": [
+      "Gas giants outside the habitable zone",
+      "Rogue planets in distant galaxies",
+      "Terrestrial planets within the habitable zones of their stars",
+      "Any stars they can find"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary role of the Kepler space telescope in the search for exoplanets?",
+    "choices": [
+      "To detect extraterrestrial signals",
+      "To count stars",
+      "To detect a few thousand candidate planets",
+      "To travel to other planets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many planets does an average star have?",
+    "choices": [
+      "Half",
+      "1 in 5",
+      "About 1 to 5",
+      "At least 1"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is an Earth-sized exoplanet found in the habitable zone in the constellation of Centaurus?",
+    "choices": [
+      "PSR B1257+12 A",
+      "DENIS-P J082303.1−491201 b",
+      "Proxima Centauri b",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How is the presence of oxygen in an exoplanet's atmosphere seen?",
+    "choices": [
+      "The abundance of organisms",
+      "The result of a reactive gas without constatnt replacement",
+      "One way to analyze the atmosphere of the exoplanet when it transits its star",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the concept of 'cosmic pluralism'?",
+    "choices": [
+      "The belief that the universe is centered around the Earth.",
+      "The belief in numerous 'worlds' in addition to Earth.",
+      "The scientific study of planetary formation.",
+      "The idea that all life in the universe originated on Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which ancient Greek philosopher thought that the world was made from a substance called apeiron?",
+    "choices": [
+      "Epicurus",
+      "Aristotle",
+      "Anaximander",
+      "Plutarch"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the main difference between the atomists and the Aristotelians in their view of the cosmos?",
+    "choices": [
+      "Atomists thought the cosmos was made of aether, while Aristotelians thought it was made of atoms.",
+      "Atomists thought the elements of Earth existed everywhere, while Aristotelians thought the cosmos was made of a different element.",
+      "Atomists thought Earth was flat, while Aristotelians thought it was round.",
+      "Atomists believed in a geocentric model, while Aristotelians believed in a heliocentric model."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who supported cosmic pluralism on the basis of the Qur'an?",
+    "choices": [
+      "Medieval Roman writers",
+      "Medieval Muslim writers",
+      "Ancient Egyptian writers",
+      "Ancient Greek philosophers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the first known mention of the term 'panspermia'?",
+    "choices": [
+      "The 5th-century BC Greek philosopher Anaxagoras",
+      "The Great Library of Alexandria",
+      "Greek atomist doctrine",
+      "The Great Library of Alexandria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How did Johannes Kepler improve the Copernican model?",
+    "choices": [
+      "By proving that orbits were perfect circles.",
+      "By discovering the telescope.",
+      "By showing that orbits were ellipses.",
+      "By developing the theory of gravity."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happened to Giordano Bruno for his belief in an infinite universe and the plurality of worlds?",
+    "choices": [
+      "He was praised by the Catholic Church.",
+      "He was exiled from Italy.",
+      "He was tried and executed by the Venetian Holy Inquisition.",
+      "He recanted his views and was allowed to continue his research."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What theory did Sir Isaac Newton postulate that strengthened the heliocentric model?",
+    "choices": [
+      "The theory of evolution.",
+      "The theory of relativity.",
+      "The theory of quantum mechanics.",
+      "The theory of gravity."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who championed 'cosmic pluralism' during the Enlightenment?",
+    "choices": [
+      "William Herschel",
+      "Immanuel Kant",
+      "Benjamin Franklin",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What was the general sentiment regarding extraterrestrial life after scientists found out orbits were eliptical?",
+    "choices": [
+      "The notion of extraterrestrial life became feasible",
+      "The possibility of extraterrestrial life became too ridiculous",
+      "The discovery made Earth seem a lot more special",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What did Percival Lowell propose about the Martian canals?",
+    "choices": [
+      "They were natural geological formations.",
+      "They were the work of a long-gone civilisation.",
+      "They were optical illusions.",
+      "They were caused by volcanic activity."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which 19th-century scientist disproved the theory of spontaneous generation?",
+    "choices": [
+      "Charles Darwin",
+      "William Wallace Campbell",
+      "Louis Pasteur",
+      "Percival Lowell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What caused the decrease in expectations of finding alien life in general?",
+    "choices": [
+      "The disproval of the theory of evolution.",
+      "The discovery of canals on Mars.",
+      "The development of the science fiction genre.",
+      "Close images of Mars from Mariner 4 and Mariner 9."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which term was reclaimed by a number of authors during the 19th-century to propose that life was brought to Earth from elsewhere?",
+    "choices": [
+      "Abiogenesis",
+      "Spontaneous generation",
+      "Panspermia",
+      "Extraterrestrial"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How did popular belief react to the idea of alien life after the scientific discoveries?",
+    "choices": [
+      "People were eager to jump to conclusions about the discovery of aliens.",
+      "People were scared of the possibility of alien life",
+      "People did not care about alien life",
+      "People were against the scientific method"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary focus of astrobiology regarding abiogenesis?",
+    "choices": [
+      "To debunk abiogenesis",
+      "To focus on the origin of life on Earth",
+      "To study the likelihood of a similar process taking place on other celestial bodies",
+      "To create new forms of life"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has led to the emergence of pseudosciences that provide affirmative answers to the existence of aliens?",
+    "choices": [
+      "Public interest in extraterrestrial life and lack of discoveries by mainstream science",
+      "Strict government policies",
+      "Public interest in pseudoscience",
+      "Lack of scientific knowledge by the general public"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What did Lewis White Beck strive to elevate?",
+    "choices": [
+      "The pseudoscientific beliefs regarding aliens",
+      "The technological means to visit other planets",
+      "The level of public discourse on the topic of extraterrestrial life",
+      "The technological means to communicate with aliens"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "By the 21st century, what led to an increase interest in extraterrestrial life?",
+    "choices": [
+      "The advances in several sciences",
+      "The growing scientific interest",
+      "The growing political interest",
+      "Lack of life in the Solar System"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why did Jacques Monod write that 'Man knows at last that he is alone in the indifferent immensity of the universe, whence which he has emerged by chance'?",
+    "choices": [
+      "To warn against the dangers of space exploration.",
+      "To support the idea that life is rare in the universe.",
+      "Because he believed that extraterrestrial life was likely.",
+      "To encourage the search for extraterrestrial life."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the 1967 Outer Space Treaty define?",
+    "choices": [
+      "Rules for colonizing other planets.",
+      "Rules of planetary protection against potentially hazardous extraterrestrial life.",
+      "Guidelines for commercializing space travel.",
+      "The legal status of extraterrestrial beings."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the mission of the NASA's Planetary Protection Office?",
+    "choices": [
+      "To ensure the safety of astronauts during space missions.",
+      "To rigorously preclude backward contamination of Earth by extraterrestrial life.",
+      "To develop new technologies for space exploration.",
+      "To detect potentially hazardous asteroids."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one of the objectives of the Chinese Five-hundred-meter Aperture Spherical Telescope (FAST) program?",
+    "choices": [
+      "To study climate change on Earth.",
+      "To search for extraterrestrial life.",
+      "To develop new telescopes.",
+      "To monitor solar flares."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the French space agency maintaining?",
+    "choices": [
+      "An office for colonizing space",
+      "An office for non-identified aero spatial phenomena",
+      "An office for UFOs",
+      "An office for telescopes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the most detailed known sightings of an alien abduction?",
+    "choices": [
+      "The Area 51 incident",
+      "The Barney and Betty Hill incident",
+      "The Roswell case",
+      "The Wow! signal"
+    ],
+    "answer": 1
+  }
+]

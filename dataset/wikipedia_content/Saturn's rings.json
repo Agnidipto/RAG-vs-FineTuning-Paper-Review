@@ -1,0 +1,652 @@
+[
+  {
+    "question": "What are Saturn's rings primarily composed of?",
+    "choices": [
+      "Rocky material",
+      "Water ice",
+      "Metallic elements",
+      "Dust and gas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the range of particle sizes within Saturn's rings?",
+    "choices": [
+      "Millimeters to centimeters",
+      "Micrometers to meters",
+      "Meters to kilometers",
+      "Kilometers to hundreds of kilometers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What recent event may have formed the rings of Saturn?",
+    "choices": [
+      "A large meteor shower",
+      "A collision of two moons",
+      "Volcanic eruptions on Saturn",
+      "Gravitational capture of asteroids"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first person to observe Saturn's rings?",
+    "choices": [
+      "Christiaan Huygens",
+      "Giovanni Cassini",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who first described Saturn's rings as a disk surrounding the planet?",
+    "choices": [
+      "Galileo Galilei",
+      "Christiaan Huygens",
+      "Pierre-Simon Laplace",
+      "James Clerk Maxwell"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Galileo initially describe the rings as?",
+    "choices": [
+      "A hazy cloud",
+      "Two large moons",
+      "Saturn's 'ears'",
+      "A bright halo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Galileo's reaction when the rings became invisible?",
+    "choices": [
+      "He predicted their reappearance.",
+      "He revised his theory about Saturn.",
+      "He said 'Has Saturn swallowed his children?'",
+      "He thought his telescope was broken."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why did Galileo use anagrams?",
+    "choices": [
+      "To protect his identity.",
+      "To communicate in secret.",
+      "As a form of commitment scheme to lay claim to new discoveries",
+      "Because he was bad at spelling."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Christopher Wren's initial hypothesis about the rings?",
+    "choices": [
+      "That Saturn had multiple moons.",
+      "That Saturn had a ring.",
+      "That Saturn was a star.",
+      "That Saturn had no unique features."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who also noted the casting of shadows on Saturn's rings?",
+    "choices": [
+      "Christiaan Huygens",
+      "Robert Hooke",
+      "Giovanni Cassini",
+      "James Clerk Maxwell"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What power telescope did Christiaan Huygens design?",
+    "choices": [
+      "20x",
+      "43x",
+      "60x",
+      "100x"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Huygens publish with his ring hypothesis?",
+    "choices": [
+      "Discovery of Jupiter's moons",
+      "The laws of motion",
+      "Discovery of Titan",
+      "A new theory of gravity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the largest gap in Saturn's rings?",
+    "choices": [
+      "Encke Gap",
+      "Maxwell Gap",
+      "Colombo Gap",
+      "Cassini Division"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Pierre-Simon Laplace suggest about Saturn's rings?",
+    "choices": [
+      "They were made of solid material.",
+      "They were made of a uniform solid ring.",
+      "They were composed of a large number of solid ringlets.",
+      "They were composed of liquid."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which ring was discovered by Pioneer 11?",
+    "choices": [
+      "The A Ring",
+      "The B Ring",
+      "The C Ring",
+      "The F Ring"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the approximate axial tilt of Saturn?",
+    "choices": [
+      "17 degrees",
+      "23.5 degrees",
+      "26.7 degrees",
+      "30 degrees"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How often does Earth pass through the plane of Saturn's rings?",
+    "choices": [
+      "Every year",
+      "Every 5-7 years",
+      "Every 13-15 years",
+      "Every 29 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When will the next ring plane crossing occur?",
+    "choices": [
+      "2024",
+      "2025",
+      "2030",
+      "2039"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When does the sun pass south to north through the ring plane?",
+    "choices": [
+      "When Saturn's heliocentric longitude is 90 degrees",
+      "When Saturn's heliocentric longitude is 173.6 degrees",
+      "When Saturn's heliocentric longitude is 270 degrees",
+      "When Saturn's heliocentric longitude is 360 degrees"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How long is the Sun north of the ring plane on each orbit?",
+    "choices": [
+      "10.5 Earth years",
+      "13.7 Earth years",
+      "15.7 Earth years",
+      "29.5 Earth years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the typical thickness of the dense main rings?",
+    "choices": [
+      "1 meter",
+      "10 meters",
+      "100 meters",
+      "1 kilometer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of the main rings is pure water ice?",
+    "choices": [
+      "50%",
+      "75%",
+      "90%",
+      "99.9%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the estimated mass of the rings?",
+    "choices": [
+      "0.10 Mimas masses",
+      "0.41 Mimas masses",
+      "1.0 Mimas masses",
+      "2.0 Mimas masses"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the chemical composition of impurities included in Saturn's rings?",
+    "choices": [
+      "Iron Oxides",
+      "Nitrogen",
+      "Tholins or silicates",
+      "Sulfur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the fraction of the rings mass compared to Saturn's total mass?",
+    "choices": [
+      "About 0.25 ppb",
+      "About 0.50 ppb",
+      "About 1.0 ppb",
+      "About 2.0 ppb"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What maintains the Encke Gap in the A Ring?",
+    "choices": [
+      "Mimas",
+      "Titan",
+      "Pan",
+      "Atlas"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the composition of the rings atmosphere?",
+    "choices": [
+      "Carbon dioxide and nitrogen",
+      "Molecular oxygen and hydrogen",
+      "Methane and ammonia",
+      "Helium and argon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What creates the molecular oxygen in the rings atmosphere?",
+    "choices": [
+      "Volcanic activity",
+      "Interaction of water ice with ultraviolet light",
+      "Chemical reactions with Saturn's atmosphere",
+      "Radioactive decay"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the spiral waves in the ring produced by?",
+    "choices": [
+      "The solar wind",
+      "Volcanic activity",
+      "Gravitational perturbations of moons",
+      "Electrostatic forces"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How high do the rings extend out of the nominal ring plane?",
+    "choices": [
+      "1 km",
+      "2 km",
+      "3 km",
+      "4 km"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the estimated age of Saturn's rings according to recent Cassini data?",
+    "choices": [
+      "4.5 billion years",
+      "1-4 billion years",
+      "100 million years",
+      "10 million to 100 million years"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the Roche Limit?",
+    "choices": [
+      "The speed of a celestial body to form a ring",
+      "The distance from a planet a moon can be ripped apart by tidal forces",
+      "A type of gravitational perturbation.",
+      "The largest ring particle size"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the two main hypothesis regarding the origin of Saturn's inner rings?",
+    "choices": [
+      "Impact of a comet or asteroid or that they are left over from the original nebular material",
+      "They formed early in the solar system or they were a moon that was ripped apart",
+      "Gravitational pull of Saturn or impact of a comet or asteroid",
+      "They were formed recently or they are old"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What moon name has been proposed for what became the rings of Saturn?",
+    "choices": [
+      "Titan",
+      "Mimas",
+      "Enceladus",
+      "Chrysalis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How long before the rings may disappear?",
+    "choices": [
+      "30 million years",
+      "100 million years",
+      "300 million years",
+      "1 billion years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is 'ring rain?'",
+    "choices": [
+      "Water ice grains pulled by gravity along planetary magnetic field lines",
+      "Electrically charged silicates falling into the ring.",
+      "Small particles that collide within the ring",
+      "Water falling from Saturn's atmosphere."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the estimated infall rate of material to Saturn detected by Cassini?",
+    "choices": [
+      "4,800-44,000 kg/s",
+      "100,000-200,000 kg/s",
+      "1,000-5,000 kg/s",
+      "50,000-100,000 kg/s"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The A and B Rings are separated by what?",
+    "choices": [
+      "The Huygens Gap",
+      "The Roche Division",
+      "The Maxwell Gap",
+      "The Cassini Division"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which ring is characterized as 'dusty'?",
+    "choices": [
+      "A Ring",
+      "B Ring",
+      "C Ring",
+      "E Ring"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which ring is difficult to categorize",
+    "choices": [
+      "A Ring",
+      "B Ring",
+      "F Ring",
+      "E Ring"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Which of the ring listed is the innermost?",
+    "choices": [
+      "A Ring",
+      "B Ring",
+      "C Ring",
+      "D Ring"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the ring listed is the outer most?",
+    "choices": [
+      "A Ring",
+      "D Ring",
+      "F Ring",
+      "E Ring"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which ringlet is closest to Saturn?",
+    "choices": [
+      "D73",
+      "D72",
+      "D68",
+      "C Ring"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When did the spiral pattern in Jupiter's main ring occur?",
+    "choices": [
+      "2009",
+      "1995",
+      "1983",
+      "1994"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who termed the C Ring the 'Crepe Ring'?",
+    "choices": [
+      "James Keeler",
+      "James Maxwell",
+      "William Lassell",
+      "Giovanni Cassini"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Titan Ringlet is also known as?",
+    "choices": [
+      "Colombo Ringlet",
+      "Maxwell Ringlet",
+      "Keeler Ringlet",
+      "Huygens Ringlet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What ringlet is similar to the ε ring of Uranus?",
+    "choices": [
+      "Colombo Ringlet",
+      "Maxwell Ringlet",
+      "Keeler Ringlet",
+      "Huygens Ringlet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which ring is the largest, brightest, and most massive of the rings?",
+    "choices": [
+      "A Ring",
+      "B Ring",
+      "C Ring",
+      "F Ring"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes spokes in the B Ring?",
+    "choices": [
+      "Gravitational pull",
+      "Electrostatic repulsion",
+      "Solar wind",
+      "Seasons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the estimated size of the moonlet in the B Ring?",
+    "choices": [
+      "400m",
+      "1000m",
+      "2000m",
+      "4000m"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What wavelength was discovered in 1981?",
+    "choices": [
+      "Huygens Gap",
+      "Huygens Ringlet",
+      "Huygens Wave",
+      "Huygens Satellite"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What causes the Keeler Gap?",
+    "choices": [
+      "Pan",
+      "Daphnis",
+      "Mimas",
+      "Prometheus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What maintains the A Ring's outer edge?",
+    "choices": [
+      "Solar radiation",
+      "Orbital resonances",
+      "Electrostatic forces",
+      "Gravitational pull of Saturn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered the Keeler Gap?",
+    "choices": [
+      "Johann Encke",
+      "James Keeler",
+      "Giovanni Cassini",
+      "Christiaan Huygens"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How are propeller moonlets detected?",
+    "choices": [
+      "Direct observation",
+      "Shadows on the rings",
+      "Disturbances they create in the rings",
+      "Radio emissions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why haven't rings formed into a moon?",
+    "choices": [
+      "Too much radiation",
+      "Roche Limit",
+      "Not enough material",
+      "Stronger gravity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the diameter of bodies in the F-Ring",
+    "choices": [
+      "1.0 to 0.1 km",
+      "5.0 to 0.1 km",
+      "0.1 to 1.0 m",
+      "10 to 0.1 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where is the Janus/Epimetheus Ring located?",
+    "choices": [
+      "Between the F and G Rings",
+      "Around the orbits of Janus and Epimetheus",
+      "Inside the D Ring",
+      "Outside the E Ring"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What moonlet is found within the G Ring?",
+    "choices": [
+      "Aegaeon",
+      "Methone",
+      "Anthe",
+      "Pallene"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What arc is associated with the moon Methone?",
+    "choices": [
+      "Arc 10",
+      "Arc 14:15",
+      "Arc 14",
+      "Arc 15"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the composition of particles ejected from the moons in the outer rings?",
+    "choices": [
+      "Iron",
+      "Dust",
+      "Rocks",
+      "Gas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary source of material for the E Ring?",
+    "choices": [
+      "Meteoroid impacts",
+      "Cryovolcanic plumes from Enceladus",
+      "Solar wind",
+      "Gravitational capture"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the main feature of the Phoebe ring?",
+    "choices": [
+      "Retrograde orbit",
+      "Prograde orbit",
+      "Its closeness",
+      "Its brightness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What causes the two-tone coloration of Iapetus?",
+    "choices": [
+      "Direct deposit of infalling material",
+      "Thermal self-segregation",
+      "Volcanic activity",
+      "Asteroid impact"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When was the existence of the E ring confirmed?",
+    "choices": [
+      "1908",
+      "1967",
+      "1979",
+      "1980"
+    ],
+    "answer": 3
+  }
+]

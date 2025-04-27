@@ -1,0 +1,532 @@
+[
+  {
+    "question": "What is a meteorite?",
+    "choices": [
+      "A type of asteroid found only in the asteroid belt.",
+      "A rock that originated in outer space and has fallen to the surface of a planet or moon.",
+      "A celestial object that orbits the Earth.",
+      "A type of comet made of ice and dust."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for a bright meteor observed by astronomers?",
+    "choices": [
+      "Asteroid",
+      "Comet",
+      "Bolide",
+      "Meteoroid"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are meteorites traditionally divided into?",
+    "choices": [
+      "Carbonaceous, iron, and stony.",
+      "Chondrites, achondrites, and pallasites.",
+      "Stony, iron, and stony-iron.",
+      "Lunar, Martian, and asteroidal."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the main difference between meteorites and micrometeorites?",
+    "choices": [
+      "Meteorites are larger and usually don't melt completely, while micrometeorites are smaller and typically melt completely.",
+      "Meteorites are made of rock, while micrometeorites are made of iron.",
+      "Meteorites come from asteroids, while micrometeorites come from comets.",
+      "Meteorites are only found on Earth, while micrometeorites are only found on the Moon and Mars."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where have extraterrestrial meteorites been found?",
+    "choices": [
+      "Venus and Mercury",
+      "Jupiter and Saturn",
+      "The Moon and Mars",
+      "Only on Earth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many meteorites are typically observed to fall each year and are subsequently recovered?",
+    "choices": [
+      "Less than 1",
+      "5-10",
+      "50-100",
+      "Over 1000"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of meteoroid is most likely to create a hypervelocity impact crater?",
+    "choices": [
+      "Icy bodies",
+      "Stony meteoroids",
+      "Iron meteoroids",
+      "Small comets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Tunguska event was most likely caused by?",
+    "choices": [
+      "A large iron meteoroid.",
+      "A volcanic eruption.",
+      "A large stony or icy body disrupting in the atmosphere.",
+      "A nuclear explosion."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is ablation in the context of meteoroids?",
+    "choices": [
+      "The process of a meteoroid becoming radioactive.",
+      "The melting and removal of a meteoroid's surface during atmospheric entry.",
+      "The formation of chondrules within a meteorite.",
+      "The change in a meteorite's color upon impact."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are regmaglypts?",
+    "choices": [
+      "A type of meteorite with high iron content.",
+      "Shallow thumbprint-like indentations on a meteorite's surface.",
+      "A type of mineral found in meteorites.",
+      "The molten surface layer of a meteorite."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of meteorites are classified as chondrites?",
+    "choices": [
+      "About 6%",
+      "About 8%",
+      "About 5%",
+      "About 86%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are chondrules?",
+    "choices": [
+      "A type of iron-nickel alloy.",
+      "Small, round particles found in chondrites.",
+      "A type of fusion crust.",
+      "A type of stony-iron meteorite."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is characteristic of achondrites?",
+    "choices": [
+      "They contain chondrules.",
+      "They are similar to terrestrial igneous rocks.",
+      "They are made of pure iron.",
+      "They originate from comets."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where do the HED meteorites likely originate from?",
+    "choices": [
+      "The Moon",
+      "Mars",
+      "Asteroid Vesta",
+      "An unidentified comet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are pallasites thought to originate from?",
+    "choices": [
+      "The crust of a planetesimal.",
+      "The core of a planetesimal.",
+      "The boundary zone between the core and mantle of a planetesimal.",
+      "Volcanic ejecta from the Moon."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the power-law distribution mentioned in the article, how many objects larger than 4 meters in diameter are expected to hit Earth in a year?",
+    "choices": [
+      "About 37",
+      "About 2.3",
+      "About 0.15",
+      "About 9.25"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What is the approximate diameter of the largest impactor to hit Earth on any given century?",
+    "choices": [
+      "40 centimeters",
+      "4 metres",
+      "20 metres",
+      "300 metres"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What organic compounds found in meteorites are also building blocks of DNA and RNA?",
+    "choices": [
+      "Amino acids",
+      "Sugars",
+      "Purines and pyrimidines",
+      "Lipids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following has been detected in meteorites?",
+    "choices": [
+      "Fully formed DNA",
+      "Liquid water",
+      "Living organisms",
+      "Helium-3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What do scientists believe is the significance of finding sugar molecules in meteorites?",
+    "choices": [
+      "It suggests that meteorites can be used as a source of food in space.",
+      "It proves that life originated on asteroids.",
+      "It supports the notion that chemical processes on asteroids can produce organic compounds fundamental to life.",
+      "It means that asteroids were once inhabited by intelligent beings."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What percentage of meteorites have been traced to their sources such as the Moon, Mars, and Vesta?",
+    "choices": [
+      "Approximately 70%",
+      "Approximately 94%",
+      "Approximately 6%",
+      "Approximately 30%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate percentage of meteorites found on Earth that appear to originate from break-ups of three asteroids?",
+    "choices": [
+      "Approximately 6%",
+      "Approximately 30%",
+      "Approximately 70%",
+      "Approximately 94%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the weathering scale for ordinary chondrites range from?",
+    "choices": [
+      "W1 (pristine state) to W5 (heavy alteration)",
+      "W0 (pristine state) to W6 (heavy alteration)",
+      "W0 (heavy alteration) to W6 (pristine state)",
+      "W1 (heavy alteration) to W5 (pristine state)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of analyzing terrestrial weathering on meteorites?",
+    "choices": [
+      "To determine the original composition of the meteorite.",
+      "To quantify the degree of alteration that a meteorite has experienced.",
+      "To find out the age of the Solar System.",
+      "To identify the meteorite's parent body."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are scientists studying fossil meteorites?",
+    "choices": [
+      "To find new types of metals.",
+      "To understand past meteorite falls and their origins.",
+      "To look for evidence of life.",
+      "To understand the composition of the Earth's core."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the difference between a 'meteorite fall' and a 'meteorite find'?",
+    "choices": [
+      "A fall is a meteorite made of iron, a find is a meteorite made of stone.",
+      "A fall is a meteorite found in Antarctica, a find is a meteorite found elsewhere.",
+      "A fall is a meteorite collected after being observed, a find is any other meteorite.",
+      "A fall is a meteorite that created a crater, a find is a meteorite that did not."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how many documented meteorite falls are listed in widely used databases?",
+    "choices": [
+      "Less than 100",
+      "Around 500",
+      "More than 1,100",
+      "Over 5,000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are verified meteorite falls concentrated in areas with higher human population densities?",
+    "choices": [
+      "Meteorites are attracted to cities.",
+      "More people are present to observe and report falls.",
+      "The magnetic field is stronger in populated areas.",
+      "Meteorites are more likely to survive atmospheric entry over cities."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What significant information was obtained from the Příbram meteorite fall?",
+    "choices": [
+      "Proof that meteorites contain organic matter.",
+      "The discovery of a new element.",
+      "An accurate orbit calculation for a recovered meteorite.",
+      "The identification of a Martian meteorite."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the Prairie Network?",
+    "choices": [
+      "A network of meteorite dealers.",
+      "An automated observing program for studying infalling meteorites.",
+      "A geological survey of the US Great Plains.",
+      "A team of meteorite hunters in Antarctica."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What key discovery made by Harvey H. Nininger contributed to finding more meteorites?",
+    "choices": [
+      "Meteorites are only found in deserts.",
+      "Meteorites are much more common on the surface of the Earth than previously thought.",
+      "All meteorites are magnetic.",
+      "Meteorites are always hot when they land."
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What legislation protects meteorites that land in Canada?",
+    "choices": [
+      "The Canadian Meteorite Protection Act",
+      "The Mineral Resources Act",
+      "The Cultural Property Export and Import Act",
+      "The Space Resources Act"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was unique about the event in Marshfield, Prince Edward Island, in July 2024?",
+    "choices": [
+      "It was the first time a meteorite was discovered in Canada.",
+      "It was the first meteorite found to contain organic molecules.",
+      "It was the first time a meteorite crash had been captured on camera and the sound recorded.",
+      "It was the largest meteorite ever found in Canada."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What strategy did Harvey H. Nininger use to find more meteorites in the United States?",
+    "choices": [
+      "Searching for craters in remote areas.",
+      "Educating local people about meteorites and what to do if they found one.",
+      "Using metal detectors in desert areas.",
+      "Analyzing soil samples for extraterrestrial elements."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What contributed to Roosevelt County, New Mexico, being a good place to find meteorites?",
+    "choices": [
+      "High levels of iron in the soil.",
+      "Dense vegetation that preserved the meteorites.",
+      "Dustbowl era soil erosion exposing rocks and meteorites.",
+      "Frequent meteorite falls in that area."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do some meteorite finders submit finds with false locations?",
+    "choices": [
+      "To make the meteorite more valuable.",
+      "To avoid paying taxes.",
+      "For fear of confiscation by the federal government and competition with other hunters.",
+      "To protect the environment from damage."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the significance of the blue ice fields in Antarctica for meteorite collection?",
+    "choices": [
+      "They provide a unique chemical environment that preserves meteorites.",
+      "Movement of ice sheets concentrates meteorites in certain areas.",
+      "The ice is transparent, making it easy to spot meteorites.",
+      "Meteorites only fall in Antarctica due to its magnetic field."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What geological feature makes the Nullarbor region of Australia suitable for finding meteorites?",
+    "choices": [
+      "Active volcanoes that expose meteorites.",
+      "Flat, featureless limestone plain with little weathering or sedimentation.",
+      "Extensive sand dunes that cover meteorites.",
+      "Dense forests that protect meteorites from erosion."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What geographical features are characteristic of the meteorite find locations in the Sahara?",
+    "choices": [
+      "Regs or hamadas: flat, featureless areas covered only by small pebbles and minor amounts of sand.",
+      "Lush oases with abundant water sources.",
+      "High mountain ranges.",
+      "Volcanic craters."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What caused the rapid rise in commercial collection of meteorites in the late 1980s and early 1990s?",
+    "choices": [
+      "The invention of new meteorite-detecting technologies.",
+      "Increased government funding for meteorite research.",
+      "The discovery of large numbers of meteorites in readily accessible areas of the Sahara.",
+      "A decrease in meteorite prices."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does 'NWA' stand for in the context of meteorites?",
+    "choices": [
+      "Northwest Asteroid",
+      "Northwest Area",
+      "Northwest Africa",
+      "National Weather Association"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is notable about Northwest Africa 7034?",
+    "choices": [
+      "It is the largest meteorite ever found.",
+      "It is the oldest meteorite known to come from Mars and is a unique water-bearing regolith breccia.",
+      "It is the only meteorite known to contain living organisms.",
+      "It is made entirely of gold."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the current legal status of meteorite recovery in Oman?",
+    "choices": [
+      "Encouraged and supported by the government.",
+      "Prohibited by national law, but the law is not enforced.",
+      "Prohibited by national law.",
+      "Permitted with a license."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the reason for the imprisonment of a group of meteorite hunters in Oman?",
+    "choices": [
+      "They were caught smuggling the meteorites out of the country.",
+      "They violated a newly implemented law prohibiting the recovery of meteorites.",
+      "They damaged protected historical sites while searching for meteorites.",
+      "They were mistaken for terrorists."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the oldest known use of meteoritic iron?",
+    "choices": [
+      "Swords and armor",
+      "Agricultural tools",
+      "Ceremonial masks",
+      "Beads"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What may have been the origin of the cult in the Temple of Artemis at Ephesus?",
+    "choices": [
+      "The worship of a volcano",
+      "The observation and recovery of a meteorite",
+      "The celebration of a successful harvest",
+      "The veneration of a river"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Black Stone set into the wall of the Kaaba often presumed to be?",
+    "choices": [
+      "A volcanic rock",
+      "A piece of obsidian",
+      "A meteorite",
+      "A religious artifact"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Shen Kuo record in medieval China in 1064 AD?",
+    "choices": [
+      "A volcanic eruption",
+      "A major earthquake",
+      "A meteorite strike event",
+      "The discovery of gunpowder"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first person to publish the idea that meteorites might be rocks that originated from space?",
+    "choices": [
+      "Isaac Newton",
+      "Ernst Florens Chladni",
+      "Albert Einstein",
+      "Galileo Galilei"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What event helped lead to the general acceptance of the extraterrestrial origin of meteorites?",
+    "choices": [
+      "The discovery of the atom.",
+      "A fall of thousands of meteorites in L'Aigle, France.",
+      "The first moon landing.",
+      "The invention of the telescope."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to John Lewis, what is true regarding reports of humans being killed by meteorites?",
+    "choices": [
+      "There are many confirmed cases of people being killed by meteorites.",
+      "No one in recorded history has ever been killed by a meteorite in the presence of a meteoriticist and a medical doctor.",
+      "Meteorites have killed thousands of people throughout history.",
+      "Meteorite strikes are a leading cause of death worldwide."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what year did the Sylacauga meteorite strike a woman in Alabama?",
+    "choices": [
+      "1908",
+      "1954",
+      "2013",
+      "2021"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For what are meteorites always named?",
+    "choices": [
+      "For the person who found them.",
+      "For the place they were found.",
+      "For their chemical composition.",
+      "For their estimated age."
+    ],
+    "answer": 1
+  }
+]

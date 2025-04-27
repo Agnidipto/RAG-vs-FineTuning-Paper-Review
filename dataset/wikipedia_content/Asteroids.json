@@ -1,0 +1,1012 @@
+[
+  {
+    "question": "According to the article, what is an asteroid?",
+    "choices": [
+      "A minor planet that orbits within the outer Solar System or is co-orbital with Neptune",
+      "A type of comet that has lost its tail due to solar radiation",
+      "An object larger than a meteoroid that is neither a planet nor an identified comet, orbiting within the inner Solar System or co-orbital with Jupiter",
+      "A natural satellite that is found in orbit in between mars and jupiter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the broad classifications of asteroids based on composition?",
+    "choices": [
+      "Icy, Rocky, Gaseous",
+      "Carbonaceous, Metallic, Silicaceous",
+      "Red, Green, Blue",
+      "Liquid, Solid, Plasma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where are the greatest number of known asteroids located?",
+    "choices": [
+      "In the Kuiper Belt",
+      "Between the orbits of Venus and Earth",
+      "Between the orbits of Mars and Jupiter",
+      "In the Oort Cloud"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following spacecraft directly studied Vesta and Ceres?",
+    "choices": [
+      "Galileo",
+      "Dawn",
+      "Hayabusa",
+      "OSIRIS-REx"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What potentially catastrophic event is associated with Near-Earth asteroids?",
+    "choices": [
+      "Causing auroras on Earth",
+      "Creating new islands in the ocean",
+      "Colliding with Earth and causing mass extinction events",
+      "Disrupting Earth's magnetic field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the currently preferred broad term introduced by the IAU for objects like asteroids and comets?",
+    "choices": [
+      "Minor Planet",
+      "Small Solar System Body",
+      "Celestial Body",
+      "Cosmic Debris"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What prompted Sir William Herschel to propose the term 'asteroid'?",
+    "choices": [
+      "Their reddish color",
+      "Their large size compared to planets",
+      "Their star-like appearance and movement",
+      "Their unusual orbital paths"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the main difference between an asteroid and a comet according to the article?",
+    "choices": [
+      "Asteroids are made of ice, while comets are made of rock.",
+      "Comets have a coma and tail due to sublimation, while asteroids generally do not.",
+      "Asteroids orbit the Sun, while comets orbit other stars.",
+      "Asteroids are larger than comets."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of Kuiper Belt Objects?",
+    "choices": [
+      "Predominantly comet-like in composition",
+      "Located beyond the orbit of Neptune",
+      "Highly eccentric orbits associated with comets",
+      "Larger than traditional comet nuclei"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What criterion defines a dwarf planet within the minor planets?",
+    "choices": [
+      "It must be composed primarily of ice.",
+      "It must be large enough to have become ellipsoidal under its own gravity.",
+      "It must have a highly eccentric orbit.",
+      "It must be located in the asteroid belt."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When was the first asteroid, Ceres, discovered?",
+    "choices": [
+      "1609",
+      "1772",
+      "1801",
+      "1845"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which asteroid is normally visible to the naked eye in dark skies when favorably positioned?",
+    "choices": [
+      "1 Ceres",
+      "2 Pallas",
+      "4 Vesta",
+      "433 Eros"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the Titius-Bode law supposed to predict?",
+    "choices": [
+      "The composition of planets",
+      "The orbits of the known planets",
+      "The size of asteroids",
+      "The presence of comets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered Ceres?",
+    "choices": [
+      "William Herschel",
+      "Franz Xaver von Zach",
+      "Giuseppe Piazzi",
+      "Carl Friedrich Gauss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who developed an efficient method of orbit determination to recover Ceres after it was lost?",
+    "choices": [
+      "Giuseppe Piazzi",
+      "Johann Elert Bode",
+      "William Herschel",
+      "Carl Friedrich Gauss"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who pioneered the use of astrophotography to detect asteroids?",
+    "choices": [
+      "Karl Ludwig Hencke",
+      "James Craig Watson",
+      "Max Wolf",
+      "Johann Franz Encke"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What honor was bestowed upon Karl Theodor Robert Luther, John Russell Hind, and Hermann Goldschmidt by the French Academy of Sciences?",
+    "choices": [
+      "They were given honorary degrees.",
+      "They were awarded medals of honor.",
+      "Their faces were engraved on a commemorative medallion.",
+      "They were elected as members of the academy."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the past, what was the first step in discovering asteroids?",
+    "choices": [
+      "Measuring the location of moving bodies",
+      "Viewing films under a stereoscope",
+      "Photographing a region of the sky with a wide-field telescope",
+      "Sending observations to the Minor Planet Center"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What designation is given to a newly discovered asteroid before its orbit is confirmed?",
+    "choices": [
+      "Catalogue number",
+      "Provisional designation",
+      "IAU designation",
+      "Formal naming convention"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is granted the honor of naming an asteroid?",
+    "choices": [
+      "The International Astronomical Union",
+      "The Minor Planet Center",
+      "The observer of the first apparition with a calculated orbit",
+      "The asteroid's original discoverer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What symbol did Johann Franz Encke introduce as the generic symbol for an asteroid?",
+    "choices": [
+      "A circle with a cross",
+      "A numbered square",
+      "A numbered circle",
+      "A star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was the numbered-circle convention quickly adopted by astronomers to designate an asteroid?",
+    "choices": [
+      "After the 10th asteroid discovery",
+      "After the 15th asteroid discovery",
+      "After the 16th asteroid discovery",
+      "After the 20th asteroid discovery"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What iconic symbol was assigned to 20 Massalia?",
+    "choices": [
+      "A simple chronological numbering system was established in 1925.",
+      "The circle was then numbered in order of discovery to indicate a specific asteroid.",
+      "An iconic symbol was not assigned to 20 Massalia.",
+      "The faces of successful asteroid-hunters were engraved on a commemorative medallion marking the event."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "By what method were new asteroids listed by, starting in 1892?",
+    "choices": [
+      "They were listed by their Greek symbol.",
+      "They were listed by a simple chronological numbering system.",
+      "They were listed by the year and a capital letter indicating the order in which the asteroid's orbit was calculated.",
+      "They were listed by iconic symbols like the ones traditionally used to designate the planets."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When was the first time the iconic symbols to designate the planets used to be assigned to the first asteroids discovered?",
+    "choices": [
+      "Before the 15th asteroid was discovered",
+      "After the 15th asteroid was discovered",
+      "After the 20th asteroid was discovered",
+      "Before the 37th asteroid was discovered"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are asteroids thought to be primarily made of?",
+    "choices": [
+      "Gas",
+      "Liquid water",
+      "Shattered remnants of planetesimals",
+      "Captured comets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of planetesimals were ejected from the asteroid belt due to Jupiter's gravitational influence?",
+    "choices": [
+      "50%",
+      "75%",
+      "90%",
+      "Over 99%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "According to the Nice model, what type of asteroids may have originated as Kuiper Belt objects?",
+    "choices": [
+      "S-type",
+      "M-type",
+      "C-type",
+      "D-type"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What process allowed Ceres and Vesta to differentiate into layers?",
+    "choices": [
+      "Atmospheric pressure",
+      "Gravitational compression",
+      "Melting and sinking of heavy elements",
+      "Solar radiation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When did the major accretion of asteroids occur?",
+    "choices": [
+      "During the Jovian disruption",
+      "The early era of the solar nebula",
+      "After the formation of the Earth's moon",
+      "During the Oort cloud formation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate number of asteroids larger than 1 km in diameter estimated to be within the asteroid belt?",
+    "choices": [
+      "100,000 - 200,000",
+      "500,000 - 750,000",
+      "1.1 - 1.9 million",
+      "5 - 10 million"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What prevented the accretion of planetesimals into planets in the asteroid belt?",
+    "choices": [
+      "High temperatures",
+      "Lack of materials",
+      "Large gravitational perturbations by Jupiter",
+      "Frequent collisions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of the Moon's mass is the estimated total mass of the asteroid belt?",
+    "choices": [
+      "1%",
+      "3%",
+      "10%",
+      "25%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which asteroid accounts for the largest proportion of the asteroid belt's total mass?",
+    "choices": [
+      "Vesta",
+      "Pallas",
+      "Hygiea",
+      "Ceres"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "At what angle from a planet's orbit do Trojans reside?",
+    "choices": [
+      "30 degrees ahead and behind",
+      "45 degrees ahead and behind",
+      "60 degrees ahead and behind",
+      "90 degrees ahead and behind"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are Near-Earth Asteroids (NEAs)?",
+    "choices": [
+      "Asteroids located near the Sun.",
+      "Asteroids with orbits that pass close to that of Earth.",
+      "Asteroids made of near-Earth materials.",
+      "Asteroids that were found by the Near Earth Asteroid Ranging spacecraft"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are asteroids that cross Earth's orbital path known as?",
+    "choices": [
+      "Earth-grazers",
+      "Earth-crossers",
+      "Earth-touchers",
+      "Earth-invaders"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What drives the rest of the near-Earth asteroids out of the asteroid belt?",
+    "choices": [
+      "Solar wind",
+      "Gravitational interactions with Jupiter",
+      "Collisions with other asteroids",
+      "Tidal forces from Earth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the defining characteristic of Atira asteroids?",
+    "choices": [
+      "Their orbits cross Earth's orbit.",
+      "Their perihelion distance is greater than Earth's aphelion distance.",
+      "Their aphelion distance is smaller than Earth's perihelion distance.",
+      "Their semi-major axis is more than 1 AU."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the defining characteristic of Amor asteroids?",
+    "choices": [
+      "Their perihelion distance is greater than Earth's aphelion distance.",
+      "Their semi-major axis is less than 1 AU.",
+      "Their orbits lie strictly inside Earth's orbit.",
+      "Their orbits are identical to Earth's."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a common characteristic shared by Martian moons Phobos and Deimos?",
+    "choices": [
+      "They have identical orbits",
+      "They are primarily composed of iron",
+      "They have similar spectra, albedo, and density to C-type asteroids",
+      "They are both larger than Earth's moon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one hypothesis for the origin of Phobos and Deimos?",
+    "choices": [
+      "They are fragments of a larger Martian moon",
+      "They were created from a collision between Mars and another planet",
+      "They are captured main-belt asteroids",
+      "They are volcanic rocks from Mars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What mechanism is proposed for circularizing the initially highly eccentric orbit of captured moons?",
+    "choices": [
+      "Solar wind pressure",
+      "Atmospheric drag and tidal forces",
+      "Gravitational interactions with Jupiter",
+      "Collision with other moons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the high porosity of the interior of Phobos inconsistent with?",
+    "choices": [
+      "A Martian origin",
+      "An asteroidal origin",
+      "An icy origin",
+      "A volcanic origin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What do observations of Phobos in the thermal infrared suggest about its composition?",
+    "choices": [
+      "It is primarily composed of iron and nickel",
+      "It contains mainly phyllosilicates",
+      "It is mostly water ice",
+      "It is similar to chondrite meteorites"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the classification of an object smaller than 1 meter across?",
+    "choices": [
+      "Asteroid",
+      "Dwarf planet",
+      "Meteoroid",
+      "Comet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of the largest asteroids?",
+    "choices": [
+      "Irregular shape",
+      "Roughly spherical shape",
+      "At least partly differentiated interiors",
+      "Survival from protoplanets"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which asteroid is also classified as a dwarf planet?",
+    "choices": [
+      "Vesta",
+      "Pallas",
+      "Hygiea",
+      "Ceres"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What percentage of the asteroid belt's mass does Ceres comprise?",
+    "choices": [
+      "10%",
+      "20%",
+      "40%",
+      "60%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the estimated primordial population of the main belt, compared to today?",
+    "choices": [
+      "The same",
+      "Half as much",
+      "Twice as much",
+      "200 times what it is today"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is Rheasilvia?",
+    "choices": [
+      "A moon orbiting Ceres",
+      "A mountain range on Pallas",
+      "A large crater at Vesta's southern pole",
+      "A type of meteorite found on Earth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do large asteroids internal differentiation indicate?",
+    "choices": [
+      "They all possess natural satellites.",
+      "There is a lack of natural satellites.",
+      "There are all composed of carbon.",
+      "There are made of metallic core."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which asteroid rotates on its side, similar to Uranus?",
+    "choices": [
+      "Ceres",
+      "Vesta",
+      "Pallas",
+      "Hygiea"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From where on Earth the HED meteorites are derived?",
+    "choices": [
+      "Pallas",
+      "Vesta",
+      "Hygiea",
+      "Ceres"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the composition of asteroids similar to?",
+    "choices": [
+      "High in oxygen and nitrogen.",
+      "High in carbon and silicon.",
+      "High in water and ice.",
+      "High in helium and sulfur."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate upper limit for the rotation period of asteroids larger than 100 meters?",
+    "choices": [
+      "1 hour",
+      "2.2 hours",
+      "5 hours",
+      "10 hours"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What force prevents most asteroids from rotating faster than approximately 2.2 hours?",
+    "choices": [
+      "Frictional force",
+      "Gravitational force",
+      "Inertial force",
+      "Electromagnetic force"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do asteroids get darker and redder with age?",
+    "choices": [
+      "Due to solar radiation",
+      "Due to space weathering",
+      "Due to internal heating",
+      "Due to collisions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the deep regolith covering the surface of asteroids like Mathilde and Ida indicate?",
+    "choices": [
+      "Recent volcanic activity",
+      "Long-term exposure to solar wind",
+      "Extensive impact cratering",
+      "A liquid interior"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How did Dawn spacecraft reveal on Ceres?",
+    "choices": [
+      "A large ocean",
+      "A heavily cratered surface",
+      "Active volcanoes",
+      "No craters"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a primary characteristic used to classify asteroids based on their characteristic emission spectra?",
+    "choices": [
+      "Orbital period",
+      "Surface temperature",
+      "Chemical composition",
+      "Emission spectra"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which asteroid is thought to have a nickel-iron core, olivine mantle, and basaltic crust?",
+    "choices": [
+      "Ceres",
+      "Vesta",
+      "Hygiea",
+      "Mathilde"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the uniformly primitive composition of carbonaceous chondrite in 10 Hygiea suggest?",
+    "choices": [
+      "It is the most differentiated asteroid.",
+      "It is the most metallic asteroid.",
+      "It is the largest undifferentiated asteroid.",
+      "It is the densest asteroid."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a common characteristic of small asteroids?",
+    "choices": [
+      "They are solid rock",
+      "They have moons",
+      "They are piles of rubble",
+      "They have liquid cores"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the two primary populations of asteroids in the main belt, according to albedo and density?",
+    "choices": [
+      "Icy and rocky",
+      "Volatile-rich and volatile-poor",
+      "Metallic and gaseous",
+      "Red and blue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is one hypothesis about the origin of water on Earth?",
+    "choices": [
+      "It was formed in Earth's atmosphere.",
+      "It was delivered by asteroid impacts.",
+      "It came from melting glaciers.",
+      "It was created by volcanic activity."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What evidence confirmed the presence of water ice on the surface of 24 Themis?",
+    "choices": [
+      "Direct observation by the Hubble Space Telescope",
+      "Analysis of meteorites found on Earth",
+      "Data from NASA's Infrared Telescope Facility",
+      "Samples returned by the Hayabusa probe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of space observatory definitively detected water vapor on Ceres?",
+    "choices": [
+      "Kepler Space Telescope",
+      "Hubble Space Telescope",
+      "Herschel Space Observatory",
+      "Spitzer Space Telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How can solar winds contribute to water formation on asteroids?",
+    "choices": [
+      "They melt the ice on the surface.",
+      "They create a protective magnetic field.",
+      "They react with the oxygen in the upper layer.",
+      "They break down organic compounds."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What evidence suggests the presence of primordial ice within meteorites?",
+    "choices": [
+      "Detection of water molecules",
+      "Ultraporous lithology",
+      "Presence of amino acids",
+      "Metallic composition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is panspermia?",
+    "choices": [
+      "The process of asteroid formation",
+      "The theory that asteroid impacts seeded early Earth with life",
+      "The study of asteroid composition",
+      "The classification of asteroids based on their orbits"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what cosmic objects was sugar molecules were detected in 2019?",
+    "choices": [
+      "Comets",
+      "Other planets",
+      "White dwarfs",
+      "Meteorites"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What components of DNA and RNA were suggested to have formed on asteroids and comets, based on NASA studies with meteorites?",
+    "choices": [
+      "Proteins, lipids and organic molecules",
+      "Adenine, guanine and related organic molecules",
+      "Water, methane and organic molecules",
+      "Minerals, metals and aminoacids"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "From which perspective asteroid prospecting could provide scientific data for extraterrestrial intelligence?",
+    "choices": [
+      "Astrobiological perspective",
+      "Geological perspective",
+      "Political perspective",
+      "Economic perspective"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In November 2019, what did scientists report detecting in meteorites?",
+    "choices": [
+      "Amino acids",
+      "Water ice",
+      "Sugar molecules",
+      "Metallic alloys"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the two primary criteria used to categorize asteroids?",
+    "choices": [
+      "Size and shape",
+      "Mass and density",
+      "Orbital characteristics and reflectance spectrum",
+      "Temperature and composition"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What term is used to describe groups of asteroids that are tighter and result from the break-up of a large parent asteroid?",
+    "choices": [
+      "Groups",
+      "Associations",
+      "Families",
+      "Clusters"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one unusual type of orbit that some asteroids have?",
+    "choices": [
+      "Circular orbits",
+      "Highly elliptical orbits",
+      "Horseshoe orbits that are co-orbital with Earth or another planet",
+      "Polar orbits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What were the original three categories in the asteroid taxonomic system developed by Chapman, Morrison, and Zellner?",
+    "choices": [
+      "Carbonaceous, Metallic, Silicaceous",
+      "C-types, S-types, M-types",
+      "C-types, S-types, U",
+      "Rocky, Icy, Gaseous"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a significant problem with spectral designations based on inferences of an asteroid's composition?",
+    "choices": [
+      "The equipment of the time appeared to be points of light like stars, showing little or no planetary disc.",
+      "There are assurances that asteroids within the same taxonomic class are composed of the same (or similar) materials.",
+      "The correspondence between spectral class and composition is not always very good.",
+      "There are 24 asteroid categories."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What visual characteristics define active asteroids?",
+    "choices": [
+      "Their asteroid-like orbits and comet-like colors",
+      "They show comae, tails, or other visual evidence of mass-loss",
+      "Their high reflectivity",
+      "Their metallic composition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the original name for active asteroids when they were first discovered?",
+    "choices": [
+      "Near-Earth comets",
+      "Main-belt asteroids",
+      "Main-belt comets",
+      "Hybrid asteroids"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What designation was given to the first active asteroid discovered after its tail was found?",
+    "choices": [
+      "24 Themis",
+      "7968 Elst–Pizarro",
+      "311P/PanSTARRS",
+      "101955 Bennu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What mission made Dimorphos an active asteroid by crashing into it?",
+    "choices": [
+      "OSIRIS-REx",
+      "DART",
+      "Hayabusa2",
+      "Lucy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What were observations of Dimorphos show after the collision?",
+    "choices": [
+      "Dimorphos was unchanged",
+      "Dimorphos lost approximately 1 million kilograms.",
+      "Dimorphos gained mass",
+      "Dimorphos was split in 2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What data can be inferred from asteroid light curves?",
+    "choices": [
+      "Surface temperature",
+      "Shape and composition",
+      "Internal structure",
+      "Atmospheric pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What technique can yield good information about asteroid shapes and orbital parameters?",
+    "choices": [
+      "Star occultations",
+      "Radar imaging",
+      "Spectroscopy",
+      "Light curves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the planetologist Patrick Michel, what observations provide some indication of actual physical properties?",
+    "choices": [
+      "Measuring the heat flux of an asteroid at a single wavelength",
+      "Spectroscopy",
+      "Light-curve measurements",
+      "Visual magnitude measurements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In October 2013, water was detected on an extrasolar body for the first time, on an asteroid orbiting the white dwarf:",
+    "choices": [
+      "Neptune",
+      "GD 61",
+      "Arecibo",
+      "Goldstone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which space telescope observed more than 700 near-Earth asteroids?",
+    "choices": [
+      "NEOWISE",
+      "Spitzer Space Telescope",
+      "Hubble Space Telescope",
+      "James Webb Space Telescope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of data can be used to infer the internal structure of asteroids?",
+    "choices": [
+      "Color",
+      "Composition",
+      "Bulk densities",
+      "Rotation rate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the first spacecraft to successfully orbit and land on an asteroid?",
+    "choices": [
+      "Galileo",
+      "NEAR Shoemaker",
+      "Hayabusa",
+      "Dawn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which probe obtained and returned samples from the surface of asteroid 25143 Itokawa?",
+    "choices": [
+      "OSIRIS-REx",
+      "Lucy",
+      "Dawn",
+      "Hayabusa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What was the purpose of the Double Asteroid Redirection Test (DART) mission?",
+    "choices": [
+      "To study the composition of asteroids",
+      "To collect samples from an asteroid",
+      "To test technology for defending Earth against potential hazardous objects",
+      "To map the asteroid belt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is NASA's Lucy mission focused on?",
+    "choices": [
+      "Flying by Jupiter trojans",
+      "Landing on asteroids",
+      "Studying the asteroid belt",
+      "Exploring the Oort cloud"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which NASA mission, launched in October 2023, is intended to study the large metallic asteroid Psyche?",
+    "choices": [
+      "Hera",
+      "DESTINY+",
+      "Psyche",
+      "Tianwen-2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of ESA's Hera mission, launched in October 2024?",
+    "choices": [
+      "Study the large metallic asteroid Psyche.",
+      "Explore the co-orbital near-Earth asteroid 469219 Kamoʻoalewa.",
+      "Measure the size and morphology of the crater, and momentum transmitted by the DART impact.",
+      "Flyby of the Geminids meteor shower parent body 3200 Phaethon."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "DESTINY+, is a mission for a flyby of which meteor shower parent body?",
+    "choices": [
+      "Hera",
+      "Tianwen-2",
+      "Gemini",
+      "Phaethon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of CNSA's Tianwen-2 planned for 2025?",
+    "choices": [
+      "Use solar electric propulsion to explore the co-orbital near-Earth asteroid 469219 Kamoʻoalewa and the active asteroid 311P/PanSTARRS.",
+      "Study the large metallic asteroid Psyche.",
+      "Explore the Oort cloud.",
+      "Measure the size and morphology of the crater, and momentum transmitted by the DART impact."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What material is the regolith of Kamo'oalewa set to collect?",
+    "choices": [
+      "Carbon",
+      "Rocks",
+      "Amino acids",
+      "Samples"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who defined successful asteroid mining as the development of a mining program that is both financially self-sustaining and profitable to its investors?",
+    "choices": [
+      "Mark V. Sykes",
+      "Matt Anderson",
+      "Viorel Badescu",
+      "Mildred Shapley Matthews"
+    ],
+    "answer": 1
+  }
+]

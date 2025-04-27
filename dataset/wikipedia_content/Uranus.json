@@ -1,0 +1,752 @@
+[
+    {
+      "question": "What is the primary composition of Uranus?",
+      "choices": [
+        "Primarily hydrogen and helium.",
+        "Primarily rock and iron.",
+        "Primarily water, ammonia, and methane in a supercritical phase.",
+        "Primarily metallic hydrogen."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is unique about Uranus's axial tilt?",
+      "choices": [
+        "It has no axial tilt.",
+        "It is tilted at 23.5 degrees, similar to Earth.",
+        "It has a marked axial tilt of 82.23 degrees, with a retrograde rotation.",
+        "It is tidally locked to the Sun."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the orbital period of Uranus around the Sun?",
+      "choices": [
+        "29 Earth years",
+        "84 Earth years",
+        "164 Earth years",
+        "11 Earth years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary cause of the darkening of Uranus's rings and moons?",
+      "choices": [
+        "Solar radiation",
+        "Volcanic activity",
+        "Charged particles in its magnetosphere",
+        "Collisions with asteroids"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did Voyager 2 fly by Uranus?",
+      "choices": [
+        "1977",
+        "1986",
+        "1995",
+        "2003"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why was Uranus not recognized as a planet by ancient observers?",
+      "choices": [
+        "It was too far away.",
+        "It was too bright.",
+        "Its dimness and slow orbit",
+        "It was hidden by Saturn."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is credited with the discovery of Uranus as a planet?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "William Herschel",
+        "Johannes Kepler"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How did the discovery of Uranus impact the understanding of the Solar System's size?",
+      "choices": [
+        "It confirmed the existing boundaries.",
+        "It shrank the perceived size of the Solar System.",
+        "It effectively doubled the size of the known Solar System.",
+        "It had no effect on the understanding of the Solar System."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the initial classification given to Uranus by its discoverer?",
+      "choices": [
+        "A planet",
+        "A comet",
+        "A star",
+        "An asteroid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Herschel received a stipend from King George III on the condition that he:",
+      "choices": [
+        "Move to Greenwich Observatory.",
+        "Build a larger telescope for the Royal Family.",
+        "Move to Windsor so the Royal Family could look through his telescopes.",
+        "Discover another planet."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "After which Greek god is Uranus named?",
+      "choices": [
+        "Zeus",
+        "Poseidon",
+        "Hades",
+        "Uranus (Ouranos)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What name did William Herschel initially propose for Uranus?",
+      "choices": [
+        "Neptune",
+        "Herschel",
+        "Georgium Sidus (George's Star)",
+        "Uranus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why was Herschel's proposed name for Uranus not universally accepted?",
+      "choices": [
+        "It was too difficult to pronounce.",
+        "It was not related to Greek mythology.",
+        "It was unpopular outside Britain and Hanover.",
+        "It was already the name of another celestial object."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who proposed the name Uranus for the planet?",
+      "choices": [
+        "William Herschel",
+        "Nevil Maskelyne",
+        "Johann Elert Bode",
+        "Jérôme Lalande"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did the name 'Uranus' become universally accepted?",
+      "choices": [
+        "1781",
+        "1800",
+        "1830",
+        "1850"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the presolar nebula?",
+      "choices": [
+        "A cluster of stars.",
+        "A rotating disk of gas and dust from which the Solar System formed.",
+        "A type of comet.",
+        "A theoretical planet between Mars and Jupiter."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What primarily formed the Sun from the presolar nebula?",
+      "choices": [
+        "Iron and nickel",
+        "Hydrogen and helium",
+        "Ice and rock",
+        "Methane and ammonia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What prevents the ice giants from becoming gas giants?",
+      "choices": [
+        "They are too far from the Sun.",
+        "They did not accrete enough nebular gas to reach a critical point.",
+        "They have a rocky core that prevents gas accretion.",
+        "They formed after the gas giants and had less gas available."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to recent simulations, where did the ice giants form relative to their current positions?",
+      "choices": [
+        "Farther from the Sun",
+        "Closer to the Sun",
+        "In their present positions",
+        "Formed in the Kuiper belt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What model suggests the ice giants formed closer to the Sun and moved outwards?",
+      "choices": [
+        "The Standard Model",
+        "The Nebular Hypothesis",
+        "The Nice Model",
+        "The Grand Tack Hypothesis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long does it take Uranus to orbit the Sun?",
+      "choices": [
+        "29 Earth years",
+        "84 Earth years",
+        "164 Earth years",
+        "687 Earth days"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the average distance of Uranus from the Sun?",
+      "choices": [
+        "1 AU",
+        "5 AU",
+        "10 AU",
+        "20 AU"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who first proposed that irregularities in Uranus's orbit were due to an unseen planet?",
+      "choices": [
+        "Isaac Newton",
+        "John Couch Adams",
+        "Albert Einstein",
+        "Edwin Hubble"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which planet was discovered due to the predicted gravitational effects on Uranus's orbit?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Pluto"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How was the rotational period of the interior of Uranus determined?",
+      "choices": [
+        "By observing cloud movements.",
+        "By tracking the rotational motion of Uranus' aurorae.",
+        "By measuring the gravitational pull on its moons.",
+        "By observing changes in its magnetic field."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the axial tilt of Uranus?",
+      "choices": [
+        "23.5 degrees",
+        "0 degrees",
+        "82.23 degrees",
+        "90 degrees"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main consequence of Uranus's extreme axial tilt?",
+      "choices": [
+        "Constant day and night cycles",
+        "Extreme seasonal changes with long periods of sunlight and darkness at the poles",
+        "No seasonal changes",
+        "Tidal locking with the Sun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During the solstice on Uranus, how long does each pole experience continuous sunlight or darkness?",
+      "choices": [
+        "6 months",
+        "1 year",
+        "21 years",
+        "42 years"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the leading hypothesis regarding the cause of Uranus's unusual axial tilt?",
+      "choices": [
+        "Tidal forces from the Sun",
+        "A collision with an Earth-sized protoplanet",
+        "Gravitational interactions with other planets",
+        "Internal shifts in the planet's core"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was Uranus's south pole pointed almost directly at the Sun?",
+      "choices": [
+        "1781",
+        "1865",
+        "1949",
+        "1986"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the approximate apparent magnitude of Uranus?",
+      "choices": [
+        "2.0",
+        "5.7",
+        "10.0",
+        "15.0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under what conditions can Uranus be visible to the naked eye?",
+      "choices": [
+        "In bright daylight",
+        "Only with a telescope",
+        "In dark skies at opposition",
+        "Never"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What color does Uranus appear to be when viewed through larger amateur telescopes?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Pale cyan",
+        "Bright white"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can be visible with a large telescope of 25cm or wider?",
+      "choices": [
+        "Cities on the planet surface.",
+        "Cloud patterns and some of the larger satellites.",
+        "Rings around the planet.",
+        "Nothing, Uranus is too far away."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the angular diameter of Uranus?",
+      "choices": [
+        "1 arcsecond",
+        "3.4 to 3.7 arcseconds",
+        "10 arcseconds",
+        "32 to 45 arcseconds"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the estimated density of Uranus?",
+      "choices": [
+        "0.69 g/cm3",
+        "1.27 g/cm3",
+        "5.51 g/cm3",
+        "9.00 g/cm3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the main constituents of Uranus's interior?",
+      "choices": [
+        "Primarily hydrogen and helium",
+        "Primarily rock and iron",
+        "Primarily ices such as water, ammonia, and methane",
+        "Primarily metallic hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the standard model, what are the three main layers of Uranus?",
+      "choices": [
+        "Crust, mantle, and core",
+        "Atmosphere, ocean, and core",
+        "Rocky core, icy mantle, and gaseous hydrogen/helium envelope",
+        "Solid hydrogen, liquid hydrogen, and metallic hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the estimated temperature at the center of Uranus's core?",
+      "choices": [
+        "2000 K",
+        "5000 K",
+        "10000 K",
+        "20000 K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What phenomenon is theorized to occur within Uranus's icy mantle?",
+      "choices": [
+        "Volcanic eruptions",
+        "Diamond rains",
+        "Metallic hydrogen formation",
+        "Superconductivity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does Uranus's internal heat compare to that of other giant planets?",
+      "choices": [
+        "Significantly higher",
+        "Similar",
+        "Markedly lower",
+        "Slightly higher"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How much more energy does Neptune radiate into space than it receives from the Sun?",
+      "choices": [
+        "0.5 times as much",
+        "1.0 times as much",
+        "2.61 times as much",
+        "5.0 times as much"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the lowest temperature recorded in Uranus's tropopause?",
+      "choices": [
+        "0 K",
+        "49 K",
+        "100 K",
+        "273 K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one hypothesis for why Uranus has such low internal heat?",
+      "choices": [
+        "It is too far from the Sun.",
+        "The core is made of insulating material.",
+        "An impactor left the planet with a depleted core temperature.",
+        "The atmosphere reflects too much sunlight."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did a 2021 study suggest could be dissolved in the liquid interiors of Uranus and Neptune?",
+      "choices": [
+        "Iron",
+        "Magnesium",
+        "Gold",
+        "Diamond"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the three layers of Uranus's atmosphere?",
+      "choices": [
+        "Troposphere, mesosphere, thermosphere",
+        "Troposphere, stratosphere, ionosphere",
+        "Troposphere, stratosphere, thermosphere",
+        "Mesosphere, stratosphere, thermosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the approximate helium molar fraction in Uranus's upper troposphere?",
+      "choices": [
+        "0.01",
+        "0.15",
+        "0.50",
+        "0.99"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which gas is responsible for Uranus's aquamarine or cyan color?",
+      "choices": [
+        "Ammonia",
+        "Hydrogen sulfide",
+        "Methane",
+        "Carbon dioxide"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How are hydrocarbons formed in Uranus's stratosphere?",
+      "choices": [
+        "Through volcanic eruptions",
+        "Through methane photolysis induced by solar UV radiation",
+        "Through chemical reactions in the core",
+        "Through asteroid impacts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the temperature range in the tropopause region of Uranus?",
+      "choices": [
+        "0 to 10 K",
+        "49 to 57 K",
+        "100 to 150 K",
+        "273 to 300 K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Compared to other giant planets, how would you describe Uranus' atmosphere at ultraviolet and visible wavelengths?",
+      "choices": [
+        "Extremely active",
+        "Bland",
+        "Similar to Jupiter",
+        "More active than Neptune"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During the Voyager 2 flyby in 1986, approximately how many cloud features were observed on Uranus?",
+      "choices": [
+        "0",
+        "10",
+        "100",
+        "1000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the brightest large feature on Uranus's visible surface, observed by Voyager 2?",
+      "choices": [
+        "Northern Cap",
+        "Equatorial Band",
+        "Southern Collar",
+        "Great Dark Spot"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the 1990s, most bright cloud features were found where on Uranus?",
+      "choices": [
+        "Southern Hemisphere",
+        "Northern Hemisphere",
+        "Equatorial Regions",
+        "Polar Caps"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the direction of the winds at the equator of Uranus?",
+      "choices": [
+        "Prograde (same direction as planetary rotation)",
+        "Retrograde (opposite direction to planetary rotation)",
+        "Nonexistent",
+        "Highly variable"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is unusual about Uranus's magnetic field?",
+      "choices": [
+        "It is perfectly aligned with its axis of rotation.",
+        "It is much stronger than any other planet.",
+        "It does not originate from its geometric center and is tilted at 59° from the axis of rotation.",
+        "It is nonexistent."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic dipole of Uranus is shifted towards which rotational pole?",
+      "choices": [
+        "The north rotational pole",
+        "The south rotational pole",
+        "The magnetic equator",
+        "The solar wind"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is it hypothesized that the ice giants' magnetic fields are generated?",
+      "choices": [
+        "Within their cores",
+        "In the water–ammonia ocean at relatively shallow depths",
+        "In the solid mantle",
+        "In the upper atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What shape is Uranus's magnetotail due to its sideways rotation?",
+      "choices": [
+        "A straight line",
+        "A circle",
+        "A long corkscrew",
+        "A sphere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did NASA astronomers report in March 2020 based on reevaluating Voyager 2 data?",
+      "choices": [
+        "Discovery of a new moon",
+        "Detection of a large atmospheric magnetic bubble (plasmoid) released into outer space",
+        "Evidence of liquid water on the surface",
+        "Confirmation of volcanic activity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "From which works are the names of Uranus's satellites derived?",
+      "choices": [
+        "Greek mythology",
+        "Roman mythology",
+        "Works of Shakespeare and Alexander Pope",
+        "Egyptian mythology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the largest moon of Uranus?",
+      "choices": [
+        "Miranda",
+        "Ariel",
+        "Titania",
+        "Oberon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the approximate composition of Uranus's satellites?",
+      "choices": [
+        "Primarily rock",
+        "Primarily ice",
+        "Ice-rock conglomerates",
+        "Metallic hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of Uranus's satellites appears to have the youngest surface with the fewest impact craters?",
+      "choices": [
+        "Miranda",
+        "Ariel",
+        "Umbriel",
+        "Titania"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What unique feature is found on Miranda?",
+      "choices": [
+        "Active volcanoes",
+        "Global ocean",
+        "Fault canyons 20 km deep and chaotic variations in surface features",
+        "A dense atmosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the Uranian rings composed of?",
+      "choices": [
+        "Bright ice particles",
+        "Volcanic ash",
+        "Extremely dark particles",
+        "Metallic dust"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the brightest ring of Uranus?",
+      "choices": [
+        "Alpha ring",
+        "Beta ring",
+        "Epsilon ring",
+        "Delta ring"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How wide are most of the rings of Uranus?",
+      "choices": [
+        "Hundreds of kilometers",
+        "Tens of kilometers",
+        "A few kilometers",
+        "Thousands of kilometers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was the Uranian ring system definitively discovered?",
+      "choices": [
+        "1789",
+        "1850",
+        "1977",
+        "1986"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is hypothesized to cause the blue color of Uranus's outermost ring?",
+      "choices": [
+        "Reflection of blue light from Uranus",
+        "Presence of nitrogen ice",
+        "Minute particles of water ice from Mab scattering blue light",
+        "Radioactive elements"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which spacecraft made the closest approach to Uranus?",
+      "choices": [
+        "Pioneer 11",
+        "Voyager 1",
+        "Voyager 2",
+        "Cassini"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did Voyager 2 make its closest approach to Uranus?",
+      "choices": [
+        "January 24, 1977",
+        "January 24, 1986",
+        "January 24, 1995",
+        "January 24, 2000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What aspects of Uranus did Voyager 2 study?",
+      "choices": [
+        "Only its atmosphere",
+        "Only its moons",
+        "Atmosphere, moons, and rings",
+        "Only its magnetic field"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why was the possibility of sending Cassini to Uranus rejected?",
+      "choices": [
+        "Cassini was too old.",
+        "The journey would take too long.",
+        "The mission was too expensive.",
+        "Uranus was not a priority."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What mission concept was placed at the highest priority by the 2022 Planetary Science Decadal Survey?",
+      "choices": [
+        "A Saturn orbiter",
+        "A Venus lander",
+        "A Uranus probe/orbiter mission",
+        "A Mars sample return mission"
+      ],
+      "answer": 2
+    }
+  ]

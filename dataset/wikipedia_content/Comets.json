@@ -1,0 +1,527 @@
+[
+  {
+    "question": "From what language does the word 'comet' originate?",
+    "choices": ["Old English", "Latin", "Greek", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "The term 'κομήτης' originally meant what in Greek?",
+    "choices": ["Star", "Long-haired star", "Icy body", "Wandering planet"],
+    "answer": 1
+  },
+  {
+    "question": "What does the astronomical symbol for a comet consist of?",
+    "choices": ["A circle with a dot in the center", "A small disc with three hairlike extensions", "A crescent shape", "A line with an arrow at the end"],
+    "answer": 1
+  },
+  {
+    "question": "Which Unicode represents the astronomical symbol for comets?",
+    "choices": ["U+2600", "U+2602", "U+2604", "U+2606"],
+    "answer": 2
+  },
+  {
+    "question": "What is the meaning of 'komē'?",
+    "choices": ["wearing the hair long", "the hair of the head", "tail of a comet", "all of the above"],
+    "answer": 1
+  },
+  {
+    "question": "What is the solid, core structure of a comet called?",
+    "choices": ["Coma", "Nucleus", "Tail", "Mantle"],
+    "answer": 1
+  },
+  {
+    "question": "What is Fred Whipple's model for cometary nuclei often referred to as?",
+    "choices": ["Icy dirtballs", "Dirty snowballs", "Frozen rocks", "Dusty icebergs"],
+    "answer": 2
+  },
+  {
+    "question": "Which amino acid was confirmed to be found in comet dust recovered by NASA's Stardust mission?",
+    "choices": ["Alanine", "Glycine", "Tryptophan", "Lysine"],
+    "answer": 1
+  },
+  {
+    "question": "What is the approximate albedo of cometary nuclei surfaces?",
+    "choices": ["Very high (close to 100%)", "Moderate (around 50%)", "Very low (around 4%)", "Variable, depending on the comet"],
+    "answer": 2
+  },
+  {
+    "question": "What is the average density of known comets?",
+    "choices": ["0.1 g/cm³", "0.6 g/cm³", "1.0 g/cm³", "2.0 g/cm³"],
+    "answer": 1
+  },
+  {
+    "question": "What is the 'coma' of a comet?",
+    "choices": ["The solid core of the comet", "A trail of dust and gas behind the comet", "A huge, thin atmosphere surrounding the nucleus", "The icy mantle of the comet"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary composition of the coma?",
+    "choices": ["Rock and dust", "Carbon dioxide and methane", "Water and dust", "Iron and nickel"],
+    "answer": 2
+  },
+  {
+    "question": "What causes the coma to decrease in size as a comet approaches Mars' orbit?",
+    "choices": ["Increased solar radiation", "Decreased temperature", "The solar wind becoming strong enough to blow away gas and dust", "Gravitational pull from Mars"],
+    "answer": 2
+  },
+  {
+    "question": "In what year were X-rays found to be emitted from comets?",
+    "choices": ["1986", "1996", "2006", "2016"],
+    "answer": 1
+  },
+  {
+    "question": "What process generates X-rays in comets?",
+    "choices": ["Radioactive decay within the nucleus", "Fusion reactions", "Charge exchange between solar wind ions and cometary atoms", "Reflection of X-rays from the Sun"],
+    "answer": 2
+  },
+  {
+    "question": "What is the bow shock in a comet caused by?",
+    "choices": ["The tail pushing back against the comet", "The interaction between the solar wind and the cometary ionosphere", "The melting of ice on the surface", "Gravitational interaction with planets"],
+    "answer": 1
+  },
+  {
+    "question": "Where are observations made regarding the bow shocks at comets?",
+    "choices": ["At the nucleus", "At the coma", "Near perihelion", "In the Oort Cloud"],
+    "answer": 2
+  },
+  {
+    "question": "What spacecraft observed the bow shock at comet 67P/Churyumov–Gerasimenko?",
+    "choices": ["Deep Impact", "Stardust", "Rosetta", "Voyager"],
+    "answer": 2
+  },
+  {
+    "question": "What is the young bow shock called?",
+    "choices": ["The fully developed bow shock", "The asymmetric bow shock", "The infant bow shock", "The perihelion bow shock"],
+    "answer": 2
+  },
+  {
+    "question": "Why is the infant bow shock asymmetric?",
+    "choices": ["Because of the comet's rotation", "Because of uneven solar wind", "Because of the comet's journey toward the Sun", "Because of the gravitational pull from other planets"],
+    "answer": 2
+  },
+  {
+    "question": "What causes the volatile materials within a comet to vaporize as it approaches the inner Solar System?",
+    "choices": ["Gravitational forces", "Solar radiation", "Chemical reactions", "Magnetic fields"],
+    "answer": 1
+  },
+  {
+    "question": "What type of comet tail always points directly away from the Sun?",
+    "choices": ["Dust tail", "Ice tail", "Ion tail", "Antitail"],
+    "answer": 2
+  },
+  {
+    "question": "What is responsible for the 'induced magnetosphere' around a comet?",
+    "choices": ["The solid nucleus", "The coma", "The ionization of particles in the coma by solar UV radiation", "The comet's magnetic field"],
+    "answer": 2
+  },
+  {
+    "question": "What is a 'tail disconnection event' caused by?",
+    "choices": ["The comet moving too far from the Sun", "Magnetic reconnection in the ion tail", "Collisions with asteroids", "The nucleus splitting apart"],
+    "answer": 1
+  },
+  {
+    "question": "Which space probe observed a 'tail disconnection event' on Encke's Comet?",
+    "choices": ["Voyager", "STEREO", "Rosetta", "New Horizons"],
+    "answer": 1
+  },
+  {
+    "question": "What can cause a comet's nucleus to spin or split apart?",
+    "choices": ["Uniform heating", "Gravitational forces only", "Uneven heating and outgassing", "Collisions with other objects"],
+    "answer": 2
+  },
+  {
+    "question": "What compound's sublimation can power jets of material flowing out of a comet nucleus?",
+    "choices": ["Water ice", "Methane", "Dry ice (frozen carbon dioxide)", "Ammonia"],
+    "answer": 2
+  },
+  {
+    "question": "Which comet's infrared imaging shows jets exiting and carrying with it dust grains into the coma?",
+    "choices": ["Halley's Comet", "Encke's Comet", "Hartley 2", "Hale-Bopp"],
+    "answer": 2
+  },
+  {
+    "question": "What is the shape of most comet orbits?",
+    "choices": ["Circular", "Elliptical", "Parabolic", "Hyperbolic"],
+    "answer": 1
+  },
+  {
+    "question": "How are comets often classified?",
+    "choices": ["By color", "By size", "By orbital period", "By composition"],
+    "answer": 2
+  },
+  {
+    "question": "What is the general definition of a short-period comet?",
+    "choices": ["Orbital periods less than 20 years", "Orbital periods less than 200 years", "Orbital periods less than 1000 years", "Orbital periods less than 10,000 years"],
+    "answer": 1
+  },
+  {
+    "question": "What are comets whose aphelia are near a major planet's orbit called?",
+    "choices": ["A swarm", "Encke-type comet", "Traditional Jupiter-family comets", "The planets 'family'"],
+    "answer": 3
+  },
+  {
+    "question": "Where do short-period comets originate from?",
+    "choices": ["The Oort cloud", "The Kuiper belt", "The asteroid belt", "The inner Solar System"],
+    "answer": 1
+  },
+  {
+    "question": "How are long-period comets influenced?",
+    "choices": ["Only by Jupiter", "The gravity of giant planets as a result of a close encounter", "Nearby planets", "The sun"],
+    "answer": 1
+  },
+  {
+    "question": "What makes a new comet appearance unpredictable?",
+    "choices": ["The precise time of their discovery", "Their previous established observations", "Their composition", "Unlike the return of periodic comets, whose orbits have been established by previous observations"],
+    "answer": 3
+  },
+  {
+    "question": "What is the orbital period range for long-period comets?",
+    "choices": ["Less than 200 years", "200 years to thousands of years", "Thousands to millions of years", "200 years to millions of years"],
+    "answer": 3
+  },
+  {
+    "question": "What does an eccentricity greater than 1 near perihelion suggest?",
+    "choices": ["The comet will definitely leave the Solar System", "The comet may leave the Solar System but it depends on other factors", "The comet is a short-period comet", "The comet is exceptionally bright"],
+    "answer": 1
+  },
+  {
+    "question": "What are single-apparition comets?",
+    "choices": ["Comets that are very faint", "Comets with perfectly circular orbits", "Comets that permanently exit the Solar System after a single pass of the Sun", "Comets that are visible only with telescopes"],
+    "answer": 2
+  },
+  {
+    "question": "What are comets ejected due to close passes by major planets no longer considered as?",
+    "choices": ["Gravitationally bound to the sun", "Orbital paths", "Long period orbits", "Gravitationally bound with 'periods'"],
+    "answer": 3
+  },
+  {
+    "question": "Which comet encounter accelerated the comet giving it the largest eccentricity (1.057) of any known solar comet with a reasonable observation arc?",
+    "choices": ["Jupiter", "Saturn", "Mars", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "What is the estimated location of the Oort cloud's inner boundary?",
+    "choices": ["Between Earth and Mars", "Between Jupiter and Saturn", "Between 2,000 and 5,000 AU from the Sun", "Beyond the Kuiper belt"],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate outer edge of the Oort cloud?",
+    "choices": ["100 AU", "1,000 AU", "50,000 AU", "100,000 to 200,000 AU"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name for the doughnut-shaped inner cloud in the Oort cloud?",
+    "choices": ["Kuiper belt", "Hills cloud", "Asteroid belt", "Scattered disc"],
+    "answer": 1
+  },
+  {
+    "question": "What is the reason why the inner and outer cloud consists of?",
+    "choices": ["Nebulas", "Gaseous elements", "Viable materials for the creation of celestial bodies", "All of the above"],
+    "answer": 2
+  },
+  {
+    "question": "Who's name is the Hills Cloud derived from?",
+    "choices": ["Jack G. Hills", "Jacob Bernoulli", "Giovanni Santini", "Guiseppe Toaldo"],
+    "answer": 0
+  },
+  {
+    "question": "Around which star was the first exocomet system detected?",
+    "choices": ["The Sun", "Alpha Centauri", "Beta Pictoris", "Sirius"],
+    "answer": 2
+  },
+  {
+    "question": "How are exocomets typically detected?",
+    "choices": ["Direct imaging", "Gravitational lensing", "Absorption spectrum caused by emitted gases", "Radio waves"],
+    "answer": 2
+  },
+  {
+    "question": "What mission does TESS Telescope take over?",
+    "choices": ["Halley Armada", "Rosetta", "Kepler", "All of the above"],
+    "answer": 2
+  },
+  {
+    "question": "What are the asymmetrical patterns of dips presented in light curves?",
+    "choices": ["The asymmetrical patterns of the dips presented are caused by the tail of a comet or of hundreds of comets", "The parent star", "Dips in a comet", "Symmetrical dips"],
+    "answer": 0
+  },
+  {
+    "question": "What element is discovered by the white light curve method?",
+    "choices": ["Exocomets", "Symmetrical Dips", "New planets", "Planets overshadowing their parent star"],
+    "answer": 2
+  },
+  {
+    "question": "What is a meteor shower associated with?",
+    "choices": ["Asteroid collisions", "Comet outgassing debris", "Solar flares", "Earthquakes"],
+    "answer": 1
+  },
+  {
+    "question": "What meteor shower is caused by Halley's Comet?",
+    "choices": ["Perseids", "Leonids", "Orionids", "Geminids"],
+    "answer": 2
+  },
+  {
+    "question": "What did scientists suggest impacts between rocky and icy surfaces had the potential to create?",
+    "choices": ["Tektites", "Molecular Oxygen", "Amino acids", "Polycyclic aromatic hydrocarbons"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas, found in comet 67P, challenged the assumption that it's an indicator of life?",
+    "choices": ["Methane", "Molecular oxygen", "Carbon dioxide", "Ammonia"],
+    "answer": 1
+  },
+  {
+    "question": "What kind of impact are suspected of delivering water to Earth's Moon?",
+    "choices": ["Asteroid impacts", "Comet impacts", "Meteorite impacts", "Comet and meteoroid impacts"],
+    "answer": 3
+  },
+  {
+    "question": "When was the fear of comets as acts of God highest in Europe?",
+    "choices": ["AD 100-500", "AD 500-1000", "AD 1200-1650", "AD 1700-1900"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote that the Great Comet of 1680 was responsible for the worldwide flood in the Book of Genesis?",
+    "choices": ["Edmond Halley", "Isaac Newton", "William Whiston", "Tycho Brahe"],
+    "answer": 2
+  },
+  {
+    "question": "What toxic gas was found in the tail of Halley's Comet in 1910?",
+    "choices": ["Methane", "Carbon Dioxide", "Cyanogen", "Ammonia"],
+    "answer": 2
+  },
+  {
+    "question": "Which solar comet was shifted from an orbit of 7.1 million years around the Sun, to a hyperbolic trajectory after a 1980 close pass by the planet Jupiter?",
+    "choices": ["C/1980 E1", "Encke's Comet", "C/2001 Q4", "Comet West"],
+    "answer": 0
+  },
+  {
+    "question": "How does a solar comet get ejected?",
+    "choices": ["Traveling too fast", "By interacting with another object in the Solar System", "Traveling too slow", "Getting smaller"],
+    "answer": 1
+  },
+  {
+    "question": "What happens to comets that permanently orbit the sun?",
+    "choices": ["They require a 3rd-body interaction to be ejected from the Solar System", "They get closer to the sun", "They get brighter", "They continue to orbit the sun"],
+    "answer": 0
+  },
+  {
+    "question": "What is the typical lifetime of Jupiter-family comets?",
+    "choices": ["100 years", "1,000 years", "10,000 years", "100,000 years"],
+    "answer": 2
+  },
+  {
+    "question": "What percentage of long-period comets survive more than 2,000 passages to small perihelion?",
+    "choices": ["1%", "10%", "50%", "90%"],
+    "answer": 0
+  },
+  {
+    "question": "What can extinct comets resemble?",
+    "choices": ["Planets", "Stars", "Asteroids", "Nebulae"],
+    "answer": 2
+  },
+  {
+    "question": "What is the reason for comet's splitting?",
+    "choices": ["Thermal stress", "Internal gas pressure", "Impact", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which comet broke into pieces and collided with Jupiter in July 1994?",
+    "choices": ["Halley's Comet", "Comet West", "Comet Shoemaker-Levy 9", "Comet Hale-Bopp"],
+    "answer": 2
+  },
+  {
+    "question": "Which comet was a significant example when it broke into two pieces during its passage through the perihelion in 1846?",
+    "choices": ["Comet Neujmin", "Comet West", "Biela's Comet", "Comet Leonard"],
+    "answer": 2
+  },
+  {
+    "question": "What were common for comets and planets in the early Solar System?",
+    "choices": ["Collisions", "Revolutions", "Asteroids", "Constant changes"],
+    "answer": 0
+  },
+  {
+    "question": "Before the 20th century, how were most comets referred to?",
+    "choices": ["By their color", "By the year when they appeared", "By their size", "By their discoverer"],
+    "answer": 1
+  },
+  {
+    "question": "After whom were Encke's Comet and Biela's Comet named?",
+    "choices": ["Their original discoverers", "The astronomers who calculated their orbits", "Ancient Greek Gods", "The countries where they were discovered"],
+    "answer": 1
+  },
+  {
+    "question": "What became common practice when naming comets in the early 20th century?",
+    "choices": ["Naming them after their discoverers", "Naming them after mythological figures", "Naming them after planets", "Using a numerical system"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name for a comet observed to have originated outside of the solar system?",
+    "choices": ["1I/ʻOumuamua", "2I/Borisov", "2I/Dudith", "2I/Borisov"],
+    "answer": 3
+  },
+  {
+    "question": "How can a comet be named?",
+    "choices": ["Discoverers", "Program that helped find it", "Instrument that helped find it", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Until the sixteenth century, comets were usually considered as what?",
+    "choices": ["Celestial bodies", "Bad omens", "Interesting space objects", "Harmless phenomena"],
+    "answer": 1
+  },
+  {
+    "question": "Who believed that comets were atmospheric phenomena?",
+    "choices": ["Seneca", "Pliny", "Aristotle", "Newton"],
+    "answer": 2
+  },
+  {
+    "question": "Whose cometary theory arose from his observations and cosmological theory that everything in the cosmos is arranged in a distinct configuration?",
+    "choices": ["Newton", "Aristotle", "Apollonius of Myndus", "Seneca"],
+    "answer": 1
+  },
+  {
+    "question": "Which century did Seneca the Younger question Aristotle's logic concerning comets?",
+    "choices": ["4th century BC", "1st century AD", "16th century", "17th century"],
+    "answer": 1
+  },
+  {
+    "question": "Where did observations indicate comets being re-appeared periodically?",
+    "choices": ["Persia", "India", "Germany", "Greece"],
+    "answer": 1
+  },
+  {
+    "question": "In what year did Giotto accurately portray a comet in his work?",
+    "choices": ["1258", "1301", "1456", "1577"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first person to accurately and anatomically portray a comet?",
+    "choices": ["Pope Callixtus", "Andreas Celichius", "Giuseppe Toaldo", "Giotto"],
+    "answer": 3
+  },
+  {
+    "question": "Who were the first astronomers that were unsuccessful for attempting at a parallax measurement of Halley's Comet?",
+    "choices": ["Andreas Dudith", "Jacob Bernoulli", "Tycho Brahe", "Crude Attempts"],
+    "answer": 3
+  },
+  {
+    "question": "Who demonstrated that comets must exist outside of Earth's atmosphere by measuring the parallax of the Great Comet of 1577?",
+    "choices": ["Isaac Newton", "Edmond Halley", "Tycho Brahe and Michael Maestlin", "Fred Lawrence Whipple"],
+    "answer": 2
+  },
+  {
+    "question": "Who published a treatise on comets in 1682?",
+    "choices": ["Galileo Galilei", "Isaac Newton", "Jacob Bernoulli", "Edmond Halley"],
+    "answer": 2
+  },
+  {
+    "question": "What did Isaac Newton prove in his Principia Mathematica of 1687?",
+    "choices": ["Comets are purely atmospheric phenomena", "Comets have no effect on Earth", "An object moving under gravity traces out an orbit shaped like a conic section", "Comets are made of solid rock"],
+    "answer": 2
+  },
+  {
+    "question": "What did Newton suspect that comets were the origin of?",
+    "choices": ["The Solar System", "Life on Earth", "The life-supporting component of air", "Asteroids"],
+    "answer": 2
+  },
+  {
+    "question": "Which team of mathematicians refined Halley's predicted return date of his Comet and predicted the date of the comet's 1759 perihelion?",
+    "choices": ["Alexis Clairaut, Joseph Lalande, and Nicole-Reine Lepaute", "Newton, Kepler, and Brahe", "Halley, Whiston, and Kant", "Sagan, Druyan, and Chapman"],
+    "answer": 0
+  },
+  {
+    "question": "Who proposed the 'dirty snowball' model for comets?",
+    "choices": ["Isaac Newton", "Edmond Halley", "Fred Lawrence Whipple", "Giovanni Santini"],
+    "answer": 2
+  },
+  {
+    "question": "What collection of spacecraft missions was the Halley Armada?",
+    "choices": ["A fictional fleet from a science fiction novel", "Missions that visited Halley's Comet in the 1980s", "A joint NASA and ESA mission", "Unmanned robots that orbited the sun"],
+    "answer": 1
+  },
+  {
+    "question": "Which probe blasted a crater on Comet Tempel 1?",
+    "choices": ["Giotto", "Vega 1", "Deep Impact", "Rosetta"],
+    "answer": 2
+  },
+  {
+    "question": "What was the mission that the Ulysses probe have?",
+    "choices": ["Launched in 1990 and the intended mission was for Ulysses to orbit around the Sun for further study at all latitudes", "Launched in 1986", "Launching data from Stardust", "All of the above"],
+    "answer": 0
+  },
+  {
+    "question": "Which probe orbited Comet Churyumov–Gerasimenko?",
+    "choices": ["Stardust", "Deep Impact", "Rosetta", "Ulysses"],
+    "answer": 2
+  },
+  {
+    "question": "How often does a comet become bright enough to be noticed by a casual observer, leading them to be designated as great comets?",
+    "choices": ["Every year", "Every 5 years", "Approximately once a decade", "Every century"],
+    "answer": 2
+  },
+  {
+    "question": "What are the general speaking rules for comets?",
+    "choices": ["If a comet has a large and active nucleus, will pass close to the Sun, and is not obscured by the Sun as seen from Earth when at its brightest, it has a chance of becoming a great comet", "Comets are not considered great", "It must pass Earth and be discovered 2 years prior", "Great comets only show up once a year"],
+    "answer": 0
+  },
+  {
+    "question": "What is a sungrazing comet?",
+    "choices": ["A comet that is visible only during sunrise", "A comet that passes extremely close to the Sun at perihelion", "A comet made mostly of ice", "A comet with a very long tail"],
+    "answer": 1
+  },
+  {
+    "question": "The Kreutz group is related to what comet?",
+    "choices": ["Comet Hyakutake", "A giant comet that broke up into many smaller comets during its first passage through the inner Solar System", "Comet Hale-Bopp", "Comet McNaught"],
+    "answer": 1
+  },
+  {
+    "question": "Who are the groups that relate to Comet 96P/Machholz?",
+    "choices": ["The Quadrantids and the Arietids", "The Marsden and Kracht groups both appear", "The Mars and Liller groups", "Both A and B"],
+    "answer": 3
+  },
+  {
+    "question": "Where does the Comet 29P/Schwassmann–Wachmann travel?",
+    "choices": ["Comet orbits from outside the asteroid belt", "Mercury's Orbit", "Travels in nearly circular orbit entirely between the orbits of Jupiter and Saturn", "Earth's orbit"],
+    "answer": 2
+  },
+  {
+    "question": "What did 2060 Chiron get reclassified as?",
+    "choices": ["A dark matter comet", "A small matter comet", "An asteroid", "A faint coma"],
+    "answer": 3
+  },
+  {
+    "question": "What is the size of the largest comet and the period?",
+    "choices": ["95P/Chiron at 200 km in diameter that comes to perihelion every 50 years", "≈150 km that will not come to perihelion until January 2031", "≈100 km in diameter and came to perihelion inside of Jupiter's orbit", " All of the above"],
+    "answer": 0
+  },
+  {
+    "question": "How are Centaurs classified?",
+    "choices": ["Characteristics of both asteroids and comets", "Asteroids", "Comets", "All of the above"],
+    "answer": 0
+  },
+  {
+    "question": "How can a comet be discovered?",
+    "choices": ["Photographing using a wide-field telescope or visually with binoculars", "Online using satellite observatories", "Visually", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the common theme of depictions of comets in popular culture?",
+    "choices": ["Harbingers of doom", "Signs of good fortune", "Objects of scientific curiosity", "Sources of inspiration"],
+    "answer": 0
+  },
+  {
+    "question": "What were bright comets inspired of?",
+    "choices": ["Panic and hysteria in the general population, being thought of as bad omens", "Good fortune", "Bad news", "The birth of notable people"],
+    "answer": 0
+  },
+  {
+    "question": "What inspired the mass suicide of the Heaven's Gate cult?",
+    "choices": ["The passage of Halley's Comet", "An alien invasion", "The appearance of Comet Hale-Bopp", "Religious teachings"],
+    "answer": 2
+  },
+  {
+    "question": "What has the impact of comets been depicted in?",
+    "choices": ["Threats overcome by technology", "Global apocalypse", "Zombies", "All of the above"],
+    "answer": 3
+  }
+]

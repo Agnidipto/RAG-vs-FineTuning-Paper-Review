@@ -1,0 +1,992 @@
+[
+  {
+    "question": "From which civilization did Jupiter get its name?",
+    "choices": [
+      "Ancient Greek",
+      "Ancient Roman",
+      "Ancient Egyptian",
+      "Ancient Chinese"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the planetary symbol for Jupiter derived from?",
+    "choices": [
+      "A Roman numeral",
+      "A Greek zeta",
+      "A constellation pattern",
+      "A symbol of Roman authority"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The adjectival form 'jovial' means which of the following?",
+    "choices": [
+      "Related to Jupiter's moons",
+      "Happy or Merry",
+      "Related to Jupiter's atmosphere",
+      "Related to Jupiter's rings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the root 'zeno-' used to form?",
+    "choices": [
+      "Moons of Jupiter",
+      "Jupiter-related words",
+      "Jupiter's atmosphere",
+      "Jupiter's magnetic field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What case is 'Iovis'?",
+    "choices": [
+      "Nominative",
+      "Genitive",
+      "Accusative",
+      "Dative"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately how long after the Sun did Jupiter form?",
+    "choices": [
+      "50 million years",
+      "1 million years",
+      "100 million years",
+      "500 million years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the 'grand tack hypothesis', where did Jupiter initially begin to form?",
+    "choices": [
+      "At its current location",
+      "Much further out than its current location",
+      "Closer to the Sun than its current location",
+      "Outside the Solar System"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one of the unresolved issues with the 'grand tack hypothesis'?",
+    "choices": [
+      "The formation timescales of terrestrial planets",
+      "The size of Jupiter's core",
+      "The temperature of Jupiter's atmosphere",
+      "The number of Jupiter's moons"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the Jumping-Jupiter scenario suggest?",
+    "choices": [
+      "Jupiter will eventually leave the solar system.",
+      "Jupiter migrated to its current location by jumping.",
+      "Jupiter ejected a fifth gas giant from the early solar system.",
+      "Jupiter will increase in size dramatically."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Based on composition, where might Jupiter have initially formed, according to researchers?",
+    "choices": [
+      "Inside the orbit of Mercury",
+      "Outside the molecular nitrogen (N2) snow line",
+      "Inside the asteroid belt",
+      "At its current location"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jupiter is primarily composed of which two elements?",
+    "choices": [
+      "Oxygen and Carbon",
+      "Hydrogen and Helium",
+      "Iron and Nickel",
+      "Silicon and Oxygen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many times larger is Jupiter's volume compared to Earth's?",
+    "choices": [
+      "100 times",
+      "318 times",
+      "1,321 times",
+      "11 times"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is Jupiter's average density?",
+    "choices": [
+      "5.51 g/cm3",
+      "1.326 g/cm3",
+      "0.687 g/cm3",
+      "3.93 g/cm3"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What percentage of hydrogen does Jupiter's atmosphere have by mass?",
+    "choices": [
+      "90%",
+      "24%",
+      "76%",
+      "50%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Compared to the Sun, Jupiter's helium abundance is about:",
+    "choices": [
+      "20% less",
+      "80% less",
+      "80% more",
+      "The same"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How much wider is Jupiter than Earth?",
+    "choices": [
+      "2 times",
+      "5 times",
+      "11 times",
+      "50 times"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the mass of Jupiter compared to Earth?",
+    "choices": [
+      "50 times more massive",
+      "100 times more massive",
+      "318 times more massive",
+      "1000 times more massive"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens if Jupiter had over 40% more mass according to theoretical models?",
+    "choices": [
+      "Its volume would increase.",
+      "It would become a star.",
+      "Its volume would decrease.",
+      "Its radius would increase."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What unit is used to describe the masses of other objects, particularly extrasolar planets and brown dwarfs?",
+    "choices": [
+      "Jupiter Kilometer",
+      "Jupiter Mass",
+      "Astronomical Unit",
+      "Solar Mass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What mechanism causes Jupiter to radiate more heat than it receives from the Sun?",
+    "choices": [
+      "Nuclear Fusion",
+      "Kelvin-Helmholtz mechanism",
+      "Radioactive decay",
+      "Tidal heating"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What is the interior of Jupiter made up of, according to the Juno mission data?",
+    "choices": [
+      "A compact, rocky core",
+      "Fluid metallic hydrogen throughout",
+      "A diffuse core that mixes into its mantle",
+      "An iron core surrounded by liquid water"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the pressure and temperature above the critical pressure and critical temperature?",
+    "choices": [
+      "There are distinct liquid and gas phases",
+      "Hydrogen is said to be in a supercritical fluid state",
+      "Hydrogen is in solid phase",
+      "Hydrogen is non existant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What element(s) precipitate downward through the lower atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Hydrogen",
+      "Helium and Neon",
+      "Carbon"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "What is thought to be happening on Saturn, Uranus, and Neptune?",
+    "choices": [
+      "Rainfalls of ice",
+      "Rainfalls of diamonds",
+      "Rainfalls of liquid iron",
+      "Rainfalls of acid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to the temperature inside Jupiter when it increases steadily inward?",
+    "choices": [
+      "Stays the same",
+      "Decreases",
+      "Increases",
+      "Oscillates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which compound is Jupiter perpetually covered with?",
+    "choices": [
+      "Water ice",
+      "Ammonia crystals",
+      "Methane ice",
+      "Carbon dioxide ice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the bands in Jupiter's atmosphere known as?",
+    "choices": [
+      "Tropical regions",
+      "Temperate zones",
+      "Polar regions",
+      "Extratropical cyclones"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the Juno mission reveal is the origin of \"shallow lightning\"?",
+    "choices": [
+      "Hydrogen clouds",
+      "Carbon-Sulfur clouds",
+      "Ammonia-water clouds",
+      "Helium rain"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes the orange and brown colors in the clouds of Jupiter?",
+    "choices": [
+      "Chemical reactions with water",
+      "Upwelling compounds exposed to UV light",
+      "Iron oxides",
+      "Radioactive decay"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "How does convection in the interior of Jupiter impact temperatures on the cloud layer?",
+    "choices": [
+      "It creates temperature gradients.",
+      "It has no impact.",
+      "It balances out temperatures.",
+      "It concentrates heat at the equator."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Great Red Spot?",
+    "choices": [
+      "A volcano",
+      "A crater",
+      "An anticyclonic storm",
+      "A lake of methane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what direction does the Great Red Spot rotate?",
+    "choices": [
+      "Clockwise",
+      "Counterclockwise",
+      "Eastward",
+      "Westward"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Great Red Spot's color likely results from what?",
+    "choices": [
+      "Liquid iron",
+      "Photodissociated ammonia reacting with acetylene",
+      "Volcanic eruptions",
+      "Radioactive particles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How deep is the Great Red Spot, according to the Juno flyby mission?",
+    "choices": [
+      "5-10 kilometers",
+      "300–500 kilometers",
+      "1000 kilometers",
+      "10,000 kilometers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What has formed in 2000 that is similar in appearance to the Great Red Spot, but smaller?",
+    "choices": [
+      "Great Cold Spot",
+      "Oval BA",
+      "Lightning Storm",
+      "Io Plasma Torus"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What generates Jupiter's magnetic field?",
+    "choices": [
+      "Radioactive decay in the core",
+      "Eddy currents within the fluid, metallic hydrogen core",
+      "Volcanic activity",
+      "The solid iron core"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What interaction generates a bow shock approximately 75 Jupiter radii from the planet?",
+    "choices": [
+      "Interaction with Io's volcanoes",
+      "Interaction of the magnetosphere with the solar wind",
+      "Interaction with the magnetosphere and solar wind with Earth",
+      "Interaction with the moons and radiation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is formed by the volcanoes on the moon Io?",
+    "choices": [
+      "Water vapor",
+      "A gas torus along its orbit of sulfur dioxide",
+      "An iron ring around Jupiter",
+      "Radio waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where do electrons in the Jovian plasma sheet generate a strong radio signature?",
+    "choices": [
+      "The Earth's atmosphere",
+      "Jupiter's equatorial plane",
+      "The Sun's Corona",
+      "Jupiter's Rings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do Jupiter's radio emissions compare to the Sun's when Earth intersects Jupiter's radio cone?",
+    "choices": [
+      "100x greater",
+      "Equal",
+      "Can exceed the Sun's",
+      "They are very weak"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are Jupiter's rings mainly composed of?",
+    "choices": [
+      "Ice",
+      "Rock",
+      "Dust",
+      "Methane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "From which moons is material ejected to form Jupiter's main ring?",
+    "choices": [
+      "Io and Europa",
+      "Ganymede and Callisto",
+      "Adrastea and Metis",
+      "Thebe and Amalthea"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many main segments does Jupiter's ring system have?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What process continuously adds new material to Jupiter's main ring?",
+    "choices": [
+      "Volcanic eruptions",
+      "Gravitational attraction",
+      "Additional impacts",
+      "Solar wind"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What two moons are believed to produce the distinct components of the gossamer ring?",
+    "choices": [
+      "Io and Europa",
+      "Ganymede and Callisto",
+      "Adrastea and Metis",
+      "Thebe and Amalthea"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How far outside the volume of the Sun does Jupiter's barycentre with the Sun lies?",
+    "choices": [
+      "1%",
+      "7%",
+      "15%",
+      "25%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the orbital period of Jupiter around the Sun?",
+    "choices": [
+      "29.5 years",
+      "1 year",
+      "11.86 years",
+      "84 years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Compared to Earth, how much is the orbital plane of Jupiter inclined?",
+    "choices": [
+      "23.5°",
+      "1.30°",
+      "90°",
+      "0.05°"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What makes the eccentricity low?",
+    "choices": [
+      "Not being a solid body",
+      "Having seasons",
+      "The presence of another giant planet",
+      "Having an orbit nearly circular"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How long does Jupiter take to complete a rotation on its axis?",
+    "choices": [
+      "24 hours",
+      "10 hours",
+      "36 hours",
+      "3 months"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the range of apparent magnitude of Jupiter?",
+    "choices": [
+      "-5.0 to -3.0",
+      "-2.94 to -1.66",
+      "0 to 2",
+      "10 to 12"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When do favorable oppositions of Jupiter occur?",
+    "choices": [
+      "When Jupiter is farthest from Earth",
+      "When Jupiter is passing through the perihelion of its orbit",
+      "When Jupiter is closest to the Sun",
+      "When Jupiter is passing through the aphelion of its orbit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Near opposition, for approximately how long will Jupiter appear to go into retrograde motion?",
+    "choices": [
+      "30 days",
+      "121 days",
+      "365 days",
+      "10 years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the maximum phase angle of Jupiter as viewed from Earth?",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "11.5°"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What celestial bodies is Jupiter typically brighter than in the sky?",
+    "choices": [
+      "Only the Sun, Moon, and Venus",
+      "All other planets",
+      "Only the Sun",
+      "All stars"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What did the ancient Chinese call Jupiter?",
+    "choices": [
+      "The water star",
+      "The wood star",
+      "The metal star",
+      "The fire star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which ancient astronomer is claimed to have sighted one of Jupiter's moons with the unaided eye?",
+    "choices": [
+      "Galileo Galilei",
+      "Xi Zezong",
+      "Gan De",
+      "Claudius Ptolemaeus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What mathematical rule was used by Babylonians before 50 BC?",
+    "choices": [
+      "Cosine Rule",
+      "Trapezoidal Rule",
+      "Square Root Rule",
+      "Euclidean Rule"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In his 2nd century work, who created a geocentric planetary model?",
+    "choices": [
+      "Galileo Galilei",
+      "Xi Zezong",
+      "Gan De",
+      "Claudius Ptolemaeus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the orbital period of Jupiter around Earth according to Ptolemaeus's work?",
+    "choices": [
+      "24 hours",
+      "365.25 days",
+      "4332.38 days",
+      "687 days"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Who discovered the four largest moons of Jupiter in 1610?",
+    "choices": [
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Tycho Brahe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who discovered the characteristic bands of the planet's atmosphere?",
+    "choices": [
+      "Francesco Fontana",
+      "Galileo Galilei",
+      "Simon Marius",
+      "Giovanni Cassini"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who discovered the differential rotation?",
+    "choices": [
+      "Giovanni Cassini",
+      "Robert Hooke",
+      "Heinrich Schwabe",
+      "Ole Rømer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The pharmacist Heinrich Schwabe produced the earliest known drawing of?",
+    "choices": [
+      "The bands",
+      "The Great Red Spot",
+      "The rings",
+      "The moons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who deduced that light does not travel instantaneously?",
+    "choices": [
+      "Giovanni Cassini",
+      "Robert Hooke",
+      "Heinrich Schwabe",
+      "Ole Rømer"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In what year did Bernard Burke and Kenneth Franklin discover radio waves emitted from Jupiter?",
+    "choices": [
+      "1610",
+      "1932",
+      "1955",
+      "1973"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is decametric radio bursts influenced by?",
+    "choices": [
+      "Io with Jupiter's magnetic field",
+      "Europa with Jupiter's magnetic field",
+      "Callisto with Jupiter's magnetic field",
+      "The Ganymede Moon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the origin of decimetric radio emission?",
+    "choices": [
+      "A torus-shaped belt around Jupiter's equator",
+      "Volcanoes on Jupiter's moons",
+      "The solar wind",
+      "The Earth's magnetosphere"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where is thermal radiation produced from?",
+    "choices": [
+      "The Jupiter's moons",
+      "The Jupiter's atmosphere",
+      "The Jupiter's rings",
+      "The Jupiter's magnetosphere"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What is delta-v?",
+    "choices": [
+      "Measure of brightness",
+      "Measure of temperature",
+      "Measure of energy",
+      "Measure of acidity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did the Pioneer missions discover about Jupiter's radiation fields?",
+    "choices": [
+      "They were weaker than expected.",
+      "They were non-existent.",
+      "They were much stronger than expected.",
+      "They had no effect on the spacecraft."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What discovery did the Voyager missions confirm about the Great Red Spot?",
+    "choices": [
+      "It was shrinking.",
+      "It was a volcano.",
+      "It was anticyclonic.",
+      "It was disappearing."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did the Cassini probe study in 2000, on its way to Saturn?",
+    "choices": [
+      "Io's volcanic activity",
+      "Jupiter's ring system",
+      "Jupiter's atmospheric composition",
+      "Jupiter's magnetosphere"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the primary goal of the Ulysses solar probe's flyby manoeuvre?",
+    "choices": [
+      "To attain a polar orbit around the Sun",
+      "To photograph Jupiter's atmosphere",
+      "To study Jupiter's rings",
+      "To measure Jupiter's mass"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What mission made the first to orbit Jupiter?",
+    "choices": [
+      "Pioneer",
+      "Voyager",
+      "Galileo",
+      "Juno"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why was the Galileo orbiter deliberately steered into Jupiter?",
+    "choices": [
+      "To destroy the mission's data",
+      "To conduct a final atmospheric experiment",
+      "To avoid contaminating the moon Europa",
+      "To collect new radiation measurements"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did data from the Galileo mission reveal about Jupiter's atmosphere?",
+    "choices": [
+      "It is 100% hydrogen",
+      "Hydrogen composes up to 90%",
+      "It contains no ammonia",
+      "It is primarily carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which mission studied Jupiter from a polar orbit?",
+    "choices": [
+      "Galileo",
+      "Pioneer",
+      "Voyager",
+      "Juno"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Juno send back after its first flyby of Jupiter?",
+    "choices": [
+      "Images of the Great Red Spot",
+      "Data about Europa's ocean",
+      "Images of Jupiter's north pole",
+      "Information about Jupiter's core"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many known natural satellites (moons) does Jupiter have?",
+    "choices": [
+      "4",
+      "16",
+      "67",
+      "95"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who discovered Jupiter's four largest moons?",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Stephen Hawking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the pattern formed by the orbits of Io, Europa, and Ganymede?",
+    "choices": [
+      "A Fibonacci sequence",
+      "A random distribution",
+      "A Laplace resonance",
+      "A Keplerian orbit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What force has impact on circularizing their orbits?",
+    "choices": [
+      "Tidal force",
+      "Solar wind force",
+      "Magnetic field force",
+      "Gravitational force"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where is the friction created by the tidal flexing?",
+    "choices": [
+      "Outside of the moons",
+      "Moons interior",
+      "Moons surface",
+      "The Earth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the cause of Kirkwood gaps in the asteroid belt?",
+    "choices": [
+      "Saturn",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are asteroids settled around the Lagrangian points known as?",
+    "choices": [
+      "Kuiper Belt",
+      "Oort Cloud",
+      "Trojan Asteroids",
+      "Asteroid Belt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which comet is known as the Jupiter family?",
+    "choices": [
+      "Comets that have a semi-major axis smaller than Jupiter's",
+      "Comets that have a semi-major axis smaller than Venus'",
+      "Comets that have a semi-major axis smaller than Earth's",
+      "Comets that have a semi-major axis smaller than Saturn's"
+    ],
+    "answer": 0
+  },
+    {
+    "question": "What does the Jupiter family thought to form?",
+    "choices": [
+      "Trojan Asteroids",
+      "Oort cloud",
+      "Kuiper belt",
+      "Asteroid belt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When they get to close encounters with Jupiter what are they perturbed into?",
+    "choices": [
+      "Orbits with a larger period",
+      "Orbits with a smaller period",
+      "Orbits with equal periods",
+      "No affect on the orbit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many more impacts does Jupiter experience than Earth?",
+    "choices": [
+      "10 times more",
+      "50 times more",
+      "200 times more",
+      "500 times more"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Computer simulations suggests does Jupiter cause a net decrease in the number of comets that pass through the inner Solar System?",
+    "choices": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Computer simulations unreliable"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What comet collided with Jupiter in July 1994?",
+    "choices": [
+      "Halley's Comet",
+      "Comet Hale-Bopp",
+      "Comet Shoemaker–Levy 9",
+      "Comet Hyakutake"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was discovered about 1690 by astronomer Giovanni Cassini?",
+    "choices": [
+      "The Jupiter's rings",
+      "The moons of Jupiter",
+      "The dark surface feature",
+      "The Great Red Spot"
+    ],
+    "answer": 2
+  },
+    {
+    "question": "Scientists used to believe that what shielded partially the inner system?",
+    "choices": [
+      "Venus",
+      "Earth",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "To the Babylonians, what did Jupiter represent?",
+    "choices": [
+      "The god of the sea",
+      "The god of war",
+      "Their god Marduk",
+      "The god of the sun"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What name did the ancient Greeks know Jupiter by?",
+    "choices": [
+      "Zeus",
+      "Cronus",
+      "Phaethon",
+      "Ares"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Proto-Indo-European name did the Romans call Jupiter?",
+    "choices": [
+      "*Dyēu-pəter",
+      "*Zeus-pəter",
+      "*Jupiter-Stella",
+      "*Ares-Stella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What did Hindu astrologers name Jupiter after?",
+    "choices": [
+      "The god of storms",
+      "The god of light",
+      "The religious teacher of the gods",
+      "The god of war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did the Chinese, Vietnamese, Koreans, and Japanese called Jupiter?",
+    "choices": [
+      "The Water star",
+      "The Metal Star",
+      "The Fire Star",
+      "The Wood star"
+    ],
+    "answer": 3
+  }
+]

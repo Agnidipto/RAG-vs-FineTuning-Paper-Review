@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the original language of the word 'cosmology'?",
+    "choices": ["Latin", "English", "German", "Ancient Greek"],
+    "answer": 3
+  },
+  {
+    "question": "In what year was the term cosmology first used in English?",
+    "choices": ["1731", "1656", "1800", "1900"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these best describes religious or mythological cosmology?",
+    "choices": ["The study of the observable universe's origin", "A body of beliefs based on mythological and religious traditions", "The application of physics to the study of the cosmos", "The study of the chronology of the universe"],
+    "answer": 1
+  },
+  {
+    "question": "Which branch of astronomy is concerned with the universe as a whole?",
+    "choices": ["Astrophysics", "Cosmogony", "Physical cosmology", "Cosmography"],
+    "answer": 2
+  },
+  {
+    "question": "The Lambda-CDM model is a standard parameterization of the Big Bang with:",
+    "choices": ["Black holes and wormholes", "Dark matter and dark energy", "Quasars and pulsars", "Neutrinos and bosons"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following plays a central role in understanding the universe?",
+    "choices": ["Religious texts", "Astrology", "Physics and astrophysics", "Ancient myths"],
+    "answer": 2
+  },
+  {
+    "question": "What event is generally understood to have marked the beginning of the universe?",
+    "choices": ["Formation of the Solar System", "The Great Debate", "Cosmic inflation", "The Big Bang"],
+    "answer": 3
+  },
+  {
+    "question": "Cosmogony primarily studies:",
+    "choices": ["The structure of the universe", "The mapping of the universe", "The origin of the universe", "The ultimate fate of the universe"],
+    "answer": 2
+  },
+  {
+    "question": "What does cosmography study?",
+    "choices": ["The origin of the universe", "The mapping of the features of the universe", "The evolution of galaxies", "The nature of dark matter"],
+    "answer": 1
+  },
+  {
+    "question": "In Diderot's Encyclopédie, what area was not included in cosmology?",
+    "choices": ["Uranology", "Aerology", "Geology", "Biology"],
+    "answer": 3
+  },
+  {
+    "question": "In physical cosmology, what field was first known as \"celestial mechanics?\"",
+    "choices": ["The study of galaxies", "The study of the heavens", "The study of dark matter", "The study of black holes"],
+    "answer": 1
+  },
+  {
+    "question": "Before Copernicus, what was the prevailing cosmological theory?",
+    "choices": ["Heliocentric System", "Geocentric Ptolemaic System", "Big Bang Theory", "Steady State Theory"],
+    "answer": 1
+  },
+  {
+    "question": "What was a fundamental difference between Newton's cosmology and those before it?",
+    "choices": ["The universe was expanding", "The universe was static", "Bodies on Earth obey the same laws as celestial bodies", "Planets orbit in perfect circles"],
+    "answer": 2
+  },
+  {
+    "question": "What did Alexander Friedmann introduce in 1922?",
+    "choices": ["The idea of a static universe", "The concept of dark matter", "The idea of an expanding universe", "The theory of general relativity"],
+    "answer": 2
+  },
+  {
+    "question": "How was the Great Debate resolved?",
+    "choices": ["By the discovery of dark energy", "By observing supernovae", "By detecting Cepheid Variables in the Andromeda Galaxy", "By discovering the cosmic microwave background"],
+    "answer": 2
+  },
+  {
+    "question": "Who first proposed the Big Bang model?",
+    "choices": ["Edwin Hubble", "Albert Einstein", "Georges Lemaître", "Arno Penzias"],
+    "answer": 2
+  },
+  {
+    "question": "What discovery corroborated the Big Bang model in 1964?",
+    "choices": ["Redshift of distant galaxies", "Detection of gravitational waves", "Cosmic microwave background radiation", "Expansion of the universe"],
+    "answer": 2
+  },
+  {
+    "question": "In 2014, what was the reported composition of the universe?",
+    "choices": ["5% dark matter, 25% atomic matter, 70% dark energy", "70% atomic matter, 25% dark energy, 5% dark matter", "4.9% atomic matter, 26.6% dark matter, 68.5% dark energy", "68.5% atomic matter, 26.6% dark energy, 4.9% dark matter"],
+    "answer": 2
+  },
+  {
+    "question": "What model has led many to refer to modern times as the \"golden age of cosmology\"?",
+    "choices": ["The Steady State Model", "The Oscillating Universe Model", "The Lambda-CDM model", "The Ptolemaic Model"],
+    "answer": 2
+  },
+    {
+    "question": "What theory matched the advances in observation during the golden age of cosmology?",
+    "choices": ["The steady state theory", "The cosmic inflation theory", "The theory of multiverse", "The theory of special relativity"],
+    "answer": 1
+  },
+  {
+    "question": "What is creation ex nihilo?",
+    "choices": ["Creation by dismemberment of a primordial being", "Creation from pre-existing materials", "Creation through the thought, word, dream, or bodily secretions of a divine being", "Creation by ordering chaos"],
+    "answer": 2
+  },
+  {
+    "question": "In earth diver creation myths, who typically retrieves material from the seabed?",
+    "choices": ["A divine being", "A fish", "A bird or amphibian", "The first human"],
+    "answer": 2
+  },
+  {
+    "question": "What is a common element in emergence myths?",
+    "choices": ["Creation from nothing", "A flood that destroys the old world", "Passage through a series of worlds and metamorphoses", "A battle between gods and titans"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of creation myth involves the splitting or ordering of a primordial unity?",
+    "choices": ["Creation ex nihilo", "Earth diver creation", "Emergence myths", "Cracking of a cosmic egg"],
+    "answer": 3
+  },
+  {
+    "question": "Who established the classification system of Creation Myths?",
+    "choices": ["Aristotle", "Charles Long", "Plato", "Newton"],
+    "answer": 1
+  },
+  {
+    "question": "According to the article, what encompasses cosmology's concern?",
+    "choices": ["The origin of life", "The study of black holes", "The totality of space, time, and all phenomena", "The evolution of stars"],
+    "answer": 2
+  },
+  {
+    "question": "What type of questions about the universe may be interrogated through philosophical approaches like dialectics?",
+    "choices": ["Scientific questions", "Questions beyond the scope of scientific inquiry", "Mathematical questions", "Historical questions"],
+    "answer": 1
+  },
+  {
+    "question": "Which philosopher is Charles Kahn crediting as the origin of ancient Greek cosmology?",
+    "choices": ["Plato", "Socrates", "Anaximander", "Aristotle"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following philosophical topics relate to cosmology?",
+    "choices": ["Teleology", "Epistemology", "Monism", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following questions are included in extra-scientific endeavors?",
+    "choices": ["What is the origin of the universe?", "What is the ultimate reason for the existence of the universe?", "Does the existence of consciousness have a role in the existence of reality?", "All of the above"],
+    "answer": 3
+  }
+]

@@ -1,0 +1,1043 @@
+[
+  {
+    "question": "From which Proto-Indo-European root does the word \"star\" ultimately derive?",
+    "choices": [
+      "h₂stḗr",
+      "stella",
+      "aster",
+      "Stern"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which word is NOT cognate with \"star\"?",
+    "choices": [
+      "Asterisk",
+      "Astral",
+      "Constellation",
+      "Planet"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Proto-Indo-European root for 'star' can be further analyzed as referring to:",
+    "choices": [
+      "The moon and its phases",
+      "The ocean and its tides",
+      "Burning or ash",
+      "Navigation and direction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Some scholars believe the word 'star' is borrowed from which ancient language?",
+    "choices": [
+      "Greek",
+      "Latin",
+      "Akkadian",
+      "German"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What agentive suffix is part of the Proto-Indo-European root from which 'star' derives?",
+    "choices": [
+      "-tēr",
+      "-ella",
+      "-isk",
+      "-al"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the main difference recognized by early astronomers between \"fixed stars\" and \"wandering stars\"?",
+    "choices": [
+      "Fixed stars appeared brighter.",
+      "Wandering stars changed color.",
+      "Fixed stars' position on the celestial sphere did not change.",
+      "Wandering stars were larger."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Gregorian calendar is based on:",
+    "choices": [
+      "The phases of the moon.",
+      "The motions of the planets.",
+      "The angle of the Earth's rotational axis relative to the Sun.",
+      "Ancient Egyptian astronomical observations."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is credited with creating the first star catalogue in Greek astronomy?",
+    "choices": [
+      "Hipparchus",
+      "Ptolemy",
+      "Aristillus",
+      "Ali ibn Ridwan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The supernova that gave birth to the Crab Nebula was observed by which ancient astronomers?",
+    "choices": [
+      "Greek astronomers",
+      "Egyptian astronomers",
+      "Chinese and Islamic astronomers",
+      "European astronomers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which astronomer identified new stars (novae) in the night sky, challenging the idea of immutable heavens?",
+    "choices": [
+      "Isaac Newton",
+      "Tycho Brahe",
+      "William Herschel",
+      "Edmond Halley"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Johann Bayer used which set of symbols to designate stars in constellations circa 1600?",
+    "choices": [
+      "Arabic numerals",
+      "Roman numerals",
+      "Greek letters",
+      "Latin abbreviations"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name given to the numbering system based on a star's right ascension, as included in John Flamsteed's star catalogue?",
+    "choices": [
+      "Bayer designation",
+      "Hipparchus numbering",
+      "Flamsteed designation",
+      "Herschel catalog"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization is the internationally recognized authority for naming celestial bodies?",
+    "choices": [
+      "NASA",
+      "European Southern Observatory (ESO)",
+      "International Astronomical Union (IAU)",
+      "British Library"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the International Astronomical Union maintain to standardize proper names for stars?",
+    "choices": [
+      "International Star Registry",
+      "Celestial Nomenclature Committee",
+      "Working Group on Star Names (WGSN)",
+      "Star Naming Authority"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following organizations issued a violation against a star-naming company for engaging in a deceptive trade practice?",
+    "choices": [
+      "The British Library",
+      "International Astronomical Union",
+      "New York City Department of Consumer and Worker Protection",
+      "Royal Astronomical Society"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why wasn't the solar mass (M☉) explicitly defined by the IAU in 2015?",
+    "choices": [
+      "It is a fundamental constant.",
+      "It is too small to measure accurately.",
+      "It has a large relative uncertainty due to the Newtonian constant of gravitation G.",
+      "It varies too much over time."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What value did the IAU define as the astronomical unit in 2012?",
+    "choices": [
+      "The mean distance between the Earth and the Moon",
+      "An exact length in meters: 149,597,870,700 m",
+      "One light-year",
+      "The radius of the Sun"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When expressing stellar parameters, it is often convenient to use solar units for mass, luminosity, and radii. These are based on the characteristics of what celestial object?",
+    "choices": [
+      "The Earth",
+      "The Moon",
+      "The Sun",
+      "Jupiter"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What parameter related to the Sun was defined by the IAU to be GM☉?",
+    "choices": [
+      "Nominal solar mass",
+      "Nominal solar luminosity",
+      "Nominal solar mass parameter",
+      "Nominal solar radius"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what units are large lengths, such as the radius of a giant star or the semi-major axis of a binary star system, often expressed?",
+    "choices": [
+      "Light-years",
+      "Parsecs",
+      "Astronomical units",
+      "Kilometers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the regions of space where stars condense from, consisting mostly of hydrogen and helium, called?",
+    "choices": [
+      "H II regions",
+      "Molecular clouds",
+      "Protoplanetary disks",
+      "Stellar remnants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What mainly fuels main sequence stars?",
+    "choices": [
+      "The fusion of helium into carbon",
+      "The fusion of hydrogen into helium",
+      "Gravitational contraction",
+      "Chemical reactions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the ultimate fate of very low mass stars (below 0.5 M☉)?",
+    "choices": [
+      "Supernova",
+      "Black hole",
+      "Helium white dwarf",
+      "Neutron star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Intermediate-mass stars ignite helium without a flash and spend an extended period in which stage?",
+    "choices": [
+      "Main sequence",
+      "Red giant branch",
+      "Red clump",
+      "Asymptotic giant branch"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the minimum mass a star generally needs to be considered massive?",
+    "choices": [
+      "0.5 M☉",
+      "2.25 M☉",
+      "8 M☉",
+      "50 M☉"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The formation of a star begins with:",
+    "choices": [
+      "The explosion of a supernova",
+      "Gravitational instability within a molecular cloud",
+      "The fusion of hydrogen in the core",
+      "The formation of a planetary nebula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the individual conglomerations of dense dust and gas that form as a molecular cloud collapses called?",
+    "choices": [
+      "H II regions",
+      "Protoplanetary disks",
+      "Bok globules",
+      "Supernovae"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Stars of less than 2 M☉ are called what in their early formation stages?",
+    "choices": [
+      "Red giants",
+      "T Tauri stars",
+      "Wolf-Rayet stars",
+      "Supergiants"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Early in their development, what track do T Tauri stars follow, contracting and decreasing in luminosity while remaining at roughly the same temperature?",
+    "choices": [
+      "Henyey track",
+      "Eddington track",
+      "Hayashi track",
+      "Hertzsprung-Russell track"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can cause hard binaries to become more tightly bound in young stellar clusters?",
+    "choices": [
+      "Radiation from nearby massive stars",
+      "Gravitational interactions during close encounters with other stars",
+      "Expansion of the molecular cloud",
+      "The presence of a protoplanetary disk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What percentage of their lifetimes do stars spend fusing hydrogen into helium on the main sequence?",
+    "choices": [
+      "50%",
+      "75%",
+      "90%",
+      "99%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Stars on the main sequence are also known as:",
+    "choices": [
+      "Red giants",
+      "Supergiants",
+      "Dwarf stars",
+      "Neutron stars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How much has the Sun's luminosity increased since it reached the main sequence 4.6 billion years ago?",
+    "choices": [
+      "About 10%",
+      "About 20%",
+      "About 40%",
+      "About 80%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Stars less massive than 0.25 M☉ are called:",
+    "choices": [
+      "Blue giants",
+      "Yellow dwarfs",
+      "Red dwarfs",
+      "White dwarfs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Astronomers label all elements heavier than helium as:",
+    "choices": [
+      "Ions",
+      "Gases",
+      "Metals",
+      "Isotopes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "As stars exhaust hydrogen at their core and start to fuse it in a shell, they transition into what type of star?",
+    "choices": [
+      "White dwarf",
+      "Neutron star",
+      "Red giant",
+      "Black hole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When the Sun enters the helium burning phase, how much will it expand relative to its current size?",
+    "choices": [
+      "10 times",
+      "50 times",
+      "100 times",
+      "250 times"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the explosive event called when helium fusion begins in a red giant of up to 2.25 M☉?",
+    "choices": [
+      "Supernova",
+      "Helium flash",
+      "Carbon detonation",
+      "Planetary nebula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the evolutionary path called that a star follows after it has fused the helium of its core and begins fusing helium along a shell?",
+    "choices": [
+      "Main Sequence Branch",
+      "Horizontal Branch",
+      "Asymptotic Giant Branch",
+      "Red Giant Branch"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thermal pulses during the AGB phase can lead to the formation of what structure?",
+    "choices": [
+      "Supernova remnant",
+      "Black hole",
+      "Planetary nebula",
+      "Neutron star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of star might a massive star (exceeding 40 solar masses) evolve into if it loses mass rapidly?",
+    "choices": [
+      "Red Giant",
+      "Blue Supergiant",
+      "Wolf–Rayet star",
+      "White Dwarf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What fuels the successive stages of fusion in massive stars after hydrogen and helium are exhausted?",
+    "choices": [
+      "Dark matter",
+      "Heavier elements",
+      "Black hole accretion",
+      "Radiation pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What element is produced at the final stage of fusion in a massive star, after which no further energy can be generated through fusion?",
+    "choices": [
+      "Carbon",
+      "Oxygen",
+      "Silicon",
+      "Iron"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are supernova impostors?",
+    "choices": [
+      "Newly formed stars",
+      "Eclipsing binary systems",
+      "Stars that violently shed their mass into space, becoming significantly brighter",
+      "Small, dim stars that are difficult to observe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which star is known for having undergone a supernova impostor event called the Great Eruption?",
+    "choices": [
+      "Sirius",
+      "Betelgeuse",
+      "Eta Carinae",
+      "Vega"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is formed when the outer layers of a star are pushed away by radiation pressure as the core shrinks?",
+    "choices": [
+      "A black hole",
+      "A neutron star",
+      "A planetary nebula",
+      "A supernova"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the approximate mass limit for the remnant of a star to become a white dwarf?",
+    "choices": [
+      "0.5 M☉",
+      "1.4 M☉",
+      "4 M☉",
+      "8 M☉"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What causes a massive star to explode in a supernova?",
+    "choices": [
+      "The fusion of helium into carbon",
+      "The sudden collapse of the core as electrons are driven into protons",
+      "The formation of a planetary nebula",
+      "The exhaustion of hydrogen fuel"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a pulsar?",
+    "choices": [
+      "A type of black hole",
+      "A rapidly rotating neutron star",
+      "A white dwarf undergoing fusion",
+      "A red giant emitting a planetary nebula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mass transfer in binary systems can lead to which of the following outcomes?",
+    "choices": [
+      "Contact binaries",
+      "Common-envelope binaries",
+      "Cataclysmic variables",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the Algol paradox?",
+    "choices": [
+      "A binary system where the most massive star is the least evolved",
+      "A binary system where the most-evolved star is the least massive",
+      "A type of supernova that defies explanation",
+      "A star that appears to be older than the universe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The evolution of binary star systems is intensely researched because:",
+    "choices": [
+      "They are rare in the universe",
+      "They have little effect on stellar evolution",
+      "So many stars have been found to be members of binary systems",
+      "Their evolution is the same as single stars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does mass transfer through gravitational stripping in binary systems influence the formation of evolved massive stars?",
+    "choices": [
+      "It has no influence on their formation",
+      "It allows single massive stars to expel their outer layers faster",
+      "It produces fewer evolved stars than observed",
+      "It may be the solution to forming the observed types and numbers of evolved stars"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "According to the article, what is the estimated number of galaxies in the observable universe?",
+    "choices": [
+      "Millions",
+      "Billions",
+      "Trillions",
+      "Quadrillions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Stars are normally grouped into what structures along with interstellar gas and dust?",
+    "choices": [
+      "Nebulae",
+      "Galaxies",
+      "Asteroid belts",
+      "Comets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the simplest and most common type of multi-star system?",
+    "choices": [
+      "Open cluster",
+      "Globular cluster",
+      "Binary star",
+      "Stellar association"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what structure do all stars normally have similar ages and compositions because they formed from the same giant molecular cloud?",
+    "choices": [
+      "A galaxy",
+      "An asterism",
+      "An open or globular cluster",
+      "A planetary system"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What percentage of red dwarfs are known to have stellar companions?",
+    "choices": [
+      "80%",
+      "50%",
+      "25%",
+      "5%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Apart from the Sun, what is the nearest star to Earth?",
+    "choices": [
+      "Alpha Centauri A",
+      "Alpha Centauri B",
+      "Proxima Centauri",
+      "Sirius"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what regions are collisions between stars more common?",
+    "choices": [
+      "Galactic halos",
+      "Galactic discs",
+      "The core of globular clusters or the galactic center",
+      "Empty space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are blue stragglers?",
+    "choices": [
+      "The hottest, most luminous stars in a galaxy",
+      "Abnormal stars with a higher surface temperature and bluer color than expected",
+      "Stars that have just formed from molecular clouds",
+      "Stars that are rapidly rotating and emitting jets of gas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary factor that determines almost everything about a star, including luminosity, size, evolution, lifespan, and eventual fate?",
+    "choices": [
+      "Its temperature",
+      "Its magnetic field",
+      "Its initial mass",
+      "Its rotation rate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary reason that more massive stars have shorter lifespans?",
+    "choices": [
+      "They have weaker gravitational fields",
+      "They burn hydrogen more rapidly",
+      "They are more prone to collisions",
+      "They have lower metallicity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are stars composed of when they form in the present Milky Way galaxy?",
+    "choices": [
+      "Primarily iron and nickel",
+      "Equal parts hydrogen and helium",
+      "About 71% hydrogen and 27% helium",
+      "Mostly heavy elements like carbon and oxygen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How is the portion of heavy elements typically measured in a star's atmosphere?",
+    "choices": [
+      "By measuring the helium content",
+      "In terms of the iron content",
+      "By analyzing the hydrogen absorption lines",
+      "By calculating the star's rotation rate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a Chemically Peculiar Star?",
+    "choices": [
+      "A star with an unusually strong magnetic field",
+      "A star that is unusually hot",
+      "A star that shows unusual abundances of certain elements in their spectrum",
+      "A star with unusually low metallicity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the effect called where stars twinkle due to the Earth's atmosphere?",
+    "choices": [
+      "Diffraction",
+      "Scintillation",
+      "Interference",
+      "Refraction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the star with the largest apparent size in the sky (other than the Sun)?",
+    "choices": [
+      "Sirius",
+      "Betelgeuse",
+      "R Doradus",
+      "Vega"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of telescope is typically required to produce images of most stars due to their small angular size?",
+    "choices": [
+      "Refracting telescope",
+      "Reflecting telescope",
+      "Interferometer telescope",
+      "Radio telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What technique measures the drop in brightness of a star as it is covered by the Moon to compute the star's angular diameter?",
+    "choices": [
+      "Interferometry",
+      "Spectroscopy",
+      "Occultation",
+      "Parallax"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the typical diameter range for neutron stars?",
+    "choices": [
+      "1-5 km",
+      "20-40 km",
+      "100-200 km",
+      "1000-2000 km"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the traverse angular movement of a star called?",
+    "choices": [
+      "Radial velocity",
+      "Doppler shift",
+      "Proper motion",
+      "Parallax"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What method is used to measure a star's radial velocity?",
+    "choices": [
+      "Parallax measurements",
+      "Spectroscopic measurement of doppler shift",
+      "Precise astrometric measurements",
+      "Interferometry"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What units are used to measure a star's proper motion?",
+    "choices": [
+      "km/s",
+      "Light-years per year",
+      "Milli-arc seconds (mas) per year",
+      "Parsecs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Younger, population I stars generally have what characteristic compared to older, population II stars?",
+    "choices": [
+      "Higher velocities",
+      "Lower velocities",
+      "Higher temperatures",
+      "Lower metallicity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are stellar associations?",
+    "choices": [
+      "Groups of stars with common points of origin in giant molecular clouds",
+      "Binary star systems orbiting each other",
+      "Stars that are part of open clusters",
+      "Stars with similar spectral types and luminosities"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Within a star, where is the magnetic field generated?",
+    "choices": [
+      "In the photosphere",
+      "In the corona",
+      "In the regions where convective circulation occurs",
+      "At the surface of the star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are starspots?",
+    "choices": [
+      "Regions of higher than normal surface temperatures",
+      "Regions of strong magnetic fields and lower than normal surface temperatures",
+      "Regions with an absence of magnetic fields",
+      "Regions with unusually high concentrations of heavy elements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are coronal loops?",
+    "choices": [
+      "Arches of ejected material following a supernova",
+      "Arching magnetic field flux lines that rise from a star's surface into its corona",
+      "Regions of strong gravitational pull",
+      "Jets of gas emitted along the axis of rotation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to a star's rotation rate as it ages and evolves on the main sequence?",
+    "choices": [
+      "It increases dramatically",
+      "It remains constant",
+      "It slows down significantly due to the magnetic field and stellar wind",
+      "It fluctuates randomly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Maunder Minimum?",
+    "choices": [
+      "A period of intense solar flare activity",
+      "A period when the Earth's magnetic field weakens",
+      "A 70-year period when the Sun had almost no sunspot activity",
+      "The minimum mass a star can have and still undergo fusion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is estimated as a rough upper limit for the mass of stars in the current era of the universe?",
+    "choices": [
+      "50 M☉",
+      "100 M☉",
+      "150 M☉",
+      "200 M☉"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why might the first stars after the Big Bang have been larger than stars today?",
+    "choices": [
+      "They had stronger magnetic fields",
+      "The complete absence of elements heavier than lithium in their composition",
+      "They were formed in denser regions of space",
+      "They had much slower rotation rates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for stars with masses smaller than the minimum required for nuclear fusion?",
+    "choices": [
+      "White dwarfs",
+      "Red dwarfs",
+      "Brown dwarfs",
+      "Neutron stars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the combination of a star's radius and mass determine?",
+    "choices": [
+      "Its temperature",
+      "Its luminosity",
+      "Its surface gravity",
+      "Its rotation rate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What causes a broadening of the absorption lines in a star's spectrum?",
+    "choices": [
+      "High temperature",
+      "Low surface gravity",
+      "High surface gravity",
+      "Rapid rotation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the effect of rapid rotation on a star like Achernar?",
+    "choices": [
+      "It causes the star to explode",
+      "It has no effect on the star",
+      "It makes the star shrink",
+      "It causes the equator to bulge outward"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How does a main sequence star's magnetic field and stellar wind affect its rotation?",
+    "choices": [
+      "They have no effect on the rotation",
+      "They speed up the rotation",
+      "They slow down the rotation",
+      "They cause the rotation to become erratic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to degenerate stars as they contract into a compact mass?",
+    "choices": [
+      "They slow down",
+      "They maintain a constant rate of rotation",
+      "They explode as a supernova",
+      "They result in a rapid rate of rotation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is used to estimate the surface temperature of a main sequence star?",
+    "choices": [
+      "Its radius",
+      "Its core temperature",
+      "Its color index",
+      "Its magnetic field"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the temperature in the core region of a star?",
+    "choices": [
+      "A few hundred kelvins",
+      "A few thousand kelvins",
+      "A few million kelvins",
+      "A few billion kelvins"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is an effective temperature?",
+    "choices": [
+      "The temperature of a star's core",
+      "The temperature of a planet orbiting a star",
+      "The temperature of the star's corona",
+      "The temperature of an idealized black body that radiates its energy at the same luminosity per surface area as the star"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a stellar wind?",
+    "choices": [
+      "A type of supernova",
+      "A stream of nearly massless neutrinos",
+      "A stream of particles emanating directly from a star's core",
+      "Particle radiation that streams from the outer layers of a star"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The particle radiation emitted by a star is manifested as?",
+    "choices": [
+      "Neutrinos",
+      "Gamma rays",
+      "Electromagnetic waves",
+      "Stellar wind"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The color of a star is determined by what?",
+    "choices": [
+      "The size of the star",
+      "The magnetic field of the star",
+      "The most intense frequency of the visible light",
+      "The elements in the star's core"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can astronomers determine using a stellar spectrum?",
+    "choices": [
+      "The age of a star's planets",
+      "The chemical composition of a star's core",
+      "The surface temperature, surface gravity, metallicity, and rotational velocity of a star",
+      "The number of black holes in a galaxy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition of luminosity?",
+    "choices": [
+      "The mass of a star",
+      "The radius of a star",
+      "The temperature of a star",
+      "The amount of light and other forms of radiant energy a star radiates per unit of time"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What two properties determine the luminosity of a star?",
+    "choices": [
+      "Its mass and age",
+      "Its radius and surface temperature",
+      "Its color and composition",
+      "Its magnetic field and rotation rate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are starspots?",
+    "choices": [
+      "Regions of high luminosity",
+      "Patches of the star's surface with a lower temperature and luminosity than average",
+      "Regions of strong magnetic fields",
+      "Regions of high metal content"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does stellar limb darkening describe?",
+    "choices": [
+      "The brightening of a star towards its edge",
+      "The decrease in brightness towards the edge of the stellar disk",
+      "The change in a star's color over time",
+      "The fluctuation of a star's luminosity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is apparent magnitude?",
+    "choices": [
+      "A star's true luminosity",
+      "A measure of a star's mass",
+      "The brightness of a star as seen from Earth",
+      "The distance to a star"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is absolute magnitude?",
+    "choices": [
+      "The actual size of a star",
+      "The apparent magnitude a star would have at a distance of 10 parsecs",
+      "The surface temperature of a star",
+      "The chemical composition of a star"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the magnitude scale work?",
+    "choices": [
+      "Larger numbers indicate brighter stars.",
+      "Smaller numbers indicate fainter stars.",
+      "One whole number difference in magnitude equals a brightness variation of about 2.5 times.",
+      "It is a linear scale."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The formula to calculate the variation in brightness (ΔL) between two stars involves subtracting the magnitude number of the brighter star (mb) from which?",
+    "choices": [
+      "The absolute magnitude",
+      "The apparent magnitude",
+      "The magnitude number of the fainter star (mf)",
+      "The distance to the star"
+    ],
+    "answer": 2
+  }
+]
+      

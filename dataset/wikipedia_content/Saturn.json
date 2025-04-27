@@ -1,0 +1,852 @@
+[
+    {
+      "question": "What is Saturn's position from the Sun in the Solar System?",
+      "choices": [
+        "Fourth",
+        "Fifth",
+        "Sixth",
+        "Seventh"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Compared to Earth, Saturn's average radius is about how many times larger?",
+      "choices": [
+        "5 times",
+        "9 times",
+        "12 times",
+        "15 times"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Approximately how long does it take for Saturn to orbit the Sun?",
+      "choices": [
+        "11.86 years",
+        "29.45 years",
+        "55.20 years",
+        "84 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes Saturn's pale yellow hue?",
+      "choices": [
+        "Metallic hydrogen",
+        "Methane photolysis",
+        "Liquid helium",
+        "Ammonia crystals"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Titan, Saturn's largest moon, is unique because it has:",
+      "choices": [
+        "Active volcanoes",
+        "A substantial atmosphere",
+        "Liquid oceans",
+        "A magnetic field stronger than Saturn's"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Saturn is named after the Roman god of what?",
+      "choices": [
+        "War and strategy",
+        "Wealth and agriculture",
+        "The sea and oceans",
+        "Love and beauty"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The astronomical symbol for Saturn is traced back to a Greek abbreviation for which name?",
+      "choices": [
+        "Jupiter",
+        "Apollo",
+        "Cronus",
+        "Mars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the origin of the name 'Saturday'?",
+      "choices": [
+        "A Roman emperor",
+        "The seventh day of creation",
+        "Sāturni diēs, 'Saturn's Day'",
+        "An ancient farming festival"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How was the pagan symbol for Saturn 'Christianized'?",
+      "choices": [
+        "By adding a halo",
+        "By changing its color",
+        "By adding a cross at the top",
+        "By removing a portion of the symbol"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Greek god is the Roman god Saturnus equivalent to?",
+      "choices": [
+        "Zeus",
+        "Poseidon",
+        "Hades",
+        "Cronus"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What are the primary elements that compose Saturn?",
+      "choices": [
+        "Iron and nickel",
+        "Hydrogen and helium",
+        "Carbon and oxygen",
+        "Silicon and aluminum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is Saturn's shape due to its rotation?",
+      "choices": [
+        "Perfect sphere",
+        "Oblate spheroid",
+        "Prolete spheroid",
+        "Cube"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does Saturn's equatorial radius compare to its polar radius?",
+      "choices": [
+        "About 10% smaller",
+        "About 10% larger",
+        "Approximately the same",
+        "About 5% larger"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does Saturn's average density compare to that of water?",
+      "choices": [
+        "Denser than water",
+        "Less dense than water",
+        "Approximately the same density",
+        "Exactly twice the density"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Together, Jupiter and Saturn account for what percentage of the total planetary mass in the Solar System?",
+      "choices": [
+        "50%",
+        "75%",
+        "92%",
+        "99%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens to hydrogen inside Saturn at high densities?",
+      "choices": [
+        "It becomes an ideal gas",
+        "It becomes a non-ideal liquid",
+        "It solidifies into ice",
+        "It dissociates into protons and electrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Compared to Jupiter, how centrally condensed is Saturn?",
+      "choices": [
+        "Less centrally condensed",
+        "Substantially more centrally condensed",
+        "About the same",
+        "Exactly twice as centrally condensed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to estimates, what is the mass of Saturn's core?",
+      "choices": [
+        "1-5 times the mass of Earth",
+        "9-22 times the mass of Earth",
+        "50-75 times the mass of Earth",
+        "100-150 times the mass of Earth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At Saturn's core, what is the approximate temperature?",
+      "choices": [
+        "2,000 °C",
+        "5,500 °C",
+        "11,700 °C",
+        "25,000 °C"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Besides the Kelvin-Helmholtz mechanism, what is another possible source of heat production within Saturn?",
+      "choices": [
+        "Nuclear fission",
+        "Chemical reactions in the core",
+        "The 'raining out' of helium droplets",
+        "Tidal heating from its moons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "By volume, what is the percentage of molecular hydrogen in Saturn's outer atmosphere?",
+      "choices": [
+        "75.5%",
+        "88.0%",
+        "96.3%",
+        "99.9%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the proportion of helium in Saturn's atmosphere compare to that of the Sun?",
+      "choices": [
+        "Significantly more",
+        "Significantly deficient",
+        "Approximately the same",
+        "Exactly twice as much"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are the upper clouds of Saturn composed of?",
+      "choices": [
+        "Water ice",
+        "Ammonium hydrosulfide",
+        "Methane ice",
+        "Ammonia crystals"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What causes methane photolysis in Saturn's upper atmosphere?",
+      "choices": [
+        "Lightning storms",
+        "Internal heat",
+        "Ultraviolet radiation from the Sun",
+        "Gravitational forces from the rings"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are the 'String of Pearls' observed by Cassini?",
+      "choices": [
+        "A series of large moons",
+        "A long, thin ring feature",
+        "A line of active volcanoes",
+        "Cloud clearings in deeper cloud layers"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How do Saturn's atmospheric bands compare to Jupiter's?",
+      "choices": [
+        "Fainter and wider",
+        "Brighter and narrower",
+        "Approximately the same",
+        "Non-existent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the composition of clouds in the upper cloud layers of Saturn, with temperatures ranging from 100-160 K?",
+      "choices": [
+        "Water ice",
+        "Ammonia ice",
+        "Ammonium hydrosulfide ice",
+        "Methane ice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At what pressure level do water ice clouds begin in Saturn's atmosphere?",
+      "choices": [
+        "0.5 bar",
+        "1 bar",
+        "2.5 bar",
+        "10 bar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a 'Great White Spot' on Saturn?",
+      "choices": [
+        "A giant impact crater",
+        "A short-lived storm",
+        "A permanent cloud feature",
+        "A volcanic eruption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What causes the bright blue hue observed in Saturn's northern hemisphere?",
+      "choices": [
+        "Methane absorption",
+        "Ammonia absorption",
+        "Rayleigh scattering",
+        "Raman scattering"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Around which polar vortex is the hexagonal wave pattern observed?",
+      "choices": [
+        "South polar vortex",
+        "North polar vortex",
+        "Both polar vortices",
+        "Equatorial vortex"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Approximately how long is each side of the hexagonal pattern on Saturn?",
+      "choices": [
+        "5,000 km",
+        "9,000 km",
+        "14,500 km",
+        "20,000 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the rotation period of the hexagonal feature?",
+      "choices": [
+        "10h 14m 00s",
+        "10h 38m 25.4s",
+        "10h 39m 24s",
+        "11h 00m 00s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the HST imaging of Saturn's south polar region indicate?",
+      "choices": [
+        "A strong polar vortex and hexagonal wave",
+        "A strong polar vortex but no hexagonal wave",
+        "No strong polar vortex and no hexagonal wave",
+        "A jet stream and no strong polar vortex"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What unique feature of the south pole storm on Saturn was observed by Cassini?",
+      "choices": [
+        "A lack of clouds",
+        "A distinct eyewall",
+        "A hexagonal shape",
+        "Extremely high temperatures"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the strength of Saturn's magnetic field at the equator compare to Earth's?",
+      "choices": [
+        "Much stronger",
+        "Slightly stronger",
+        "Slightly weaker",
+        "Much weaker"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What generates Saturn's magnetic field?",
+      "choices": [
+        "Electric currents in the rocky core",
+        "Currents in the liquid water ocean",
+        "Currents in the liquid metallic-hydrogen layer",
+        "Tidal forces from its moons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What moon contributes plasma to Saturn's magnetosphere?",
+      "choices": [
+        "Enceladus",
+        "Rhea",
+        "Titan",
+        "Iapetus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What phenomenon does Saturn's magnetosphere produce?",
+      "choices": [
+        "Volcanoes",
+        "Earthquakes",
+        "Aurorae",
+        "Tidal waves"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the magnetic moment of Saturn compare to Earth?",
+      "choices": [
+        "Weaker than Earth",
+        "Same as Earth",
+        "580 times that of Earth",
+        "600 times that of Earth"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average distance between Saturn and the Sun?",
+      "choices": [
+        "1.5 million kilometers (1 AU)",
+        "700 million kilometers (4.5 AU)",
+        "1.4 billion kilometers (9 AU)",
+        "2.8 billion kilometers (18 AU)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Approximately how long does it take Saturn to complete one revolution around the Sun?",
+      "choices": [
+        "11.86 years",
+        "29.5 years",
+        "55.2 years",
+        "84 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is System III referring to when specifying the rotation rate of Saturn?",
+      "choices": [
+        "Atmospheric rotation rate",
+        "Surface rotation rate",
+        "Internal rotation rate",
+        "Ring system rotation rate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What caused the variance in the radio emissions of Saturn that did not match Saturn's rotation rate?",
+      "choices": [
+        "Orbital resonance of the rings",
+        "Gravitational pull from Jupiter",
+        "Geyser activity on Enceladus",
+        "Solar flares"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does Saturn not have any known trojan asteroids?",
+      "choices": [
+        "Strong gravitational pull of Titan",
+        "Atmospheric drag",
+        "Orbital resonance mechanisms",
+        "Lack of suitable material"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many known moons does Saturn have?",
+      "choices": [
+        "27",
+        "63",
+        "146",
+        "274"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What percentage of the mass in orbit around Saturn, including the rings, does Titan comprise?",
+      "choices": [
+        "50%",
+        "70%",
+        "90%",
+        "99%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of Saturn's moons may have a tenuous ring system of its own?",
+      "choices": [
+        "Titan",
+        "Enceladus",
+        "Rhea",
+        "Dione"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What unique feature does Titan possess among all satellites in the Solar System?",
+      "choices": [
+        "Active volcanoes",
+        "A major atmosphere",
+        "A global ocean",
+        "A magnetic field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What makes Enceladus a potential habitat for microbial life?",
+      "choices": [
+        "Presence of liquid water",
+        "Atmosphere rich in oxygen",
+        "Salt-rich particles with an ocean-like composition",
+        "Volcanic activity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary composition of Saturn's rings?",
+      "choices": [
+        "Silicate rock",
+        "Metallic iron",
+        "Water ice",
+        "Carbon dioxide ice"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average thickness of Saturn's rings?",
+      "choices": [
+        "2 meters",
+        "20 meters",
+        "200 meters",
+        "2,000 meters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Beyond the main rings, what is the name of the sparse ring located at a distance of 12 million km from the planet?",
+      "choices": [
+        "The Enceladus ring",
+        "The Phoebe ring",
+        "The Janus ring",
+        "The Titan ring"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the moon that may have been destroyed to create Saturns rings?",
+      "choices": [
+        "Pandora",
+        "Epimetheus",
+        "Chrysalis",
+        "Janus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the role of shepherd moons in Saturn's ring system?",
+      "choices": [
+        "To provide material to the rings",
+        "To confine the rings and prevent spreading",
+        "To clear gaps in the rings",
+        "To stabilize the orbits of other moons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What telescope diameter is required to resolve Saturn's rings?",
+      "choices": [
+        "5 mm",
+        "10 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was Saturn known as in ancient Greek?",
+      "choices": [
+        "Helios",
+        "Selene",
+        "Phainon",
+        "Kronos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is Saturn known as in Hindu astrology?",
+      "choices": [
+        "Mangal",
+        "Shani",
+        "Budha",
+        "Guru"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who first discovered Saturn's rings?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Christiaan Huygens",
+        "Johannes Kepler"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Pioneer 11 reveal about dark gaps in Saturn's rings?",
+      "choices": [
+        "They are empty space",
+        "They are bright when viewed at a high phase angle",
+        "They contain large ice boulders",
+        "They are composed of metallic dust"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first to correctly identify Saturn's rings?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Christiaan Huygens",
+        "Johannes Kepler"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which moon of Saturn was discovered by Christiaan Huygens?",
+      "choices": [
+        "Rhea",
+        "Titan",
+        "Iapetus",
+        "Dione"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What gap in Saturn's rings was discovered by Cassini?",
+      "choices": [
+        "The Encke Gap",
+        "The Cassini Division",
+        "The Maxwell Gap",
+        "The Keeler Gap"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which moon of Saturn was discovered by William Herschel?",
+      "choices": [
+        "Titan",
+        "Hyperion",
+        "Mimas",
+        "Phoebe"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In 1944 research led to the confirmation that Titan had what feature?",
+      "choices": [
+        "A liquid ocean",
+        "A rocky surface",
+        "A thick atmosphere",
+        "A magnetic field"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did Pioneer 11 make its flyby of Saturn?",
+      "choices": [
+        "September 1979",
+        "November 1980",
+        "August 1981",
+        "July 2004"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Voyager probe performed a close flyby of Titan?",
+      "choices": [
+        "Voyager 1",
+        "Voyager 2",
+        "Both Voyager 1 and 2",
+        "Neither Voyager probe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What did the Voyager 1 flyby of Titan prove?",
+      "choices": [
+        "Titan has active volcanoes",
+        "Titan has a liquid ocean",
+        "Titan's atmosphere is impenetrable at visible wavelengths",
+        "Titan has a strong magnetic field"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did the Cassini–Huygens space probe enter orbit around Saturn?",
+      "choices": [
+        "September 1979",
+        "November 1980",
+        "August 1981",
+        "July 2004"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which mission ended with an atmospheric entry of the spacecraft?",
+      "choices": [
+        "Pioneer 11",
+        "Voyager 1",
+        "Voyager 2",
+        "Cassini-Huygens"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which NASA program is still considering the continued exploration of Saturn?",
+      "choices": [
+        "Discovery",
+        "New Frontiers",
+        "Flagship",
+        "Artemis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What investigations could possible future missions into Saturn explore?",
+      "choices": [
+        "The origin of its rings",
+        "The depth of its clouds",
+        "The habitability of Saturn's moons Titan and Enceladus",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What kind of spacecraft has been proposed to investigate the habitability on Saturn's moons Titan and Enceladus?",
+      "choices": [
+        "The probe Starhopper",
+        "The rover Curiosity",
+        "The orbiter Pioneer",
+        "The Dragonfly"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What kind of spacecraft may be deployed into Saturn's atmosphere?",
+      "choices": [
+        "The Cassini-Huygens",
+        "Saturn Atmospheric Entry Probe",
+        "Dragonfly",
+        "Pioneer 11"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Is a mission to Saturn considered a viable option?",
+      "choices": [
+        "No, not as a part of NASA's New Frontiers Program",
+        "Yes, as part of NASA's Flagship program",
+        "Yes, as part of NASA's Discovery program",
+        "Yes, as part of NASA's New Frontiers Program"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many planets are easily visible to the naked eye from Earth?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What color does Saturn appear to the naked eye?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellowish"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What optical aid magnification is required to clearly resolve Saturn's rings?",
+      "choices": [
+        "10 times",
+        "30 times",
+        "50 times",
+        "100 times"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When does a 'disappearance' of Saturn's rings from view occur?",
+      "choices": [
+        "When Earth is furthest from Saturn",
+        "When Earth passes through the ring plane",
+        "During the summer solstice",
+        "During a lunar eclipse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a Saturnian opposition?",
+      "choices": [
+        "When Saturn aligns with Jupiter",
+        "When Earth passes through the ring plane",
+        "When Saturn is opposite the Sun in the sky",
+        "When Saturn is closest to the Sun"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was Saturn first featured in fiction?",
+      "choices": [
+        "At least 1752",
+        "At least 1800",
+        "At least 1850",
+        "At least 1900"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which novel features Saturn?",
+      "choices": [
+        "The Time Machine",
+        "Micromégas",
+        "War of the Worlds",
+        "A Journey to the Center of the Earth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How was Saturn depicted in early works of fiction?",
+      "choices": [
+        "As a solid planet",
+        "As a ring of fire",
+        "As a gigantic sea",
+        "As an ethereal realm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of Saturn's moons are featured in works of fiction?",
+      "choices": [
+        "Enceladus",
+        "Dione",
+        "Titan",
+        "Mimas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What recent change has been incorporated into fiction about Saturn?",
+      "choices": [
+        "Saturn is accurately described as a gaseous planet",
+        "Titan is discovered to have active volcanoes",
+        "The rings become a habitable environment",
+        "Saturn is discovered to have an Earth-like ecosystem"
+      ],
+      "answer": 0
+    }
+  ]

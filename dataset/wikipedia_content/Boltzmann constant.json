@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the Boltzmann constant?",
+    "choices": [
+      "A proportionality factor relating temperature and pressure.",
+      "A proportionality factor relating the average relative thermal energy of particles in a gas with the thermodynamic temperature of the gas.",
+      "The speed of light in a vacuum.",
+      "The gravitational constant."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What dimensions does the Boltzmann constant have?",
+    "choices": [
+      "Mass divided by length.",
+      "Energy divided by temperature.",
+      "Temperature divided by energy.",
+      "Length times time."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the 2019 revision of the SI, the Boltzmann constant is...",
+    "choices": [
+      "A measured quantity.",
+      "One of the seven 'defining constants' with an exact finite decimal value.",
+      "Derived from the gravitational constant.",
+      "Subject to annual adjustments."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What effect did the definition of the Boltzmann Constant have on the SI unit Kelvin?",
+    "choices": [
+      "It redefined the SI unit Kelvin.",
+      "It increased the size of the SI unit Kelvin.",
+      "It decreased the size of the SI unit Kelvin.",
+      "It had no effect on the SI unit Kelvin."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who is the Boltzmann constant named after?",
+    "choices": [
+      "Max Planck",
+      "Albert Einstein",
+      "Ludwig Boltzmann",
+      "Niels Bohr"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the ideal gas law, what is the relationship between the molar gas constant (R) and the Boltzmann constant (k)?",
+    "choices": [
+      "R = k / NA (where NA is Avogadro's constant)",
+      "R = k * NA (where NA is Avogadro's constant)",
+      "R = k + NA (where NA is Avogadro's constant)",
+      "R = k - NA (where NA is Avogadro's constant)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The ideal gas law can be written as pV = nRT. What does 'n' represent?",
+    "choices": [
+      "Number of molecules",
+      "Number of atoms",
+      "Amount of substance (in moles)",
+      "The gas pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to the ideal gas law when the Boltzmann constant is introduced?",
+    "choices": [
+      "The number of moles is used.",
+      "The number of molecules is used.",
+      "The pressure is eliminated.",
+      "The volume is eliminated."
+    ],
+    "answer": 1
+  },
+    {
+    "question": "In the ideal gas law `pV = nRT`, what does `R` represent?",
+    "choices": [
+      "The Boltzmann constant",
+      "The molar gas constant",
+      "The number of molecules",
+      "The volume of the gas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the ideal gas law expressed with the Boltzmann constant, what does 'N' represent in the equation pV = NkT?",
+    "choices": [
+      "Number of moles",
+      "Number of atoms",
+      "Number of molecules",
+      "Number of neutrons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the equipartition of energy theorem, what is the average thermal energy carried by each microscopic degree of freedom in a system at absolute temperature T?",
+    "choices": [
+      "kT",
+      "⁠1/2⁠ kT",
+      "⁠3/2⁠ kT",
+      "2kT"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For monatomic ideal gases, how many degrees of freedom per atom are there?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kinetic theory expresses average pressure `p` for an ideal gas as ...?",
+    "choices": [
+      "p = (1/2)(N/V)m(v^2)",
+      "p = (1/3)(N/V)m(v)",
+      "p = (1/3)(N/V)m(v^2)",
+      "p = (2/3)(N/V)m(v^2)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At room temperature, what is the order of magnitude of the average thermal energy ⁠1/2⁠ kT?",
+    "choices": [
+      "2.07×10−21 J",
+      "2.07×10−31 J",
+      "2.07×10−11 J",
+      "2.07×10−41 J"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The root-mean-square speed of atoms in an ideal gas is inversely proportional to the square root of what?",
+    "choices": [
+      "Temperature",
+      "Pressure",
+      "Atomic Mass",
+      "Volume"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the Boltzmann factor describe in systems at equilibrium?",
+    "choices": [
+      "The total energy of the system",
+      "The number of particles in the system",
+      "The probability of occupying a state with a certain energy",
+      "The volume of the system"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the Boltzmann factor equation, what does 'Z' represent?",
+    "choices": [
+      "The total number of states",
+      "The partition function",
+      "The average energy of the system",
+      "The probability of the ground state"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a consequence of the Boltzmann factors?",
+    "choices": [
+      "Newton's Law of Universal Gravitation",
+      "Arrhenius equation",
+      "Faraday's Law of Induction",
+      "Ohm's Law"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the term of central importance in Boltzmann factors?",
+    "choices": [
+      "kT",
+      "pV",
+      "nRT",
+      "mc^2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Boltzmann factor is proportional to the probability of occupying a state with energy `E`. What is the exponent?",
+    "choices": [
+      "-E/kT",
+      "E/kT",
+      "E/(kT)^2",
+      "kT/E"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In statistical mechanics, how is the entropy S of an isolated system at thermodynamic equilibrium defined?",
+    "choices": [
+      "S = k / ln(W)",
+      "S = k * ln(W)",
+      "S = W * ln(k)",
+      "S = ln(W) / k"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does 'W' represent in the statistical definition of entropy?",
+    "choices": [
+      "The total energy of the system",
+      "The number of distinct microscopic states available to the system",
+      "The work done by the system",
+      "The weight of the system"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is the statistical definition of entropy attributed to?",
+    "choices": [
+      "Max Planck",
+      "Albert Einstein",
+      "Ludwig Boltzmann",
+      "Niels Bohr"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does the constant of proportionality, k, serve to do in relation to the classical thermodynamic entropy of Clausius?",
+    "choices": [
+      "Make the statistical mechanical entropy greater than the classical thermodynamic entropy.",
+      "Make the statistical mechanical entropy equal to the classical thermodynamic entropy.",
+      "Make the statistical mechanical entropy less than the classical thermodynamic entropy.",
+      "Make the statistical mechanical entropy dimensionless."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the more natural form of the rescaled dimensionless entropy?",
+    "choices": [
+      "S' = W",
+      "S' = ln W",
+      "S' = e^W",
+      "S' = 1/W"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In semiconductors, what is VT?",
+    "choices": [
+      "The threshold voltage",
+      "The thermal voltage",
+      "The total voltage",
+      "The transfer voltage"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The thermal voltage (VT) depends on what property?",
+    "choices": [
+      "Pressure",
+      "Volume",
+      "Absolute temperature (T)",
+      "Number of moles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the thermal voltage (VT) at room temperature (approximately 300K)?",
+    "choices": [
+      "Approximately 25.85 mV",
+      "Approximately 2.585 V",
+      "Approximately 258.5 mV",
+      "Approximately 2.585 mV"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the Shockley diode equation, how is thermal voltage (VT) related to temperature (T) and the charge of an electron (q)?",
+    "choices": [
+      "VT = qT / k",
+      "VT = kT / q",
+      "VT = kq / T",
+      "VT = T / kq"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "What is the importance of thermal voltage in plasmas and electrolyte solutions?",
+    "choices": [
+      "It measures the total energy of the system.",
+      "It provides a measure of how much the spatial distribution of electrons or ions is affected by a boundary held at a fixed voltage.",
+      "It determines the rate of chemical reactions.",
+      "It calculates the density of particles."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who first introduced the Boltzmann constant (k) with a specific value?",
+    "choices": [
+      "Ludwig Boltzmann",
+      "Albert Einstein",
+      "Max Planck",
+      "James Clerk Maxwell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what year did Max Planck first introduce k?",
+    "choices": [
+      "1877",
+      "1900",
+      "1905",
+      "1920"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the main disagreement in the second half of the nineteenth century that relates to the Boltzmann constant?",
+    "choices": [
+      "Whether energy was conserved.",
+      "Whether atoms and molecules were real or simply a heuristic tool.",
+      "Whether gravity was a force.",
+      "Whether light was a wave or a particle."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Prior to the 2019 revision of the SI, the Boltzmann constant was...",
+    "choices": [
+      "A fixed constant.",
+      "A measured quantity.",
+      "Always equal to 1.",
+      "Not used in calculations."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Before the 2019 revision of SI, what value was the Boltzmann Constant suggested to be?",
+    "choices": [
+      "1.380649×10−23 J/K",
+      "1.390649×10−23 J/K",
+      "1.370649×10−23 J/K",
+      "1.360649×10−23 J/K"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the relationship between wavelength and temperature, according to the Boltzmann constant?",
+    "choices": [
+      "Dividing hc/k by a wavelength gives a temperature",
+      "Multiplying hc/k by a wavelength gives a temperature",
+      "Wavelength is not related to temperature",
+      "Wavelength equals temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What happens when 1000 nm is related to temperature using the Boltzmann constant?",
+    "choices": [
+      "It relates to 14387.777 K",
+      "It relates to 14387.777 V",
+      "It relates to 14387.777 J",
+      "It relates to 14387.777 nm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If one sets `k` equal to unity, which SI unit becomes superfluous?",
+    "choices": [
+      "Kilogram",
+      "Second",
+      "Kelvin",
+      "Mole"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In natural units where k is set to 1, what are temperature and energy quantities said to have?",
+    "choices": [
+      "Different dimensions",
+      "The same dimensions",
+      "No dimensions",
+      "Complex dimensions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "With k=1, what is the simplified equipartition formula for the energy associated with each classical degree of freedom?",
+    "choices": [
+      "E = T",
+      "E = 1/2T",
+      "E = 3/2T",
+      "E = kT"
+    ],
+    "answer": 1
+  }
+]
