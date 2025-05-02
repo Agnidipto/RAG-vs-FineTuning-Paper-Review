@@ -1,0 +1,1514 @@
+[
+  {
+    "question": "Which statement accurately describes a type-Ia supernova?",
+    "subject": "astronomy",
+    "choices": [
+      "This type occurs in binary systems.",
+      "This type occurs in young galaxies.",
+      "This type produces gamma-ray bursts.",
+      "This type produces high amounts of X-rays."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What can you determine if you know both an object's intrinsic brightness and its apparent brightness from your location?",
+    "subject": "astronomy",
+    "choices": [
+      "Its speed relative to you",
+      "Its composition",
+      "Its size",
+      "Its distance from you"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What explains the blue color of the sky?",
+    "subject": "astronomy",
+    "choices": [
+      "Because the molecules that compose the Earth's atmosphere have a blue-ish color.",
+      "Because the sky reflects the color of the Earth's oceans.",
+      "Because the atmosphere preferentially scatters short wavelengths.",
+      "Because the Earth's atmosphere preferentially absorbs all other colors."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Under what circumstances would a theory about an attractive force between all objects be considered proven correct?",
+    "subject": "astronomy",
+    "choices": [
+      "The first time you drop a bowling ball and it falls to the ground proving your hypothesis.",
+      "After you've repeated your experiment many times.",
+      "You can never prove your theory to be correct only 'yet to be proven wrong'.",
+      "When you and many others have tested the hypothesis."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statements about Titan are correct?",
+    "subject": "astronomy",
+    "choices": [
+      "Titan is the only outer solar system moon with a thick atmosphere",
+      "Titan is the only outer solar system moon with evidence for recent geologic activity",
+      "Titan's atmosphere is composed mostly of hydrocarbons",
+      "A and D"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the energy released when a comet of mass m impacts Earth at minimum impact speed?",
+    "subject": "astronomy",
+    "choices": ["m*v", "0.5*m/(R^3)", "0.5*m*(2GM/R)", "0.6*G(M^2)/R"],
+    "answer": 2
+  },
+  {
+    "question": "What happened to most of Mars' original water that isn't currently frozen or lost to solar wind?",
+    "subject": "astronomy",
+    "choices": [
+      "it was stripped away by the magnetic field when it rapidly decreased in strength",
+      "it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape",
+      "it was consumed by a civilization of thirsty Martians",
+      "it was vaporized during a period of intense volcanism and was lost to space through thermal escape"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What provides the strongest evidence that lunar rocks are generally older than Earth's surface rocks?",
+    "subject": "astronomy",
+    "choices": [
+      "Lunar rocks are composed of fragments pulverized by many impacts.",
+      "Radioactive dating of lunar samples shows that they are older.",
+      "The Moon's surface is more heavily eroded than the Earth's surface.",
+      "The Moon's surface has more impact craters than the Earth's surface."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which element ranks second in abundance in our solar system?",
+    "subject": "astronomy",
+    "choices": ["Iron", "Hydrogen", "Methane", "Helium"],
+    "answer": 3
+  },
+  {
+    "question": "Where does the material that creates meteor showers originate?",
+    "subject": "astronomy",
+    "choices": [
+      "Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower.",
+      "Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.",
+      "The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky.",
+      "The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why is a comet's plasma tail always oriented away from the Sun?",
+    "subject": "astronomy",
+    "choices": [
+      "Radiation pressure from the Sun's light pushes the ions away.",
+      "The conservation of the angular momentum in the tail keeps it always pointing away from the Sun.",
+      "The ions are following Keplerian orbits that lead away from the Sun.",
+      "The solar wind electromagnetically \"blows\" the ions directly away from the Sun."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How did Eratosthenes calculate Earth's size in 240 B.C.?",
+    "subject": "astronomy",
+    "choices": [
+      "By observing the duration of a solar eclipse.",
+      "By measuring the size of Earth's shadow on the Moon in a lunar eclipse.",
+      "By comparing the maximum altitude of the Sun in two cities at different latitudes at the same time on the same day.",
+      "By sending fleets of ships around Earth."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the Large Magellanic Cloud?",
+    "subject": "astronomy",
+    "choices": [
+      "a dwarf galaxy orbiting the Milky Way.",
+      "the closest planetary nebula to the Earth.",
+      "a bright star cluster discovered by Magellan.",
+      "the outer arm of the Milky Way named after Magellan."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why do astronomers search for water-ice in Mercury's polar craters?",
+    "subject": "astronomy",
+    "choices": [
+      "Actually water-ice is all over Mercury and not just at the poles.",
+      "The pole is the only place fortunate enough to have had comet impacts",
+      "Radar from the earth can only see Mercury's poles.",
+      "These craters contain the only permanently shadowed regions on Mercury"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the 160 Mpc diameter supercluster that includes the Milky Way?",
+    "subject": "astronomy",
+    "choices": ["Virgo", "Laniakea", "Sculptor", "Boötes"],
+    "answer": 1
+  },
+  {
+    "question": "Which solar system planet features the Great Red Spot?",
+    "subject": "astronomy",
+    "choices": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": 2
+  },
+  {
+    "question": "Why does Earth possess the strongest magnetic field among terrestrial planets?",
+    "subject": "astronomy",
+    "choices": [
+      "It is by far the largest terrestrial world.",
+      "It is the most volcanically active world.",
+      "It is the only one that has both a partially molten metallic core and reasonably rapid rotation.",
+      "It rotates much faster than any other terrestrial world."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which orbital resonance statement is incorrect?",
+    "subject": "astronomy",
+    "choices": [
+      "The Earth and Venus are in a 1:1 orbital resonance (for every 1 Earth orbit there is exactly 1 Venus orbit)",
+      "Neptune and Pluto are in a 3:2 orbital resonance (for every 3 Neptune orbits there are exactly 2 Pluto orbits)",
+      "The Kirkwood Gaps in the asteroid belt are due to resonances with Jupiter",
+      "Neptune and Pluto won't collide because of their orbital resonance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What features are typically found in fresh impact craters on solid surfaces?",
+    "subject": "astronomy",
+    "choices": ["ejecta", "raised rims", "central peaks", "A and B only"],
+    "answer": 3
+  },
+  {
+    "question": "A hydrogen spectral line normally appears at 486.1 nm, but in a star's spectrum it appears at 485.9 nm. What does this indicate?",
+    "subject": "astronomy",
+    "choices": [
+      "The star is getting hotter.",
+      "The star is getting colder.",
+      "The star is moving toward us.",
+      "The star is moving away from us."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What constitutes a planet's lithosphere?",
+    "subject": "astronomy",
+    "choices": [
+      "the softer rocky material of the mantle.",
+      "the lava that comes out of volcanoes.",
+      "material between the crust and the mantle.",
+      "the rigid rocky material of the crust and uppermost portion of the mantle."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What defines the Cassini division in Saturn's ring system?",
+    "subject": "astronomy",
+    "choices": [
+      "a dark ring visible from Earth composed of dark dusty particles",
+      "the most opaque ring of Saturn made of highly reflective ice particles",
+      "the widest ring of Saturn located between two large ring gaps",
+      "a large gap visible from Earth produced by an orbital resonance with the moon Mimas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which statement about sidereal and solar days is false?",
+    "subject": "astronomy",
+    "choices": [
+      "The time it takes for the Sun to make one circuit of our sky is one solar day.",
+      "A solar day is 4 minutes longer than a sidereal day.",
+      "A solar day represents more than 360° of rotation for the earth.",
+      "The time it takes for the Moon to make one circuit of our sky is one solar day."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is likely true about meteorites with high metal content?",
+    "subject": "astronomy",
+    "choices": [
+      "pieces of comets rather than of asteroids.",
+      "chunks of large differentiated asteroids that were shattered by collisions.",
+      "chunks of rock chipped off the planet Mars.",
+      "leftover chunks of rock from the earliest period in the formation of the solar system."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many Kelvin equal 25°C?",
+    "subject": "astronomy",
+    "choices": ["200 Kelvin", "250 Kelvin", "300 Kelvin", "350 Kelvin"],
+    "answer": 2
+  },
+  {
+    "question": "Which of Jupiter's four major moons orbits closest to the planet?",
+    "subject": "astronomy",
+    "choices": ["Callisto", "Europa", "Ganymede", "Io"],
+    "answer": 3
+  },
+  {
+    "question": "Why are seasonal variations more extreme in Mars' southern hemisphere?",
+    "subject": "astronomy",
+    "choices": [
+      "because Mars is farther from the sun than the Earth",
+      "because Mars has more carbon dioxide in its atmosphere than the Earth",
+      "because Mars has a more eccentric orbit than the Earth",
+      "because Mars' axis is more tilted than the Earth's"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Mars mission landed on May 25, 2008 to excavate ice-rich soil?",
+    "subject": "astronomy",
+    "choices": [
+      "ExoMars",
+      "Mars Exploration Rovers",
+      "Mars Science Laboratory",
+      "Phoenix Mars Lander"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is significant about the 1:2:4 resonance among Jupiter's moons?",
+    "subject": "astronomy",
+    "choices": [
+      "The resonance pulls Io in different directions and generates heat.",
+      "It makes the orbit of Io slightly elliptical.",
+      "It creates a gap with no asteriods between the orbits.",
+      "It prevents formation of the ring material into other moons."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are terrestrial planet cores predominantly metallic?",
+    "subject": "astronomy",
+    "choices": [
+      "the entire planets are made mostly of metal.",
+      "metals condensed first in the solar nebula and the rocks then accreted around them.",
+      "metals sank to the center during a time when the interiors were molten throughout.",
+      "radioactivity created metals in the core from the decay of uranium."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do inner planets contain denser materials than outer planets?",
+    "subject": "astronomy",
+    "choices": [
+      "In the beginning when the protoplanetary disk was spinning faster centrifugal forces flung the lighter materials toward the outer parts of the solar nebula.",
+      "In the inner part of the nebula only metals and rocks were able to condense because of the high temperatures whereas hydrogen compounds although more abundant were only able to condense in the cooler outer regions.",
+      "Denser materials were heavier and sank to the center of the nebula.",
+      "When the solar nebula formed a disk materials naturally segregated into bands and in our particular solar system the denser materials settled nearer the Sun while lighter materials are found in the outer part."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What information do meteorites provide about our solar system?",
+    "subject": "astronomy",
+    "choices": [
+      "They reveal that the early solar system consisted mostly of hydrogen and helium gas.",
+      "They reveal that meteorites are much older than the comets and planets.",
+      "They reveal that the age of the solar system is approximately 4.6 billion years.",
+      "They reveal that the solar system once contained 10 planets."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which surface processes are evident on Venus?",
+    "subject": "astronomy",
+    "choices": ["Impacts", "Erosion", "Volcanism", "A B and C"],
+    "answer": 3
+  },
+  {
+    "question": "What characterizes planetary rings?",
+    "subject": "astronomy",
+    "choices": [
+      "known to exist for all of the jovian planets.",
+      "composed of a large number of individual particles that orbit their planet in accord with Kepler's third law.",
+      "nearer to their planet than any of the planet's large moons.",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How will two stars appear if their angular separation is smaller than your eyes' resolution?",
+    "subject": "astronomy",
+    "choices": [
+      "You will not be able to see these two stars at all.",
+      "You will see two distinct stars.",
+      "The two stars will look like a single point of light.",
+      "The two stars will appear to be touching looking rather like a small dumbbell."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement about Jupiter's magnetic field is incorrect?",
+    "subject": "astronomy",
+    "choices": [
+      "it is about 20000 times stronger than Earth's magnetic field",
+      "it traps charged particles from Io's volcanoes in a \"plasma torus\" around the planet",
+      "it causes spectacular auroral displays at Jupiter's north and south poles",
+      "it switches polarity every 11 years"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does the astronomical term 'ecliptic' refer to?",
+    "subject": "astronomy",
+    "choices": [
+      "The path of the Sun in the sky throughout a year.",
+      "The axial tilt of the Earth throughout a year.",
+      "The movement of the stars due to Earth's rotation.",
+      "The central line through the axis of rotation."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What phenomenon does dark energy help explain?",
+    "subject": "astronomy",
+    "choices": [
+      "the radiation of black holes.",
+      "the mass distribution of galaxies.",
+      "the acceleration of the universe.",
+      "the microwave background of the universe."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do researchers determine that most meteorites originate from the asteroid belt?",
+    "subject": "astronomy",
+    "choices": [
+      "Bubbles of gas trapped in the crystals within meteorites are identical to the gases trapped in asteroids.",
+      "The spectra of some meteorites are similar to the spectra of asteroids in the asteroid belt.",
+      "Collisions are common in the asteroid belt and we can track the fragments from their source asteroid to the Earth where they become meteorites.",
+      "The asteroid belt is the only possible source of meteorites therefore they must originate there."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In what way is the term 'gas giant' potentially misleading for Jupiter and other jovian planets?",
+    "subject": "astronomy",
+    "choices": [
+      "The materials they are made of are not normally gaseous in everyday experience.",
+      "They actually contain a significant fraction of non-gaseous matter.",
+      "The materials that make up these planets are primarily in the form of a plasma not a gas.",
+      "Actually it's a great description because these worlds are big and gaseous throughout."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which concept is not part of Kepler's laws?",
+    "subject": "astronomy",
+    "choices": [
+      "As a planet moves around its orbit it sweeps out equal areas in equal times.",
+      "The orbit of each planet about the Sun is an ellipse with the Sun at one focus.",
+      "The force of attraction between any two objects decreases with the square of the distance between their centers.",
+      "A planet travels faster when it is nearer to the Sun and slower when it is farther from the Sun."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the Milky Way's central black hole?",
+    "subject": "astronomy",
+    "choices": ["Altair A*", "Alsephina A*", "Fomalhaut A*", "Sagittarius A*"],
+    "answer": 3
+  },
+  {
+    "question": "Why is Saturn nearly as large as Jupiter despite having less mass?",
+    "subject": "astronomy",
+    "choices": [
+      "Jupiter's greater mass compresses it more thus increasing its density.",
+      "Saturn has a larger proportion of hydrogen and helium than Jupiter and is therefore less dense.",
+      "Jupiter's strong magnetic field constrains its size.",
+      "Saturn is further from the Sun thus cooler and therefore less compact."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which hypothesis about the Moon's origin has not been seriously considered?",
+    "subject": "astronomy",
+    "choices": [
+      "The Moon split from the Earth due to tidal forces.",
+      "The Moon was captured into Earth orbit.",
+      "The Earth and Moon co-accreted in the solar nebula.",
+      "Earth was rotating so rapidly that the Moon split from it."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How was Pluto's diameter first accurately measured?",
+    "subject": "astronomy",
+    "choices": [
+      "a New Horizons flyby in the 1990s",
+      "Hubble Space Telescope images that resolved Pluto's disk",
+      "brightness measurements made during mutual eclipses of Pluto and Charon",
+      "radar observations made by the Arecibo telescope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Solar Nebular theory, what are asteroids and comets?",
+    "subject": "astronomy",
+    "choices": [
+      "They are the shattered remains of collisions between planets.",
+      "They are chunks of rock or ice that condensed long after the planets and moons had formed.",
+      "They are chunks of rock or ice that were expelled from planets by volcanoes.",
+      "They are leftover planetesimals that never accreted into planets."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How do scientists determine Earth's age?",
+    "subject": "astronomy",
+    "choices": [
+      "From the layering of materials within the Earth.",
+      "From fossils of ancient life.",
+      "From the cratering history of Earth's surface.",
+      "From radioactive dating of rocks and meteorites."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Where did life on Earth originate?",
+    "subject": "astronomy",
+    "choices": [
+      "We don't know for sure.",
+      "aliens (panspermia).",
+      "comets.",
+      "the Earth's oceans."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How can you determine your latitude by locating the north celestial pole?",
+    "subject": "astronomy",
+    "choices": [
+      "The azimuth of the NCP is the angular distance from the North Pole.",
+      "The azimuth of the NCP is the same as your latitude.",
+      "The altitude of the NCP is the same as your latitude.",
+      "The altitude of the NCP is your angular distance from the North Pole."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does the greenhouse effect operate?",
+    "subject": "astronomy",
+    "choices": [
+      "Ozone transmits visible light allowing it to heat the surface but then absorbs most of the infrared heat trapping the heat near the surface.",
+      "Greenhouse gases transmit visible light allowing it to heat the surface but then absorb infrared light from Earth trapping the heat near the surface.",
+      "Greenhouse gases absorb infrared light from the Sun which then heats the atmosphere and the surface.",
+      "Greenhouse gases absorb X-rays and ultraviolet light from the Sun which then heat the atmosphere and the surface."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What explains Saturn's comparable size to Jupiter despite its lower mass?",
+    "subject": "astronomy",
+    "choices": [
+      "Jupiter's greater mass compresses it more thus increasing its density.",
+      "Saturn has a larger proportion of hydrogen and helium than Jupiter and is therefore less dense.",
+      "Saturn is further from the Sun thus cooler and therefore less compact.",
+      "Saturn's rings make the planet look bigger."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the ratio of solar radiation flux on Mercury's surface at perihelion versus aphelion?",
+    "subject": "astronomy",
+    "choices": ["4:1", "1:2", "6:5", "9:4"],
+    "answer": 3
+  },
+  {
+    "question": "Why do terrestrial planets have metallic cores?",
+    "subject": "astronomy",
+    "choices": [
+      "the entire planets are made mostly of metal.",
+      "radioactivity created metals in the core from the decay of uranium.",
+      "metals condensed first in the solar nebula and the rocks then accreted around them.",
+      "metals differentiated to the center during a time when the interiors were molten throughout."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which nation(s) successfully landed probes on Venus?",
+    "subject": "astronomy",
+    "choices": ["The U.S.S.R.", "The U.S.", "France", "A and B"],
+    "answer": 0
+  },
+  {
+    "question": "Which phenomenon is NOT caused by orbital resonance?",
+    "subject": "astronomy",
+    "choices": [
+      "2:3 periodic ratio of Neptune:Pluto",
+      "Kirkwood Gaps.",
+      "Gaps in Saturn's rings.",
+      "Breaking of small Jovian moons to form ring materials."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How did Mars' climate change after losing its strong magnetic field?",
+    "subject": "astronomy",
+    "choices": [
+      "without a strong magnetic field the ozone layer was destroyed by the solar wind which stopped the greenhouse effect and cooled Mars down.",
+      "without a strong magnetic field which enhances the greenhouse effect Mars cooled down.",
+      "without a strong magnetic field the solar wind stripped away most of the atmosphere significantly reducing the greenhouse effect and cooling Mars down",
+      "without a strong magnetic field the planet recieves fewer charged particles from the solar wind and therefore is not heated as much"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which moon is not among Jupiter's Galilean moons?",
+    "subject": "astronomy",
+    "choices": ["Ganymede", "Callisto", "Europa", "Dione"],
+    "answer": 3
+  },
+  {
+    "question": "If Planet X orbits its sun every 100 Earth days and has a 100 Earth day sidereal day (prograde rotation), how long is its solar day?",
+    "subject": "astronomy",
+    "choices": [
+      "About 10 earth days",
+      "About 100 earth days",
+      "About 200 earth days",
+      "There is no solar day Planet X is tidally locked"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What happens to Polaris' apparent position when traveling north from the U.S. to Canada?",
+    "subject": "astronomy",
+    "choices": ["Brighter", "Dimmer", "Higher in the sky", "Lower in the sky"],
+    "answer": 2
+  },
+  {
+    "question": "When is Earth likely to experience its next major impact event?",
+    "subject": "astronomy",
+    "choices": [
+      "Hundreds of millennia in the future.",
+      "Major impacts can no longer occur since the period of heavy bombardment is over.",
+      "Hundreds of millennia after the last major impact.",
+      "Could be any time. The probability of impact is the same next year as it is for any later year."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What makes asteroids noticeable in sky surveys?",
+    "subject": "astronomy",
+    "choices": [
+      "Asteroids emit pulsed radiation",
+      "Asteroids emit a lot of their own radiation",
+      "They reflect enough of the sun's light to make them brighter than most background stars",
+      "Asteroids have substantial motion relative to the background stars"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why did temperature increase during the solar nebula's collapse?",
+    "subject": "astronomy",
+    "choices": [
+      "Collisions among planetesimals generated friction and heat.",
+      "Radiation from other nearby stars that had formed earlier heated the nebula.",
+      "The shock wave from a nearby supernova heated the gas.",
+      "As the cloud shrank its gravitational potential energy was converted to kinetic energy and then into thermal energy."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What spectrum would you see when observing a star through cool hydrogen gas?",
+    "subject": "astronomy",
+    "choices": [
+      "You see only the star's blackbody spectrum.",
+      "You see the star's blackbody spectrum with absorption lines due to hydrogen.",
+      "You see only emission lines characteristic of hydrogen.",
+      "You see only emission lines characteristic of the star's composition."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why doesn't Venus have a strong magnetic field?",
+    "subject": "astronomy",
+    "choices": [
+      "Its rotation is too slow.",
+      "It has too thick an atmosphere.",
+      "It is too large.",
+      "It does not have a metallic core."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which characteristic wouldn't definitively identify a rock as a meteorite?",
+    "subject": "astronomy",
+    "choices": [
+      "It has a fusion crust",
+      "It contains solidified spherical droplets",
+      "It is highly processed",
+      "It has different elemental composition than earth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What atmospheric difference exists between Saturn and Jupiter?",
+    "subject": "astronomy",
+    "choices": [
+      "a composition dominated by hydrogen and helium",
+      "the presence of belts zones and storms",
+      "an equatorial wind speed of more than 900 miles per hour",
+      "significant \"shear\" between bands of circulation at different latitudes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How much brighter would the Sun need to be for Europa to receive Earth's current solar flux (1380W/m²)?",
+    "subject": "astronomy",
+    "choices": [
+      "100 times brighter",
+      "25 times brighter",
+      "2 times brighter",
+      "50 times brighter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Pleiades cluster is famous for containing how many bright stars?",
+    "subject": "astronomy",
+    "choices": ["5", "7", "9", "12"],
+    "answer": 1
+  },
+  {
+    "question": "What does the nebular theory NOT predict about our solar system?",
+    "subject": "astronomy",
+    "choices": [
+      "Planets orbit around the Sun in nearly circular orbits in a flattened disk.",
+      "the equal number of terrestrial and jovian planets",
+      "the craters on the Moon",
+      "asteroids Kuiper-belt comets and the Oort cloud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What would a 5kg sand bag (weighing 50N on Earth) weigh on a planet with half Earth's gravity?",
+    "subject": "astronomy",
+    "choices": [
+      "Mass 5kg weight 100N",
+      "Mass 5kg weight 50N",
+      "Mass 5kg weight 25N",
+      "Mass 10kg weight 100N"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where is the crater linked to the dinosaur extinction 65 million years ago?",
+    "subject": "astronomy",
+    "choices": [
+      "Tunguska Siberia.",
+      "Chicxulub Crater Yucatan Peninsula in Mexico.",
+      "Quebec Canada.",
+      "Meteor Crater in Arizona."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What additional condition is required to observe a total solar eclipse?",
+    "subject": "astronomy",
+    "choices": [
+      "The Earth must lie completely within the Moon's penumbra.",
+      "The Moon's penumbra must touch the area where you are located.",
+      "The Earth must be near aphelion in its orbit of the Sun.",
+      "The Moon's umbra must touch the area where you are located."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What would change if the Moon's orbital plane matched the ecliptic plane exactly?",
+    "subject": "astronomy",
+    "choices": [
+      "Solar eclipses would be much rarer.",
+      "Solar eclipses would last much longer.",
+      "Solar eclipses would be much more frequent.",
+      "Solar eclipses would not last as long."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of radiation causes black hole evaporation?",
+    "subject": "astronomy",
+    "choices": [
+      "Schwarzschild radiation",
+      "Planck radiation",
+      "Kolmogorov radiation",
+      "Hawking radiation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately how far is the Andromeda Galaxy?",
+    "subject": "astronomy",
+    "choices": [
+      "1.7 million light years",
+      "2.1 million light years",
+      "2.5 million light years",
+      "3.2 million light years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organisms genetically resemble life's common ancestor most closely?",
+    "subject": "astronomy",
+    "choices": [
+      "viruses",
+      "bacteria such as E. coli",
+      "organisms living deep in the oceans around seafloor volcanic vents and in hot springs",
+      "plankton that use sunlight as an energy source through photosynthesis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How did Eratosthenes measure Earth's size in 240 B.C.?",
+    "subject": "astronomy",
+    "choices": [
+      "By measuring the maximum altitude of the Sun in two cities at different latitudes at the same time on the same day.",
+      "By measuring the size of Earth's shadow on the Moon during a lunar eclipse.",
+      "By finding a place on Earth where the Sun passes directly overhead.",
+      "By sending fleets of ships around the Earth."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current observations indicate Pluto has:",
+    "subject": "astronomy",
+    "choices": [
+      "one medium sized satellite and two small satellites.",
+      "no satellites.",
+      "one large satellite and three small satellites.",
+      "one large satellite."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What primarily composes Pluto's ~40K surface?",
+    "subject": "astronomy",
+    "choices": [
+      "mainly water ice which always remains frozen",
+      "nitrogen methane and carbon monoxide ices which sublimate into an atmosphere near perihelion",
+      "nitrogen methane and carbon monoxide ices which always remain frozen",
+      "roughly half ices and half rocky materials"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How long is a Martian year compared to Earth's?",
+    "subject": "astronomy",
+    "choices": ["1/2", "1", "2", "4"],
+    "answer": 2
+  },
+  {
+    "question": "What is the correct value and unit for the Boltzmann constant?",
+    "subject": "astronomy",
+    "choices": [
+      "1.38 × 10−21 m^3 · kg · s^−2 · K^−1",
+      "1.38 × 10−22 m^2 · kg · s^−3 · K^−1",
+      "1.38 × 10−23 m^2 · kg · s^−2 · K^−1",
+      "1.38 × 10−24 m^2 · kg · s^−2 · K^−2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which atomic statement is incorrect?",
+    "subject": "astronomy",
+    "choices": [
+      "The nucleus contains most of the atom's mass but almost none of its volume.",
+      "A neutral atom always has equal numbers of electrons and protons.",
+      "A neutral atom always has equal numbers of neutrons and protons.",
+      "The electrons can only orbit at particular energy levels."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What primarily causes Earth's recent warming trend?",
+    "subject": "astronomy",
+    "choices": [
+      "human activities that are increasing the concentration of greenhouse gases in Earth's atmosphere",
+      "the fact that our politicians spout a lot of hot air",
+      "the human release of chemicals called CFCs into the stratosphere",
+      "the increase in forest fires during recent years"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do we know most meteorites come from the asteroid belt?",
+    "subject": "astronomy",
+    "choices": [
+      "The spectra of some meteorites are similar to the spectra of asteroids in the asteroid belt.",
+      "The asteroid belt is the only possible source of meteorites therefore they must originate there.",
+      "Collisions are common in the asteroid belt and we can track the fragments from their source asteroid to the Earth where they become meteorites.",
+      "High levels of Iridum have been detected in both asteroids and meteorites therefore meteorites come from the asteroid belt."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What factor most influences a planet's volcanic and tectonic history?",
+    "subject": "astronomy",
+    "choices": [
+      "size of the planet",
+      "presence of an atmosphere",
+      "distance from the sun",
+      "rotation period"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How is one parsec defined astronomically?",
+    "subject": "astronomy",
+    "choices": [
+      "Distance at which one astronomical unit measures one arcsecond from Earth.",
+      "Orbital distance of the solar system around the center of the Milky Way in one year.",
+      "Effective distance of the solar wind (i.e. the radius of the heliosphere).",
+      "Historical distance to the brightest star Sirius."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What celestial objects does the Schwarzschild radius typically describe?",
+    "subject": "astronomy",
+    "choices": ["red dwarfs.", "pulsars.", "black holes.", "galaxies."],
+    "answer": 2
+  },
+  {
+    "question": "In what order do heavy elements form layers in aging stars (outer to inner)?",
+    "subject": "astronomy",
+    "choices": [
+      "H → He → Li → N → O → Si → Fe",
+      "H → He → C → O → Ne → Si → Fe",
+      "H → He → Li → O → Ne → Si → Fe",
+      "H → He → C → N → O → Si → Fe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What Earth phases would be visible from Venus?",
+    "subject": "astronomy",
+    "choices": [
+      "New first quarter full third quarter",
+      "Waning crescent New Waxing crescent",
+      "Waxing gibbous Full Waning gibbous",
+      "New only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do moons influence planetary rings?",
+    "subject": "astronomy",
+    "choices": [
+      "stability of particles within rings.",
+      "gravitational effects at ring edges as the moons pass by.",
+      "gaps between rings.",
+      "Moons contribute to all of the above."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Given Mars' atmospheric pressure (600 Pa), gravity (~4 m/s²), and surface area (~145,000,000 km²), what's the approximate atmospheric mass?",
+    "subject": "astronomy",
+    "choices": ["2.2x10^11 kg", "2.2x10^14kg", "2.2x10^20kg", "2.2x10^16 kg"],
+    "answer": 3
+  },
+  {
+    "question": "Why is the Mars Rover Spirit tilted northward?",
+    "subject": "astronomy",
+    "choices": [
+      "Because it's climbing up a big hill.",
+      "Because it's in the southern hemisphere where it is winter now.",
+      "Because it's in the northern hemisphere where it is winter now.",
+      "Because one of its wheels broke."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why doesn't Mars' CO₂ atmosphere create a strong greenhouse effect?",
+    "subject": "astronomy",
+    "choices": [
+      "the atmosphere on Mars is too thin to trap a significant amount of heat",
+      "There actually is a strong greenhouse effect and Mars would be 35°C colder than it is now without it.",
+      "Mars does not have enough internal heat to drive the greenhouse effect",
+      "the greenhouse effect requires an ozone layer which Mars does not have"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which was NOT cited as evidence for life in Martian meteorite ALH84001?",
+    "subject": "astronomy",
+    "choices": [
+      "Complex organic molecules specifically PAHs",
+      "Magnetite grains similar to those formed by bacteria on Earth",
+      "Carbonate minerals indicating a thicker warmer Martian atmosphere",
+      "Amino acids with a preferred orientation or \"chirality\""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Kirkwood gaps appear in the asteroid belt where:",
+    "subject": "astronomy",
+    "choices": [
+      "asteroids would orbit with a period half that of Jupiter",
+      "asteroids would orbit with a period twice that of Jupiter",
+      "asteroids would orbit with a period twice that of Mars",
+      "A and B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are Jupiter's belts and zones?",
+    "subject": "astronomy",
+    "choices": [
+      "names for the layers of gaseous and metallic hydrogen deep within the planet.",
+      "alternating bands of rising and falling air at different latitudes.",
+      "alternating regions of charged particles in Jupiter's magnetic field.",
+      "regions of the plasma torus created by ions from Io's volcanoes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are Mars' two moons called?",
+    "subject": "astronomy",
+    "choices": [
+      "Tritos and Desmos",
+      "Tritos and Deimos",
+      "Phobos and Tritos",
+      "Phobos and Deimos"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What wavelength range constitutes visible light?",
+    "subject": "astronomy",
+    "choices": [
+      "240 to 680 nm.",
+      "360 to 620 nm.",
+      "380 to 740 nm.",
+      "420 to 810 nm."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What characterizes the rotation of a solid disk?",
+    "subject": "astronomy",
+    "choices": [
+      "The velocity is the same on every point on the disk",
+      "The part closer to the axis has a longer period",
+      "The period of rotation is the same on every point on the disk",
+      "The part closer to the axis has a shorter period"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which constellation forms a bright W-shape in the northern sky?",
+    "subject": "astronomy",
+    "choices": ["Centaurus", "Cygnus", "Cassiopeia", "Cepheus"],
+    "answer": 2
+  },
+  {
+    "question": "How far was the \"bigfoot\" rock from the Mars rover given its 0.5° angular size and 5cm height?",
+    "subject": "astronomy",
+    "choices": [
+      "About 6 meters",
+      "About 6 feet",
+      "About 10 meters",
+      "About 10 feet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is NOT essential for life as we know it?",
+    "subject": "astronomy",
+    "choices": [
+      "The ability to breathe oxygen",
+      "The ability to make energy from sunlight or to eat things that do",
+      "A source of organic molecules",
+      "A and B"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How long is a day (sunrise to sunrise) on the Moon?",
+    "subject": "astronomy",
+    "choices": ["about 18 years", "24 hours", "29 Earth days", "a year"],
+    "answer": 2
+  },
+  {
+    "question": "What question does the Drake equation address?",
+    "subject": "astronomy",
+    "choices": [
+      "Will the Sun become a black hole?",
+      "Is the universe infinitely large?",
+      "How old is the visible universe?",
+      "Are we alone in the universe?"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What will be true about the Moon and Earth's rotation in 20,000 years?",
+    "subject": "astronomy",
+    "choices": [
+      "The Moon will be closer to the Earth and the Earth's day will be longer.",
+      "The Moon will be closer to the Earth and the Earth's day will be shorter.",
+      "The Moon will be further from the Earth and the Earth's day will be longer.",
+      "The Moon will be further from the Earth and the Earth's day will be shorter."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which element dominates the composition of Jovian planets?",
+    "subject": "astronomy",
+    "choices": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+    "answer": 0
+  },
+  {
+    "question": "If Earth's orbit suddenly tripled in radius, how would the year length change?",
+    "subject": "astronomy",
+    "choices": [
+      "exactly 3 times longer",
+      "about 5.2 times longer",
+      "Not enough information. It will depend on the inclination of the new orbit",
+      "The length of the year wouldn't change because the Earth's mass stays the same."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which would be heaviest on the Moon?",
+    "subject": "astronomy",
+    "choices": [
+      "A kilogram of feathers",
+      "Five pounds of bricks as measured on Earth",
+      "Five kilograms of feathers",
+      "A kilogram of bricks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is the solar corona only visible during total eclipses?",
+    "subject": "astronomy",
+    "choices": [
+      "The corona is made up mostly of charged particles which aren't luminous.",
+      "It's much too cool to emit visible light",
+      "We can't see magnetic fields",
+      "It's too diffuse"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How did \"hot Jupiters\" form around other stars?",
+    "subject": "astronomy",
+    "choices": [
+      "They where formed when their stars flung material out into the system in a process similar to planetary fission.",
+      "They formed as gas giants beyond the frost line and then migrated inwards.",
+      "They formed as dense rocky planets close to the star in the same orbits that they are seen today.",
+      "They formed as gas giants close to the star in the same orbits that they are seen today."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a telescope's resolution measure?",
+    "subject": "astronomy",
+    "choices": [
+      "Ability to magnify distant objects",
+      "Ability to measure the angular separation of objects",
+      "Ability to measure the distance between objects",
+      "Light-collecting efficiency"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Earth's axial tilt relative to its orbital plane?",
+    "subject": "astronomy",
+    "choices": ["20.3 degrees", "21.4 degrees", "22.7 degrees", "23.5 degrees"],
+    "answer": 3
+  },
+  {
+    "question": "Why do we always see the same side of the Moon?",
+    "subject": "astronomy",
+    "choices": [
+      "because the Moon has a nearly circular orbit around the Earth",
+      "because the Moon does not rotate",
+      "because the other face points toward us only at new moon when we can't see the Moon",
+      "because the Moon's rotational and orbital periods are equal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which formula correctly calculates escape velocity?",
+    "subject": "astronomy",
+    "choices": [
+      "v = sqrt(GM/R)",
+      "v = 2sqrt(GM/R)",
+      "v = sqrt(2GM/R)",
+      "v = sqrt(GM/2R)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why doesn't Io have visible impact craters?",
+    "subject": "astronomy",
+    "choices": [
+      "Io did have impact craters but they have all been buried in lava flows.",
+      "It is too small to have been hit during the Late Heavy Bombardment",
+      "Jupiter's strong gravity attracted the planetesimals more strongly than Io and thus none landed on its surface.",
+      "Any craters that existed have been eroded through the strong winds on Io's surface."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which constellation is the red star Betelgeuse located?",
+    "subject": "astronomy",
+    "choices": ["Cassiopeia", "Cygnus", "Ursa Major", "Orion"],
+    "answer": 3
+  },
+  {
+    "question": "Where does meteor shower material come from?",
+    "subject": "astronomy",
+    "choices": [
+      "Asteroid impacts elsewhere in the solar system throw sand-sized particles into space and occasionally the Earth passes through a cloud of these particles which burn up in our atmosphere and cause a meteor shower.",
+      "Near-Earth asteroids gradually disintegrate and spread out along their orbital paths. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles that cause a meteor shower.",
+      "Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.",
+      "The nuclei of comets gradually disintegrate and spread out along their orbital paths. When the Earth passes through the orbit of an comet we are bombarded by sand-sized particles that cause a meteor shower."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How does the greenhouse effect function?",
+    "subject": "astronomy",
+    "choices": [
+      "Greenhouse gases absorb infrared light from the Sun which then heats the atmosphere and the surface.",
+      "Ozone transmits visible light allowing it to heat the surface but then absorbs most of the infrared heat trapping the heat near the surface.",
+      "Greenhouse gases transmit visible light allowing it to heat the surface but then absorb infrared light from Earth trapping the heat near the surface.",
+      "The higher pressure of the thick atmosphere at lower altitudes traps heat in more effectively."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which method has discovered the most massive planets near their stars?",
+    "subject": "astronomy",
+    "choices": [
+      "detecting the gravitational effect of an orbiting planet by looking for the Doppler shifts in the star's spectrum",
+      "detecting the shift of the star's position against the sky due to the planet's gravitational pull",
+      "detecting a planet ejected from a binary star system",
+      "detecting the starlight reflected off the planet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If Altair is one million times farther than Earth-Sun distance, how far is it?",
+    "subject": "astronomy",
+    "choices": [
+      "9.3 x 10^13 meters",
+      "9.3 x 10^10 meters",
+      "1.5 x 10^14 meters",
+      "1.5 x 10^17 meters"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why did Ptolemy use epicycles in his geocentric model?",
+    "subject": "astronomy",
+    "choices": [
+      "To explain why more distant planets take longer to make a circuit through the constellations of the zodiac.",
+      "To explain the fact that planets sometimes appear to move westward rather than eastward relative to the stars in our sky.",
+      "To explain why the Greeks were unable to detect stellar paralax.",
+      "To properly account for the varying distances of the planets from Earth."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How often do sunspot numbers peak (solar cycle)?",
+    "subject": "astronomy",
+    "choices": ["9", "11", "13", "15"],
+    "answer": 1
+  },
+  {
+    "question": "Which solar system planet has active plate tectonics?",
+    "subject": "astronomy",
+    "choices": ["Mars", "Venus", "Earth", "Mars and Earth"],
+    "answer": 2
+  },
+  {
+    "question": "What makes the sky appear blue?",
+    "subject": "astronomy",
+    "choices": [
+      "the Sun mainly emits blue light.",
+      "the atmosphere absorbs mostly blue light.",
+      "molecules scatter red light more effectively than blue light.",
+      "molecules scatter blue light more effectively than red light."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What conditions enable a terrestrial planet to generate a strong magnetic field?",
+    "subject": "astronomy",
+    "choices": [
+      "fast rotation only",
+      "a rocky mantle only",
+      "a molten metallic core only",
+      "both a molten metallic core and reasonably fast rotation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Where are Trojan asteroids located?",
+    "subject": "astronomy",
+    "choices": [
+      "in the center of the asteroid belt",
+      "on orbits that cross Earth's orbit",
+      "surrounding Jupiter",
+      "along Jupiter's orbit 60° ahead of and behind Jupiter"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which lists solar nebula components by mass percentage (highest to lowest)?",
+    "subject": "astronomy",
+    "choices": [
+      "hydrogen compounds (H2O CH4 NH3) light gases (H He) metals rocks",
+      "hydrogen compounds (H2O CH4 NH3) light gases (H He) rocks metals",
+      "light gases (H He) hydrogen compounds (H2O CH4 NH3) metals rocks",
+      "light gases (H He) hydrogen compounds (H2O CH4 NH3) rocks metals"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When did Galileo invent the telescope?",
+    "subject": "astronomy",
+    "choices": ["1409", "1509", "1609", "1709"],
+    "answer": 2
+  },
+  {
+    "question": "Why doesn't Mars' CO₂ atmosphere produce a strong greenhouse effect?",
+    "subject": "astronomy",
+    "choices": [
+      "Mars does not have enough internal heat to drive the greenhouse effect",
+      "Mars is too far from the sun for the greenhouse effect to work",
+      "the greenhouse effect requires an ozone layer which Mars does not have",
+      "the atmosphere on Mars is too thin to trap a significant amount of heat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When would a theory about a dual-aspect force between objects be proven correct?",
+    "subject": "astronomy",
+    "choices": [
+      "When you and many other Jedi have tested the hypothesis",
+      "Jean-Luc Skywalker drops Yoda during the day and he falls to the ground proving your theory.",
+      "You can never prove your theory to be correct only \"yet to be proven wrong.\"",
+      "After you've repeated your experiment many times"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do Uranus and Neptune have blue methane clouds unlike Jupiter and Saturn?",
+    "subject": "astronomy",
+    "choices": [
+      "Methane does not condense into ice in the warmer atmospheric temperatures of Jupiter and Saturn.",
+      "Methane did not exist in the solar nebula at the radii of Jupiter and Saturn when the planets formed.",
+      "The relatively slow rotation of Uranus and Neptune allows methane to migrate to higher levels in the atmosphere and condense into clouds.",
+      "Methane reacts with the abundant ammonia clouds in Jupiter and Saturn and is removed from the atmosphere."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "All EXCEPT which have been cited as evidence for the Giant Impact Hypothesis?",
+    "subject": "astronomy",
+    "choices": [
+      "The relative size of the Moon to the size of Earth is large compared to most planets and their moon.",
+      "Most rocks on the Moon's surface are older than those on the Earth's surface.",
+      "The Moon has a much smaller iron core than the Earth even considering its size.",
+      "The Moon was once entirely molten."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why do scientists believe Mars was once warmer and wetter?",
+    "subject": "astronomy",
+    "choices": [
+      "Mars shows evidence of significant volcanism which implies that the climate was once warmer and therefore wetter",
+      "early observations showed what appeared to be changing vegetation patterns and canals indicating the presence of water",
+      "there are many geologic features on Mars that are difficult to explain unless liquid water was once stable at the surface",
+      "all planets tend to begin with warm wet climates and gradually become cold and dry with smaller planets cooling faster than larger planets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does Jupiter produce its internal heat?",
+    "subject": "astronomy",
+    "choices": [
+      "nuclear fusion in the core",
+      "by contracting changing gravitational potential energy into thermal energy",
+      "internal friction due to its high rotation rate",
+      "chemical processes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which constellation is not along the Milky Way?",
+    "subject": "astronomy",
+    "choices": ["Perseus", "Cygnus", "Scorpius", "Leo"],
+    "answer": 3
+  },
+  {
+    "question": "What is the correct order of electromagnetic radiation from shortest to longest wavelength?",
+    "subject": "astronomy",
+    "choices": [
+      "infrared visible light ultraviolet X rays gamma rays radio",
+      "radio infrared visible light ultraviolet X rays gamma rays",
+      "gamma rays X rays visible light ultraviolet infrared radio",
+      "gamma rays X rays ultraviolet visible light infrared radio"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately how long is Pluto's orbital period?",
+    "subject": "astronomy",
+    "choices": ["150 years", "200 years", "250 years", "300 years"],
+    "answer": 2
+  },
+  {
+    "question": "Why can't humans breathe Mars' atmosphere?",
+    "subject": "astronomy",
+    "choices": ["Nitrogen", "Argon", "Methane", "CO2"],
+    "answer": 3
+  },
+  {
+    "question": "Which jovian planets have rings?",
+    "subject": "astronomy",
+    "choices": ["Neptune", "Uranus", "Saturn", "all of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which particle interacts most weakly with matter?",
+    "subject": "astronomy",
+    "choices": ["µ Muons", "Antiparticles", "ν Neutrinos", "π Pions"],
+    "answer": 2
+  },
+  {
+    "question": "Approximately how old is Venus' surface?",
+    "subject": "astronomy",
+    "choices": [
+      "750 million years.",
+      "2 billion years.",
+      "3 billion years.",
+      "4.5 billion years."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why do jovian planets appear flattened at the poles?",
+    "subject": "astronomy",
+    "choices": [
+      "Their large systems of moons and rings gravitationally attract the mass around the equator more.",
+      "They are much more massive than the terrestrial planets.",
+      "Their rapid rotation flings the mass near the equator outward.",
+      "Their internal heat sources exert a pressure against the sides of the planets."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What generates Jupiter's internal heat?",
+    "subject": "astronomy",
+    "choices": [
+      "through exothermic chemical reactions converting chemical potential energy into thermal energy",
+      "nuclear fusion",
+      "by contracting changing gravitational potential energy into thermal energy",
+      "internal friction due to its rapid rotation rate and differential rotation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How is a star's habitable zone defined?",
+    "subject": "astronomy",
+    "choices": [
+      "the region around a star where liquid water can potentially exist on planetary surfaces",
+      "the region around a star where humans can survive",
+      "the region around a star where the ultraviolet radiation does not destroy organisms on a planetary surface",
+      "the region around a star where life exists"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why are Cepheid variables important in astronomy?",
+    "subject": "astronomy",
+    "choices": [
+      "To measure interstellar mass.",
+      "To measure galactic distances.",
+      "To measure galactic energy-density.",
+      "To measure interstellar density."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does bolometric luminosity measure?",
+    "subject": "astronomy",
+    "choices": [
+      "The luminosity integrated over vertically polarized wavelengths.",
+      "The luminosity integrated over horizontally wavelengths.",
+      "The luminosity integrated over visible wavelengths.",
+      "The luminosity integrated over all wavelengths."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which radio telescope has the largest parabolic antenna?",
+    "subject": "astronomy",
+    "choices": [
+      "Green Bank Telescope",
+      "Arecibo Telescope",
+      "Yevpatoria RT-70 Telescope",
+      "Effelsberg Telescope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Sun's approximate surface temperature?",
+    "subject": "astronomy",
+    "choices": ["6000 K", "7000 K", "9000 K", "13000 K"],
+    "answer": 0
+  },
+  {
+    "question": "Which star system is second-closest to Earth after Alpha Centauri?",
+    "subject": "astronomy",
+    "choices": ["Wolf 359", "Sirius", "61 Cygni", "Barnard's Star"],
+    "answer": 3
+  },
+  {
+    "question": "How are planetary rings formed?",
+    "subject": "astronomy",
+    "choices": [
+      "From the dismantling of small moons by impacts",
+      "From fragments of planets ejected by impacts",
+      "From dust grains that escape from passing comets",
+      "From accretion within the solar nebula at the same time the planets formed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are the lunar maria?",
+    "subject": "astronomy",
+    "choices": [
+      "ancient heavily cratered highlands",
+      "dark lavas inside volcanic calderas",
+      "dark lavas filling older impact basins",
+      "the bright regions on the Moon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How far is one astronomical unit (AU)?",
+    "subject": "astronomy",
+    "choices": [
+      "130 million km",
+      "150 million km",
+      "170 million km",
+      "190 million km"
+    ],
+    "answer": 1
+  }
+]

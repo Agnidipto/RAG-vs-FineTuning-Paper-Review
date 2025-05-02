@@ -1,0 +1,168 @@
+[
+  {
+    "question": "When a blackbody is cooled to half its initial temperature, what changes occur in its emission spectrum?",
+    "subject": "astronomy",
+    "choices": [
+      "Power emitted is 1/16 times as high; peak emission wavelength is 1/2 as long.",
+      "Power emitted is 1/4 times as high; peak emission wavelength is 2 times longer.",
+      "Power emitted is 1/4 times as high; peak emission wavelength is 1/2 as long.",
+      "Power emitted is 1/16 times as high; peak emission wavelength is 2 times longer."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What fundamental process is responsible for planetary differentiation?",
+    "subject": "astronomy",
+    "choices": [
+      "Spontaneous emission from radioactive atoms.",
+      "The minimization of gravitational potential energy.",
+      "Thermally induced collisions.",
+      "Plate tectonics."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What geological process formed the dark lunar maria visible on the Moon's surface?",
+    "subject": "astronomy",
+    "choices": [
+      "The giant impact that created the Moon left smooth areas that we call the maria.",
+      "Volatiles escaping from the Moon's interior heated and eroded the surface in the regions of the maria.",
+      "The early bombardment created heat that melted the lunar surface in the regions of the maria.",
+      "Large impacts fractured the Moon's lithosphere allowing lava to fill the impact basins."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What explains Venus's lack of seasonal variations compared to Earth and Mars?",
+    "subject": "astronomy",
+    "choices": [
+      "Its rotation axis is nearly perpendicular to the plane of the Solar System.",
+      "It does not have an ozone layer.",
+      "It does not rotate fast enough.",
+      "It is too close to the Sun."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Saturn's rings have a mass of 2×10¹⁹ kg. How does this compare to a 200 km diameter ice moon (density ~1 g/cm³)? What is M_rings : M_icy_moon?",
+    "subject": "astronomy",
+    "choices": ["1 : 1", "50 : 1", "5 : 1", "0.5 : 1"],
+    "answer": 2
+  },
+  {
+    "question": "Which atmospheric loss mechanism is NOT responsible for Mercury's lack of a permanent atmosphere?",
+    "subject": "astronomy",
+    "choices": [
+      "Impact Heating",
+      "Volcanic Heating",
+      "Ablation by the solar wind",
+      "Thermal Escape"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which characteristic of our solar system is NOT required to be explained by planetary formation theories?",
+    "subject": "astronomy",
+    "choices": [
+      "patterns of motion",
+      "the presence of asteroids and comets",
+      "the measured ages of meteorites",
+      "the presence of life on Earth"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What are the current operational challenges facing the Mars Exploration Rovers?",
+    "subject": "astronomy",
+    "choices": [
+      "Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit's instruments are being corroded by the acidic hot spring environment it is exploring.",
+      "Opportunity may not be able to move its arm again; Spirit may not be able to drive out of Victoria Crater due to its broken sixth wheel.",
+      "Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit may not get enough solar power during the winter months immediately ahead.",
+      "Opportunity may not be able to move its arm again; Spirit may not get enough solar power during the winter months immediately ahead."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why do smaller planets lose internal heat more rapidly than larger planets? (This is analogous to what common thermal phenomenon?)",
+    "subject": "astronomy",
+    "choices": [
+      "a large baked potato takes longer to cool than a small baked potato",
+      "Earth contains more metal than the Moon",
+      "thunderstorms tend to form on hot summer days",
+      "gas bubbles form and rise upward in boiling water"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If the Moon is observed setting at noon, what must its current phase be?",
+    "subject": "astronomy",
+    "choices": [
+      "third quarter.",
+      "waning crescent.",
+      "waxing crescent.",
+      "full."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In astronomical terms, how is a perfect blackbody defined?",
+    "subject": "astronomy",
+    "choices": [
+      "An idealized physical object that reflects all electromagnetic radiation.",
+      "An idealized physical object that absorbs all electromagnetic radiation.",
+      "An idealized physical object that reflects all polarized radiation.",
+      "An idealized physical object that absorbs all polarized radiation."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What planetary conditions create the Coriolis effect observed in atmospheric and oceanic circulation?",
+    "subject": "astronomy",
+    "choices": [
+      "they are rotating and spherical so different latitudes rotate at different speeds (meters/second)",
+      "their surfaces rotate at the same speed (meters/second) at all latitudes",
+      "they rotate and have magnetic fields",
+      "the solar wind interacts with their magnetospheres"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "At an altitude of approximately 410 km, what is the best estimate for the International Space Station's orbital velocity?",
+    "subject": "astronomy",
+    "choices": ["19000 km/h", "21000 km/h", "28000 km/h", "32000 km/h"],
+    "answer": 2
+  },
+  {
+    "question": "Which of these events presents the lowest statistical risk of fatality?",
+    "subject": "astronomy",
+    "choices": [
+      "Being hit in the head by a bullet.",
+      "Being hit by a small meteorite.",
+      "Starvation during global winter caused by a major impact.",
+      "Driving while intoxicated without wearing seatbelts."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What technological method has enabled scientists to create detailed surface maps of Venus despite its thick cloud cover?",
+    "subject": "astronomy",
+    "choices": [
+      "by studying Venus from Earth with powerful optical telescopes",
+      "by landing spacecraft on the surface for close-up study",
+      "by studying Venus with powerful optical telescopes on spacecraft that were sent to orbit Venus",
+      "by using radar from spacecraft that were sent to orbit Venus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In what direction does a comet's tail always orient itself relative to the Sun?",
+    "subject": "astronomy",
+    "choices": [
+      "away from the Sun",
+      "towards the Sun",
+      "in the direction of movement",
+      "against the direction of movement"
+    ],
+    "answer": 0
+  }
+]
